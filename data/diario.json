@@ -4,6 +4,84 @@
  "entradas": [
   {
    "fecha": "2026-10-06",
+   "titulo": "El Supremo aplaza hasta el jueves su decisión sobre el voto de los 'nietos'",
+   "que": "La Sala de lo Contencioso del Supremo da 48 horas 'improrrogables' (hasta las 15:00 del jueves 8) para que las partes aleguen antes de decidir sobre el recurso de la Abogacía del Estado contra la suspensión cautelar de las inscripciones en el CERA de los nacionalizados por la 'ley de nietos' (unos 400.000 beneficiarios, según la estimación citada). Mientras tanto, la suspensión cautelar sigue. Vox pide ampliarla a los descendientes de exiliados.",
+   "lectura": "Decide cuántos votantes del exterior pueden votar el 29-N; el efecto en escaños no está medido. Nivel B.",
+   "actores": [
+    {
+     "id": "VOX",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/supremo-aplaza-su-decision-sobre-voto-los-400-000-nacionalizados-con-ley-nietos-las-elecciones-29-n_7045576_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "El PNV votará a favor del decreto principal de vivienda y en contra del de alquileres",
+   "que": "El PNV ha anunciado que en la Diputación Permanente apoyará el primer decreto de vivienda (el que protege a pequeños propietarios e inquilinos y limita compras de vivienda) y votará en contra del segundo, el de prórroga indefinida de alquileres, como el pasado viernes en el Pleno. Dice que las medidas son 'un parche'.",
+   "lectura": "Con su voto, el primer decreto puede convalidarse; el de alquileres, no tiene asegurada la mayoría. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 1
+    },
+    {
+     "id": "PNV",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/pnv-votara-favor-primer-decreto-vivienda-contra-segundo-prorroga-indefinida-alquileres_7045628_0.html",
+    "https://elpais.com/espana/2026-10-06/el-pnv-volvera-a-apoyar-el-decreto-principal-de-vivienda.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "Podemos abre la puerta a una lista única con el Frente Amplio, ratificada en primarias",
+   "que": "Podemos se muestra por primera vez abierto a pactar con el Frente Amplio el reparto de candidaturas, siempre que la ciudadanía las avale en un proceso abierto. El Frente Amplio sigue negociando el nombre de su líder y dice no querer 'un debate en los medios'. El registro de coaliciones cierra el 16 de octubre.",
+   "lectura": "Acerca posturas, pero quedan diez días y sin acuerdo sobre el método. Nivel C.",
+   "actores": [
+    {
+     "id": "PODEMOS",
+     "impacto": 0
+    },
+    {
+     "id": "SUMAR",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.eldiario.es/politica/abre-puerta-pactar-lista-unica-frente-amplio-despues-ratificarla-primarias_1_13566962.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "El PP denuncia a Sánchez ante la Junta Electoral por su comparecencia en la Moncloa",
+   "que": "El PP ha pedido a la Junta Electoral Central que abra un expediente sancionador a Sánchez por usar la Moncloa para 'dar un mitin del PSOE' tras el Consejo de Ministros, y que retire el material de la web de la Moncloa. Es una denuncia de parte: la JEC no ha resuelto.",
+   "lectura": "Primer choque ante la JEC de la precampaña. Sin resolución, no hay infracción declarada. Nivel B.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/pp-denuncia-ante-junta-electoral-mitin-sanchez-tras-consejo-ministros_7045675_0.html",
+    "https://www.europapress.es/nacional/noticia-pp-pide-junta-electoral-sancione-sanchez-utilizar-moncloa-dar-mitin-psoe-20261006183024.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
    "titulo": "El Constitucional avala amnistiar la malversación del 'procés'; el Supremo levantará la orden contra Puigdemont",
    "que": "El Tribunal Constitucional ha avalado aplicar la amnistía al delito de malversación de dirigentes del 'procés' y ha ordenado al Tribunal Supremo aplicarla; el Supremo dejará sin efecto la orden de detención contra Puigdemont cuando reciba la sentencia. Sánchez lo defiende como 'convivencia entre catalanes'; Feijóo acata la decisión pero la llama 'otro engaño más' y pide castigarlo en las urnas.",
    "lectura": "Da a Sánchez un argumento de 'convivencia' y a Feijóo uno de movilización contra la amnistía, el mismo día de la disolución. Para Junts es un logro, pero la política de pactos con el PSOE queda abierta tras el 29-N. Nivel B (declaraciones y fallo según prensa; sentencia pendiente de leer).",

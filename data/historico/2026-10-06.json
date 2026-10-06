@@ -161,8 +161,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 22,
-  "ultimo": "El Constitucional avala amnistiar la malversación del 'procés'; el Supremo levantará la orden contra Puigdemont"
+  "n": 26,
+  "ultimo": "El Supremo aplaza hasta el jueves su decisión sobre el voto de los 'nietos'"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -184,7 +184,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "8 movimientos nuevos en el diario. Último: El Constitucional avala amnistiar la malversación del 'procés'; el Supremo levantará la orden contra Puigdemont."
+   "texto": "12 movimientos nuevos en el diario. Último: El Supremo aplaza hasta el jueves su decisión sobre el voto de los 'nietos'."
   }
  ]
 }
