@@ -22,3 +22,6 @@ body:
       description: Mejor si es oficial (BOE, INE, sentencia, organismo independiente)
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: "Esta incidencia es pública. No incluyas datos personales de nadie (tampoco los tuyos) ni acusaciones sin fuente: se ocultarán. Si te afecta personalmente o prefieres no hacerlo en público, escribe a hola@brujula29n.com."

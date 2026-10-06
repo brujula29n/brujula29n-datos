@@ -33,4 +33,6 @@ Abre una [incidencia](../../issues/new/choose) con el dato, dónde aparece y **l
 
 ## Licencia
 
-Datos y textos: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). Código de `motor/`: MIT. Si usas un dato, cita su fuente original (está en cada registro), no esta web.
+La elaboración propia (medias, proyecciones, fichas, lecturas y textos): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). Código de `motor/`: MIT. Los datos y textos de terceros (encuestas, estadísticas oficiales, noticias) son de sus autores y se citan con su fuente; si usas uno, cita la fuente original (está en cada registro).
+
+Aviso legal y privacidad: [brujula29n.com/legal](https://brujula29n.com/legal/).
