@@ -161,8 +161,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 15,
-  "ultimo": "El BOE publica el decreto: Madrid gana un escaño y Cádiz lo pierde"
+  "n": 17,
+  "ultimo": "El Constitucional avala amnistiar la malversación del 'procés'; el Supremo levantará la orden contra Puigdemont"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -184,7 +184,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "1 movimiento nuevo en el diario. Último: El BOE publica el decreto: Madrid gana un escaño y Cádiz lo pierde."
+   "texto": "3 movimientos nuevos en el diario. Último: El Constitucional avala amnistiar la malversación del 'procés'; el Supremo levantará la orden contra Puigdemont."
   }
  ]
 }

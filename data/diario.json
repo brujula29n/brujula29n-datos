@@ -4,6 +4,50 @@
  "entradas": [
   {
    "fecha": "2026-10-06",
+   "titulo": "El Constitucional avala amnistiar la malversación del 'procés'; el Supremo levantará la orden contra Puigdemont",
+   "que": "El Tribunal Constitucional ha avalado aplicar la amnistía al delito de malversación de dirigentes del 'procés' y ha ordenado al Tribunal Supremo aplicarla; el Supremo dejará sin efecto la orden de detención contra Puigdemont cuando reciba la sentencia. Sánchez lo defiende como 'convivencia entre catalanes'; Feijóo acata la decisión pero la llama 'otro engaño más' y pide castigarlo en las urnas.",
+   "lectura": "Da a Sánchez un argumento de 'convivencia' y a Feijóo uno de movilización contra la amnistía, el mismo día de la disolución. Para Junts es un logro, pero la política de pactos con el PSOE queda abierta tras el 29-N. Nivel B (declaraciones y fallo según prensa; sentencia pendiente de leer).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    },
+    {
+     "id": "JUNTS",
+     "impacto": 1
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-sanchez-aval-amnistia-regreso-puigdemont-importante-convivencia-catalanes-20261006132700.html",
+    "https://www.europapress.es/nacional/noticia-feijoo-ve-amnistia-otro-engano-mas-sanchez-vender-favores-cambio-poder-debe-castigarse-urnas-20261006141229.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "El PP pide a la Audiencia Nacional que impute al PSOE en el caso Leire Díez",
+   "que": "El PP ha solicitado al juez de la Audiencia Nacional que cite al PSOE como investigado en la causa sobre Leire Díez. Es una petición de parte: el juez no ha decidido y el PSOE no está imputado.",
+   "lectura": "Lleva la causa a la precampaña. Hasta que el juez decida, es una acusación de parte, sin efecto jurídico. Nivel B.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.eldiario.es/politica/pp-pide-audiencia-nacional-imputacion-psoe-caso-leire-diez_1_13565841.html",
+    "https://www.20minutos.es/nacional/pp-pide-juez-imputacion-psoe-causa-las-cloacas-por-cinco-delitos-corrupcion_7045442_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
    "titulo": "El BOE publica el decreto: Madrid gana un escaño y Cádiz lo pierde",
    "que": "Disolución de las Cortes y elecciones el 29-N, con 350 diputados. Según el anexo del Real Decreto 806/2026, de 5 de octubre (BOE-A-2026-20742), Madrid elige 38 diputados (uno más que en 2023) y Cádiz 8 (uno menos); las otras 50 circunscripciones no cambian. Parte de la prensa publicó que cambiaban cuatro escaños; el texto del BOE no lo confirma.",
    "lectura": "Efecto mínimo: un escaño pasa de Cádiz a Madrid. Con los votos de 2023 no cambia el orden de los bloques. Nivel C.",
