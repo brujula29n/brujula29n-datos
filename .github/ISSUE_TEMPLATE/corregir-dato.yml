@@ -1,0 +1,24 @@
+name: Corregir un dato
+description: Un dato de la web es incorrecto o está desactualizado
+labels: [correccion]
+body:
+  - type: input
+    id: donde
+    attributes:
+      label: ¿Dónde aparece?
+      description: Sección de la web o fichero de data/ (por ejemplo, Partidos → PP, o data/encuestas.json)
+    validations:
+      required: true
+  - type: textarea
+    id: dato
+    attributes:
+      label: ¿Qué dice y qué debería decir?
+    validations:
+      required: true
+  - type: input
+    id: fuente
+    attributes:
+      label: Fuente que lo corrige (URL)
+      description: Mejor si es oficial (BOE, INE, sentencia, organismo independiente)
+    validations:
+      required: true

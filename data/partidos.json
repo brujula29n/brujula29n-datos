@@ -1,0 +1,200 @@
+{
+  "actualizado": "2026-10-05",
+  "regla": "Nadie está condenado hasta que hay sentencia. 'Investigado' o 'procesado' no es 'culpable'. Cada hecho lleva nivel de evidencia: A = sentencia, dato oficial u organismo independiente; B = coincidente en varios medios; C = acusación de rival, un solo medio o dato no contrastado.",
+  "partidos": [
+    {
+      "id": "PSOE", "nombre": "PSOE", "color": "#E4312B", "lider": "Pedro Sánchez", "bloque": "izquierda", "esc2023": 121,
+      "resumen": "Gobierna desde 2018. Buenos datos macro y sociales; legislatura sin presupuestos, récord de decretos y un entorno judicial muy cargado.",
+      "bien": [
+        {"t": "Crecimiento por encima de la zona euro: PIB +2,8 % en 2025 y +2,7 % interanual en el 2T de 2026; 24 trimestres seguidos creciendo.", "ev": "A", "src": ["https://www.hacienda.gob.es/es-ES/Prensa/Noticias/Paginas/2026/20260331-NP-CIERRE-DEFICIT.aspx"]},
+        {"t": "Paro por debajo del 10 % (9,87 %) por primera vez desde 2008; 22,78 millones de ocupados, máximo histórico.", "ev": "A", "src": ["https://www.ine.es/dyngs/Prensa/EPA2T26.htm"]},
+        {"t": "Déficit del 2,2 % en 2025, el más bajo desde 2007, con superávit primario; deuda bajando al 101,4 % del PIB.", "ev": "A", "src": ["https://www.hacienda.gob.es/es-ES/Prensa/Noticias/Paginas/2026/20260331-NP-CIERRE-DEFICIT.aspx", "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/notas-banco-espana/la-deuda-de-las-administraciones-publicas-se-situo-en-el-1014-del-pib-en-junio-de-2026-18-pp-menos-que-hace-un-ano.html"]},
+        {"t": "Pobreza (AROPE) en mínimo de una década: 25,7 % en 2025. SMI de 736 € (2018) a 1.221 € (2026); pensiones revalorizadas con el IPC.", "ev": "A", "src": ["https://www.ine.es/dyngs/Prensa/ECV2025.htm", "https://www.iberley.es/noticias/publicado-salario-minimo-interprofesional-2026-36093"]},
+        {"t": "Renovación del CGPJ en junio de 2024 (pactada con el PP) tras cinco años y medio de bloqueo.", "ev": "A", "src": ["https://maldita.es/malditateexplica/20240625/renovacion-cgpj-claves-gobierno-psoe-pp/"]},
+        {"t": "La ley de amnistía ha superado el Tribunal Constitucional (6-4, junio 2025) y el TJUE (Gran Sala, julio 2026). Aval jurídico; el debate político sigue abierto.", "ev": "A", "src": ["https://www.publico.es/politica/tribunales/sentencia-tjue-sobre-ley-amnistia-puigdemont-directo.html"]},
+        {"t": "Criminalidad convencional en niveles 'históricamente bajos' según Interior (40,5 por mil habitantes, 1S 2026).", "ev": "A", "src": ["https://www.cordobabn.com/nacional/criminalidad-espana-sube-05-junio-2026-aumento-delitos-sexuales-rinas-trafico-drogas/20260917155447267986.html"]}
+      ],
+      "regular": [
+        {"t": "Vivienda: tres años después de la Ley 12/2023 el alquiler ha subido un 30 % y la oferta ha caído un 30 % (dato de Idealista, portal privado con interés en el debate). Los decretos de octubre de 2026 llegaron en el último mes de legislatura y fueron derogados.", "ev": "B", "src": ["https://www.idealista.com/sala-de-prensa/notas-de-prensa/2026/05/22/261065-tres-anos-de-ley-de-vivienda-el-alquiler-se-encarece-la-oferta-cae-y-la"]},
+        {"t": "Inflación de vuelta al 4,9 % en septiembre de 2026 por los carburantes (guerra de Irán). Causa externa, pero obliga a escudos anticrisis sucesivos.", "ev": "A", "src": ["https://www.ine.es/dyngs/Prensa/adIPC0926.htm"]},
+        {"t": "Defensa: la OTAN computa el 2,0 % del PIB en 2025, a la cola de la Alianza; España es el único aliado que rechazó el objetivo del 5 % para 2035. Trump ha pedido su expulsión y amenazado con cortar el comercio.", "ev": "B", "src": ["https://theobjective.com/espana/politica/2026-03-26/otan-espana-gasto-defensa/", "https://www.infobae.com/espana/2026/03/04/todas-las-veces-que-trump-ha-amenazado-a-espana-de-los-reproches-por-el-gasto-en-defensa-a-plantear-su-expulsion-de-la-otan/"]},
+        {"t": "Apagón del 28-4-2025: ningún informe independiente culpa directamente al Gobierno, pero la CNMC abrió 56 expedientes a Red Eléctrica (participada por el Estado, con presidenta nombrada por el Gobierno) e Iberdrola.", "ev": "A", "src": ["https://www.elindependiente.com/economia/2026/04/28/guerra-informes-responsabilidades-apagon-28-abril/"]},
+        {"t": "Nuclear: prorrogó Almaraz hasta 2030 (agosto 2026) tras años defendiendo su cierre. Giro pragmático o rectificación, según quién lo cuente.", "ev": "A", "src": ["https://www.infobae.com/espana/2026/08/14/almaraz-seguira-operativa-hasta-junio-de-2030-el-gobierno-retrasa-el-cierre-de-la-central-nuclear/"]},
+        {"t": "Jornada de 37,5 horas, ley del suelo, ley de lobbies, condonación de deuda autonómica y financiación singular: anunciadas y no legisladas.", "ev": "A", "src": ["https://www.eleconomista.es/economia/noticias/13538757/09/25/diaz-insistira-para-conseguir-la-reduccion-de-jornada-pero-no-concreta-plazos-para-aprobarla.html", "https://www.que.es/2026/09/18/condonacion-deuda-autonomica-congreso-2/"]}
+      ],
+      "mal": [
+        {"t": "Caso mascarillas: el exministro Ábalos condenado por el Supremo a 24 años y 3 meses (junio 2026), la pena más alta a un exministro en democracia; Koldo García a 19 años y 8 meses.", "ev": "A", "src": ["https://www.infobae.com/espana/2026/06/22/el-supremo-condena-a-abalos-a-24-anos-de-carcel-por-mordidas-en-contratos-de-mascarillas-y-contratacion-irregular/"]},
+        {"t": "Santos Cerdán, ex número 3 del partido, pasó 142 días en prisión provisional por amaños de obra pública; piezas de obra y de financiación del PSOE abiertas en la Audiencia Nacional (sin juicio). Registro de Ferraz en mayo de 2026 por el caso Leire Díez.", "ev": "B", "src": ["https://theobjective.com/espana/tribunales/2025-11-19/santos-cerdan-soto-real-cinco-meses-prision/", "https://www.infobae.com/espana/2026/06/03/ultima-hora-del-sumario-del-caso-leire-diez-claves-del-escrito-del-juez-pedraz-y-primeras-reacciones-del-psoe-los-socios-y-la-oposicion/"]},
+        {"t": "El fiscal general del Estado, García Ortiz, condenado por el Supremo (nov. 2025) por revelación de secretos: primera vez en democracia. El Gobierno lo mantuvo y defendió hasta la condena.", "ev": "A", "src": ["https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-notifica-la-sentencia-que-condena-por-revelacion-de-datos-reservados-al-fiscal-general-del-Estado-"]},
+        {"t": "Entorno familiar: el hermano del presidente condenado a 9 años de inhabilitación por prevaricación (julio 2026); Begoña Gómez irá a juicio con jurado por tráfico de influencias y malversación (la Fiscalía pide su absolución). Zapatero imputado en Plus Ultra.", "ev": "A", "src": ["https://www.newtral.es/claves-sentencia-david-sanchez/20260714/", "https://www.infobae.com/espana/2026/09/21/el-juez-peinado-envia-a-begona-gomez-a-juicio-ante-un-jurado-popular-en-la-audiencia-provincial-de-madrid-por-malversacion-y-trafico-de-influencias/"]},
+        {"t": "Primera legislatura de la democracia sin aprobar unos Presupuestos (los de 2023 se prorrogaron tres veces); 32 leyes en tres años y 11 decretos-ley derogados, récord.", "ev": "B", "src": ["https://electomania.es/radiografia-del-decreto-ley-en-espana-747-aprobados-16-rechazados-13-en-el-ultimo-gobierno/", "https://es.euronews.com/2026/09/27/espana-cumple-1000-dias-sin-nuevos-presupuestos-es-un-hurto-a-los-ciudadanos"]},
+        {"t": "Crisis de Ceuta (30 julio-1 agosto 2026): más de 60.000 entradas en 48 horas, 67 muertos; Italia suspendió Schengen con España. La oposición calificó el despliegue de tardío.", "ev": "B", "src": ["https://www.infobae.com/espana/2026/08/02/la-crisis-de-ceuta-en-cinco-claves-de-las-falsas-promesas-de-asilo-a-la-avalancha-de-60000-personas-y-el-papel-de-marruecos/"]},
+        {"t": "Reforma de RTVE por decreto-ley (2024) rebajando las mayorías para elegir el Consejo; la Comisión Europea sitúa a RTVE en riesgo 'medio-alto' de independencia (2026). El CIS ha sobreestimado a la izquierda en 41 de 42 elecciones desde 2018.", "ev": "A", "src": ["https://civio.es/el-boe-nuestro-de-cada-dia/2024/10/23/el-gobierno-reforma-la-ley-de-rtve-para-rebajar-las-mayorias-para-la-eleccion-de-sus-consejeros-que-pasan-de-10-a-15/", "https://maldita.es/malditateexplica/20250613/errores-encuestas-cis-tezanos/"]}
+      ],
+      "propuestas": ["Mayoría 'más amplia y progresista' para 'doblegar a las élites'", "Vivienda como eje: escudo antidesahucios hasta 2030, prórroga automática de alquileres, congelación de rentas, veto a fondos, aval del 100 % para primera vivienda", "IVA del 10 % a pisos turísticos y más IBI/IRPF a vivienda vacía", "Mantener el escudo social y la agenda renovable"],
+      "incertidumbre": "Qué saldrá de la pieza de financiación del PSOE en la Audiencia Nacional y del recurso de García Ortiz en el TC. Sin programa publicado a 5 de octubre."
+    },
+    {
+      "id": "PP", "nombre": "Partido Popular", "color": "#1D84C4", "lider": "Alberto Núñez Feijóo", "bloque": "derecha", "esc2023": 137,
+      "resumen": "Favorito en todas las encuestas privadas. Ha ganado las cuatro autonómicas de 2025-26, pero depende de Vox y arrastra la DANA.",
+      "bien": [
+        {"t": "Ganó las cuatro elecciones autonómicas de 2025-2026 (Extremadura, Aragón, Castilla y León, Andalucía).", "ev": "A", "src": ["https://en.wikipedia.org/wiki/2026_Spanish_regional_elections"]},
+        {"t": "Desbloqueó el CGPJ en junio de 2024 pactando con el PSOE, con mediación de la Comisión Europea.", "ev": "A", "src": ["https://maldita.es/malditateexplica/20240625/renovacion-cgpj-claves-gobierno-psoe-pp/"]},
+        {"t": "Residencias en pandemia (Madrid): 144 archivos judiciales de denuncias; la Audiencia de Madrid no apreció 'intención discriminatoria'.", "ev": "A", "src": ["https://www.eldebate.com/espana/madrid/20260921/gobierno-ayuso-suma-144-archivos-judiciales-denuncias-sobre-gestion-residencias-pandemia_460936.html"]},
+        {"t": "Cohesión interna: Feijóo reelegido con el 99,2 % en julio de 2025. Sacó adelante en el Congreso iniciativas propias sobre ocupación y parte de su decálogo migratorio.", "ev": "B", "src": ["https://en.wikipedia.org/wiki/2025_PP_national_party_congress", "https://www.elespanol.com/espana/politica/20251028/pinza-psoe-vox-congreso-impide-aprobar-puntos-clave-decalogo-feijoo-inmigracion/1003743990155_0.html"]}
+      ],
+      "regular": [
+        {"t": "Votó contra la jornada de 37,5 h, el embargo de armas a Israel, los decretos de vivienda y la condonación de deuda autonómica que beneficiaría a comunidades que gobierna (Andalucía, 18.791 M€).", "ev": "A", "src": ["https://www.que.es/2026/09/18/condonacion-deuda-autonomica-congreso-2/"]},
+        {"t": "Vuelve a pactar con Vox en cuatro comunidades en 2026 asumiendo la 'prioridad nacional'; en Andalucía Vox entra por primera vez en el Gobierno. Gobernabilidad para unos, asunción de la agenda de Vox para otros.", "ev": "A", "src": ["https://www.eldiario.es/andalucia/juanma-moreno-firmar-pacto-gobierno-vox-prioridad-nacional-existe-administracion_1_13352085.html"]},
+        {"t": "Cribados de cáncer de mama en Andalucía: fallos revelados en 2025, dimisión de la consejera; la Junta contrató 705 profesionales. La cifra de afectadas no está cerrada.", "ev": "B", "src": ["https://diariofarma.com/2025/10/09/dimite-la-consejera-andaluza-de-salud-por-el-escandalo-en-los-cribados-de-cancer"]},
+        {"t": "Amnistía: su recurso fue rechazado por el TC y el TJUE avaló la ley. Políticamente coherente, jurídicamente derrotado; derogarla no deshace amnistías ya aplicadas.", "ev": "A", "src": ["https://www.publico.es/politica/tribunales/sentencia-tjue-sobre-ley-amnistia-puigdemont-directo.html"]}
+      ],
+      "mal": [
+        {"t": "DANA de Valencia (229 muertos): Mazón dimitió un año después; instrucción prorrogada hasta abril de 2027 con la exconsejera Pradas imputada. El TSJ rechazó imputar a Mazón, que sigue aforado.", "ev": "A", "src": ["https://www.moncloa.com/2026/09/17/causa-dana-2027-aforamiento-mazon-pp-3433052/"]},
+        {"t": "Bloqueó el CGPJ durante cinco años y siete meses (2018-2024), señalado por la Comisión Europea en todos sus informes del Estado de Derecho de ese periodo. Ahora retrasa la renovación del TC (cuatro mandatos caducados desde marzo de 2026).", "ev": "A", "src": ["https://es.wikipedia.org/wiki/Bloqueo_del_Consejo_General_del_Poder_Judicial", "https://www.moncloa.com/2026/10/02/renovacion-tribunal-constitucional-bloqueo-pp-3441711"]},
+        {"t": "Caso Montoro (28 investigados por reformas fiscales a medida desde Hacienda 2011-2018) y caso mascarillas de Almería, en instrucción. Sin juicio.", "ev": "B", "src": ["https://www.infobae.com/espana/2026/04/28/el-caso-montoro-se-activa-con-las-primeras-declaraciones-de-investigados-entre-los-que-todavia-no-figura-el-exministro/"]},
+        {"t": "Pareja de Ayuso: juicio oral abierto por dos delitos fiscales y falsedad (Fiscalía pide 3 años y 9 meses). No es cargo público, pero el jefe de gabinete de la presidenta intervino en la gestión mediática.", "ev": "A", "src": ["https://www.publico.es/politica/tribunales/juicio-delito-fiscal-novio-ayuso-lleva-diez-meses-espera-fecha-certeza-celebre-elecciones-autonomicas.html"]},
+        {"t": "Ayuso pidió 'que a nadie se le ocurra votar por correo' (5-10-2026), sembrando desconfianza sin aportar pruebas de fraude.", "ev": "C", "src": ["https://vozpopuli.com/espana/adelanto-electoral-de-sanchez-en-directo-el-presidente-comparece-para-desvelar-si-adelanta-las-elecciones-tras-la-crisis-de-la-vivienda.html"]}
+      ],
+      "propuestas": ["Un millón de viviendas en una legislatura, ley del suelo, IVA del 4 % para jóvenes en primera vivienda, avales del 100 %", "'Plan Prepara': bonificación del IRPF los cuatro primeros años de trabajo", "Visado por puntos, expulsión de quien delinca, revisión de la regularización extraordinaria", "Elección del CGPJ por los jueces y fiscal general independiente", "Derogar la ley de amnistía; cumplir con la OTAN"],
+      "incertidumbre": "Si Mazón pierde el aforamiento o el juicio del novio de Ayuso llega antes de mayo de 2027. Hasta dónde cederá ante Vox para gobernar."
+    },
+    {
+      "id": "VOX", "nombre": "Vox", "color": "#63BE21", "lider": "Santiago Abascal", "bloque": "derecha", "esc2023": 33,
+      "resumen": "Duplica escaños en las encuestas y ya está en gobiernos autonómicos. Su financiación con un banco húngaro y el discurso de 'remigración' son sus flancos.",
+      "bien": [
+        {"t": "De 33 escaños (2023) a 58-69 en las encuestas; subió en todas las autonómicas de 2025-26 y entró en los gobiernos de Andalucía y Castilla y León.", "ev": "A", "src": ["https://en.wikipedia.org/wiki/2026_Spanish_regional_elections"]},
+        {"t": "Capacidad de imponer agenda: la 'prioridad nacional' figura en los cuatro pactos autonómicos de 2026.", "ev": "A", "src": ["https://www.moncloa.com/2026/07/04/vox-regreso-gobiernos-pp-prioridad-nacional-3394523/"]},
+        {"t": "Sus informes sobre delincuencia y extranjería usan datos oficiales de Interior/INE (sobrerrepresentación en términos brutos); la lectura causal la discuten los criminólogos.", "ev": "B", "src": ["https://theobjective.com/espana/politica/2026-07-27/vox-discurso-seguridad-inmigracion-elecciones-generales/"]}
+      ],
+      "regular": [
+        {"t": "Rompió todos los gobiernos con el PP en julio de 2024 por el reparto de 347 menores migrantes y volvió en 2026: apenas un año de gestión en cada etapa, difícil de evaluar.", "ev": "A", "src": ["https://es.euronews.com/2024/07/11/vox-rompe-con-el-pp-en-todos-los-gobierno-autonomicos"]},
+        {"t": "Cogobierna la Generalitat valenciana antes y después de la DANA y votó la investidura de Pérez Llorca; comparte la responsabilidad política de la reconstrucción.", "ev": "A", "src": ["https://www.moncloa.com/2026/09/17/causa-dana-2027-aforamiento-mazon-pp-3433052/"]},
+        {"t": "'Pinza' con el PSOE para tumbar cuatro puntos del decálogo migratorio del PP (octubre 2025): coherente con su rechazo a cualquier vía ordenada, contradictorio con el 'bloque de la derecha'.", "ev": "B", "src": ["https://www.elespanol.com/espana/politica/20251028/pinza-psoe-vox-congreso-impide-aprobar-puntos-clave-decalogo-feijoo-inmigracion/1003743990155_0.html"]}
+      ],
+      "mal": [
+        {"t": "Préstamos de 6,5 y 7 M€ del banco húngaro MBH (entorno de Orbán) al 11 %, con el nombre del banco omitido en las cuentas de 2023; el Tribunal de Cuentas denunció la falta de colaboración de MBH. No consta causa penal.", "ev": "A", "src": ["https://www.eldiario.es/politica/tribunal-cuentas-denuncia-falta-colaboracion-banco-hungaro-mbh-prestamo-6-5-millones-vox_1_12174490.html", "https://theobjective.com/espana/politica/2025-03-31/hungaro-vox-tribunal-cuentas/"]},
+        {"t": "Propone 'remigración' de quien 'no trabaje y viva de subsidios' (sept. 2026): expulsar a residentes legales o nacionalizados chocaría con la Constitución y el Derecho de la UE. La cifra de 'cinco millones en cinco años' no cuadra con el INE.", "ev": "C", "src": ["https://www.infobae.com/espana/agencias/2026/09/14/abascal-plantea-procesos-de-repatriaciones-de-inmigrantes-que-delincan-y-de-remigracion-para-los-que-no-trabajan/"]},
+        {"t": "Votó contra el embargo de armas a Israel, la jornada de 37,5 h y los decretos de vivienda (el escudo antidesahucios contaba con apoyo de más de la mitad de sus votantes, según eldiario.es).", "ev": "A", "src": ["https://www.eldiario.es/economia/nuevo-decreto-vivienda-aprobado-gobierno_1_13546389.html"]},
+        {"t": "Habla de 'elecciones limpias' y 'riesgo de manipulación electoral' sin aportar pruebas; España tiene una JEC independiente y alternancias pacíficas en 2011, 2018 y 2023.", "ev": "C", "src": ["https://www.diariodeleon.es/nacional/261005/2099326/elecciones-generales-2026-directo-todas-reacciones-adelanto-pedro-sanchez.html"]}
+      ],
+      "propuestas": ["Remigración y prioridad nacional en ayudas, vivienda pública y empleo público", "Cierre de fronteras y repatriación de quien delinca; derogar la regularización", "Rechazo a la Agenda 2030 y al Pacto Verde; nuclear", "Bajada de impuestos; fin de subvenciones a sindicatos y patronal", "Alianza con Meloni, Orbán y Trump"],
+      "incertidumbre": "Qué gestión real hará en Andalucía y Castilla y León, y a qué precio entraría en un Gobierno central."
+    },
+    {
+      "id": "SUMAR", "nombre": "Sumar / Frente Amplio", "color": "#E5255C", "lider": "Sin decidir (17 de octubre)", "bloque": "izquierda", "esc2023": 31,
+      "resumen": "Buen balance en el Ministerio de Trabajo y hundimiento electoral: de 31 escaños a 5-10, sin líder y con Podemos fuera.",
+      "bien": [
+        {"t": "Ministerio de Trabajo: temporalidad del 25,6 % (2021) al 15 % tras la reforma laboral; indefinidos del 72 % al 81 %; SMI +66 % desde 2018.", "ev": "B", "src": ["https://www.publico.es/politica/datos-avalan-reforma-laboral-yolanda-diaz-ano-despues-entrada-vigor.html"]},
+        {"t": "Empujó el embargo de armas a Israel (en vigor desde septiembre 2025) y las medidas de vivienda de los decretos de 2026.", "ev": "A", "src": ["https://www.infobae.com/espana/2025/10/08/el-congreso-convalida-el-decreto-del-embargo-de-armas-a-israel-con-el-apoyo-de-ultima-hora-de-podemos/"]}
+      ],
+      "regular": [
+        {"t": "La jornada de 37,5 horas, su promesa estrella, fue rechazada por el Congreso en septiembre de 2025 (PP, Vox, Junts).", "ev": "A", "src": ["https://www.eleconomista.es/economia/noticias/13538757/09/25/diaz-insistira-para-conseguir-la-reduccion-de-jornada-pero-no-concreta-plazos-para-aprobarla.html"]},
+        {"t": "Criticó la guerra de Irán y el gasto militar, pero sigue en un Gobierno que elevó defensa al 2 % y participa en misiones OTAN.", "ev": "B", "src": ["https://en.wikipedia.org/wiki/Spain_in_the_2026_Iran_war"]}
+      ],
+      "mal": [
+        {"t": "De 31 escaños a 5-10 en las encuestas; Yolanda Díaz no repite; la nueva marca Frente Amplio no tiene cabeza de lista a once días del cierre de coaliciones.", "ev": "B", "src": ["https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html"]},
+        {"t": "No ha logrado articular la izquierda: veto cruzado con Podemos; ir separados les cuesta escaños por D'Hondt en provincias medianas (ver simulador).", "ev": "B", "src": ["https://www.elindependiente.com/espana/2026/09/19/sumar-podemos-izquierda-montero-moviliza-derecha-elecciones/"]}
+      ],
+      "propuestas": ["Vivienda: rebaja de alquileres, prohibición de compra a fondos, parque público", "Jornada de 37,5 horas", "Embargo total a Israel", "Fiscalidad a grandes fortunas y banca"],
+      "incertidumbre": "Quién encabeza la lista el 17 de octubre y si hay acuerdo con Podemos antes del 16."
+    },
+    {
+      "id": "PODEMOS", "nombre": "Podemos", "color": "#6E2C8B", "lider": "Irene Montero", "bloque": "izquierda", "esc2023": 0,
+      "resumen": "Cuatro diputados decisivos en algunas votaciones; 2-4 escaños estimados; condiciona la unidad de la izquierda a primarias abiertas.",
+      "bien": [
+        {"t": "Voto decisivo en el embargo de armas a Israel (178-169, octubre 2025).", "ev": "A", "src": ["https://www.infobae.com/espana/2025/10/08/el-congreso-convalida-el-decreto-del-embargo-de-armas-a-israel-con-el-apoyo-de-ultima-hora-de-podemos/"]},
+        {"t": "Coherencia en vivienda: exigió nuevos decretos tras el rechazo del 2 de octubre.", "ev": "B", "src": ["https://elconstitucional.es/es/nacional/politica/podemos-exige-gobierno-aprobar-nuevos-decretos-vivienda-belarra-senala-pp-vox-junts-por-su-veto-no-vamos-olvidar_8468_102.html"]}
+      ],
+      "regular": [
+        {"t": "Vetó la delegación de competencias migratorias a Cataluña (sept. 2025) por considerarla racista, lo que contribuyó a la ruptura de Junts con el Gobierno.", "ev": "A", "src": ["https://www.eldiario.es/politica/congreso-rechaza-ley-junts-psoe-traspaso-competencias-inmigracion-catalunya_1_12625754.html"]},
+        {"t": "Herencia de la ley del 'solo sí es sí' (2022): las rebajas de penas obligaron a una reforma que Podemos rechazó.", "ev": "B", "src": ["https://www.poderjudicial.es/"]}
+      ],
+      "mal": [
+        {"t": "Irrelevancia electoral: 2-4 escaños estimados; sin representación en Aragón; perdió un escaño en Castilla y León.", "ev": "B", "src": ["https://en.wikipedia.org/wiki/2026_Spanish_regional_elections"]},
+        {"t": "Rechaza integrarse en Frente Amplio y exige primarias exprés; la división cuesta escaños al bloque según todas las encuestas.", "ev": "B", "src": ["https://edatv.news/politica/urgencia-irene-montero-29n-exige-sumar-unas-primarias-expres-elegir-candidato-conjunto"]}
+      ],
+      "propuestas": ["Rebaja del 50 % de los alquileres y uso de vivienda vacía de grandes tenedores", "Ruptura total con Israel; salida de la OTAN", "Impuestos a grandes fortunas", "Derogar la 'ley mordaza'"],
+      "incertidumbre": "Si supera el 3 % en las provincias grandes y si acaba yendo con Frente Amplio."
+    },
+    {
+      "id": "SALF", "nombre": "Se Acabó La Fiesta", "color": "#2F2F2F", "lider": "Alvise Pérez", "bloque": "derecha", "esc2023": 0,
+      "resumen": "800.000 votos en las europeas de 2024; cero escaños en las autonómicas de 2026 y ninguna encuesta le da representación. Seis causas en el Supremo.",
+      "bien": [
+        {"t": "Irrupción en las europeas de 2024: 803.545 votos (4,6 %) y 3 eurodiputados sin estructura previa.", "ev": "A", "src": ["https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta"]}
+      ],
+      "regular": [
+        {"t": "Sin escaño en Aragón (2,7 %), Castilla y León (1,4 %) ni Andalucía (2,5 %) en 2026.", "ev": "A", "src": ["https://www.eldiario.es/politica/fatal-2026-alvise-cinco-causas-judiciales-abiertas-frente-cero-escanos-conseguidos_1_13270065.html"]}
+      ],
+      "mal": [
+        {"t": "Seis causas abiertas en el Supremo (financiación ilegal por 100.000 € en efectivo de 'Cryptospain', PCR falsa de Illa, acoso a una fiscal y a dos eurodiputados, amenazas, desórdenes). Todas en instrucción.", "ev": "A", "src": ["https://www.moncloa.com/2026/10/04/alvise-perez-supremo-seis-causas-3442356/"]},
+        {"t": "Sus dos eurodiputados abandonaron el grupo acusándole de 'matonismo y chantaje' (mayo 2025).", "ev": "B", "src": ["https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta"]}
+      ],
+      "propuestas": ["Sin programa publicado. Líneas históricas: anticorrupción, libertad de expresión, 'tanto Estado como sea necesario'"],
+      "incertidumbre": "Si llega al 3 % en Madrid; su voto puede restar al bloque de la derecha sin obtener escaño."
+    },
+    {
+      "id": "JUNTS", "nombre": "Junts per Catalunya", "color": "#20C0B2", "lider": "Míriam Nogueras", "bloque": "nacionalista", "esc2023": 7,
+      "resumen": "Consiguió la amnistía y después rompió con el Gobierno; su voto tumbó los decretos de vivienda y provocó el adelanto. Puede perder la mitad de sus escaños.",
+      "bien": [
+        {"t": "La ley de amnistía, eje de su acuerdo de investidura, está aprobada y avalada por TC y TJUE; el TC resuelve estos días sobre la malversación, lo que abriría el regreso de Puigdemont.", "ev": "A", "src": ["https://www.publico.es/politica/tribunales/sentencia-tjue-sobre-ley-amnistia-puigdemont-directo.html"]},
+        {"t": "Capacidad de veto demostrada con 7 diputados: jornada laboral, senda de déficit, decretos de vivienda.", "ev": "A", "src": ["https://www.elespanol.com/espana/politica/20251126/junts-comunica-gobierno-tumbara-senda-deficit-cumple-amenaza-ruptura-peor-momento-sanchez/1003744030761_0.html"]}
+      ],
+      "regular": [
+        {"t": "Catalán oficial en la UE y delegación de competencias de inmigración: reclamados desde 2023 y sin conseguir.", "ev": "B", "src": ["https://www.moncloa.com/2026/08/27/gobierno-rechaza-competencias-inmigracion-cataluna-3422002"]}
+      ],
+      "mal": [
+        {"t": "Bloqueo total desde noviembre de 2025 (enmiendas a 25 proyectos, veto a 21 leyes), incluidas medidas que sus votantes apoyan; votó con PP y Vox contra la vivienda y fue el detonante del adelanto.", "ev": "A", "src": ["https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"]},
+        {"t": "Riesgo electoral: de 7 escaños a 4-6 en las encuestas.", "ev": "B", "src": ["https://www.electografica.com/2026/10/encuesta-sigmados-261004.html"]}
+      ],
+      "propuestas": ["Financiación singular / concierto", "Competencias plenas en inmigración", "Catalán en la UE", "Aplicación íntegra de la amnistía y referéndum"],
+      "incertidumbre": "Si Puigdemont vuelve antes del 29N y si eso frena su caída."
+    },
+    {
+      "id": "ERC", "nombre": "Esquerra Republicana", "color": "#F5B300", "lider": "Gabriel Rufián (primarias 17 oct)", "bloque": "nacionalista", "esc2023": 7,
+      "resumen": "Socio estable que ha obtenido compromisos (financiación singular, condonación) pero ninguna ley aprobada. Se mantiene en 7-10 escaños.",
+      "bien": [
+        {"t": "Apoyó la investidura de Illa a cambio de la financiación singular (acuerdo del CPFF de julio 2025) y la condonación de 17.104 M€ de deuda catalana.", "ev": "B", "src": ["https://www.mundiario.com/articulo/politica/junqueras-marca-perfil-frente-rufian-apuesta-sostener-sanchez-culminar-agenda-catalana/20260617005912390765.html"]},
+        {"t": "Votó a favor de la jornada laboral, el embargo a Israel y los decretos de vivienda.", "ev": "A", "src": ["https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/"]}
+      ],
+      "regular": [
+        {"t": "Ni la financiación singular ni la condonación se han legislado: ERC obtiene compromisos, no leyes. Rufián: 'aguantar para nada es tontería'.", "ev": "B", "src": ["https://www.que.es/2026/09/18/condonacion-deuda-autonomica-congreso-2/"]}
+      ],
+      "mal": [
+        {"t": "Pérdida de poder en Cataluña (de presidir la Generalitat a tercera fuerza en 2024) y pulso interno Junqueras-Rufián.", "ev": "B", "src": ["https://www.mundiario.com/articulo/politica/junqueras-marca-perfil-frente-rufian-apuesta-sostener-sanchez-culminar-agenda-catalana/20260617005912390765.html"]}
+      ],
+      "propuestas": ["Financiación singular con ordinalidad y recaudación del IRPF por la Agencia catalana", "Condonación ampliada", "Catalán en la UE", "Referéndum acordado"],
+      "incertidumbre": "Si capitaliza la caída de Junts."
+    },
+    {
+      "id": "BILDU", "nombre": "EH Bildu", "color": "#9FC61B", "lider": "Por designar", "bloque": "nacionalista", "esc2023": 6,
+      "resumen": "Socio estable toda la legislatura; crece en Navarra. Su pasado sigue siendo el principal reproche de sus rivales.",
+      "bien": [
+        {"t": "Votó pensiones, SMI, vivienda y embargo a Israel; alcaldía de Pamplona desde 2023; 6-8 escaños estimados.", "ev": "B", "src": ["https://www.electografica.com/2026/10/encuesta-sigmados-261004.html"]}
+      ],
+      "regular": [
+        {"t": "Los traspasos concretos a Euskadi los negoció el Gobierno vasco del PNV, no Bildu.", "ev": "B", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"]}
+      ],
+      "mal": [
+        {"t": "Reelección de Otegi con el 94 % y la polémica de 2023 (candidatos con condenas por terrorismo, que renunciaron) siguen alimentando el reproche de PP, Vox y parte del PSOE.", "ev": "B", "src": ["https://www.eldiario.es/euskadi/eh-bildu-reelige-lider-otegi-bulgara-lanza-pnv-oferta-coalicion-generales-europeas_1_12037478.html"]}
+      ],
+      "propuestas": ["Vivienda como derecho, límite a alquileres turísticos", "Pensiones", "Gobiernos 'de amplio espectro' que excluyan a la derecha", "Avance soberanista acordado"],
+      "incertidumbre": "Si supera al PNV en votos en Euskadi."
+    },
+    {
+      "id": "PNV", "nombre": "EAJ-PNV", "color": "#0A7F3E", "lider": "Sin candidato (Esteban no repite)", "bloque": "nacionalista", "esc2023": 5,
+      "resumen": "Socio fiable que consigue traspasos concretos. Primera campaña sin Ortuzar y sin candidato designado a 5 de octubre.",
+      "bien": [
+        {"t": "Primer paquete de cinco traspasos (enero 2026) integrado en el cupo; Euskadi tiene el AROPE más bajo de España (14,7 %).", "ev": "A", "src": ["https://www.ine.es/dyngs/Prensa/ECV2025.htm", "https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"]}
+      ],
+      "regular": [
+        {"t": "El traspaso del régimen económico de la Seguridad Social, su reivindicación histórica, sigue pendiente.", "ev": "B", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"]}
+      ],
+      "mal": [
+        {"t": "'Euskadi primero' por encima de la estabilidad estatal es el reproche habitual de los partidos estatales; no consta ningún caso judicial contra la dirección actual.", "ev": "C", "src": ["https://vozpopuli.com/espana/adelanto-electoral-de-sanchez-en-directo-el-presidente-comparece-para-desvelar-si-adelanta-las-elecciones-tras-la-crisis-de-la-vivienda.html"]}
+      ],
+      "propuestas": ["Cierre del Estatuto de Gernika (16 transferencias)", "Régimen económico de la Seguridad Social", "Defensa del concierto y el cupo"],
+      "incertidumbre": "Quién encabeza la lista y si mantiene 5-6 escaños frente a Bildu."
+    }
+  ]
+}

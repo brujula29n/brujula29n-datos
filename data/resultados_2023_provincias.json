@@ -1,0 +1,933 @@
+{
+ "eleccion": "Elecciones generales al Congreso de los Diputados, 23 de julio de 2023 (resultados definitivos)",
+ "fuente": "Ministerio del Interior (infoelectoral.interior.gob.es, área de descargas, fichero 02202307), vía el dataset data.json del repositorio josemam/MiCongreso (https://github.com/josemam/MiCongreso); escaños por circunscripción según Real Decreto 400/2023 (BOE 30/05/2023); contrastado con Wikipedia (Results breakdown of the 2023 Spanish general election (Congress))",
+ "nota": "validos = votos a candidaturas + votos en blanco. OTROS agrupa todas las demás candidaturas. Barrera legal: 3% de votos válidos por circunscripción. Reparto de escaños del Real Decreto 806/2026, de 5 de octubre (BOE-A-2026-20742), anexo: Madrid pasa de 37 a 38 diputados y Cádiz de 9 a 8; el resto de circunscripciones, igual que en 2023. escanos_2023 guarda el reparto de 2023 donde cambia, para validar el resultado real. Fuente: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742 (nivel A).",
+ "partidos": [
+  "PP",
+  "PSOE",
+  "VOX",
+  "SUMAR",
+  "ERC",
+  "JUNTS",
+  "BILDU",
+  "PNV",
+  "BNG",
+  "CC",
+  "UPN",
+  "CUP",
+  "OTROS"
+ ],
+ "circunscripciones": [
+  {
+   "nombre": "Madrid",
+   "nombre_ine": "Madrid",
+   "escanos": 38,
+   "censo": 6750336,
+   "candidaturas": 3579713,
+   "blancos": 28960,
+   "nulos": 30827,
+   "validos": 3608673,
+   "votos": {
+    "PP": 1463183,
+    "PSOE": 1004599,
+    "SUMAR": 557780,
+    "VOX": 506164,
+    "OTROS": 47987
+   },
+   "escanos_2023": 37
+  },
+  {
+   "nombre": "Barcelona",
+   "nombre_ine": "Barcelona",
+   "escanos": 32,
+   "censo": 5727615,
+   "candidaturas": 2646419,
+   "blancos": 21059,
+   "nulos": 21242,
+   "validos": 2667478,
+   "votos": {
+    "PSOE": 952347,
+    "SUMAR": 405993,
+    "PP": 367519,
+    "ERC": 328697,
+    "JUNTS": 258159,
+    "VOX": 201775,
+    "CUP": 67266,
+    "OTROS": 64663
+   }
+  },
+  {
+   "nombre": "Valencia/València",
+   "nombre_ine": "Valencia",
+   "escanos": 16,
+   "censo": 2605757,
+   "candidaturas": 1426351,
+   "blancos": 10810,
+   "nulos": 14026,
+   "validos": 1437161,
+   "votos": {
+    "PP": 483469,
+    "PSOE": 461353,
+    "SUMAR": 242839,
+    "VOX": 218657,
+    "OTROS": 20033
+   }
+  },
+  {
+   "nombre": "Alicante/Alacant",
+   "nombre_ine": "Alicante",
+   "escanos": 12,
+   "censo": 1901594,
+   "candidaturas": 892617,
+   "blancos": 6575,
+   "nulos": 9650,
+   "validos": 899192,
+   "votos": {
+    "PP": 330293,
+    "PSOE": 287737,
+    "VOX": 146133,
+    "SUMAR": 115787,
+    "OTROS": 12667
+   }
+  },
+  {
+   "nombre": "Sevilla",
+   "nombre_ine": "Sevilla",
+   "escanos": 12,
+   "censo": 1948393,
+   "candidaturas": 1048407,
+   "blancos": 10951,
+   "nulos": 15775,
+   "validos": 1059358,
+   "votos": {
+    "PSOE": 387760,
+    "PP": 353663,
+    "SUMAR": 148745,
+    "VOX": 141087,
+    "OTROS": 17152
+   }
+  },
+  {
+   "nombre": "Málaga",
+   "nombre_ine": "Málaga",
+   "escanos": 11,
+   "censo": 1717504,
+   "candidaturas": 780829,
+   "blancos": 7509,
+   "nulos": 10219,
+   "validos": 788338,
+   "votos": {
+    "PP": 302000,
+    "PSOE": 239172,
+    "VOX": 129758,
+    "SUMAR": 96652,
+    "OTROS": 13247
+   }
+  },
+  {
+   "nombre": "Murcia",
+   "nombre_ine": "Murcia",
+   "escanos": 10,
+   "censo": 1531878,
+   "candidaturas": 742763,
+   "blancos": 5034,
+   "nulos": 7458,
+   "validos": 747797,
+   "votos": {
+    "PP": 307972,
+    "PSOE": 189210,
+    "VOX": 163124,
+    "SUMAR": 71578,
+    "OTROS": 10879
+   }
+  },
+  {
+   "nombre": "Cádiz",
+   "nombre_ine": "Cádiz",
+   "escanos": 8,
+   "censo": 1246781,
+   "candidaturas": 629995,
+   "blancos": 7103,
+   "nulos": 7703,
+   "validos": 637098,
+   "votos": {
+    "PP": 221703,
+    "PSOE": 211200,
+    "VOX": 96720,
+    "SUMAR": 82115,
+    "OTROS": 18257
+   },
+   "escanos_2023": 9
+  },
+  {
+   "nombre": "A Coruña",
+   "nombre_ine": "A Coruña",
+   "escanos": 8,
+   "censo": 1119180,
+   "candidaturas": 672505,
+   "blancos": 5197,
+   "nulos": 5485,
+   "validos": 677702,
+   "votos": {
+    "PP": 292272,
+    "PSOE": 190897,
+    "SUMAR": 82618,
+    "BNG": 67653,
+    "VOX": 34410,
+    "OTROS": 4655
+   }
+  },
+  {
+   "nombre": "Illes Balears",
+   "nombre_ine": "Baleares",
+   "escanos": 8,
+   "censo": 1176659,
+   "candidaturas": 498576,
+   "blancos": 4704,
+   "nulos": 4953,
+   "validos": 503280,
+   "votos": {
+    "PP": 179303,
+    "PSOE": 151786,
+    "SUMAR": 83487,
+    "VOX": 76547,
+    "OTROS": 7453
+   }
+  },
+  {
+   "nombre": "Bizkaia",
+   "nombre_ine": "Bizkaia",
+   "escanos": 8,
+   "censo": 1149344,
+   "candidaturas": 606302,
+   "blancos": 3391,
+   "nulos": 5251,
+   "validos": 609693,
+   "votos": {
+    "PNV": 164188,
+    "PSOE": 157448,
+    "BILDU": 125867,
+    "PP": 70533,
+    "SUMAR": 66592,
+    "VOX": 16069,
+    "OTROS": 5605
+   }
+  },
+  {
+   "nombre": "Las Palmas",
+   "nombre_ine": "Las Palmas",
+   "escanos": 8,
+   "censo": 1129395,
+   "candidaturas": 526275,
+   "blancos": 3062,
+   "nulos": 5575,
+   "validos": 529337,
+   "votos": {
+    "PSOE": 175671,
+    "PP": 136857,
+    "VOX": 77343,
+    "SUMAR": 54369,
+    "CC": 33558,
+    "OTROS": 48477
+   }
+  },
+  {
+   "nombre": "Asturias",
+   "nombre_ine": "Asturias",
+   "escanos": 7,
+   "censo": 1004686,
+   "candidaturas": 590953,
+   "blancos": 6079,
+   "nulos": 6151,
+   "validos": 597032,
+   "votos": {
+    "PP": 212816,
+    "PSOE": 205049,
+    "SUMAR": 88630,
+    "VOX": 74571,
+    "OTROS": 9887
+   }
+  },
+  {
+   "nombre": "Granada",
+   "nombre_ine": "Granada",
+   "escanos": 7,
+   "censo": 921987,
+   "candidaturas": 498788,
+   "blancos": 4057,
+   "nulos": 6641,
+   "validos": 502845,
+   "votos": {
+    "PP": 185996,
+    "PSOE": 165862,
+    "VOX": 81080,
+    "SUMAR": 58567,
+    "OTROS": 7283
+   }
+  },
+  {
+   "nombre": "Pontevedra",
+   "nombre_ine": "Pontevedra",
+   "escanos": 7,
+   "censo": 943015,
+   "candidaturas": 569259,
+   "blancos": 3865,
+   "nulos": 6001,
+   "validos": 573124,
+   "votos": {
+    "PP": 227658,
+    "PSOE": 179737,
+    "SUMAR": 75615,
+    "BNG": 53828,
+    "VOX": 27539,
+    "OTROS": 4882
+   }
+  },
+  {
+   "nombre": "Santa Cruz de Tenerife",
+   "nombre_ine": "SC de Tenerife",
+   "escanos": 7,
+   "censo": 1048306,
+   "candidaturas": 489285,
+   "blancos": 5088,
+   "nulos": 6404,
+   "validos": 494373,
+   "votos": {
+    "PP": 174770,
+    "PSOE": 165590,
+    "CC": 82805,
+    "SUMAR": 53632,
+    "OTROS": 12488
+   }
+  },
+  {
+   "nombre": "Zaragoza",
+   "nombre_ine": "Zaragoza",
+   "escanos": 7,
+   "censo": 966438,
+   "candidaturas": 514012,
+   "blancos": 4693,
+   "nulos": 4705,
+   "validos": 518705,
+   "votos": {
+    "PP": 186776,
+    "PSOE": 159858,
+    "VOX": 79376,
+    "SUMAR": 69925,
+    "OTROS": 18077
+   }
+  },
+  {
+   "nombre": "Almería",
+   "nombre_ine": "Almería",
+   "escanos": 6,
+   "censo": 740534,
+   "candidaturas": 318778,
+   "blancos": 2464,
+   "nulos": 3163,
+   "validos": 321242,
+   "votos": {
+    "PP": 131524,
+    "PSOE": 93282,
+    "VOX": 68364,
+    "SUMAR": 21485,
+    "OTROS": 4123
+   }
+  },
+  {
+   "nombre": "Córdoba",
+   "nombre_ine": "Córdoba",
+   "escanos": 6,
+   "censo": 772464,
+   "candidaturas": 444254,
+   "blancos": 4348,
+   "nulos": 6962,
+   "validos": 448602,
+   "votos": {
+    "PP": 169976,
+    "PSOE": 144080,
+    "VOX": 62526,
+    "SUMAR": 61594,
+    "OTROS": 6078
+   }
+  },
+  {
+   "nombre": "Gipuzkoa",
+   "nombre_ine": "Gipuzkoa",
+   "escanos": 6,
+   "censo": 724418,
+   "candidaturas": 374616,
+   "blancos": 2005,
+   "nulos": 2344,
+   "validos": 376621,
+   "votos": {
+    "BILDU": 117321,
+    "PSOE": 87709,
+    "PNV": 85026,
+    "SUMAR": 40081,
+    "PP": 32721,
+    "VOX": 7877,
+    "OTROS": 3881
+   }
+  },
+  {
+   "nombre": "Girona",
+   "nombre_ine": "Girona",
+   "escanos": 6,
+   "censo": 793478,
+   "candidaturas": 320007,
+   "blancos": 2981,
+   "nulos": 4171,
+   "validos": 322988,
+   "votos": {
+    "PSOE": 93448,
+    "JUNTS": 63251,
+    "ERC": 47531,
+    "SUMAR": 35344,
+    "PP": 31341,
+    "VOX": 22706,
+    "CUP": 18229,
+    "OTROS": 8157
+   }
+  },
+  {
+   "nombre": "Tarragona",
+   "nombre_ine": "Tarragona",
+   "escanos": 6,
+   "censo": 830075,
+   "candidaturas": 364856,
+   "blancos": 3168,
+   "nulos": 4402,
+   "validos": 368024,
+   "votos": {
+    "PSOE": 121126,
+    "ERC": 55461,
+    "PP": 51061,
+    "SUMAR": 41719,
+    "JUNTS": 40791,
+    "VOX": 38039,
+    "CUP": 8700,
+    "OTROS": 7959
+   }
+  },
+  {
+   "nombre": "Toledo",
+   "nombre_ine": "Toledo",
+   "escanos": 6,
+   "censo": 713453,
+   "candidaturas": 384589,
+   "blancos": 2611,
+   "nulos": 5788,
+   "validos": 387200,
+   "votos": {
+    "PP": 146533,
+    "PSOE": 126072,
+    "VOX": 76044,
+    "SUMAR": 31876,
+    "OTROS": 4064
+   }
+  },
+  {
+   "nombre": "Badajoz",
+   "nombre_ine": "Badajoz",
+   "escanos": 5,
+   "censo": 666971,
+   "candidaturas": 388236,
+   "blancos": 3225,
+   "nulos": 6772,
+   "validos": 391461,
+   "votos": {
+    "PSOE": 153473,
+    "PP": 148068,
+    "VOX": 53492,
+    "SUMAR": 26778,
+    "OTROS": 6425
+   }
+  },
+  {
+   "nombre": "Cantabria",
+   "nombre_ine": "Cantabria",
+   "escanos": 5,
+   "censo": 585402,
+   "candidaturas": 346888,
+   "blancos": 3262,
+   "nulos": 4995,
+   "validos": 350150,
+   "votos": {
+    "PP": 147326,
+    "PSOE": 116596,
+    "VOX": 49243,
+    "SUMAR": 29713,
+    "OTROS": 4010
+   }
+  },
+  {
+   "nombre": "Castellón/Castelló",
+   "nombre_ine": "Castellón",
+   "escanos": 5,
+   "censo": 590616,
+   "candidaturas": 305275,
+   "blancos": 2655,
+   "nulos": 3651,
+   "validos": 307930,
+   "votos": {
+    "PP": 108302,
+    "PSOE": 100530,
+    "VOX": 48913,
+    "SUMAR": 44187,
+    "OTROS": 3343
+   }
+  },
+  {
+   "nombre": "Ciudad Real",
+   "nombre_ine": "Ciudad Real",
+   "escanos": 5,
+   "censo": 490806,
+   "candidaturas": 280626,
+   "blancos": 2353,
+   "nulos": 3916,
+   "validos": 282979,
+   "votos": {
+    "PP": 114709,
+    "PSOE": 100102,
+    "VOX": 46046,
+    "SUMAR": 17405,
+    "OTROS": 2364
+   }
+  },
+  {
+   "nombre": "Huelva",
+   "nombre_ine": "Huelva",
+   "escanos": 5,
+   "censo": 528763,
+   "candidaturas": 254394,
+   "blancos": 2410,
+   "nulos": 4057,
+   "validos": 256804,
+   "votos": {
+    "PP": 93565,
+    "PSOE": 92326,
+    "VOX": 37572,
+    "SUMAR": 26752,
+    "OTROS": 4179
+   }
+  },
+  {
+   "nombre": "Jaén",
+   "nombre_ine": "Jaén",
+   "escanos": 5,
+   "censo": 623761,
+   "candidaturas": 366234,
+   "blancos": 2497,
+   "nulos": 4926,
+   "validos": 368731,
+   "votos": {
+    "PP": 137617,
+    "PSOE": 133819,
+    "VOX": 54400,
+    "SUMAR": 29461,
+    "OTROS": 10937
+   }
+  },
+  {
+   "nombre": "Navarra",
+   "nombre_ine": "Navarra",
+   "escanos": 5,
+   "censo": 664117,
+   "candidaturas": 338954,
+   "blancos": 2890,
+   "nulos": 3251,
+   "validos": 341844,
+   "votos": {
+    "PSOE": 93553,
+    "BILDU": 58954,
+    "PP": 57134,
+    "UPN": 52188,
+    "SUMAR": 43922,
+    "VOX": 19491,
+    "OTROS": 13712
+   }
+  },
+  {
+   "nombre": "Valladolid",
+   "nombre_ine": "Valladolid",
+   "escanos": 5,
+   "censo": 517975,
+   "candidaturas": 313890,
+   "blancos": 2419,
+   "nulos": 3003,
+   "validos": 316309,
+   "votos": {
+    "PP": 129170,
+    "PSOE": 103596,
+    "VOX": 47948,
+    "SUMAR": 28049,
+    "OTROS": 5127
+   }
+  },
+  {
+   "nombre": "Albacete",
+   "nombre_ine": "Albacete",
+   "escanos": 4,
+   "censo": 385727,
+   "candidaturas": 219357,
+   "blancos": 1834,
+   "nulos": 2726,
+   "validos": 221191,
+   "votos": {
+    "PP": 88299,
+    "PSOE": 76322,
+    "VOX": 36750,
+    "SUMAR": 15834,
+    "OTROS": 2152
+   }
+  },
+  {
+   "nombre": "Álava",
+   "nombre_ine": "Araba",
+   "escanos": 4,
+   "censo": 334412,
+   "candidaturas": 168385,
+   "blancos": 722,
+   "nulos": 1431,
+   "validos": 169107,
+   "votos": {
+    "PSOE": 46775,
+    "BILDU": 32987,
+    "PP": 30212,
+    "PNV": 28075,
+    "SUMAR": 21561,
+    "VOX": 6573,
+    "OTROS": 2202
+   }
+  },
+  {
+   "nombre": "Burgos",
+   "nombre_ine": "Burgos",
+   "escanos": 4,
+   "censo": 355045,
+   "candidaturas": 200718,
+   "blancos": 1851,
+   "nulos": 2317,
+   "validos": 202569,
+   "votos": {
+    "PP": 82329,
+    "PSOE": 69775,
+    "VOX": 25858,
+    "SUMAR": 17508,
+    "OTROS": 5248
+   }
+  },
+  {
+   "nombre": "Cáceres",
+   "nombre_ine": "Cáceres",
+   "escanos": 4,
+   "censo": 387805,
+   "candidaturas": 234130,
+   "blancos": 1721,
+   "nulos": 3896,
+   "validos": 235851,
+   "votos": {
+    "PSOE": 91692,
+    "PP": 89633,
+    "VOX": 32076,
+    "SUMAR": 16354,
+    "OTROS": 4375
+   }
+  },
+  {
+   "nombre": "La Rioja",
+   "nombre_ine": "La Rioja",
+   "escanos": 4,
+   "censo": 319892,
+   "candidaturas": 173055,
+   "blancos": 1608,
+   "nulos": 2282,
+   "validos": 174663,
+   "votos": {
+    "PP": 79715,
+    "PSOE": 62322,
+    "VOX": 17056,
+    "SUMAR": 11470,
+    "OTROS": 2492
+   }
+  },
+  {
+   "nombre": "León",
+   "nombre_ine": "León",
+   "escanos": 4,
+   "censo": 448179,
+   "candidaturas": 273663,
+   "blancos": 1577,
+   "nulos": 2486,
+   "validos": 275240,
+   "votos": {
+    "PP": 101605,
+    "PSOE": 92578,
+    "VOX": 35451,
+    "SUMAR": 18577,
+    "OTROS": 25452
+   }
+  },
+  {
+   "nombre": "Lleida",
+   "nombre_ine": "Lleida",
+   "escanos": 4,
+   "censo": 441443,
+   "candidaturas": 182480,
+   "blancos": 2059,
+   "nulos": 2390,
+   "validos": 184539,
+   "votos": {
+    "PSOE": 54414,
+    "ERC": 34331,
+    "JUNTS": 33228,
+    "PP": 23699,
+    "SUMAR": 14561,
+    "VOX": 12560,
+    "CUP": 5449,
+    "OTROS": 4238
+   }
+  },
+  {
+   "nombre": "Lugo",
+   "nombre_ine": "Lugo",
+   "escanos": 4,
+   "censo": 323989,
+   "candidaturas": 197315,
+   "blancos": 1251,
+   "nulos": 2143,
+   "validos": 198566,
+   "votos": {
+    "PP": 99769,
+    "PSOE": 60163,
+    "BNG": 17197,
+    "SUMAR": 10287,
+    "VOX": 8643,
+    "OTROS": 1256
+   }
+  },
+  {
+   "nombre": "Ourense",
+   "nombre_ine": "Ourense",
+   "escanos": 4,
+   "censo": 304280,
+   "candidaturas": 185162,
+   "blancos": 1109,
+   "nulos": 1794,
+   "validos": 186271,
+   "votos": {
+    "PP": 93182,
+    "PSOE": 56035,
+    "BNG": 15317,
+    "SUMAR": 10171,
+    "VOX": 9080,
+    "OTROS": 1377
+   }
+  },
+  {
+   "nombre": "Salamanca",
+   "nombre_ine": "Salamanca",
+   "escanos": 4,
+   "censo": 325898,
+   "candidaturas": 197461,
+   "blancos": 1649,
+   "nulos": 2309,
+   "validos": 199110,
+   "votos": {
+    "PP": 93318,
+    "PSOE": 60718,
+    "VOX": 29203,
+    "SUMAR": 11012,
+    "OTROS": 3210
+   }
+  },
+  {
+   "nombre": "Ávila",
+   "nombre_ine": "Ávila",
+   "escanos": 3,
+   "censo": 158140,
+   "candidaturas": 97324,
+   "blancos": 632,
+   "nulos": 1164,
+   "validos": 97956,
+   "votos": {
+    "PP": 42369,
+    "PSOE": 26828,
+    "VOX": 15068,
+    "SUMAR": 5027,
+    "OTROS": 8032
+   }
+  },
+  {
+   "nombre": "Cuenca",
+   "nombre_ine": "Cuenca",
+   "escanos": 3,
+   "censo": 195215,
+   "candidaturas": 112839,
+   "blancos": 969,
+   "nulos": 1472,
+   "validos": 113808,
+   "votos": {
+    "PP": 45255,
+    "PSOE": 42528,
+    "VOX": 17700,
+    "SUMAR": 6325,
+    "OTROS": 1031
+   }
+  },
+  {
+   "nombre": "Guadalajara",
+   "nombre_ine": "Guadalajara",
+   "escanos": 3,
+   "censo": 268127,
+   "candidaturas": 139770,
+   "blancos": 1143,
+   "nulos": 1831,
+   "validos": 140913,
+   "votos": {
+    "PP": 51195,
+    "PSOE": 46479,
+    "VOX": 27126,
+    "SUMAR": 12907,
+    "OTROS": 2063
+   }
+  },
+  {
+   "nombre": "Huesca",
+   "nombre_ine": "Huesca",
+   "escanos": 3,
+   "censo": 225456,
+   "candidaturas": 118678,
+   "blancos": 1217,
+   "nulos": 1253,
+   "validos": 119895,
+   "votos": {
+    "PP": 45783,
+    "PSOE": 40307,
+    "VOX": 15155,
+    "SUMAR": 13774,
+    "OTROS": 3659
+   }
+  },
+  {
+   "nombre": "Palencia",
+   "nombre_ine": "Palencia",
+   "escanos": 3,
+   "censo": 158008,
+   "candidaturas": 96129,
+   "blancos": 833,
+   "nulos": 1117,
+   "validos": 96962,
+   "votos": {
+    "PP": 40709,
+    "PSOE": 33613,
+    "VOX": 12504,
+    "SUMAR": 5877,
+    "OTROS": 3426
+   }
+  },
+  {
+   "nombre": "Segovia",
+   "nombre_ine": "Segovia",
+   "escanos": 3,
+   "censo": 153803,
+   "candidaturas": 87738,
+   "blancos": 875,
+   "nulos": 1332,
+   "validos": 88613,
+   "votos": {
+    "PP": 39894,
+    "PSOE": 27113,
+    "VOX": 12510,
+    "SUMAR": 7137,
+    "OTROS": 1084
+   }
+  },
+  {
+   "nombre": "Teruel",
+   "nombre_ine": "Teruel",
+   "escanos": 3,
+   "censo": 134421,
+   "candidaturas": 75503,
+   "blancos": 410,
+   "nulos": 648,
+   "validos": 75913,
+   "votos": {
+    "PP": 26586,
+    "PSOE": 22226,
+    "VOX": 9932,
+    "SUMAR": 4126,
+    "OTROS": 12633
+   }
+  },
+  {
+   "nombre": "Zamora",
+   "nombre_ine": "Zamora",
+   "escanos": 3,
+   "censo": 167215,
+   "candidaturas": 102488,
+   "blancos": 922,
+   "nulos": 1261,
+   "validos": 103410,
+   "votos": {
+    "PP": 46196,
+    "PSOE": 33601,
+    "VOX": 13652,
+    "SUMAR": 5839,
+    "OTROS": 3200
+   }
+  },
+  {
+   "nombre": "Soria",
+   "nombre_ine": "Soria",
+   "escanos": 2,
+   "censo": 88377,
+   "candidaturas": 50484,
+   "blancos": 285,
+   "nulos": 388,
+   "validos": 50769,
+   "votos": {
+    "PP": 18895,
+    "PSOE": 14966,
+    "VOX": 4978,
+    "SUMAR": 1711,
+    "OTROS": 9934
+   }
+  },
+  {
+   "nombre": "Ceuta",
+   "nombre_ine": "Ceuta",
+   "escanos": 1,
+   "censo": 83117,
+   "candidaturas": 32993,
+   "blancos": 328,
+   "nulos": 353,
+   "validos": 33321,
+   "votos": {
+    "PP": 12918,
+    "PSOE": 11332,
+    "VOX": 7752,
+    "SUMAR": 821,
+    "OTROS": 170
+   }
+  },
+  {
+   "nombre": "Melilla",
+   "nombre_ine": "Melilla",
+   "escanos": 1,
+   "censo": 85170,
+   "candidaturas": 27096,
+   "blancos": 253,
+   "nulos": 300,
+   "validos": 27349,
+   "votos": {
+    "PP": 13446,
+    "PSOE": 6943,
+    "VOX": 4359,
+    "SUMAR": 827,
+    "OTROS": 1521
+   }
+  }
+ ]
+}

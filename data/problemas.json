@@ -1,0 +1,437 @@
+{
+  "actualizado": "2026-10-05",
+  "nota": "Los bloques 'cifras', 'hizo_bien', 'hizo_mal' y 'partidos' son hechos con fuente y nivel de evidencia (A = dato oficial, sentencia u organismo independiente; B = coincidente en varios medios; C = versión de parte o lectura propia). El bloque 'lectura' ('quién lo aborda mejor') es una interpretación nuestra (nivel C) construida sobre esos hechos A/B, y se revisa cada vez que un partido publica programa o aparece un dato nuevo. Nadie es culpable sin sentencia.",
+  "huecos": [
+    "Cifra oficial del Ministerio de Vivienda sobre viviendas del parque público entregadas en la legislatura (frente a las 184.000 prometidas): no localizada; solo hay el dato de 11.104 calificaciones definitivas de vivienda protegida en 2025.",
+    "Memoria económica del 'millón de viviendas' del PP y de los decretos de vivienda del Gobierno: ninguna de las dos está publicada.",
+    "Efecto de la regulación de alquileres en Cataluña: solo hay datos de portales privados (Idealista) y el aviso general del Banco de España; no hay evaluación oficial independiente con metodología publicada.",
+    "Número de resoluciones favorables de la regularización extraordinaria (a 2 de julio de 2026 se habían tramitado 609.737 de 1.174.978 solicitudes; no se conoce la cifra final).",
+    "Cifras de la crisis de Ceuta (más de 60.000 entradas, 67 muertos, 48.300 retornos): proceden de un medio con fuentes oficiales; no se ha localizado balance oficial consolidado de Interior.",
+    "Listas de espera: Castilla-La Mancha rectificó sus datos en septiembre de 2026 y el Ministerio corrigió la media nacional (de 92 a 117 días en una de las series); las cifras de diciembre de 2025 que usamos (121 días) pueden revisarse.",
+    "Número de mujeres afectadas por los fallos del cribado de cáncer de mama en Andalucía: sin cifra oficial cerrada.",
+    "Salarios reales: la referencia de la OCDE (-2,5 % desde la pandemia) es de 2024; no se ha localizado una actualización oficial con el IPC de 2026 (4,9 % en septiembre).",
+    "Posición concreta de Junts, ERC, Bildu y PNV en sanidad, educación y coste de la vida: solo hay declaraciones genéricas; se completará con los programas.",
+    "Programas electorales formales: ninguno publicado a 5 de octubre de 2026. Todas las 'propuestas' son posiciones anunciadas (B) o resúmenes de prensa (C)."
+  ],
+  "problemas": [
+    {
+      "id": "vivienda",
+      "nombre": "Vivienda",
+      "icono": "🏠",
+      "pregunta": "¿Por qué no puedo pagar un piso, ni de alquiler ni de compra?",
+      "cifras": [
+        {"n": "+12,2 %", "l": "Subida anual del precio de la vivienda (2T 2026)", "ev": "A", "src": "https://www.ine.es/dyngs/Prensa/IPV2T26.htm"},
+        {"n": "750.000", "l": "Viviendas que faltan (déficit acumulado 2021-2025, Banco de España)", "ev": "A", "src": "https://www.eldiario.es/economia/banco-espana-eleva-750-000-viviendas-faltan-anticipa-deficit-agravara-proximos-anos_1_13313634.html"},
+        {"n": "14,5 %", "l": "Jóvenes de 16-29 años emancipados, mínimo histórico", "ev": "A", "src": "https://www.cje.org/en/observatorio_2025/"}
+      ],
+      "diagnostico": "Faltan viviendas: en 2025 se crearon unos 240.000 hogares y se terminaron 92.000. Los visados de obra nueva (139.016) son la cuarta parte de los de 2006; el alquiler social es el 3 % del parque. La demanda crece con la inmigración (444.000 personas al año) y 355.000 pisos turísticos (10 % del alquiler). Las leyes han tocado precios y ayudas, no el suelo, que depende de comunidades y ayuntamientos.",
+      "gobierno": {
+        "hizo_bien": [
+          {"t": "Primera ley estatal de vivienda (Ley 12/2023): zonas tensionadas, índice de referencia de alquileres, límite de actualización de rentas y protección frente a desahucios de vulnerables.", "ev": "A", "src": ["https://www.idealista.com/sala-de-prensa/notas-de-prensa/2026/05/22/261065-tres-anos-de-ley-de-vivienda-el-alquiler-se-encarece-la-oferta-cae-y-la"]},
+          {"t": "Registro único de alquileres turísticos y de temporada (2025) y 355.000 viviendas turísticas identificadas; base para que ayuntamientos y comunidades limiten el uso turístico.", "ev": "A", "src": ["https://www.eldiario.es/economia/banco-espana-eleva-750-000-viviendas-faltan-anticipa-deficit-agravara-proximos-anos_1_13313634.html"]},
+          {"t": "La promoción pública de vivienda protegida creció un 7,9 % en 2025 (4.046 viviendas) y se creó la empresa pública de vivienda (SEPES) con suelo del Estado.", "ev": "A", "src": ["https://www.telemadrid.es/noticias/economia/El-numero-de-viviendas-protegidas-retrocedio-en-Espana-un-227-en-2025-segun-el-ministerio-0-2874012615--20260326080455.html", "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"]}
+        ],
+        "hizo_mal": [
+          {"t": "Tres años después de la ley, el alquiler medio sube un 30 % y la oferta permanente cae un 30 % (Barcelona, zona tensionada: -56 %). Banco de España: limitar las rentas en vigor dispara los nuevos contratos (+16,5 % en 2024).", "ev": "B", "src": ["https://www.idealista.com/sala-de-prensa/notas-de-prensa/2026/05/22/261065-tres-anos-de-ley-de-vivienda-el-alquiler-se-encarece-la-oferta-cae-y-la", "https://www.idealista.com/news/inmobiliario/vivienda/2026/03/16/888113-dos-anos-de-alquiler-en-zonas-tensionadas-en-cataluna-espantada-de-la-oferta-y-una", "https://www.elespanol.com/invertia/observatorios/vivienda/20260618/banco-espana-avisa-gobierno-limitar-subidas-alquileres-vigor-dispara-precio-nuevos-contratos/1003744290463_0.html"]},
+          {"t": "Las viviendas protegidas calificadas cayeron un 22,7 % en 2025 (11.104) y 129 licitaciones de vivienda pública quedaron desiertas en 2026; la ley del suelo naufragó dos veces en el Congreso.", "ev": "A", "src": ["https://www.telemadrid.es/noticias/economia/El-numero-de-viviendas-protegidas-retrocedio-en-Espana-un-227-en-2025-segun-el-ministerio-0-2874012615--20260326080455.html", "https://www.infobae.com/espana/2026/09/24/espana-necesita-vivienda-publica-pero-pocos-quieren-construirla-129-licitaciones-quedan-desiertas-en-2026-y-128-m-sin-adjudicar/", "https://eldebate.com/economia/20261005/grandes-promesas-economicas-sanchez-yolanda-diaz-encallan-pese-asalto-instituciones-empresas_465891.html"]},
+          {"t": "Los dos decretos de vivienda más ambiciosos (escudo antidesahucios hasta 2030, prórroga de alquileres, veto a fondos) llegaron en el último mes de legislatura, fueron rechazados por el Congreso el 2 de octubre y se reaprobaron tras disolver las Cortes.", "ev": "A", "src": ["https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/290926-rueda-prensa-ministros.aspx", "https://www.moncloa.com/2026/10/05/decretos-vivienda-consejo-ministros-convalidacion-3442578"]}
+        ],
+        "porque": "El Gobierno optó por regular precios y proteger al inquilino antes que ampliar la oferta, que es el cuello de botella. Suelo, licencias y vivienda protegida dependen de comunidades y ayuntamientos, y nadie ha construido al ritmo que pide el Banco de España. La demanda crece por la inmigración y los tipos bajos."
+      },
+      "partidos": {
+        "PP": {"propone": "Un millón de viviendas en una legislatura: suelo público, ley del suelo, menos trámites, IVA del 4 % a jóvenes, 'Hucha Hogar Joven', avales del 100 %. Derogar la ley de 2023.", "hizo": "Madrid: Plan Vive, 5.785 viviendas asequibles entregadas de 14.000 anunciadas; ITP del 4 % (menores de 40, 2026). Andalucía: 2.265 protegidas en 2025, segunda comunidad.", "ev": "B", "src": ["https://www.eleconomista.es/economia/noticias/14018537/10/26/feijoo-convierte-la-vivienda-en-su-gran-arma-contra-sanchez-un-millon-de-pisos-y-rebajas-fiscales.html", "https://www.madridactual.es/noticias-regionales/politica-en-madrid/ayuso-saca-pecho-7-anos-frente-comunidad-baja-fiscalidad-20260525-8103139.html", "https://www.moncloa.com/2026/10/05/ayuso-baja-itp-iajd-madrid-3442861/"]},
+        "PSOE": {"propone": "Escudo antidesahucios hasta 2030, alquileres prorrogados dos años y congelados, veto a fondos hasta 2028, aval del 100 %, IVA del 10 % a pisos turísticos, parque público sobre el 6 %.", "hizo": "Ley 12/2023 y los decretos de 2026; la ley del suelo y la ley de inquilinos no salieron.", "ev": "B", "src": ["https://www.eldiario.es/economia/nuevo-decreto-vivienda-aprobado-gobierno_1_13546389.html", "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"]},
+        "VOX": {"propone": "Liberalizar suelo, bajar impuestos a la compra, recuperación inmediata del piso ante impago u ocupación y 'prioridad nacional' en la vivienda pública.", "hizo": "En Andalucía (2026) pactó con el PP exigir 10 años de residencia para acceder a vivienda protegida; votó contra los decretos de vivienda.", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://www.eldiario.es/andalucia/juanma-moreno-firmar-pacto-gobierno-vox-prioridad-nacional-existe-administracion_1_13352085.html"]},
+        "SUMAR": {"propone": "Rebaja de alquileres, prohibición de compra a fondos, más parque público y ampliación de prórrogas de contrato.", "hizo": "Desde el Gobierno empujó la regulación del alquiler de temporada y el veto a fondos de los decretos de 2026.", "ev": "B", "src": ["https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html", "https://www.eldiario.es/economia/nuevo-decreto-vivienda-aprobado-gobierno_1_13546389.html"]},
+        "PODEMOS": {"propone": "Regular precios del alquiler el primer año, rebaja del 50 % de las rentas y uso de vivienda vacía de grandes tenedores.", "hizo": "Impulsó la ley de 2023 desde el Gobierno de coalición (2020-2023); en 2026 exigió nuevos decretos tras el rechazo del Congreso.", "ev": "C", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://elconstitucional.es/es/nacional/politica/podemos-exige-gobierno-aprobar-nuevos-decretos-vivienda-belarra-senala-pp-vox-junts-por-su-veto-no-vamos-olvidar_8468_102.html"]},
+        "JUNTS": {"propone": "Competencias plenas para Cataluña; rechaza las medidas estatales que considera intervencionistas.", "hizo": "Votó con PP y Vox contra los decretos de vivienda (2 oct. 2026); Cataluña aplica zonas tensionadas desde 2024 (Govern de ERC y luego PSC).", "ev": "A", "src": ["https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/"]},
+        "ERC": {"propone": "Mantener y ampliar la regulación de alquileres y el parque público catalán.", "hizo": "Impulsó la declaración de zonas tensionadas en Cataluña (2024) y votó a favor de los decretos de 2026.", "ev": "B", "src": ["https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/", "https://www.idealista.com/news/inmobiliario/vivienda/2026/03/16/888113-dos-anos-de-alquiler-en-zonas-tensionadas-en-cataluna-espantada-de-la-oferta-y-una"]},
+        "BILDU": {"propone": "Vivienda como derecho, límite a alquileres turísticos y parque público.", "hizo": "Votó a favor de la ley de 2023 y de los decretos de 2026.", "ev": "B", "src": ["https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"]},
+        "PNV": {"propone": "Gestión desde Euskadi; apoyo a medidas estatales que no invadan competencias.", "hizo": "Votó sí a los decretos de 2026; Euskadi tiene el AROPE más bajo de España (14,7 %).", "ev": "B", "src": ["https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/", "https://www.ine.es/dyngs/Prensa/ECV2025.htm"]}
+      },
+      "lectura": {
+        "mejor": "ninguno con claridad; la receta de oferta (PP) es la que coincide con Banco de España y OCDE, la de protección (PSOE/Sumar) es la que tiene efectos inmediatos",
+        "porque": "Banco de España y OCDE coinciden: sin más oferta, los topes de precio reducen el alquiler disponible. El PP recoge esa receta, pero sin memoria económica del millón de viviendas, y sus comunidades no construyen a esa escala (Madrid: 5.785 de 14.000 en siete años). El PSOE acierta al proteger al inquilino vulnerable, pero tres años de ley no han bajado los precios.",
+        "riesgo": "Que el próximo Gobierno insista en precios y ayudas a la demanda (avales, IVA, bonificaciones): dan capacidad de pago sin añadir viviendas y, según el Banco de España, suben precios.",
+        "ev": "C"
+      },
+      "esperar": {
+        "pp_vox": "Derogación de la ley de 2023 y de los decretos de 2026, fin del escudo antidesahucios, suelo liberalizado y rebajas fiscales a la compra. Vox pediría 'prioridad nacional' en vivienda pública, de dudoso encaje legal.",
+        "pp_solo": "Rebajas fiscales y ley del suelo negociadas con PNV y otros; menos capacidad de derogar la ley de 2023 sin mayoría absoluta.",
+        "psoe_bloque": "Convalidación definitiva de los decretos de 2026, congelación de rentas y veto a fondos; riesgo de que la oferta de alquiler siga cayendo si no se construye.",
+        "bloqueo": "Las medidas de vivienda quedan en el limbo: ni se derogan ni se consolidan; los precios siguen su curso."
+      }
+    },
+    {
+      "id": "empleo_salarios",
+      "nombre": "Empleo y salarios",
+      "icono": "💼",
+      "pregunta": "¿Por qué hay empleo récord y sigo llegando justo a fin de mes?",
+      "cifras": [
+        {"n": "9,87 %", "l": "Paro en el 2T de 2026, mínimo desde 2008", "ev": "A", "src": "https://www.ine.es/dyngs/Prensa/EPA2T26.htm"},
+        {"n": "24.497 €", "l": "Salario mediano anual en 2024 (medio: 29.540 €)", "ev": "A", "src": "https://www.ine.es/dyngs/Prensa/EAES2024.htm"},
+        {"n": "1.221 €", "l": "Salario mínimo en 2026, +66 % desde 2018", "ev": "A", "src": "https://www.iberley.es/noticias/publicado-salario-minimo-interprofesional-2026-36093"}
+      ],
+      "diagnostico": "España crea empleo más deprisa que la zona euro (22,78 millones de ocupados) y la reforma de 2022 bajó la temporalidad del 25,6 % al 15 %. Pero el salario mediano (24.500 € brutos) sube menos que la vivienda y la comida. La causa es la productividad: crece un 1,4 % anual desde 2020, pero desde un nivel bajo. El paro es el mayor de la UE: Andalucía (14,6 %), Extremadura, Canarias y jóvenes.",
+      "gobierno": {
+        "hizo_bien": [
+          {"t": "Paro por debajo del 10 % por primera vez desde 2008 y ocupación récord (22,78 millones); PIB +2,8 % en 2025, por encima de la zona euro.", "ev": "A", "src": ["https://www.ine.es/dyngs/Prensa/EPA2T26.htm", "https://www.hacienda.gob.es/es-ES/Prensa/Noticias/Paginas/2026/20260331-NP-CIERRE-DEFICIT.aspx"]},
+          {"t": "Reforma laboral de 2022 pactada con sindicatos y patronal: temporalidad del 25,6 % al 15 %, indefinidos del 72 % al 81 %.", "ev": "B", "src": ["https://www.publico.es/politica/datos-avalan-reforma-laboral-yolanda-diaz-ano-despues-entrada-vigor.html", "https://www.mundiario.com/articulo/economia/erte-reforma-laboral-huella-diaz-frente-ministerio-trabajo/20260225161136376222.html"]},
+          {"t": "SMI de 736 € a 1.221 € (2018-2026), exento de IRPF; pobreza (AROPE) en mínimo de una década (25,7 %).", "ev": "A", "src": ["https://www.iberley.es/noticias/publicado-salario-minimo-interprofesional-2026-36093", "https://www.ine.es/dyngs/Prensa/ECV2025.htm"]}
+        ],
+        "hizo_mal": [
+          {"t": "La jornada de 37,5 horas, promesa central del pacto de coalición, fue rechazada por el Congreso (sept. 2025) y el Gobierno no logró rehacer la mayoría.", "ev": "A", "src": ["https://www.eleconomista.es/economia/noticias/13538757/09/25/diaz-insistira-para-conseguir-la-reduccion-de-jornada-pero-no-concreta-plazos-para-aprobarla.html"]},
+          {"t": "Los salarios reales han perdido poder de compra desde la pandemia (OCDE, -2,5 %) y la inflación ha vuelto al 4,9 % en 2026; el salario más frecuente (16.520 €) está un 44 % por debajo del medio.", "ev": "B", "src": ["https://www.eldiario.es/economia/salarios-reales-espana-han-caido-2-5-pandemia-ocde_1_11510326.html", "https://www.eleconomista.es/economia/noticias/13941902/05/26/el-salario-mas-frecuente-en-espana-asciende-a-16520-euros-pero-es-un-44-mas-bajo-que-el-sueldo-medio.html"]},
+          {"t": "Sin Presupuestos en toda la legislatura, las políticas activas de empleo y la formación se han gestionado con cuentas prorrogadas de 2023.", "ev": "A", "src": ["https://es.euronews.com/2026/09/27/espana-cumple-1000-dias-sin-nuevos-presupuestos-es-un-hurto-a-los-ciudadanos"]}
+        ],
+        "porque": "El Gobierno apostó por subir el suelo salarial (SMI, reforma laboral) y proteger el empleo (ERTE); los datos le dan la razón. No ha movido la productividad ni el tamaño de las empresas, que son lo que sube el salario medio. La inflación de 2026 viene de fuera y se come la mejora."
+      },
+      "partidos": {
+        "PP": {"propone": "'Plan Prepara': IRPF bonificado al 100/75/50/25 % los cuatro primeros años; salarios ligados a productividad; bonificar a empresas con menos bajas; IVA cero a autónomos nuevos y hasta 85.000 € facturados.", "hizo": "Reforma laboral de 2012 (despido más barato): el paro bajó del 26 % al 14 % entre 2013 y 2019, con alta temporalidad. Madrid: 19,8 % del PIB.", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://www.cordobabn.com/nacional/feijoo-insiste-combatir-absentismo-laboral-plantea-bonificar-empresas-menos-bajas-laborales/20261005162022270491.html", "https://www.madridactual.es/noticias-regionales/politica-en-madrid/ayuso-saca-pecho-7-anos-frente-comunidad-baja-fiscalidad-20260525-8103139.html"]},
+        "PSOE": {"propone": "Jornada de 36 horas antes de 2030; SMI en el 60 % del salario medio; cotizaciones de autónomos por ingresos reales; mantener el escudo social.", "hizo": "Reforma laboral 2022, SMI +66 %, ERTE en la pandemia, reforma del subsidio de desempleo.", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://www.publico.es/politica/datos-avalan-reforma-laboral-yolanda-diaz-ano-despues-entrada-vigor.html"]},
+        "VOX": {"propone": "Rechaza la reducción de jornada obligatoria; bajar costes laborales e impuestos; fin de subvenciones a sindicatos y patronal.", "hizo": "En Castilla y León (2022-2024 y 2026) pactó recortar subvenciones a sindicatos, medida que los tribunales revirtieron en la primera etapa.", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://www.moncloa.com/2026/09/07/pacto-pp-vox-castilla-y-leon-4-3427123"]},
+        "SUMAR": {"propone": "Jornada de 37,5 horas, más SMI, impuestos a grandes fortunas y banca, protección frente a grandes empresas en plazos de pago.", "hizo": "Ministerio de Trabajo 2020-2026: reforma laboral, SMI, 25 acuerdos con sindicatos; la jornada no salió.", "ev": "B", "src": ["https://www.mundiario.com/articulo/economia/erte-reforma-laboral-huella-diaz-frente-ministerio-trabajo/20260225161136376222.html", "https://www.eleconomista.es/economia/noticias/13538757/09/25/diaz-insistira-para-conseguir-la-reduccion-de-jornada-pero-no-concreta-plazos-para-aprobarla.html"]},
+        "PODEMOS": {"propone": "Jornada de 35 horas y SMI de 1.800 € al mes.", "hizo": "Participó en el Gobierno de coalición 2020-2023 (reforma laboral, SMI, ingreso mínimo vital).", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"]},
+        "PNV": {"propone": "Industria y formación profesional como motor; traspaso de la gestión de prestaciones por desempleo (logrado en 2026).", "hizo": "Euskadi: paro muy por debajo de la media y AROPE más bajo de España.", "ev": "B", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html", "https://www.ine.es/dyngs/Prensa/ECV2025.htm"]},
+        "BILDU": {"propone": "Subidas del SMI y reducción de jornada; marco vasco de relaciones laborales.", "hizo": "Votó las subidas del SMI y la reforma laboral.", "ev": "B", "src": ["https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"]}
+      },
+      "lectura": {
+        "mejor": "PSOE/SUMAR en empleo y suelo salarial; nadie con claridad en productividad",
+        "porque": "Los datos de empleo, temporalidad y pobreza son buenos, y la reforma de 2022 se pactó con la patronal. Pero el salario medio solo subirá con más productividad, y ahí nadie tiene propuesta medible: el PP ofrece rebajas fiscales que mejoran el neto, no el bruto; Sumar y Podemos, menos horas, que encarecen el empleo; Vox, abaratar costes, la receta de 2012, que dio precariedad.",
+        "riesgo": "Que la inflación de 2026 y una guerra comercial con EE. UU. frenen el ciclo cuando el nuevo Gobierno toque los impuestos; el empleo depende del turismo y la inmigración.",
+        "ev": "C"
+      },
+      "esperar": {
+        "pp_vox": "Bonificaciones fiscales a jóvenes y empresas, sin reducción de jornada; posible revisión parcial de la reforma laboral (el PP no ha dicho que la derogue). Vox pediría recortar subvenciones a sindicatos.",
+        "pp_solo": "Rebajas de IRPF negociadas; continuidad de la reforma laboral de 2022 por falta de mayoría para cambiarla.",
+        "psoe_bloque": "Nuevo intento de reducir la jornada (36 h), SMI al 60 % del salario medio; riesgo de choque con la patronal y de otra legislatura sin Presupuestos.",
+        "bloqueo": "SMI y pensiones se actualizan por decreto; nada más cambia."
+      }
+    },
+    {
+      "id": "coste_vida",
+      "nombre": "Coste de la vida",
+      "icono": "🛒",
+      "pregunta": "¿Por qué la compra y la luz cuestan mucho más que hace cinco años?",
+      "cifras": [
+        {"n": "4,9 %", "l": "Inflación en septiembre de 2026, máximo desde 2023", "ev": "A", "src": "https://www.ine.es/dyngs/Prensa/adIPC0926.htm"},
+        {"n": "+37 %", "l": "Subida de los alimentos en cinco años (IPC)", "ev": "A", "src": "https://www.que.es/2026/10/03/precio-alimentos-cesta-compra-37/"},
+        {"n": "3,1 %", "l": "Inflación subyacente (sin energía ni alimentos frescos)", "ev": "A", "src": "https://www.ine.es/dyngs/Prensa/adIPC0926.htm"}
+      ],
+      "diagnostico": "Dos capas. La externa: la energía subió con la guerra de Ucrania (2022) y vuelve a subir con la de Irán (desde febrero de 2026); los alimentos arrastran sequías y transporte. La interna: los precios no bajan cuando pasa el golpe, y lo que costaba 100 € en 2021 cuesta 137 €. En 2024-2025 España tuvo menos inflación que Europa gracias a las renovables; el repunte de 2026 se come los salarios.",
+      "gobierno": {
+        "hizo_bien": [
+          {"t": "Inflación media del 2,7 % en 2025 (8,5 % en 2022), por debajo de la zona euro; pensiones y SMI indexados al IPC para que no pierdan poder de compra.", "ev": "A", "src": ["https://www.elplural.com/economia/ine-confirma-inflacion-cerro-2025-media-27_378694102", "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/subida-pensiones-2026.aspx"]},
+          {"t": "Escudos anticrisis sucesivos: plan de respuesta a la crisis de Oriente Medio (RDL 7/2026) y nuevo escudo de gas y carburantes el 29 de septiembre de 2026.", "ev": "A", "src": ["https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6544", "https://www.deia.eus/economia/2026/09/29/gobierno-espanol-activa-nuevo-escudo-gas-crisis-11595535.html"]},
+          {"t": "Renovables por encima del 50 % de la generación eléctrica, lo que ha abaratado la electricidad mayorista frente a Europa en 2024-2025.", "ev": "B", "src": ["https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/051026-sanchez-convocatoria-elecciones.aspx"]}
+        ],
+        "hizo_mal": [
+          {"t": "Apagón del 28 de abril de 2025: la CNMC abrió 56 expedientes a Red Eléctrica (participada por el Estado) e Iberdrola y avisó de que la red no estaba preparada para la nueva realidad renovable.", "ev": "A", "src": ["https://www.elindependiente.com/economia/2026/04/28/guerra-informes-responsabilidades-apagon-28-abril/"]},
+          {"t": "Las ayudas anticrisis se han hecho por decreto y a golpe de crisis, sin Presupuestos, y varias (IVA de alimentos, carburantes) se retiraron y reactivaron; los alimentos frescos suben un 5,8 % anual en septiembre de 2026.", "ev": "B", "src": ["https://www.que.es/2026/10/03/precio-alimentos-cesta-compra-37/", "https://electomania.es/radiografia-del-decreto-ley-en-espana-747-aprobados-16-rechazados-13-en-el-ultimo-gobierno/"]},
+          {"t": "Giro nuclear tardío: prorrogó Almaraz hasta 2030 (agosto 2026) tras años defendiendo su cierre, alegando la crisis energética.", "ev": "A", "src": ["https://www.infobae.com/espana/2026/08/14/almaraz-seguira-operativa-hasta-junio-de-2030-el-gobierno-retrasa-el-cierre-de-la-central-nuclear/"]}
+        ],
+        "porque": "La inflación de 2022 y la de 2026 vienen de fuera (gas, petróleo). Los escudos del Gobierno amortiguaron el golpe, pero no devolvieron los precios al punto de partida; ningún Gobierno europeo lo ha logrado. Sí es responsabilidad interna la fragilidad de la red eléctrica que mostró el apagón y la indecisión sobre la nuclear."
+      },
+      "partidos": {
+        "PP": {"propone": "IVA del 0 % a alimentos básicos, IVA de la energía al 10 %, eliminar el impuesto a la generación eléctrica, alargar la vida de las nucleares.", "hizo": "Gobierno Rajoy (2012): IVA general del 18 al 21 % y reducido del 8 al 10 % por el déficit. Madrid ha bajado 34 impuestos desde 2019.", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://www.madridactual.es/noticias-regionales/politica-en-madrid/ayuso-saca-pecho-7-anos-frente-comunidad-baja-fiscalidad-20260525-8103139.html"]},
+        "PSOE": {"propone": "Mantener escudos anticrisis, acelerar renovables y reindustrialización, pensiones y SMI con el IPC.", "hizo": "Excepción ibérica (2022), rebajas temporales de IVA en alimentos y energía, Almaraz hasta 2030.", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://www.deia.eus/economia/2026/09/29/gobierno-espanol-activa-nuevo-escudo-gas-crisis-11595535.html"]},
+        "VOX": {"propone": "Bajada general de impuestos, nuclear, rechazo del Pacto Verde y de la Agenda 2030.", "hizo": "Sin gestión estatal; en gobiernos autonómicos (2026) sus pactos no incluyen medidas de precios.", "ev": "B", "src": ["https://www.democrata.es/encuestas/elecciones-generales/abascal-elecciones-29-n-ultima-oportunidad-vox-remigracion/"]},
+        "SUMAR": {"propone": "Topes a precios de alimentos básicos e impuestos a beneficios extraordinarios de energéticas y banca.", "hizo": "Desde el Gobierno impulsó el impuesto a energéticas y banca (2023-2024) y las rebajas de IVA.", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"]},
+        "PODEMOS": {"propone": "Empresa pública de energía y topes a alimentos básicos.", "hizo": "Desde el Gobierno (2020-2023) impulsó la excepción ibérica y el bono social.", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"]},
+        "PNV": {"propone": "Energía e industria como prioridades; posición sobre nuclear no concretada.", "hizo": "Apoyó los escudos anticrisis del Gobierno.", "ev": "C", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"]}
+      },
+      "lectura": {
+        "mejor": "ninguno con claridad",
+        "porque": "Las rebajas de IVA (PP) alivian de inmediato, pero cuestan miles de millones y, según 2023, solo llegan en parte al precio final. Los topes de precios (Sumar, Podemos) chocan con el mercado único. Los escudos del PSOE amortiguan, pero son temporales y se pagan con deuda. Lo que baja la factura a medio plazo es energía barata (renovables, red robusta, nuclear mientras haga falta).",
+        "riesgo": "Que la guerra de Irán mantenga el petróleo alto y el nuevo Gobierno tenga que elegir entre otro escudo (más deuda) o dejar que la inflación erosione salarios y pensiones.",
+        "ev": "C"
+      },
+      "esperar": {
+        "pp_vox": "Rebajas de IVA en alimentos y energía, alargamiento de nucleares, menos impuestos a la electricidad; coste fiscal elevado que las reglas europeas limitan.",
+        "pp_solo": "Rebajas fiscales selectivas pactadas con PNV; continuidad de escudos temporales.",
+        "psoe_bloque": "Escudos anticrisis prorrogados, impuestos a energéticas y banca, pensiones y SMI indexados.",
+        "bloqueo": "El Gobierno en funciones puede prorrogar escudos por decreto pero no legislar; riesgo de que las ayudas caduquen."
+      }
+    },
+    {
+      "id": "inmigracion_seguridad",
+      "nombre": "Inmigración y seguridad",
+      "icono": "🛂",
+      "pregunta": "¿Hay más delincuencia por la inmigración o es una percepción?",
+      "cifras": [
+        {"n": "14,9 %", "l": "Población con nacionalidad extranjera (7,44 millones, 1 julio 2026)", "ev": "A", "src": "https://www.ine.es/dyngs/Prensa/ECP2T26.htm"},
+        {"n": "40,5 ‰", "l": "Delitos convencionales por mil habitantes, 'nivel históricamente bajo'", "ev": "A", "src": "https://www.cordobabn.com/nacional/criminalidad-espana-sube-05-junio-2026-aumento-delitos-sexuales-rinas-trafico-drogas/20260917155447267986.html"},
+        {"n": "-16,5 %", "l": "Llegadas irregulares enero-septiembre 2026 (21.906)", "ev": "A", "src": "https://www.moncloa.com/2026/09/18/inmigracion-irregular-baleares-ministerio-interior-3433319"}
+      ],
+      "diagnostico": "España crece casi medio millón de personas al año, todas nacidas fuera (10,3 millones de residentes). Esa inmigración sostiene empleo y pensiones, y presiona vivienda y servicios donde se concentra. La delincuencia convencional está en mínimos (40,5 delitos por mil), aunque suben delitos sexuales (+4 %), riñas y narcotráfico; la sensación de inseguridad ha subido mucho más, tras Ceuta. Los extranjeros están sobrerrepresentados en detenciones; pesan edad, sexo y renta.",
+      "gobierno": {
+        "hizo_bien": [
+          {"t": "Regularización extraordinaria (RD 316/2026): 1.174.978 solicitudes y 159.097 nuevas afiliaciones a la Seguridad Social hasta el 30 de junio; cumple una ILP con 700.000 firmas.", "ev": "A", "src": ["https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/020726-balance-regularizacion-extraordinaria.aspx"]},
+          {"t": "Llegadas irregulares -16,5 % en 2026 y ruta canaria -55 %, por la cooperación con Marruecos, Mauritania y Senegal.", "ev": "A", "src": ["https://www.moncloa.com/2026/09/18/inmigracion-irregular-baleares-ministerio-interior-3433319"]},
+          {"t": "Criminalidad convencional en niveles históricamente bajos según el balance de Interior del primer semestre de 2026; delitos contra el patrimonio -3,6 %.", "ev": "A", "src": ["https://www.cordobabn.com/nacional/criminalidad-espana-sube-05-junio-2026-aumento-delitos-sexuales-rinas-trafico-drogas/20260917155447267986.html"]}
+        ],
+        "hizo_mal": [
+          {"t": "Crisis de Ceuta (30 julio-1 agosto 2026): más de 60.000 entradas en 48 horas, 67 muertos, 48.300 retornos; despliegue militar que la oposición calificó de tardío, rechazo inicial a declarar emergencia nacional e Italia suspendió Schengen con España.", "ev": "B", "src": ["https://www.infobae.com/espana/2026/08/02/la-crisis-de-ceuta-en-cinco-claves-de-las-falsas-promesas-de-asilo-a-la-avalancha-de-60000-personas-y-el-papel-de-marruecos/"]},
+          {"t": "La delegación de competencias migratorias a Cataluña pactada con Junts fue rechazada por el Congreso (sept. 2025) y rompió la mayoría; el reparto de menores migrantes con las comunidades se hizo por decreto y con litigios.", "ev": "A", "src": ["https://www.eldiario.es/politica/congreso-rechaza-ley-junts-psoe-traspaso-competencias-inmigracion-catalunya_1_12625754.html"]},
+          {"t": "Suben los delitos sexuales (+4 %), los secuestros (+17,5 %), las riñas (+10 %) y el tráfico de drogas (+8,3 %) en el primer semestre de 2026.", "ev": "A", "src": ["https://www.cordobabn.com/nacional/criminalidad-espana-sube-05-junio-2026-aumento-delitos-sexuales-rinas-trafico-drogas/20260917155447267986.html"]}
+        ],
+        "porque": "El Gobierno ha tratado la inmigración como un activo económico (regularización, cooperación con países de origen), con resultados en empleo y en menos llegadas. No ha planificado su impacto en vivienda y servicios, que recae en comunidades y ayuntamientos. Ceuta mostró los límites de la cooperación con Marruecos. En seguridad llegó tarde al debate."
+      },
+      "partidos": {
+        "PP": {"propone": "Visado por puntos con criterios de idioma e integración (prioridad a hispanoamericanos), 'tolerancia cero' con quien delinca y expulsión, revisión de la regularización extraordinaria, más medios en fronteras.", "hizo": "Gobierno Rajoy: retiró la sanidad a irregulares (2012, revertido en 2018) y legalizó las devoluciones en caliente (2015, avaladas por el TEDH en 2020).", "ev": "B", "src": ["https://cnnespanol.cnn.com/2025/09/29/espana/visado-por-puntos-migrantes-feijoo-orix", "https://www.democrata.es/actualidad/decalogo-pp-inmigracion-feijoo-detalla-plan-ordenar-politica-migratoria/"]},
+        "PSOE": {"propone": "Regularización consolidada, migración legal ligada al empleo, cooperación con Marruecos y África, aplicación de la sentencia del Supremo sobre devoluciones en caliente.", "hizo": "Regularización de 2026, reforma del reglamento de extranjería (2024), reparto de menores por decreto, cooperación con Marruecos.", "ev": "A", "src": ["https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/020726-balance-regularizacion-extraordinaria.aspx"]},
+        "VOX": {"propone": "'Remigración': expulsar a irregulares, a quien delinca y a quien 'viva de subsidios'; 'prioridad nacional' en ayudas y vivienda; derogar la regularización; publicar delitos por nacionalidad; cierre de fronteras.", "hizo": "Rompió con el PP en las autonomías en 2024 por acoger a 347 menores; en Andalucía y Castilla y León (2026) impuso la 'prioridad nacional'.", "ev": "B", "src": ["https://www.infobae.com/espana/agencias/2026/09/14/abascal-plantea-procesos-de-repatriaciones-de-inmigrantes-que-delincan-y-de-remigracion-para-los-que-no-trabajan/", "https://es.euronews.com/2024/07/11/vox-rompe-con-el-pp-en-todos-los-gobierno-autonomicos", "https://www.eldiario.es/andalucia/juanma-moreno-firmar-pacto-gobierno-vox-prioridad-nacional-existe-administracion_1_13352085.html"]},
+        "SUMAR": {"propone": "Vías legales y seguras, regularización permanente, derogar la 'ley mordaza'.", "hizo": "Impulsó la regularización extraordinaria desde el Gobierno.", "ev": "B", "src": ["https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/020726-balance-regularizacion-extraordinaria.aspx"]},
+        "PODEMOS": {"propone": "Regularización permanente; derogar la 'ley mordaza'; rechazo a delegar la política migratoria a Cataluña.", "hizo": "Vetó la delegación de competencias a Cataluña (sept. 2025).", "ev": "A", "src": ["https://www.eldiario.es/politica/congreso-rechaza-ley-junts-psoe-traspaso-competencias-inmigracion-catalunya_1_12625754.html"]},
+        "JUNTS": {"propone": "Competencias plenas de inmigración para Cataluña (permisos, expulsiones) y requisito de catalán para el arraigo.", "hizo": "Pactó la delegación con el PSOE (2025) y la volvió a registrar en solitario en 2026; el Gobierno la rechazó.", "ev": "A", "src": ["https://www.moncloa.com/2026/08/27/gobierno-rechaza-competencias-inmigracion-cataluna-3422002"]},
+        "SALF": {"propone": "Sin programa; discurso de orden público y expulsiones.", "hizo": "Sin gestión; Alvise tiene seis causas abiertas en el Supremo.", "ev": "C", "src": ["https://www.moncloa.com/2026/10/04/alvise-perez-supremo-seis-causas-3442356/"]},
+        "PNV": {"propone": "Gestión autonómica de la acogida; inmigración como necesidad demográfica.", "hizo": "Euskadi gestiona la acogida de menores con programas propios.", "ev": "C", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"]}
+      },
+      "lectura": {
+        "mejor": "PSOE en datos (empleo, llegadas); PP en orden y visado por puntos; VOX propone lo jurídicamente inviable",
+        "porque": "Los datos de 2026 (menos llegadas irregulares, delincuencia en mínimos) avalan la gestión en lo medible; sus fallos son Ceuta y no planificar el impacto en vivienda y servicios. El visado por puntos del PP se parece al de Canadá o Australia y es legal en la UE. La 'remigración' de Vox (expulsar a residentes legales) choca con la Constitución y la UE.",
+        "riesgo": "Que una nueva crisis como la de Ceuta en campaña convierta la inmigración en el único eje y se legisle con prisa contra sentencias del Supremo y del TEDH.",
+        "ev": "C"
+      },
+      "esperar": {
+        "pp_vox": "Visado por puntos, expulsiones aceleradas, revisión de la regularización y 'prioridad nacional' en ayudas; choque probable con el Supremo (devoluciones), el TC y la UE (Pacto de Migración).",
+        "pp_solo": "Decálogo del PP sin 'remigración'; cooperación con Marruecos mantenida.",
+        "psoe_bloque": "Regularización consolidada, más vías legales, aplicación de la sentencia del Supremo sobre devoluciones; Junts volvería a pedir competencias.",
+        "bloqueo": "Gestión en funciones; sin reformas ni de extranjería ni de fronteras."
+      }
+    },
+    {
+      "id": "sanidad_dependencia",
+      "nombre": "Sanidad y dependencia",
+      "icono": "🏥",
+      "pregunta": "¿Por qué espero meses para operarme o para que atiendan a mi madre?",
+      "cifras": [
+        {"n": "853.509", "l": "Pacientes en espera quirúrgica (dic. 2025), media 121 días", "ev": "A", "src": "https://isanidad.com/368987/en-espana-esperan-una-operacion-mas-de-853-000-personas-y-el-21-supera-los-seis-meses/"},
+        {"n": "265.460", "l": "Personas esperando valoración o prestación de dependencia (mayo 2026)", "ev": "B", "src": "https://www.publico.es/sociedad/sanidad/13-503-personas-han-muerto-listas-espera-dependencia-primeros-cinco-meses-2026-insoportable.html"},
+        {"n": "21,1 %", "l": "De 65 años o más; 30,9 % en 2076", "ev": "A", "src": "https://www.ine.es/dyngs/Prensa/PROP20262076.htm"}
+      ],
+      "diagnostico": "Sanidad y dependencia las gestionan las comunidades; el Estado fija el marco y financia parte. La espera quirúrgica va de 50 días en Madrid a 173 en Andalucía. La dependencia tarda 320 días de media cuando la ley fija 180 (552 en Murcia, 446 en Andalucía). Detrás hay envejecimiento (uno de cada cinco supera los 65 años), falta de médicos y una financiación autonómica caducada desde 2014.",
+      "gobierno": {
+        "hizo_bien": [
+          {"t": "Ley 20/2021 y acuerdos de dependencia: redujo plazos en 2021-2023 con 600 M€ anuales extra del Plan de Choque y amplió el permiso de nacimiento.", "ev": "B", "src": ["https://www.publico.es/sociedad/sanidad/13-503-personas-han-muerto-listas-espera-dependencia-primeros-cinco-meses-2026-insoportable.html"]},
+          {"t": "Ley de equidad y universalidad (2023) y recuperación de la sanidad universal (2018); gasto sanitario público en máximo histórico en euros.", "ev": "B", "src": ["https://aqui.madrid/elecciones-29n-vivienda-sanidad-educacion-y-pensiones-los-cuatro-frentes-de-la-campana"]},
+          {"t": "Unificación de criterios de medición de listas de espera en marcha tras detectar diferencias entre comunidades.", "ev": "B", "src": ["https://aqui.madrid/elecciones-29n-vivienda-sanidad-educacion-y-pensiones-los-cuatro-frentes-de-la-campana", "https://www.libertaddigital.com/ciencia-tecnologia/salud/2026-09-24/sanidad-corrige-las-listas-de-espera-tras-la-rectificacion-de-castilla-la-mancha-de-92-a-117-dias-de-demora-quirurgica-7465472/"]}
+        ],
+        "hizo_mal": [
+          {"t": "La financiación extra de la dependencia (600 M€/año) se acabó en 2024 sin Presupuestos; la lista de espera volvió a crecer y 13.503 personas murieron esperando en los cinco primeros meses de 2026.", "ev": "B", "src": ["https://www.publico.es/sociedad/sanidad/13-503-personas-han-muerto-listas-espera-dependencia-primeros-cinco-meses-2026-insoportable.html"]},
+          {"t": "La lista quirúrgica cerró 2025 con 853.509 pacientes (+0,8 %) y la espera para el especialista subió a 102 días; el nuevo Estatuto Marco del personal sanitario provocó huelgas médicas en 2025-2026 y no se aprobó.", "ev": "A", "src": ["https://isanidad.com/368987/en-espana-esperan-una-operacion-mas-de-853-000-personas-y-el-21-supera-los-seis-meses/", "https://www.ultimahora.es/noticias/nacional/2026/03/02/2580913/feijoo-compromete-aumentar-plantillas-medicos-para-mejorar-condiciones-guardias-jornadas.html"]},
+          {"t": "La reforma de la financiación autonómica, que decide cuánto recibe cada comunidad para sanidad, no se ha aprobado en ocho años de Gobierno.", "ev": "A", "src": ["https://eldebate.com/economia/20261005/grandes-promesas-economicas-sanchez-yolanda-diaz-encallan-pese-asalto-instituciones-empresas_465891.html"]}
+        ],
+        "porque": "El Estado puso dinero extra en dependencia y funcionó mientras duró; sin Presupuestos desde 2023, ese dinero desapareció y las listas volvieron a crecer. En sanidad el Ministerio tiene poco poder: las comunidades deciden plantillas y hospitales, y el Estado no ha logrado ni el Estatuto Marco ni la financiación autonómica."
+      },
+      "partidos": {
+        "PP": {"propone": "15 % más de médicos en el SNS (26.500), equiparar horas de guardia a ordinarias, más plazas MIR, financiación sanitaria separada dentro del sistema autonómico, plan antiagresiones.", "hizo": "Gobierna 12 comunidades. Madrid: espera quirúrgica más corta (50 días) y más colaboración privada. Andalucía: la más larga (173 días) y la crisis de cribados.", "ev": "B", "src": ["https://www.ultimahora.es/noticias/nacional/2026/03/02/2580913/feijoo-compromete-aumentar-plantillas-medicos-para-mejorar-condiciones-guardias-jornadas.html", "https://www.que.es/2026/09/25/listas-espera-quirurgicas-madrid-50-dias/", "https://diariofarma.com/2025/10/09/dimite-la-consejera-andaluza-de-salud-por-el-escandalo-en-los-cribados-de-cancer"]},
+        "PSOE": {"propone": "Criterios únicos de listas de espera, blindar la sanidad pública frente a la privatización, recuperar la financiación extra de dependencia.", "hizo": "Gobierno central 2018-2026; Castilla-La Mancha (PSOE) rectificó sus listas de espera en 2026.", "ev": "B", "src": ["https://aqui.madrid/elecciones-29n-vivienda-sanidad-educacion-y-pensiones-los-cuatro-frentes-de-la-campana", "https://www.libertaddigital.com/ciencia-tecnologia/salud/2026-09-24/sanidad-corrige-las-listas-de-espera-tras-la-rectificacion-de-castilla-la-mancha-de-92-a-117-dias-de-demora-quirurgica-7465472/"]},
+        "VOX": {"propone": "'Prioridad nacional' en el acceso a servicios, tarjeta sanitaria única, concierto con la privada.", "hizo": "Entró en gobiernos autonómicos en 2026 sin consejerías de sanidad.", "ev": "C", "src": ["https://www.elconstitucional.es/es/nacional/politica/santiago-abascal-ya-pone-condiciones-feijoo-gobernar-en-coalicion-elecciones-29n-remigracion-prioridad-nacional_8538_102.html"]},
+        "SUMAR": {"propone": "Ley de salud mental, fin de los conciertos con la privada, más atención primaria.", "hizo": "Ministerio de Sanidad (Mónica García, Más Madrid) 2023-2026: ley antitabaco, Estatuto Marco (no aprobado), criterios de listas de espera.", "ev": "B", "src": ["https://aqui.madrid/elecciones-29n-vivienda-sanidad-educacion-y-pensiones-los-cuatro-frentes-de-la-campana"]},
+        "PODEMOS": {"propone": "Blindar por ley el gasto sanitario y la dependencia; derogar la ley 15/97 de gestión privada.", "hizo": "Desde el Gobierno (2020-2023) el Plan de Choque de dependencia.", "ev": "C", "src": ["https://www.publico.es/sociedad/sanidad/13-503-personas-han-muerto-listas-espera-dependencia-primeros-cinco-meses-2026-insoportable.html"]},
+        "PNV": {"propone": "Financiación propia (concierto) para sanidad; defensa de Osakidetza.", "hizo": "Euskadi gestiona con el concierto económico; está entre las comunidades que cumplen el plazo legal de dependencia.", "ev": "B", "src": ["https://www.publico.es/sociedad/sanidad/13-503-personas-han-muerto-listas-espera-dependencia-primeros-cinco-meses-2026-insoportable.html"]}
+      },
+      "lectura": {
+        "mejor": "ninguno con claridad; la propuesta más concreta es la del PP (plantillas), la más necesaria es financiar la dependencia (PSOE/Sumar)",
+        "porque": "El cuello de botella: profesionales y dinero por habitante envejecido. Lo deciden la financiación autonómica (sin reformar desde 2014, con PP y PSOE en el Gobierno) y las plantillas (comunidades). El PP ha puesto cifra (26.500 médicos), pero gobierna la comunidad con más espera (Andalucía) y la que menos (Madrid). El Gobierno demostró que el dinero extra baja las listas y lo retiró.",
+        "riesgo": "Que la campaña se reduzca a 'público contra privado' y nadie afronte lo aburrido: cuántos médicos se forman, cómo se reparte el dinero y cómo se miden las listas.",
+        "ev": "C"
+      },
+      "esperar": {
+        "pp_vox": "Más colaboración público-privada, plan de plantillas y guardias, financiación sanitaria finalista; Vox pediría 'prioridad nacional' en el acceso, de dudosa legalidad.",
+        "pp_solo": "Pacto sobre plantillas y MIR con apoyo transversal; reforma de la financiación autonómica más probable por necesidad aritmética.",
+        "psoe_bloque": "Recuperar la financiación extra de dependencia, Estatuto Marco y criterios únicos de listas; dependerá otra vez de aprobar Presupuestos.",
+        "bloqueo": "Sin Presupuestos, la dependencia sigue sin el dinero extra y las listas crecen."
+      }
+    },
+    {
+      "id": "deuda_fiscalidad_pensiones",
+      "nombre": "Deuda, impuestos y pensiones",
+      "icono": "💶",
+      "pregunta": "¿Puede España pagar las pensiones y bajar impuestos a la vez?",
+      "cifras": [
+        {"n": "101,4 %", "l": "Deuda pública sobre PIB (junio 2026), bajando", "ev": "A", "src": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/notas-banco-espana/la-deuda-de-las-administraciones-publicas-se-situo-en-el-1014-del-pib-en-junio-de-2026-18-pp-menos-que-hace-un-ano.html"},
+        {"n": "2,2 %", "l": "Déficit público en 2025, el más bajo desde 2007", "ev": "A", "src": "https://www.hacienda.gob.es/es-ES/Prensa/Noticias/Paginas/2026/20260331-NP-CIERRE-DEFICIT.aspx"},
+        {"n": "16,4 %", "l": "Pensiones sobre PIB en 2050 (AIReF); hoy 13 %", "ev": "A", "src": "https://www.elespanol.com/invertia/economia/empleo/20260529/airef-aprueba-prevision-gasto-pensiones-gobierno-alerta-deuda-publica-subira-pib/1003744265208_0.html"}
+      ],
+      "diagnostico": "Las cuentas mejoran por el crecimiento: ingresos récord (+10,4 % en 2025), déficit del 2,2 % y deuda que baja en porcentaje aunque sube en euros. El problema es a medio plazo: las pensiones suben con el IPC desde 2021 y, con el 'baby boom' jubilado, pasarán del 13 % al 16,4 % del PIB en 2050. La AIReF proyecta una deuda del 123 % en 2050 y pide un ajuste del 0,6 % del PIB.",
+      "gobierno": {
+        "hizo_bien": [
+          {"t": "Déficit del 2,2 % en 2025 (mejor que el objetivo con la UE por sexto año), superávit primario por primera vez desde 2007 y deuda del 101,4 % (-1,8 puntos en un año).", "ev": "A", "src": ["https://www.hacienda.gob.es/es-ES/Prensa/Noticias/Paginas/2026/20260331-NP-CIERRE-DEFICIT.aspx", "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/notas-banco-espana/la-deuda-de-las-administraciones-publicas-se-situo-en-el-1014-del-pib-en-junio-de-2026-18-pp-menos-que-hace-un-ano.html"]},
+          {"t": "Reforma de pensiones 2021-2023 pactada con Bruselas: revalorización con el IPC, Mecanismo de Equidad Intergeneracional (aporta 1,6 puntos de PIB en ingresos) y destope gradual de bases; la AIReF confirma que se cumple la regla de gasto.", "ev": "A", "src": ["https://www.elespanol.com/invertia/economia/empleo/20260529/airef-aprueba-prevision-gasto-pensiones-gobierno-alerta-deuda-publica-subira-pib/1003744265208_0.html", "https://www.airef.es/wp-content/uploads/2026/05/Pensiones/AIReF.-Estudio-de-evaluacion-de-la-regla-de-gasto-de-pensiones.pdf"]},
+          {"t": "Pensiones mínimas +7 % y no contributivas +11,4 % en 2026; SMI y pensiones mínimas exentas de IRPF.", "ev": "A", "src": ["https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/subida-pensiones-2026.aspx"]}
+        ],
+        "hizo_mal": [
+          {"t": "Primera legislatura de la democracia sin Presupuestos: las cuentas de 2023 se prorrogaron tres veces y la senda de déficit fue tumbada por el Congreso (nov. 2025).", "ev": "A", "src": ["https://es.euronews.com/2026/09/27/espana-cumple-1000-dias-sin-nuevos-presupuestos-es-un-hurto-a-los-ciudadanos", "https://www.elespanol.com/espana/politica/20251126/junts-comunica-gobierno-tumbara-senda-deficit-cumple-amenaza-ruptura-peor-momento-sanchez/1003744030761_0.html"]},
+          {"t": "La AIReF avisa (julio 2026) de que el gasto primario crece un 6,4 % y agota todo el margen de las reglas fiscales hasta 2028; pide un ajuste del 0,6 % del PIB en 2026.", "ev": "A", "src": ["https://theobjective.com/economia/2026-07-15/airef-gobierno-ajuste-pib-normas-fiscales/", "https://www.airef.es/es/noticias/la-airef-advierte-de-que-el-mayor-crecimiento-del-gasto-neto-de-medidas-de-ingresos-complica-el-cumplimiento-de-los-compromisos-fiscales-en-2026/"]},
+          {"t": "El IRPF no se ha deflactado desde 2018: la inflación ha subido la recaudación sin votar subidas de impuestos; la deuda en euros sigue creciendo (+4,2 % interanual).", "ev": "B", "src": ["https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/notas-banco-espana/la-deuda-de-las-administraciones-publicas-se-situo-en-el-1014-del-pib-en-junio-de-2026-18-pp-menos-que-hace-un-ano.html", "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"]}
+        ],
+        "porque": "El Gobierno redujo el déficit sin recortes porque la economía crecía y la inflación subía la recaudación, no porque decidiera en qué gastar menos: sin Presupuestos, el gasto crece por decreto y por indexación. La reforma de pensiones aplaza el problema a 2050 y confía en más cotizantes (inmigración) y más transferencias del Estado."
+      },
+      "partidos": {
+        "PP": {"propone": "Deflactar el IRPF, mínimo por hijo de 2.400 a 4.800 €, IVA del 0 % a alimentos básicos y del 10 % a la energía, 'Plan Prepara' para jóvenes. Pensiones: sin cambios anunciados.", "hizo": "Gobierno Rajoy: revalorización del 0,25 % (2013-2018), que desligó las pensiones del IPC, y subida del IVA en 2012. Madrid: 34 bajadas de impuestos desde 2019.", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://www.madridactual.es/noticias-regionales/politica-en-madrid/ayuso-saca-pecho-7-anos-frente-comunidad-baja-fiscalidad-20260525-8103139.html"]},
+        "PSOE": {"propone": "Más progresividad (grandes empresas y rentas altas), lucha contra el fraude, pensiones con el IPC; sin cifras fiscales nuevas a 5 de octubre.", "hizo": "Reforma de pensiones 2021-2023, impuestos a banca y energéticas, SMI exento, déficit del 2,2 %.", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://www.hacienda.gob.es/es-ES/Prensa/Noticias/Paginas/2026/20260331-NP-CIERRE-DEFICIT.aspx"]},
+        "VOX": {"propone": "Modelo mixto de pensiones (reparto más capitalización individual obligatoria): 'el sistema es un zombi'; bajada general de impuestos y supresión de 'chiringuitos'.", "hizo": "Sin gestión estatal; en 2019 proponía IRPF del 20 % hasta 60.000 € y suprimir Patrimonio y Sucesiones.", "ev": "B", "src": ["https://www.eldebate.com/economia/20261004/jose-maria-figaredo-vox-sistema-pensiones-zombi-han-quebrado_465570.html", "https://infobae.com/espana/2026/10/05/vox-dice-que-el-sistema-de-pensiones-es-un-zombi-que-ha-quebrado-y-propone-un-modelo-que-combine-reparto-y-capitalizacion-individual"]},
+        "SUMAR": {"propone": "Impuesto a grandes fortunas y banca permanente, pensiones con el IPC, más gasto social.", "hizo": "Desde el Gobierno: impuestos a banca y energéticas, SMI exento de IRPF.", "ev": "B", "src": ["https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html"]},
+        "PODEMOS": {"propone": "Impuestos a grandes fortunas, pensiones blindadas en la Constitución.", "hizo": "Gobierno 2020-2023: ingreso mínimo vital, impuesto temporal a grandes fortunas.", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"]},
+        "PNV": {"propone": "Traspaso del régimen económico de la Seguridad Social a Euskadi; defensa del concierto y el cupo.", "hizo": "Negoció cinco traspasos en 2026; Seguridad Social pendiente.", "ev": "B", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"]},
+        "BILDU": {"propone": "Pensiones mínimas de 1.080 € y revalorización con el IPC; más impuestos a rentas altas.", "hizo": "Votó la reforma de pensiones y las subidas de mínimas.", "ev": "B", "src": ["https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"]}
+      },
+      "lectura": {
+        "mejor": "ninguno con claridad; PSOE en resultados de déficit, nadie en sostenibilidad de pensiones",
+        "porque": "Hacienda y Banco de España avalan la consolidación, pero la AIReF dice que se hizo con ingresos extraordinarios y que el gasto desborda las reglas en 2026. El PP promete rebajas de miles de millones sin decir qué recorta. Vox propone pensiones por capitalización sin cifrar la transición. PSOE y Sumar prometen más gasto con impuestos a bancos y fortunas que recaudan poco.",
+        "riesgo": "Que el próximo Gobierno baje impuestos o suba gasto mientras la economía se frena, y la deuda suba con tipos más altos que en 2021; Bruselas abriría procedimiento por déficit.",
+        "ev": "C"
+      },
+      "esperar": {
+        "pp_vox": "Deflactar el IRPF, rebajas de IVA y mínimo por hijo: varios puntos de PIB que exigirían recortes no anunciados o más deuda. Vox presionaría por el modelo mixto de pensiones, que el PP no comparte.",
+        "pp_solo": "Rebajas fiscales moderadas pactadas con PNV; continuidad de la reforma de pensiones por falta de mayoría para tocarla.",
+        "psoe_bloque": "Continuidad: pensiones con el IPC, más impuestos a banca y fortunas; riesgo de otra legislatura sin Presupuestos y de incumplir las reglas europeas.",
+        "bloqueo": "Presupuestos de 2023 prorrogados un cuarto año; las agencias de rating y Bruselas penalizan la parálisis."
+      }
+    },
+    {
+      "id": "instituciones_corrupcion",
+      "nombre": "Instituciones y corrupción",
+      "icono": "⚖️",
+      "pregunta": "¿Funcionan las instituciones o están secuestradas por los partidos?",
+      "cifras": [
+        {"n": "0", "l": "Presupuestos aprobados en la legislatura; 11 decretos-ley derogados", "ev": "A", "src": "https://es.euronews.com/2026/09/27/espana-cumple-1000-dias-sin-nuevos-presupuestos-es-un-hurto-a-los-ciudadanos"},
+        {"n": "22ª de 27", "l": "Puesto en la UE en independencia judicial percibida", "ev": "A", "src": "https://www.infolibre.es/politica/espanoles-colocan-jueces-cola-europa-independencia-influencia-politicos_1_2208997.html"},
+        {"n": "24 años", "l": "Condena del Supremo al exministro Ábalos (caso mascarillas)", "ev": "A", "src": "https://www.infobae.com/espana/2026/06/22/el-supremo-condena-a-abalos-a-24-anos-de-carcel-por-mordidas-en-contratos-de-mascarillas-y-contratacion-irregular/"}
+      ],
+      "diagnostico": "España es democracia plena, con dos fallos según Bruselas: los partidos controlan los órganos de control y faltan leyes anticorrupción. Esta legislatura: un exministro condenado a 24 años, el fiscal general y el hermano del presidente condenados, su esposa a juicio, la financiación del PSOE investigada. Enfrente, el PP bloqueó el CGPJ 5,5 años y tiene instrucciones abiertas; Vox ocultó un préstamo húngaro; SALF, seis causas. Ninguna instrucción es condena.",
+      "gobierno": {
+        "hizo_bien": [
+          {"t": "Renovación del CGPJ (junio 2024) pactada con el PP con mediación europea; 196 nombramientos judiciales después 'la mayoría con amplio consenso' (Comisión Europea).", "ev": "A", "src": ["https://maldita.es/malditateexplica/20240625/renovacion-cgpj-claves-gobierno-psoe-pp/", "https://commission.europa.eu/document/download/82ce1391-cde5-49e9-9d1b-3f14f4975eb7_es?filename=13_2_coun_chap_spain_es.pdf"]},
+          {"t": "La Comisión Europea reconoce 'avances significativos' en 2026 en el sistema de elección del CGPJ y en el estatuto del fiscal general (anteproyecto con mandato de 5 años desligado del Gobierno).", "ev": "A", "src": ["https://commission.europa.eu/document/download/82ce1391-cde5-49e9-9d1b-3f14f4975eb7_es?filename=13_2_coun_chap_spain_es.pdf"]},
+          {"t": "La ley de amnistía ha superado el Tribunal Constitucional y el TJUE: el sistema de control funcionó aunque la ley fuera controvertida.", "ev": "A", "src": ["https://www.publico.es/politica/tribunales/sentencia-tjue-sobre-ley-amnistia-puigdemont-directo.html"]}
+        ],
+        "hizo_mal": [
+          {"t": "Condenas firmes o en primera instancia en el entorno del Gobierno: Ábalos (24 años, Supremo), el fiscal general García Ortiz (inhabilitación, Supremo, primera vez en democracia; el Gobierno lo mantuvo hasta la condena) y David Sánchez (9 años de inhabilitación, Audiencia de Badajoz).", "ev": "A", "src": ["https://www.infobae.com/espana/2026/06/22/el-supremo-condena-a-abalos-a-24-anos-de-carcel-por-mordidas-en-contratos-de-mascarillas-y-contratacion-irregular/", "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-notifica-la-sentencia-que-condena-por-revelacion-de-datos-reservados-al-fiscal-general-del-Estado-", "https://www.newtral.es/claves-sentencia-david-sanchez/20260714/"]},
+          {"t": "Instrucciones abiertas (sin juicio): Santos Cerdán (142 días en prisión provisional), pieza de financiación del PSOE y caso Leire Díez (registro de Ferraz) en la Audiencia Nacional; Begoña Gómez a juicio con jurado (la Fiscalía pide absolución); Zapatero investigado en Plus Ultra.", "ev": "B", "src": ["https://theobjective.com/espana/tribunales/2025-11-19/santos-cerdan-soto-real-cinco-meses-prision/", "https://www.infobae.com/espana/2026/09/21/el-juez-peinado-envia-a-begona-gomez-a-juicio-ante-un-jurado-popular-en-la-audiencia-provincial-de-madrid-por-malversacion-y-trafico-de-influencias/"]},
+          {"t": "Sin Presupuestos en toda la legislatura, 32 leyes en tres años, 11 decretos derogados; RTVE reformada por decreto con mayorías rebajadas (riesgo 'medio-alto', Comisión Europea); ley de lobbies con enmiendas prorrogadas 21 veces; 'sin avances' en conflictos de interés y acceso a la información.", "ev": "A", "src": ["https://www.que.es/2026/08/17/congreso-paralizado-sanchez-decretos/", "https://civio.es/el-boe-nuestro-de-cada-dia/2024/10/23/el-gobierno-reforma-la-ley-de-rtve-para-rebajar-las-mayorias-para-la-eleccion-de-sus-consejeros-que-pasan-de-10-a-15/", "https://commission.europa.eu/document/download/82ce1391-cde5-49e9-9d1b-3f14f4975eb7_es?filename=13_2_coun_chap_spain_es.pdf"]},
+          {"t": "El CIS ha sobreestimado a la izquierda en 41 de 42 elecciones desde 2018 y no pondera por recuerdo de voto, según el análisis de varias casas demoscópicas.", "ev": "B", "src": ["https://maldita.es/malditateexplica/20250613/errores-encuestas-cis-tezanos/", "https://www.eldebate.com/espana/20260915/cis-tezanos-otorga-cuatro-puntos-27-escanos-psoe-segun-reestimacion-target-point_458641.html"]}
+        ],
+        "porque": "Sin mayoría, el Gobierno ha sustituido la ley por el decreto y el Presupuesto por la prórroga, lo que debilita el control. Ha tratado los casos de su entorno como 'lawfare', no como problema propio. Ábalos y Cerdán son casos personales, pero el partido los nombró y sostuvo. Renovar CGPJ y TC exige al PP."
+      },
+      "partidos": {
+        "PP": {"propone": "CGPJ elegido por los jueces, fiscal general independiente, derogar la ley de amnistía, comisiones de investigación sobre los casos del PSOE.", "hizo": "Bloqueó el CGPJ (2018-2024) y retrasa el TC (2026). Gürtel y Bárcenas: condenas 2018-2021. Hoy: Montoro y Almería en instrucción; novio de Ayuso a juicio.", "ev": "A", "src": ["https://es.wikipedia.org/wiki/Bloqueo_del_Consejo_General_del_Poder_Judicial", "https://www.moncloa.com/2026/10/02/renovacion-tribunal-constitucional-bloqueo-pp-3441711", "https://www.infobae.com/espana/2026/04/28/el-caso-montoro-se-activa-con-las-primeras-declaraciones-de-investigados-entre-los-que-todavia-no-figura-el-exministro/", "https://www.publico.es/politica/tribunales/juicio-delito-fiscal-novio-ayuso-lleva-diez-meses-espera-fecha-certeza-celebre-elecciones-autonomicas.html"]},
+        "PSOE": {"propone": "Plan de Acción por la Democracia: ley de lobbies, información clasificada, estatuto del fiscal; 'doblegar a las élites'.", "hizo": "Renovó el CGPJ en 2024; reformó RTVE por decreto; la mayoría de leyes de regeneración quedaron sin aprobar.", "ev": "A", "src": ["https://commission.europa.eu/document/download/82ce1391-cde5-49e9-9d1b-3f14f4975eb7_es?filename=13_2_coun_chap_spain_es.pdf", "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/051026-sanchez-convocatoria-elecciones.aspx"]},
+        "VOX": {"propone": "Supresión de 'chiringuitos' y subvenciones a partidos, sindicatos y patronal; cuestiona la 'limpieza' del proceso electoral sin pruebas.", "hizo": "Préstamos de 6,5 y 7 M€ del banco húngaro MBH al 11 %, omitido en sus cuentas; Tribunal de Cuentas: falta de colaboración. Sin causa penal.", "ev": "A", "src": ["https://www.eldiario.es/politica/tribunal-cuentas-denuncia-falta-colaboracion-banco-hungaro-mbh-prestamo-6-5-millones-vox_1_12174490.html", "https://theobjective.com/espana/politica/2025-03-31/hungaro-vox-tribunal-cuentas/"]},
+        "SUMAR": {"propone": "Ley de lobbies, derogar la 'ley mordaza', elección del CGPJ con participación ciudadana.", "hizo": "Socio del Gobierno; sin casos penales conocidos contra sus ministros; el caso Errejón (2024) afectó a Más Madrid/Sumar.", "ev": "B", "src": ["https://commission.europa.eu/document/download/82ce1391-cde5-49e9-9d1b-3f14f4975eb7_es?filename=13_2_coun_chap_spain_es.pdf"]},
+        "PODEMOS": {"propone": "Derogar la 'ley mordaza', limitar aforamientos, control de los medios públicos.", "hizo": "Sin casos penales abiertos contra la dirección actual.", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"]},
+        "SALF": {"propone": "Anticorrupción y libertad de expresión; sin programa.", "hizo": "Seis causas en el Supremo (financiación con 100.000 € en efectivo, PCR falsa, acoso, amenazas), todas en instrucción; sus dos eurodiputados le abandonaron.", "ev": "A", "src": ["https://www.moncloa.com/2026/10/04/alvise-perez-supremo-seis-causas-3442356/"]},
+        "JUNTS": {"propone": "Aplicación íntegra de la amnistía; afirma que 'el Estado español está podrido institucionalmente'.", "hizo": "Beneficiario de la amnistía; bloqueo total de la legislatura desde nov. 2025.", "ev": "B", "src": ["https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"]},
+        "PNV": {"propone": "Estabilidad institucional y pactos de Estado.", "hizo": "Socio no bloqueador; sin casos penales contra la dirección actual.", "ev": "B", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"]}
+      },
+      "lectura": {
+        "mejor": "ninguno con claridad; la propuesta del PP sobre el CGPJ coincide con la Comisión de Venecia, pero el PP fue quien bloqueó",
+        "porque": "Lo que piden Comisión Europea, GRECO y Comisión de Venecia (CGPJ elegido por jueces, fiscal independiente) lo defiende el PP y lo tramitó el PSOE sin aprobarlo. Nadie propone despolitizar RTVE, CIS o TC; ambos grandes los han usado con mayoría. El PSOE tiene las condenas más graves de esta legislatura; el PP, las de la década anterior; Vox y SALF, problemas de financiación.",
+        "riesgo": "Que la nueva mayoría ocupe los órganos pendientes (TC, RTVE, CIS) en vez de reformar cómo se eligen, y que las instrucciones abiertas se usen como condenas en campaña.",
+        "ev": "C"
+      },
+      "esperar": {
+        "pp_vox": "Comisiones de investigación, derogación formal de la amnistía (sin efecto sobre las ya aplicadas), CGPJ elegido por jueces; riesgo simétrico de controlar RTVE, CIS y TC. Vox pediría suprimir subvenciones y cuestionaría el proceso electoral.",
+        "pp_solo": "Escenario más propicio para pactos de Estado (CGPJ, fiscal, RTVE) por necesidad aritmética con PNV y otros.",
+        "psoe_bloque": "Las leyes pendientes (lobbies, información clasificada, fiscal general) volverían a tramitarse; las instrucciones judiciales seguirían su curso con más tensión Gobierno-jueces.",
+        "bloqueo": "TC y demás órganos sin renovar, más decretos, más polarización; el escenario que más se parece a una deriva institucional."
+      }
+    },
+    {
+      "id": "territorial",
+      "nombre": "Cataluña y modelo territorial",
+      "icono": "🗺️",
+      "pregunta": "¿Está cerrado el conflicto catalán o solo aplazado, y quién paga la factura?",
+      "cifras": [
+        {"n": "6-4 y Gran Sala", "l": "Amnistía avalada por el TC (2025) y TJUE (2026)", "ev": "A", "src": "https://www.publico.es/politica/tribunales/sentencia-tjue-sobre-ley-amnistia-puigdemont-directo.html"},
+        {"n": "83.000 M€", "l": "Condonación de deuda autonómica aprobada sin ley", "ev": "B", "src": "https://www.que.es/2026/09/18/condonacion-deuda-autonomica-congreso-2/"},
+        {"n": "2014", "l": "Año en que caducó el sistema de financiación autonómica", "ev": "A", "src": "https://eldebate.com/economia/20261005/grandes-promesas-economicas-sanchez-yolanda-diaz-encallan-pese-asalto-instituciones-empresas_465891.html"}
+      ],
+      "diagnostico": "La legislatura ha enfriado el conflicto catalán con concesiones: amnistía (más de 300 beneficiados, avalada por los tribunales), financiación 'singular' prometida y condonación de 17.104 M€ de deuda catalana dentro de 83.000 M€ para todas. El independentismo perdió la Generalitat (Illa, PSC, 2024). El coste: ninguna reforma se ha legislado y las comunidades del PP rechazan la 'singularidad' y la condonación aunque les beneficia. La financiación caducó en 2014.",
+      "gobierno": {
+        "hizo_bien": [
+          {"t": "Desinflamación del conflicto: la amnistía ha superado TC y TJUE, no hay elecciones anticipadas ni unilateralidad, y Cataluña tiene un Gobierno del PSC con apoyo de ERC y Comunes.", "ev": "A", "src": ["https://www.publico.es/politica/tribunales/sentencia-tjue-sobre-ley-amnistia-puigdemont-directo.html", "https://www.cope.es/actualidad/espana/noticias/constitucional-avala-seis-votos-frente-cuatro-amnistia-sanchez-proces-20250626_3176263.html"]},
+          {"t": "Primer paquete de cinco traspasos a Euskadi (enero 2026) integrado en el cupo, y reunión bilateral de mayo de 2026 sobre el resto del Estatuto.", "ev": "A", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html", "https://www.eldebate.com/espana/20260505/gobierno-central-vasco-reunen-manana-abordar-traspaso-competencias_414434.html"]},
+          {"t": "El acuerdo bilateral de julio de 2025 define la financiación singular como 'generalizable' a todas las comunidades, lo que la hace menos discriminatoria sobre el papel.", "ev": "B", "src": ["https://www.cope.es/emisoras/catalunya/noticias/gobierno-generalitat-pactan-financiacion-singular-generalizable-20250714_3184917.html"]}
+        ],
+        "hizo_mal": [
+          {"t": "La financiación autonómica sigue caducada desde 2014; el acuerdo del CPFF de julio de 2025 se aprobó solo con Cataluña y Canarias, y la condonación de 83.000 M€ está encallada en el Congreso.", "ev": "B", "src": ["https://www.que.es/2026/09/18/condonacion-deuda-autonomica-congreso-2/", "https://eldebate.com/economia/20261005/grandes-promesas-economicas-sanchez-yolanda-diaz-encallan-pese-asalto-instituciones-empresas_465891.html"]},
+          {"t": "Las concesiones se negociaron con un partido (Junts) que rompió en noviembre de 2025 y provocó el adelanto electoral: el precio político se pagó y la estabilidad no llegó.", "ev": "A", "src": ["https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"]},
+          {"t": "El catalán en la UE y la delegación de competencias migratorias, prometidos en 2023, no se han conseguido; la ley de amnistía fue calificada de 'controvertida' por la Comisión Europea y aprobada sin consenso con la oposición.", "ev": "B", "src": ["https://www.moncloa.com/2026/08/27/gobierno-rechaza-competencias-inmigracion-cataluna-3422002", "https://commission.europa.eu/document/download/2bd09a6f-ef56-494a-8303-e0de808ee981_en?filename=23_1_58063_coun_chap_spain_en_0.pdf"]}
+        ],
+        "porque": "El Gobierno compró estabilidad con la amnistía y con promesas territoriales sin mayoría para cumplirlas; duró dos años. El resultado es paradójico: el conflicto está más frío que en una década, pero las reformas de fondo (financiación, condonación) no existen y la mitad de las comunidades las rechazan. Reformar la financiación exige al PP."
+      },
+      "partidos": {
+        "PP": {"propone": "Derogar la ley de amnistía, rechazar la financiación singular y la condonación, reforma multilateral de la financiación 'igual para todos'.", "hizo": "Gobierno Rajoy: artículo 155 (2017) y recurso de la amnistía (perdido); sus comunidades rechazan la condonación aunque Andalucía recibiría 18.791 M€.", "ev": "A", "src": ["https://www.que.es/2026/09/18/condonacion-deuda-autonomica-congreso-2/", "https://www.publico.es/politica/tribunales/sentencia-tjue-sobre-ley-amnistia-puigdemont-directo.html"]},
+        "PSOE": {"propone": "Financiación singular 'generalizable', condonación de 83.000 M€, aplicación de la amnistía, cierre del Estatuto vasco.", "hizo": "Amnistía (2024), indultos (2021), acuerdo bilateral con Cataluña (2025), traspasos a Euskadi (2026).", "ev": "A", "src": ["https://www.cope.es/emisoras/catalunya/noticias/gobierno-generalitat-pactan-financiacion-singular-generalizable-20250714_3184917.html"]},
+        "VOX": {"propone": "Suprimir las autonomías o recentralizar competencias (educación, sanidad), ilegalizar partidos independentistas, derogar la amnistía.", "hizo": "Acusación popular en el juicio del procés; en gobiernos autonómicos no ha planteado devolver competencias.", "ev": "B", "src": ["https://www.democrata.es/encuestas/elecciones-generales/abascal-elecciones-29-n-ultima-oportunidad-vox-remigracion/"]},
+        "SUMAR": {"propone": "Estado plurinacional, financiación federal, referéndum pactado como horizonte.", "hizo": "Votó la amnistía y la condonación.", "ev": "B", "src": ["https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html"]},
+        "PODEMOS": {"propone": "Referéndum pactado; apoyo a la amnistía; rechazo a delegar inmigración.", "hizo": "Votó la amnistía; vetó la delegación migratoria a Cataluña.", "ev": "A", "src": ["https://www.eldiario.es/politica/congreso-rechaza-ley-junts-psoe-traspaso-competencias-inmigracion-catalunya_1_12625754.html"]},
+        "JUNTS": {"propone": "Concierto económico o financiación singular plena, competencias de inmigración, catalán en la UE, referéndum, regreso de Puigdemont.", "hizo": "Logró la amnistía; rompió y bloqueó la legislatura; votó con PP y Vox contra la vivienda.", "ev": "A", "src": ["https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"]},
+        "ERC": {"propone": "Financiación singular con ordinalidad y recaudación íntegra del IRPF por la Agencia catalana, condonación ampliada, referéndum acordado.", "hizo": "Pactó la financiación singular y la condonación (17.104 M€) a cambio de investir a Illa; ninguna legislada.", "ev": "B", "src": ["https://www.mundiario.com/articulo/politica/junqueras-marca-perfil-frente-rufian-apuesta-sostener-sanchez-culminar-agenda-catalana/20260617005912390765.html"]},
+        "BILDU": {"propone": "Avance soberanista acordado, nuevo estatus para Euskadi y Navarra.", "hizo": "Socio estable del Gobierno; gobierna Pamplona.", "ev": "B", "src": ["https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"]},
+        "PNV": {"propone": "Cierre del Estatuto de Gernika (16 transferencias), régimen económico de la Seguridad Social, nuevo estatus pactado.", "hizo": "Cinco traspasos en 2026; Seguridad Social pendiente.", "ev": "A", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"]}
+      },
+      "lectura": {
+        "mejor": "ninguno con claridad; el PSOE ha enfriado el conflicto, el PP ofrece el único modelo de financiación que podría aprobarse con mayoría amplia",
+        "porque": "La vía del PSOE ha bajado la tensión (sin unilateralidad, Generalitat del PSC, amnistía avalada), pero no ha legislado (financiación, condonación). La financiación autonómica necesita a PP y PSOE, que gobiernan casi todas las comunidades: una reforma 'singular' solo con ERC no tiene votos, y una 'igual para todos' del PP no tiene los de Cataluña. Vox propone recentralizar, lo que exige cambiar la Constitución.",
+        "riesgo": "Que un Gobierno PP-Vox derogue la amnistía y congele los traspasos, reactivando el conflicto; o que el PSOE dependa otra vez de Junts y pague con financiación singular sin reforma.",
+        "ev": "C"
+      },
+      "esperar": {
+        "pp_vox": "Derogación de la amnistía (sin efecto sobre las aplicadas), fin de la financiación singular y de la condonación, reforma multilateral de la financiación con peso de las comunidades del PP; tensión con Cataluña y Euskadi.",
+        "pp_solo": "Negociación con el PNV: traspasos vascos a cambio de estabilidad; financiación reformada en clave multilateral.",
+        "psoe_bloque": "Financiación singular y condonación legisladas si Junts y ERC lo exigen como condición; el resto de comunidades lo recurrirán.",
+        "bloqueo": "Todo sigue caducado: financiación de 2009, condonación sin ley, traspasos congelados."
+      }
+    },
+    {
+      "id": "educacion_juventud",
+      "nombre": "Educación, juventud y natalidad",
+      "icono": "🎓",
+      "pregunta": "¿Por qué los jóvenes estudian más, se emancipan más tarde y tienen menos hijos?",
+      "cifras": [
+        {"n": "12,8 %", "l": "Abandono temprano 2025, mínimo histórico (UE: 9,4 %)", "ev": "A", "src": "https://www.magisnet.com/2026/01/el-abandono-escolar-baja-hasta-el-125-en-2025-un-nuevo-minimo-historico/"},
+        {"n": "30,2 años", "l": "Edad de emancipación; alquiler: 98,7 % del sueldo joven", "ev": "A", "src": "https://www.cje.org/en/observatorio_2025/"},
+        {"n": "1,10", "l": "Hijos por mujer (2024); 1/3 nacen de madre extranjera", "ev": "A", "src": "https://www.ine.es/dyngs/Prensa/MNP2024.htm"}
+      ],
+      "diagnostico": "La educación mejora despacio: el abandono temprano bajó del 20 % (2015) al 12,8 %, segundo peor de la UE, con brecha entre chicos (15,9 %) y chicas (9,5 %) y entre Murcia (20,6 %) y Euskadi (3,6 %). En vivienda, solo el 14,5 % de los menores de 30 se ha emancipado. La natalidad (1,10 hijos por mujer) es la más baja de la UE; el 15,5 % de las mujeres no quiere hijos.",
+      "gobierno": {
+        "hizo_bien": [
+          {"t": "Abandono educativo en mínimo histórico (12,8 %) tras bajar 7 puntos desde 2015; LOMLOE (2020) y ley de FP (2022) con fondos europeos para FP dual.", "ev": "A", "src": ["https://www.magisnet.com/2026/01/el-abandono-escolar-baja-hasta-el-125-en-2025-un-nuevo-minimo-historico/", "https://blog.funcas.es/la-tasa-de-abandono-educativo-en-espana-cae-al-128-en-2025-pero-persisten-los-retos-para-alcanzar-el-objetivo-europeo-de-2030/"]},
+          {"t": "Permiso de nacimiento ampliado y equiparado (16 semanas por progenitor, con ampliación a 19 en tramitación), gratuidad de 0-3 años en marcha con las comunidades, becas en máximo histórico.", "ev": "B", "src": ["https://www.mundiario.com/articulo/economia/erte-reforma-laboral-huella-diaz-frente-ministerio-trabajo/20260225161136376222.html"]},
+          {"t": "Avales del ICO para la hipoteca de jóvenes y bono alquiler joven; el nuevo decreto financia el 100 % de la entrada en primera vivienda.", "ev": "A", "src": ["https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/290926-rueda-prensa-ministros.aspx"]}
+        ],
+        "hizo_mal": [
+          {"t": "La emancipación juvenil está en mínimo histórico (14,5 %) y la edad de emancipación supera los 30 años: la generación que más ha estudiado es la que peor accede a la vivienda.", "ev": "A", "src": ["https://www.cje.org/en/observatorio_2025/"]},
+          {"t": "La ley de ratios (22 alumnos en primaria, 25 en secundaria) y de horas lectivas decae con la disolución de las Cortes; Madrid afronta una huelga indefinida de secundaria desde el 14 de octubre.", "ev": "B", "src": ["https://aqui.madrid/elecciones-29n-vivienda-sanidad-educacion-y-pensiones-los-cuatro-frentes-de-la-campana"]},
+          {"t": "España es segunda por la cola de la UE en abandono escolar y el objetivo europeo (9 % en 2030) queda a casi 4 puntos; en PISA 2022 las notas bajaron respecto a 2018.", "ev": "A", "src": ["https://www.magisnet.com/2026/01/el-abandono-escolar-baja-hasta-el-125-en-2025-un-nuevo-minimo-historico/", "https://www.educaweb.com/noticia/2023/12/05/pisa-2022-resultados-adolescentes-espanoles-se-mantienen-media-ocde-21417/"]}
+        ],
+        "porque": "El Estado ha hecho lo suyo (ley educativa, FP, permisos, becas, avales) y la educación mejora despacio. Pero la juventud se la juega en la vivienda, donde el Gobierno llegó tarde y con ayudas a la demanda que, según el Banco de España, suben los precios. La natalidad depende de vivienda, empleo estable y conciliación."
+      },
+      "partidos": {
+        "PP": {"propone": "'Hucha Hogar Joven', IVA del 4 % y avales del 100 % en primera vivienda, 'Plan Prepara' (IRPF bonificado), mínimo por hijo de 4.800 €, autoridad del profesor, derogar partes de la LOMLOE.", "hizo": "LOMCE (2013), reválidas nunca aplicadas. Educación en 12 comunidades: Madrid tiene el menor abandono entre las grandes (11 %) y Murcia el mayor (20,6 %).", "ev": "B", "src": ["https://www.infobae.com/espana/agencias/2026/10/04/feijoo-se-arma-con-sus-recetas-de-vivienda-ante-el-senuelo-electoral-que-prepara-sanchez-con-un-posible-adelanto/", "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://www.moncloa.com/2026/10/05/ayuso-baja-itp-iajd-madrid-3442861/"]},
+        "PSOE": {"propone": "Ley de ratios y horas lectivas, 0-3 universal, permiso de 20 semanas, aval del 100 % en primera vivienda sin límite de edad, bonificaciones a inquilinos bajo 33.000 €.", "hizo": "LOMLOE, ley de FP, becas récord, permisos igualados, bono alquiler joven.", "ev": "B", "src": ["https://aqui.madrid/elecciones-29n-vivienda-sanidad-educacion-y-pensiones-los-cuatro-frentes-de-la-campana", "https://www.eldiario.es/economia/nuevo-decreto-vivienda-aprobado-gobierno_1_13546389.html"]},
+        "VOX": {"propone": "'PIN parental', cheque escolar, derogar la LOMLOE, ayudas a familias numerosas y prestación universal por hijo, 'prioridad nacional' en ayudas.", "hizo": "Pactos autonómicos de 2026 con medidas de 'prioridad nacional' en ayudas; en Castilla y León gestiona consejerías desde junio de 2026.", "ev": "B", "src": ["https://www.moncloa.com/2026/09/07/pacto-pp-vox-castilla-y-leon-4-3427123", "https://www.elconstitucional.es/es/nacional/politica/santiago-abascal-ya-pone-condiciones-feijoo-gobernar-en-coalicion-elecciones-29n-remigracion-prioridad-nacional_8538_102.html"]},
+        "SUMAR": {"propone": "Prestación universal por crianza, 0-3 gratuito, bajada de ratios, rebaja de alquileres.", "hizo": "Ministerio de Juventud e Infancia (2023-2026): ley de protección de menores en entornos digitales; permiso de nacimiento ampliado.", "ev": "B", "src": ["https://www.mundiario.com/articulo/economia/erte-reforma-laboral-huella-diaz-frente-ministerio-trabajo/20260225161136376222.html"]},
+        "PODEMOS": {"propone": "Prestación por hijo, rebaja del 50 % de alquileres, educación pública sin conciertos.", "hizo": "Ministerio de Igualdad y de Derechos Sociales 2020-2023: ingreso mínimo vital, ley de familias (no aprobada).", "ev": "C", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"]},
+        "PNV": {"propone": "Modelo educativo propio (euskera) y política de vivienda joven vasca.", "hizo": "Euskadi tiene el abandono escolar más bajo de España (3,6 %).", "ev": "A", "src": ["https://www.magisnet.com/2026/01/el-abandono-escolar-baja-hasta-el-125-en-2025-un-nuevo-minimo-historico/"]},
+        "ERC": {"propone": "Inmersión lingüística, universidad pública, vivienda joven.", "hizo": "Govern 2021-2024: defensa de la inmersión frente al 25 % de castellano fijado por el TSJC.", "ev": "B", "src": ["https://www.mundiario.com/articulo/politica/junqueras-marca-perfil-frente-rufian-apuesta-sostener-sanchez-culminar-agenda-catalana/20260617005912390765.html"]}
+      },
+      "lectura": {
+        "mejor": "ninguno con claridad; en educación los datos mejoran bajo todos los gobiernos, en emancipación y natalidad nadie tiene una receta probada",
+        "porque": "El abandono baja desde 2008 con gobiernos de PP y PSOE y leyes distintas: pesan más la FP, el ciclo económico y las comunidades que la ley estatal. Las ayudas a la compra para jóvenes (avales, IVA, huchas; PP y PSOE coinciden) son inflacionistas sin oferta, según Banco de España y OCDE; las prestaciones por hijo (Vox, Sumar, Podemos) no han subido la natalidad.",
+        "riesgo": "Que la campaña compita en ayudas a la demanda (avales, IVA, IRPF), que suben precios, y en guerras ideológicas (LOMLOE, PIN parental) que no tocan ratios ni profesores.",
+        "ev": "C"
+      },
+      "esperar": {
+        "pp_vox": "Rebajas fiscales a jóvenes y familias, avales del 100 %, cambios en la LOMLOE (concertada, autoridad docente); Vox pediría PIN parental y prestación por hijo 'para españoles'.",
+        "pp_solo": "Rebajas fiscales a jóvenes negociadas; sin mayoría para una nueva ley educativa.",
+        "psoe_bloque": "Ley de ratios, 0-3 universal, permiso de 20 semanas, bono alquiler; dependen de aprobar Presupuestos.",
+        "bloqueo": "Todas las leyes decaídas (ratios, familias) se quedan en el cajón; solo sobreviven las ayudas por decreto."
+      }
+    }
+  ]
+}

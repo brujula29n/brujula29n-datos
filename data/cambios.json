@@ -1,0 +1,77 @@
+{
+ "actualizado": "2026-10-06",
+ "dias": [
+  {
+   "fecha": "2026-10-06",
+   "items": [
+    {
+     "tipo": "diario",
+     "texto": "1 movimiento nuevo en el diario. Último: El BOE publica el decreto: Madrid gana un escaño y Cádiz lo pierde."
+    }
+   ]
+  },
+  {
+   "fecha": "2026-10-05",
+   "items": [
+    {
+     "tipo": "inicio",
+     "texto": "Primer día de seguimiento: desde hoy se guarda el histórico y se señalan los cambios."
+    }
+   ]
+  }
+ ],
+ "series": [
+  {
+   "fecha": "2026-10-05",
+   "media": {
+    "PP": 32.65,
+    "PSOE": 26.37,
+    "VOX": 18.62,
+    "SUMAR": 5.86,
+    "PODEMOS": 3.42,
+    "SALF": 1.78
+   },
+   "escanos": {
+    "PP": 141,
+    "PSOE": 107,
+    "VOX": 64,
+    "SUMAR": 7,
+    "PODEMOS": 2
+   },
+   "ppvox": 205,
+   "probs": {
+    "pp_vox": 96.8,
+    "pp_solo": 0.5,
+    "psoe_bloque": 1.9,
+    "bloqueo": 0.8
+   },
+   "n_encuestas": 15
+  },
+  {
+   "fecha": "2026-10-06",
+   "media": {
+    "PP": 32.65,
+    "PSOE": 26.37,
+    "VOX": 18.62,
+    "SUMAR": 5.86,
+    "PODEMOS": 3.42,
+    "SALF": 1.78
+   },
+   "escanos": {
+    "PP": 141,
+    "PSOE": 107,
+    "VOX": 64,
+    "SUMAR": 7,
+    "PODEMOS": 2
+   },
+   "ppvox": 205,
+   "probs": {
+    "pp_vox": 96.9,
+    "pp_solo": 0.5,
+    "psoe_bloque": 1.7,
+    "bloqueo": 0.9
+   },
+   "n_encuestas": 15
+  }
+ ]
+}

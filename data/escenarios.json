@@ -1,0 +1,56 @@
+{
+  "actualizado": "2026-10-05",
+  "nota": "La probabilidad de cada escenario la calcula la web en tiempo real con el simulador Monte Carlo (ver Metodología). Los 'efectos previsibles' son una lectura (nivel C) construida a partir de lo que cada partido ha hecho y ha anunciado (niveles A/B en las fichas). Cada eje indica dirección esperada y grado de certeza.",
+  "ejes": ["economia", "social", "seguridad", "internacional", "instituciones"],
+  "ejes_nombre": {"economia": "Economía y empleo", "social": "Vivienda y servicios públicos", "seguridad": "Seguridad e inmigración", "internacional": "Posición internacional", "instituciones": "Calidad institucional"},
+  "escenarios": [
+    {
+      "id": "pp_vox", "nombre": "Gobierno PP-Vox (coalición o apoyo)", "coalicion": ["PP", "VOX"], "umbral": 176, "color": "#1D84C4",
+      "condicion": "PP + Vox ≥ 176. Es lo que proyectan todas las encuestas privadas (198-213 escaños).",
+      "como": "Feijóo presidente. Vox exigiría entrar en el Consejo de Ministros, como ya hace en Andalucía y Castilla y León, o condicionaría cada ley desde fuera.",
+      "efectos": {
+        "economia": {"dir": "→", "certeza": "media", "t": "Rebajas fiscales (IRPF joven, IVA vivienda) y menos regulación. Riesgo: el déficit del 2,2 % se logró con ingresos récord; rebajas sin recortes elevarían la deuda. Las reglas fiscales de la UE limitan el margen."},
+        "social": {"dir": "↓/→", "certeza": "media", "t": "Derogación de la ley de vivienda y los decretos de 2026; oferta (un millón de viviendas, suelo) en vez de control de rentas. Desaparecería el escudo antidesahucios. El PP no anuncia recortes en pensiones; Vox pide subsidios 'para españoles'."},
+        "seguridad": {"dir": "↑ dureza", "certeza": "alta", "t": "Visado por puntos, expulsiones, revisión de la regularización. Vox pide 'remigración', jurídicamente inviable para residentes legales y ciudadanos. Posible choque con el Supremo (devoluciones en caliente) y con la UE (Pacto de Migración)."},
+        "internacional": {"dir": "↑ OTAN/EEUU", "certeza": "alta", "t": "Cumplimiento del compromiso OTAN y reconciliación con Trump; menor perfil en Gaza. Vox alinearía a España con Orbán y Meloni en la UE, lo que tensaría la relación con Bruselas en migración y clima."},
+        "instituciones": {"dir": "?", "certeza": "baja", "t": "El PP promete CGPJ elegido por jueces y fiscal independiente, como piden GRECO y la Comisión Europea. Riesgo simétrico: controlar RTVE, CIS y TC. Vox cuestiona la limpieza electoral sin pruebas. A vigilar: TC y leyes avaladas por el TJUE."}
+      }
+    },
+    {
+      "id": "pp_solo", "nombre": "PP en minoría con apoyos puntuales (sin Vox en el Gobierno)", "coalicion": ["PP", "PNV", "CC", "UPN"], "umbral": 176, "color": "#5BA3D9",
+      "condicion": "PP + PNV + CC + UPN ≥ 176, o PP cerca de 170 con abstención de Junts. Ninguna encuesta lo da hoy.",
+      "como": "Investidura con socios moderados o abstenciones cruzadas; Vox fuera pero decisivo en cada votación.",
+      "efectos": {
+        "economia": {"dir": "→", "certeza": "media", "t": "Política fiscal moderada; continuidad con la UE; reformas negociadas ley a ley."},
+        "social": {"dir": "→", "certeza": "baja", "t": "Vivienda por la vía de la oferta; menor capacidad de derogar la ley de 2023 sin mayoría."},
+        "seguridad": {"dir": "↑ dureza moderada", "certeza": "media", "t": "Decálogo migratorio del PP sin las exigencias de Vox."},
+        "internacional": {"dir": "↑ OTAN/UE", "certeza": "alta", "t": "Alineamiento con la UE y la OTAN sin el eje Orbán."},
+        "instituciones": {"dir": "↑", "certeza": "baja", "t": "Escenario más propicio para pactos de Estado (CGPJ, fiscal, RTVE) por necesidad aritmética."}
+      }
+    },
+    {
+      "id": "psoe_bloque", "nombre": "Reedición del bloque de investidura de 2023", "coalicion": ["PSOE", "SUMAR", "PODEMOS", "ERC", "BILDU", "PNV", "BNG", "JUNTS"], "umbral": 176, "color": "#E4312B",
+      "condicion": "PSOE + Sumar + Podemos + ERC + Bildu + PNV + BNG + Junts ≥ 176. Hoy requiere que el PSOE recupere 5-6 puntos y que Junts vuelva a apoyarle.",
+      "como": "Sánchez investido con la misma mayoría plurinacional. Junts ya rompió una vez; ERC y Bildu exigirían financiación singular y condonación legisladas.",
+      "efectos": {
+        "economia": {"dir": "→", "certeza": "media", "t": "Continuidad: buenos datos macro, SMI y pensiones indexadas. Riesgo: otra legislatura sin Presupuestos si los socios no se ponen de acuerdo; gasto creciendo por decreto."},
+        "social": {"dir": "↑ intervención", "certeza": "alta", "t": "Escudo antidesahucios hasta 2030, congelación de rentas, veto a fondos, avales del 100 %. Los datos de los tres años de ley de vivienda (precios +30 %, oferta -30 %) son el principal argumento en contra."},
+        "seguridad": {"dir": "→", "certeza": "media", "t": "Regularización consolidada; cooperación con Marruecos; sentencia del Supremo sobre devoluciones en caliente aplicada. Ceuta demostró los límites del modelo."},
+        "internacional": {"dir": "↔ aislamiento OTAN", "certeza": "alta", "t": "Mantener el 2 % y el 'no' al 5 %, Gaza y la posición sobre Irán: coherencia con la opinión pública y conflicto abierto con Washington y Rutte."},
+        "instituciones": {"dir": "↓/?", "certeza": "media", "t": "Reformas prometidas (fiscal general, lobbies, información clasificada) siguen pendientes. Las señales S4, S5, S6, S10 y S11 del semáforo son de este Gobierno; nuevas contrapartidas territoriales (financiación singular, referéndum) tensarían la igualdad entre comunidades."}
+      }
+    },
+    {
+      "id": "bloqueo", "nombre": "Bloqueo y repetición electoral", "coalicion": [], "umbral": 0, "color": "#888888",
+      "condicion": "Ni PP+Vox ni el bloque de 2023 llegan a 176 y nadie se abstiene. Ocurrió en 2016 y 2019.",
+      "como": "Cortes constituidas en diciembre, investidura fallida en enero-febrero, nuevas elecciones hacia abril de 2027 con el Gobierno en funciones.",
+      "efectos": {
+        "economia": {"dir": "↓", "certeza": "alta", "t": "Un año más sin Presupuestos, sin capacidad de legislar ante la crisis energética; las agencias de rating penalizan la parálisis."},
+        "social": {"dir": "↓", "certeza": "alta", "t": "Las medidas de vivienda quedan en el limbo; nada se deroga ni se aprueba."},
+        "seguridad": {"dir": "→", "certeza": "media", "t": "Gestión en funciones; sin reformas."},
+        "internacional": {"dir": "↓", "certeza": "media", "t": "Gobierno en funciones con menor peso en Bruselas y en la OTAN."},
+        "instituciones": {"dir": "↓", "certeza": "alta", "t": "TC y otros órganos sin renovar; más decretos; más polarización. Es el escenario que más se parece a la 'fase previa' que describe el semáforo."}
+      }
+    }
+  ]
+}

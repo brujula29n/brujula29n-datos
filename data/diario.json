@@ -1,0 +1,296 @@
+{
+ "actualizado": "2026-10-06",
+ "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
+ "entradas": [
+  {
+   "fecha": "2026-10-06",
+   "titulo": "El BOE publica el decreto: Madrid gana un escaño y Cádiz lo pierde",
+   "que": "Disolución de las Cortes y elecciones el 29-N, con 350 diputados. Según el anexo del Real Decreto 806/2026, de 5 de octubre (BOE-A-2026-20742), Madrid elige 38 diputados (uno más que en 2023) y Cádiz 8 (uno menos); las otras 50 circunscripciones no cambian. Parte de la prensa publicó que cambiaban cuatro escaños; el texto del BOE no lo confirma.",
+   "lectura": "Efecto mínimo: un escaño pasa de Cádiz a Madrid. Con los votos de 2023 no cambia el orden de los bloques. Nivel C.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742",
+    "https://www.democrata.es/politica/el-boe-difunde-el-decreto-que-disuelve-las-cortes-y-fija-las-elecciones-para-el-29-de-noviembre/"
+   ]
+  },
+  {
+   "fecha": "2026-10-05",
+   "titulo": "Sánchez disuelve las Cortes y convoca el 29N",
+   "que": "Consejo de Ministros extraordinario; BOE el 6. Mensaje: mayoría 'más amplia y progresista' para 'doblegar a las élites'; vivienda como plebiscito ('V de vivienda o B de buitre').",
+   "lectura": "Convoca en su mejor momento relativo tras el caso Maricarmen y las manifestaciones, pero con la derecha por encima de 200 escaños en todas las encuestas privadas. Apuesta por absorber el voto de Sumar y Podemos y por movilizar con la vivienda.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 1
+    },
+    {
+     "id": "SUMAR",
+     "impacto": -1
+    },
+    {
+     "id": "JUNTS",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/051026-sanchez-convocatoria-elecciones.aspx"
+   ]
+  },
+  {
+   "fecha": "2026-10-05",
+   "titulo": "Alvise encabezará la lista de SALF por Madrid",
+   "que": "Deja el Parlamento Europeo; tiene seis causas abiertas en el Supremo.",
+   "lectura": "Compite por el mismo voto que Vox en Madrid; con 1,5-2,5 % no entra, pero puede restar un escaño a la derecha en provincias ajustadas.",
+   "actores": [
+    {
+     "id": "SALF",
+     "impacto": 0
+    },
+    {
+     "id": "VOX",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.eldebate.com/espana/20261005/alvise-sera-cabeza-lista-acabo-fiesta-madrid-elecciones-generales_466300.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-05",
+   "titulo": "Podemos exige primarias abiertas (14-15 oct) para ir con Frente Amplio",
+   "que": "Dos días antes de que Frente Amplio elija líder (17) y del cierre de coaliciones (16).",
+   "lectura": "Ultimátum difícil de aceptar para Sumar. Si van separados, el simulador estima entre 3 y 6 escaños perdidos para el bloque por D'Hondt.",
+   "actores": [
+    {
+     "id": "PODEMOS",
+     "impacto": 0
+    },
+    {
+     "id": "SUMAR",
+     "impacto": -1
+    },
+    {
+     "id": "PSOE",
+     "impacto": 1
+    }
+   ],
+   "src": [
+    "https://www.moncloa.com/2026/10/05/izquierda-psoe-sin-coalicion-29n-3442866/"
+   ]
+  },
+  {
+   "fecha": "2026-10-05",
+   "titulo": "Ayuso: 'que a nadie se le ocurra votar por correo'",
+   "que": "Declaración sin aportar pruebas de fraude; Abascal pide 'elecciones limpias'.",
+   "lectura": "Desincentivar el voto por correo perjudica sobre todo a quien lo pide (mayores, residentes fuera). Señal S7 y S13 del semáforo: sembrar dudas sobre el proceso sin base.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": -1
+    },
+    {
+     "id": "VOX",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://vozpopuli.com/espana/adelanto-electoral-de-sanchez-en-directo-el-presidente-comparece-para-desvelar-si-adelanta-las-elecciones-tras-la-crisis-de-la-vivienda.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-03",
+   "titulo": "Feijóo presenta su plan de vivienda en La Toja",
+   "que": "Un millón de viviendas, ley del suelo, IVA al 4 % para jóvenes, 'Hucha Hogar Joven', avales del 100 %.",
+   "lectura": "Neutraliza por anticipado el eje de campaña del PSOE con una oferta de oferta (no de control de rentas). Falta la memoria económica.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 1
+    }
+   ],
+   "src": [
+    "https://www.eleconomista.es/economia/noticias/14018537/10/26/feijoo-convierte-la-vivienda-en-su-gran-arma-contra-sanchez-un-millon-de-pisos-y-rebajas-fiscales.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-03",
+   "titulo": "Manifestaciones por la vivienda en más de 50 ciudades",
+   "que": "Madrid: 70.000 según el Gobierno, 500.000 según el Sindicato de Inquilinas.",
+   "lectura": "Movilización que el Gobierno intenta convertir en voto. La brecha entre cifras es en sí una señal de polarización.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 1
+    },
+    {
+     "id": "SUMAR",
+     "impacto": 1
+    }
+   ],
+   "src": [
+    "https://elindependiente.com/espana/2026/10/04/gobierno-exito-movilizacion-antidesahucios-adelanto-electoral"
+   ]
+  },
+  {
+   "fecha": "2026-10-02",
+   "titulo": "El Congreso tumba los dos decretos de vivienda (178-172 y 184-166)",
+   "que": "PP, Vox, Junts y UPN en contra. El segundo decreto estuvo 16 horas en vigor.",
+   "lectura": "Detonante del adelanto. Junts asume el coste de votar con PP y Vox contra medidas que apoyan más de la mitad de sus votantes.",
+   "actores": [
+    {
+     "id": "JUNTS",
+     "impacto": -2
+    },
+    {
+     "id": "PSOE",
+     "impacto": 1
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/"
+   ]
+  },
+  {
+   "fecha": "2026-09-29",
+   "titulo": "IPC de septiembre: 4,9 %, máximo desde 2023",
+   "que": "Carburantes por la guerra de Irán; subyacente 3,1 %. Nuevo escudo anticrisis el mismo día.",
+   "lectura": "La inflación vuelve a ser argumento de campaña. Causa externa, pero erosiona el relato económico del Gobierno.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -1
+    },
+    {
+     "id": "PP",
+     "impacto": 1
+    }
+   ],
+   "src": [
+    "https://www.ine.es/dyngs/Prensa/adIPC0926.htm"
+   ]
+  },
+  {
+   "fecha": "2026-09-22",
+   "titulo": "El TC aprueba (7-5) la ponencia que amnistiaría la malversación",
+   "que": "Pleno definitivo previsto la semana del 5 de octubre; Llarena mantiene la orden contra Puigdemont hasta entonces.",
+   "lectura": "Si Puigdemont vuelve en plena precampaña, Junts recupera relato y el PP activa el argumento de la amnistía.",
+   "actores": [
+    {
+     "id": "JUNTS",
+     "impacto": 1
+    },
+    {
+     "id": "PP",
+     "impacto": 1
+    },
+    {
+     "id": "PSOE",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.que.es/2026/10/05/amnistia-puigdemont-constitucional-supremo/"
+   ]
+  },
+  {
+   "fecha": "2026-09-21",
+   "titulo": "Begoña Gómez, a juicio con jurado",
+   "que": "Auto de apertura por tráfico de influencias y malversación; la Fiscalía pide la absolución.",
+   "lectura": "Sin fecha de juicio; el PP lo usará en campaña, el PSOE lo presentará como 'lawfare'.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.infobae.com/espana/2026/09/21/el-juez-peinado-envia-a-begona-gomez-a-juicio-ante-un-jurado-popular-en-la-audiencia-provincial-de-madrid-por-malversacion-y-trafico-de-influencias/"
+   ]
+  },
+  {
+   "fecha": "2026-09-14",
+   "titulo": "Abascal propone la 'remigración'",
+   "que": "Repatriar a quien delinca y 'remigrar' a quien 'no trabaje y viva de subsidios' (Mediaset Italia).",
+   "lectura": "Consolida el eje inmigración tras Ceuta y obliga al PP a posicionarse. Jurídicamente inviable para residentes legales y nacionalizados.",
+   "actores": [
+    {
+     "id": "VOX",
+     "impacto": 1
+    },
+    {
+     "id": "PP",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.infobae.com/espana/agencias/2026/09/14/abascal-plantea-procesos-de-repatriaciones-de-inmigrantes-que-delincan-y-de-remigracion-para-los-que-no-trabajan/"
+   ]
+  },
+  {
+   "fecha": "2026-07-30",
+   "titulo": "Crisis de Ceuta: más de 60.000 entradas en 48 horas",
+   "que": "67 muertos, 48.300 retornos a Marruecos; Italia suspende Schengen con España. Detonante: bulos sobre 'fronteras abiertas' tras la sentencia del Supremo sobre devoluciones en caliente.",
+   "lectura": "Punto de inflexión de la legislatura: la inmigración pasa a ser la primera preocupación y el PSOE marca mínimos en septiembre.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -2
+    },
+    {
+     "id": "VOX",
+     "impacto": 2
+    },
+    {
+     "id": "PP",
+     "impacto": 1
+    }
+   ],
+   "src": [
+    "https://www.infobae.com/espana/2026/08/02/la-crisis-de-ceuta-en-cinco-claves-de-las-falsas-promesas-de-asilo-a-la-avalancha-de-60000-personas-y-el-papel-de-marruecos/"
+   ]
+  },
+  {
+   "fecha": "2026-06-22",
+   "titulo": "El Supremo condena a Ábalos a 24 años y 3 meses",
+   "que": "Sentencia unánime del caso mascarillas; Koldo García, 19 años y 8 meses.",
+   "lectura": "La condena más alta a un exministro en democracia. El PSOE lo presenta como caso individual; la pieza de financiación del partido sigue abierta.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -2
+    }
+   ],
+   "src": [
+    "https://www.infobae.com/espana/2026/06/22/el-supremo-condena-a-abalos-a-24-anos-de-carcel-por-mordidas-en-contratos-de-mascarillas-y-contratacion-irregular/"
+   ]
+  },
+  {
+   "fecha": "2025-11-06",
+   "titulo": "Junts rompe con el PSOE y anuncia bloqueo total",
+   "que": "87 % de la militancia a favor; enmiendas a la totalidad a 25 proyectos.",
+   "lectura": "Desde aquí el Gobierno pierde la mayoría legislativa; la legislatura entra en fase terminal.",
+   "actores": [
+    {
+     "id": "JUNTS",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"
+   ]
+  }
+ ]
+}

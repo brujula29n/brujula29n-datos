@@ -1,0 +1,238 @@
+{
+  "actualizado": "2026-10-05",
+  "nota": "A 5 de octubre ningún partido ha publicado programa formal; las entradas son posiciones anunciadas (B/C) recogidas de actos, declaraciones y votaciones. Cuando se publique el programa, 'estado' pasa a 'programa' y se enlaza el PDF en 'programas_publicados'. 'coste' y 'viable' se rellenan cuando haya memoria económica o evaluación independiente (AIReF, Banco de España, Fedea u otros) y quedan en null hasta entonces.",
+  "estados": {
+    "programa": "Figura en el programa electoral publicado (se enlaza)",
+    "anunciado": "Anunciado públicamente por el líder o la dirección, sin programa",
+    "votado": "Posición acreditada por votación en el Congreso o por gestión de gobierno",
+    "sin_posicion": "No consta posición pública verificable"
+  },
+  "huecos": [
+    "Programas formales: ninguno publicado. Frente Amplio presenta líder y hoja de ruta el 17 de octubre; Podemos celebra primarias el 14-15; PNV y Bildu no tienen candidato designado a 5 de octubre.",
+    "PP: el 'plan de choque' de vivienda y el 'Plan Prepara' no tienen memoria económica publicada; el coste de deflactar el IRPF y del IVA 0 % en alimentos no está cifrado por el partido.",
+    "Vox: no hay documento de 2026 con tipos de IRPF; las cifras conocidas (20 % hasta 60.000 €) son del programa de 2019 y pueden haber cambiado.",
+    "PSOE: no hay cifras fiscales nuevas; la jornada de 36 horas y el SMI al 60 % del salario medio proceden de un resumen de prensa (Forbes) sin documento del partido.",
+    "SALF: sin ninguna posición programática verificable para el 29N; se mantiene en 'sin_posicion' en todos los temas.",
+    "Junts, ERC, Bildu y PNV: posiciones en sanidad, educación, energía y defensa no localizadas más allá de declaraciones genéricas.",
+    "Sentido de voto nominal de los partidos pequeños en embargo a Israel, jornada laboral y decretos de vivienda: tomado de crónicas de prensa, pendiente de cotejar con el Diario de Sesiones."
+  ],
+  "partidos": ["PP", "PSOE", "VOX", "SUMAR", "PODEMOS", "SALF", "JUNTS", "ERC", "BILDU", "PNV"],
+  "programas_publicados": {
+    "PP": {"url": null, "fecha": null},
+    "PSOE": {"url": null, "fecha": null},
+    "VOX": {"url": null, "fecha": null},
+    "SUMAR": {"url": null, "fecha": null},
+    "PODEMOS": {"url": null, "fecha": null},
+    "SALF": {"url": null, "fecha": null},
+    "JUNTS": {"url": null, "fecha": null},
+    "ERC": {"url": null, "fecha": null},
+    "BILDU": {"url": null, "fecha": null},
+    "PNV": {"url": null, "fecha": null}
+  },
+  "temas": [
+    {
+      "id": "vivienda",
+      "nombre": "Vivienda",
+      "pregunta": "¿Qué promete para que alquilar o comprar sea posible?",
+      "posiciones": {
+        "PP": {"resumen": "Un millón de viviendas en cuatro años, ley del suelo, IVA 4 % jóvenes, avales 100 %, 'Hucha Hogar Joven'; derogar la ley de 2023.", "estado": "anunciado", "ev": "B", "src": ["https://www.eleconomista.es/economia/noticias/14018537/10/26/feijoo-convierte-la-vivienda-en-su-gran-arma-contra-sanchez-un-millon-de-pisos-y-rebajas-fiscales.html", "https://www.moncloa.com/2026/09/16/feijoo-plan-vivienda-avales-jovenes-3432104"], "coste": null, "viable": null},
+        "PSOE": {"resumen": "Escudo antidesahucios a 2030, prórroga 2 años de alquileres, congelación de rentas, veto a fondos, aval 100 %, IVA 10 % a pisos turísticos, parque público >6 %.", "estado": "votado", "ev": "A", "src": ["https://www.eldiario.es/economia/nuevo-decreto-vivienda-aprobado-gobierno_1_13546389.html", "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"], "coste": null, "viable": null},
+        "VOX": {"resumen": "Liberalizar suelo, bajar impuestos a la compra, desalojo inmediato por impago u ocupación, 'prioridad nacional' en vivienda pública.", "estado": "anunciado", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://www.elconstitucional.es/es/nacional/politica/santiago-abascal-ya-pone-condiciones-feijoo-gobernar-en-coalicion-elecciones-29n-remigracion-prioridad-nacional_8538_102.html"], "coste": null, "viable": null},
+        "SUMAR": {"resumen": "Rebaja de alquileres, prohibir compra a fondos, más parque público, ampliar prórrogas de contrato.", "estado": "anunciado", "ev": "B", "src": ["https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html"], "coste": null, "viable": null},
+        "PODEMOS": {"resumen": "Regular precios del alquiler el primer año, rebaja del 50 %, movilizar vivienda vacía de grandes tenedores.", "estado": "anunciado", "ev": "C", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"], "coste": null, "viable": null},
+        "SALF": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "JUNTS": {"resumen": "Competencias plenas para Cataluña; votó contra los decretos estatales de 2026.", "estado": "votado", "ev": "A", "src": ["https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/"], "coste": null, "viable": null},
+        "ERC": {"resumen": "Mantener zonas tensionadas y regulación de alquileres; votó a favor de los decretos de 2026.", "estado": "votado", "ev": "A", "src": ["https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/"], "coste": null, "viable": null},
+        "BILDU": {"resumen": "Vivienda como derecho, límite a pisos turísticos, parque público; votó a favor de los decretos.", "estado": "votado", "ev": "B", "src": ["https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"], "coste": null, "viable": null},
+        "PNV": {"resumen": "Votó sí a los decretos de 2026; gestión desde Euskadi.", "estado": "votado", "ev": "A", "src": ["https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/"], "coste": null, "viable": null}
+      }
+    },
+    {
+      "id": "impuestos",
+      "nombre": "Impuestos",
+      "pregunta": "¿Qué promete sobre lo que pagamos y quién lo paga?",
+      "posiciones": {
+        "PP": {"resumen": "Deflactar IRPF, mínimo por hijo de 2.400 a 4.800 €, IVA 0 % alimentos básicos y 10 % energía, 'Plan Prepara' jóvenes, sin IVA bajo 85.000 € de facturación.", "estado": "anunciado", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://www.infobae.com/espana/agencias/2026/10/04/feijoo-se-arma-con-sus-recetas-de-vivienda-ante-el-senuelo-electoral-que-prepara-sanchez-con-un-posible-adelanto/"], "coste": null, "viable": null},
+        "PSOE": {"resumen": "Más progresividad (grandes empresas y rentas altas), lucha contra el fraude, IVA 10 % a pisos turísticos, más IBI/IRPF a vivienda vacía; sin cifras.", "estado": "anunciado", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/051026-sanchez-convocatoria-elecciones.aspx"], "coste": null, "viable": null},
+        "VOX": {"resumen": "Bajada general de impuestos, suprimir 'chiringuitos' y subvenciones a sindicatos y patronal; tipos concretos solo en el programa de 2019.", "estado": "anunciado", "ev": "C", "src": ["https://www.democrata.es/encuestas/elecciones-generales/abascal-elecciones-29-n-ultima-oportunidad-vox-remigracion/", "https://www.bolsamania.com/noticias/elecciones-generales/vox-plantea-ayudas-familias-nuevo-modelo-pensiones-rebaja-fiscal--3839254.html"], "coste": null, "viable": null},
+        "SUMAR": {"resumen": "Impuesto permanente a grandes fortunas y banca; más progresividad.", "estado": "anunciado", "ev": "B", "src": ["https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html"], "coste": null, "viable": null},
+        "PODEMOS": {"resumen": "Impuestos a grandes fortunas y grandes empresas.", "estado": "anunciado", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"], "coste": null, "viable": null},
+        "SALF": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "JUNTS": {"resumen": "Concierto económico o recaudación íntegra por Cataluña.", "estado": "anunciado", "ev": "B", "src": ["https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"], "coste": null, "viable": null},
+        "ERC": {"resumen": "Recaudación del IRPF por la Agencia Tributaria catalana; ordinalidad.", "estado": "anunciado", "ev": "B", "src": ["https://www.cope.es/emisoras/catalunya/noticias/gobierno-generalitat-pactan-financiacion-singular-generalizable-20250714_3184917.html"], "coste": null, "viable": null},
+        "BILDU": {"resumen": "Más impuestos a rentas altas; votó impuestos a banca y energéticas.", "estado": "anunciado", "ev": "C", "src": ["https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"], "coste": null, "viable": null},
+        "PNV": {"resumen": "Defensa del concierto y el cupo; fiscalidad propia.", "estado": "anunciado", "ev": "B", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"], "coste": null, "viable": null}
+      }
+    },
+    {
+      "id": "empleo_salarios",
+      "nombre": "Empleo y salarios",
+      "pregunta": "¿Qué promete sobre jornada, salario mínimo y empleo?",
+      "posiciones": {
+        "PP": {"resumen": "Salarios ligados a productividad y diálogo social, bonificar a empresas con menos bajas, 'Plan Prepara' (IRPF bonificado 4 años), IVA cero a autónomos nuevos.", "estado": "anunciado", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://www.cordobabn.com/nacional/feijoo-insiste-combatir-absentismo-laboral-plantea-bonificar-empresas-menos-bajas-laborales/20261005162022270491.html"], "coste": null, "viable": null},
+        "PSOE": {"resumen": "Jornada de 36 horas antes de 2030, SMI en el 60 % del salario medio, cotización de autónomos por ingresos reales.", "estado": "anunciado", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"], "coste": null, "viable": null},
+        "VOX": {"resumen": "Rechazo a la reducción de jornada obligatoria, bajar costes laborales, fin de subvenciones a sindicatos.", "estado": "votado", "ev": "A", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://www.eleconomista.es/economia/noticias/13538757/09/25/diaz-insistira-para-conseguir-la-reduccion-de-jornada-pero-no-concreta-plazos-para-aprobarla.html"], "coste": null, "viable": null},
+        "SUMAR": {"resumen": "Jornada de 37,5 horas, más SMI, plazos de pago para pymes.", "estado": "votado", "ev": "A", "src": ["https://www.eleconomista.es/economia/noticias/13538757/09/25/diaz-insistira-para-conseguir-la-reduccion-de-jornada-pero-no-concreta-plazos-para-aprobarla.html"], "coste": null, "viable": null},
+        "PODEMOS": {"resumen": "Jornada de 35 horas y SMI de 1.800 € al mes.", "estado": "anunciado", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"], "coste": null, "viable": null},
+        "SALF": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "JUNTS": {"resumen": "Votó contra la jornada de 37,5 h (sept. 2025).", "estado": "votado", "ev": "A", "src": ["https://www.eleconomista.es/economia/noticias/13538757/09/25/diaz-insistira-para-conseguir-la-reduccion-de-jornada-pero-no-concreta-plazos-para-aprobarla.html"], "coste": null, "viable": null},
+        "ERC": {"resumen": "Votó a favor de la jornada de 37,5 h.", "estado": "votado", "ev": "B", "src": ["https://www.mundiario.com/articulo/politica/junqueras-marca-perfil-frente-rufian-apuesta-sostener-sanchez-culminar-agenda-catalana/20260617005912390765.html"], "coste": null, "viable": null},
+        "BILDU": {"resumen": "Reducción de jornada y subidas del SMI; marco vasco de relaciones laborales.", "estado": "votado", "ev": "B", "src": ["https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"], "coste": null, "viable": null},
+        "PNV": {"resumen": "Traspaso de la gestión de prestaciones de desempleo (logrado en 2026); industria y FP.", "estado": "votado", "ev": "B", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"], "coste": null, "viable": null}
+      }
+    },
+    {
+      "id": "pensiones",
+      "nombre": "Pensiones",
+      "pregunta": "¿Qué promete sobre la revalorización y el futuro del sistema?",
+      "posiciones": {
+        "PP": {"resumen": "No ha anunciado cambios del sistema ni recortes; en 2013-2018 aplicó el índice del 0,25 %.", "estado": "sin_posicion", "ev": "C", "src": ["https://aqui.madrid/elecciones-29n-vivienda-sanidad-educacion-y-pensiones-los-cuatro-frentes-de-la-campana"], "coste": null, "viable": null},
+        "PSOE": {"resumen": "Revalorización con el IPC (ley 20/2021), mínimas por encima del IPC; subida prevista del 3,2 % en 2027.", "estado": "votado", "ev": "A", "src": ["https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/subida-pensiones-2026.aspx", "https://aqui.madrid/elecciones-29n-vivienda-sanidad-educacion-y-pensiones-los-cuatro-frentes-de-la-campana"], "coste": null, "viable": null},
+        "VOX": {"resumen": "Modelo mixto: reparto más cuentas de capitalización individual obligatorias; 'el sistema es un zombi'.", "estado": "anunciado", "ev": "B", "src": ["https://www.eldebate.com/economia/20261004/jose-maria-figaredo-vox-sistema-pensiones-zombi-han-quebrado_465570.html", "https://infobae.com/espana/2026/10/05/vox-dice-que-el-sistema-de-pensiones-es-un-zombi-que-ha-quebrado-y-propone-un-modelo-que-combine-reparto-y-capitalizacion-individual"], "coste": null, "viable": null},
+        "SUMAR": {"resumen": "Pensiones con el IPC y subida de mínimas; financiación con impuestos a fortunas.", "estado": "votado", "ev": "B", "src": ["https://www.iberley.es/noticias/publicado-salario-minimo-interprofesional-2026-36093"], "coste": null, "viable": null},
+        "PODEMOS": {"resumen": "Blindar las pensiones en la Constitución y revalorización con el IPC.", "estado": "anunciado", "ev": "C", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"], "coste": null, "viable": null},
+        "SALF": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "JUNTS": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "ERC": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "BILDU": {"resumen": "Pensión mínima de 1.080 € y revalorización con el IPC; votó la reforma de pensiones.", "estado": "votado", "ev": "B", "src": ["https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"], "coste": null, "viable": null},
+        "PNV": {"resumen": "Traspaso del régimen económico de la Seguridad Social a Euskadi.", "estado": "anunciado", "ev": "B", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"], "coste": null, "viable": null}
+      }
+    },
+    {
+      "id": "sanidad",
+      "nombre": "Sanidad y dependencia",
+      "pregunta": "¿Qué promete sobre listas de espera, médicos y dependencia?",
+      "posiciones": {
+        "PP": {"resumen": "15 % más de médicos (26.500), guardias pagadas como horas ordinarias, más MIR, financiación sanitaria finalista, plan antiagresiones.", "estado": "anunciado", "ev": "B", "src": ["https://www.ultimahora.es/noticias/nacional/2026/03/02/2580913/feijoo-compromete-aumentar-plantillas-medicos-para-mejorar-condiciones-guardias-jornadas.html"], "coste": null, "viable": null},
+        "PSOE": {"resumen": "Criterios únicos de listas de espera, blindar la sanidad pública, recuperar la financiación extra de dependencia.", "estado": "anunciado", "ev": "B", "src": ["https://aqui.madrid/elecciones-29n-vivienda-sanidad-educacion-y-pensiones-los-cuatro-frentes-de-la-campana"], "coste": null, "viable": null},
+        "VOX": {"resumen": "'Prioridad nacional' en el acceso a servicios; sin plan sanitario detallado.", "estado": "anunciado", "ev": "C", "src": ["https://www.elconstitucional.es/es/nacional/politica/santiago-abascal-ya-pone-condiciones-feijoo-gobernar-en-coalicion-elecciones-29n-remigracion-prioridad-nacional_8538_102.html"], "coste": null, "viable": null},
+        "SUMAR": {"resumen": "Más atención primaria y salud mental, fin de conciertos con la privada; Estatuto Marco del personal.", "estado": "anunciado", "ev": "C", "src": ["https://aqui.madrid/elecciones-29n-vivienda-sanidad-educacion-y-pensiones-los-cuatro-frentes-de-la-campana"], "coste": null, "viable": null},
+        "PODEMOS": {"resumen": "Blindar por ley el gasto sanitario y de dependencia; derogar la ley 15/97.", "estado": "anunciado", "ev": "C", "src": ["https://www.publico.es/sociedad/sanidad/13-503-personas-han-muerto-listas-espera-dependencia-primeros-cinco-meses-2026-insoportable.html"], "coste": null, "viable": null},
+        "SALF": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "JUNTS": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "ERC": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "BILDU": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "PNV": {"resumen": "Sanidad financiada con el concierto; defensa de Osakidetza.", "estado": "anunciado", "ev": "C", "src": ["https://www.publico.es/sociedad/sanidad/13-503-personas-han-muerto-listas-espera-dependencia-primeros-cinco-meses-2026-insoportable.html"], "coste": null, "viable": null}
+      }
+    },
+    {
+      "id": "educacion",
+      "nombre": "Educación y juventud",
+      "pregunta": "¿Qué promete sobre aulas, FP, emancipación y natalidad?",
+      "posiciones": {
+        "PP": {"resumen": "Mínimo por hijo de 4.800 €, 'Hucha Hogar Joven', autoridad del profesor, revisar la LOMLOE y la concertada.", "estado": "anunciado", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/", "https://www.infobae.com/espana/agencias/2026/10/04/feijoo-se-arma-con-sus-recetas-de-vivienda-ante-el-senuelo-electoral-que-prepara-sanchez-con-un-posible-adelanto/"], "coste": null, "viable": null},
+        "PSOE": {"resumen": "Ratios de 22/25 alumnos y 23/18 horas lectivas (ley decaída), 0-3 universal, permiso de nacimiento de 20 semanas, bono alquiler joven.", "estado": "anunciado", "ev": "B", "src": ["https://aqui.madrid/elecciones-29n-vivienda-sanidad-educacion-y-pensiones-los-cuatro-frentes-de-la-campana"], "coste": null, "viable": null},
+        "VOX": {"resumen": "PIN parental, cheque escolar, derogar la LOMLOE, prestación por hijo con 'prioridad nacional'.", "estado": "anunciado", "ev": "B", "src": ["https://www.moncloa.com/2026/09/07/pacto-pp-vox-castilla-y-leon-4-3427123"], "coste": null, "viable": null},
+        "SUMAR": {"resumen": "Prestación universal por crianza, 0-3 gratuito, bajada de ratios.", "estado": "anunciado", "ev": "C", "src": ["https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html"], "coste": null, "viable": null},
+        "PODEMOS": {"resumen": "Prestación por hijo, educación pública sin conciertos.", "estado": "anunciado", "ev": "C", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"], "coste": null, "viable": null},
+        "SALF": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "JUNTS": {"resumen": "Inmersión lingüística; competencia exclusiva catalana.", "estado": "anunciado", "ev": "C", "src": ["https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"], "coste": null, "viable": null},
+        "ERC": {"resumen": "Inmersión lingüística y universidad pública.", "estado": "anunciado", "ev": "C", "src": ["https://www.mundiario.com/articulo/politica/junqueras-marca-perfil-frente-rufian-apuesta-sostener-sanchez-culminar-agenda-catalana/20260617005912390765.html"], "coste": null, "viable": null},
+        "BILDU": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "PNV": {"resumen": "Modelo educativo vasco (euskera); competencia propia.", "estado": "anunciado", "ev": "C", "src": ["https://www.magisnet.com/2026/01/el-abandono-escolar-baja-hasta-el-125-en-2025-un-nuevo-minimo-historico/"], "coste": null, "viable": null}
+      }
+    },
+    {
+      "id": "inmigracion",
+      "nombre": "Inmigración",
+      "pregunta": "¿Qué promete sobre llegadas, regularización e integración?",
+      "posiciones": {
+        "PP": {"resumen": "Visado por puntos (idioma, integración), expulsión de quien delinca, revisar la regularización extraordinaria, más medios en fronteras.", "estado": "anunciado", "ev": "B", "src": ["https://cnnespanol.cnn.com/2025/09/29/espana/visado-por-puntos-migrantes-feijoo-orix", "https://www.democrata.es/actualidad/decalogo-pp-inmigracion-feijoo-detalla-plan-ordenar-politica-migratoria/"], "coste": null, "viable": null},
+        "PSOE": {"resumen": "Regularización consolidada (1,17 M solicitudes), migración legal ligada al empleo, cooperación con Marruecos y África.", "estado": "votado", "ev": "A", "src": ["https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/020726-balance-regularizacion-extraordinaria.aspx"], "coste": null, "viable": null},
+        "VOX": {"resumen": "'Remigración' (expulsar irregulares, delincuentes y 'quien viva de subsidios'), derogar la regularización, cierre de fronteras, delitos por nacionalidad.", "estado": "anunciado", "ev": "B", "src": ["https://www.infobae.com/espana/agencias/2026/09/14/abascal-plantea-procesos-de-repatriaciones-de-inmigrantes-que-delincan-y-de-remigracion-para-los-que-no-trabajan/", "https://www.elconstitucional.es/es/nacional/politica/santiago-abascal-ya-pone-condiciones-feijoo-gobernar-en-coalicion-elecciones-29n-remigracion-prioridad-nacional_8538_102.html"], "coste": null, "viable": null},
+        "SUMAR": {"resumen": "Vías legales y seguras, regularización permanente.", "estado": "votado", "ev": "B", "src": ["https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/020726-balance-regularizacion-extraordinaria.aspx"], "coste": null, "viable": null},
+        "PODEMOS": {"resumen": "Regularización permanente; rechazo a delegar inmigración a Cataluña.", "estado": "votado", "ev": "A", "src": ["https://www.eldiario.es/politica/congreso-rechaza-ley-junts-psoe-traspaso-competencias-inmigracion-catalunya_1_12625754.html"], "coste": null, "viable": null},
+        "SALF": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "JUNTS": {"resumen": "Competencias plenas de inmigración para Cataluña; catalán como requisito de arraigo.", "estado": "votado", "ev": "A", "src": ["https://www.moncloa.com/2026/08/27/gobierno-rechaza-competencias-inmigracion-cataluna-3422002"], "coste": null, "viable": null},
+        "ERC": {"resumen": "Gestión catalana de la acogida; apoyo a la regularización.", "estado": "anunciado", "ev": "C", "src": ["https://www.eldiario.es/politica/congreso-rechaza-ley-junts-psoe-traspaso-competencias-inmigracion-catalunya_1_12625754.html"], "coste": null, "viable": null},
+        "BILDU": {"resumen": "Apoyo a la regularización; acogida desde Euskadi y Navarra.", "estado": "votado", "ev": "C", "src": ["https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"], "coste": null, "viable": null},
+        "PNV": {"resumen": "Inmigración como necesidad demográfica; gestión autonómica de la acogida.", "estado": "anunciado", "ev": "C", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"], "coste": null, "viable": null}
+      }
+    },
+    {
+      "id": "seguridad",
+      "nombre": "Seguridad",
+      "pregunta": "¿Qué promete sobre delincuencia, fronteras y policía?",
+      "posiciones": {
+        "PP": {"resumen": "'Tolerancia cero' y expulsión de extranjeros que delincan, ley antiocupación, más medios en Ceuta, Melilla y Canarias.", "estado": "anunciado", "ev": "B", "src": ["https://www.democrata.es/actualidad/decalogo-pp-inmigracion-feijoo-detalla-plan-ordenar-politica-migratoria/", "https://www.infobae.com/espana/agencias/2026/10/04/feijoo-se-arma-con-sus-recetas-de-vivienda-ante-el-senuelo-electoral-que-prepara-sanchez-con-un-posible-adelanto/"], "coste": null, "viable": null},
+        "PSOE": {"resumen": "Criminalidad 'históricamente baja' como aval; aplicar la sentencia del Supremo sobre devoluciones en caliente; cooperación con Marruecos.", "estado": "votado", "ev": "A", "src": ["https://www.cordobabn.com/nacional/criminalidad-espana-sube-05-junio-2026-aumento-delitos-sexuales-rinas-trafico-drogas/20260917155447267986.html", "https://www.elindependiente.com/espana/2026/07/30/claves-ceuta-sentencia-supremo-devoluciones-caliente/"], "coste": null, "viable": null},
+        "VOX": {"resumen": "Repatriación de quien delinca, publicar delitos por nacionalidad, 'Ceuta invadida', desalojo exprés de ocupas.", "estado": "anunciado", "ev": "B", "src": ["https://theobjective.com/espana/politica/2026-07-27/vox-discurso-seguridad-inmigracion-elecciones-generales/"], "coste": null, "viable": null},
+        "SUMAR": {"resumen": "Derogar la 'ley mordaza'; seguridad como política social.", "estado": "anunciado", "ev": "C", "src": ["https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html"], "coste": null, "viable": null},
+        "PODEMOS": {"resumen": "Derogar la 'ley mordaza'.", "estado": "anunciado", "ev": "B", "src": ["https://vozpopuli.com/espana/adelanto-electoral-de-sanchez-en-directo-el-presidente-comparece-para-desvelar-si-adelanta-las-elecciones-tras-la-crisis-de-la-vivienda.html"], "coste": null, "viable": null},
+        "SALF": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "JUNTS": {"resumen": "Mossos con competencias plenas; expulsión de multirreincidentes.", "estado": "anunciado", "ev": "C", "src": ["https://www.moncloa.com/2026/08/27/gobierno-rechaza-competencias-inmigracion-cataluna-3422002"], "coste": null, "viable": null},
+        "ERC": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "BILDU": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "PNV": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null}
+      }
+    },
+    {
+      "id": "energia_clima",
+      "nombre": "Energía y clima",
+      "pregunta": "¿Qué promete sobre la factura, las nucleares y las renovables?",
+      "posiciones": {
+        "PP": {"resumen": "Alargar la vida de las nucleares, eliminar el impuesto a la generación eléctrica, IVA de la energía al 10 %, refuerzo de la red tras el apagón.", "estado": "anunciado", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"], "coste": null, "viable": null},
+        "PSOE": {"resumen": "Renovables por encima del 50 %, reindustrialización, escudos anticrisis; Almaraz prorrogada hasta 2030.", "estado": "votado", "ev": "A", "src": ["https://www.infobae.com/espana/2026/08/14/almaraz-seguira-operativa-hasta-junio-de-2030-el-gobierno-retrasa-el-cierre-de-la-central-nuclear/", "https://www.deia.eus/economia/2026/09/29/gobierno-espanol-activa-nuevo-escudo-gas-crisis-11595535.html"], "coste": null, "viable": null},
+        "VOX": {"resumen": "Rechazo del Pacto Verde y de la Agenda 2030, nuclear, bajada de impuestos a la energía.", "estado": "anunciado", "ev": "B", "src": ["https://www.democrata.es/encuestas/elecciones-generales/abascal-elecciones-29-n-ultima-oportunidad-vox-remigracion/"], "coste": null, "viable": null},
+        "SUMAR": {"resumen": "Transición renovable acelerada, impuesto a beneficios de energéticas, cierre nuclear según calendario.", "estado": "anunciado", "ev": "C", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"], "coste": null, "viable": null},
+        "PODEMOS": {"resumen": "Empresa pública de energía; renovables.", "estado": "anunciado", "ev": "B", "src": ["https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"], "coste": null, "viable": null},
+        "SALF": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "JUNTS": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "ERC": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "BILDU": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "PNV": {"resumen": "Industria y energía como prioridades; posición sobre nuclear no concretada.", "estado": "anunciado", "ev": "C", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"], "coste": null, "viable": null}
+      }
+    },
+    {
+      "id": "territorial_cataluna",
+      "nombre": "Cataluña y modelo territorial",
+      "pregunta": "¿Qué promete sobre amnistía, financiación autonómica y traspasos?",
+      "posiciones": {
+        "PP": {"resumen": "Derogar la amnistía, rechazar financiación singular y condonación, reforma multilateral 'igual para todos'.", "estado": "votado", "ev": "A", "src": ["https://www.que.es/2026/09/18/condonacion-deuda-autonomica-congreso-2/", "https://www.publico.es/politica/tribunales/sentencia-tjue-sobre-ley-amnistia-puigdemont-directo.html"], "coste": null, "viable": null},
+        "PSOE": {"resumen": "Financiación singular 'generalizable', condonación de 83.000 M€, aplicación íntegra de la amnistía, cierre del Estatuto vasco.", "estado": "votado", "ev": "A", "src": ["https://www.cope.es/emisoras/catalunya/noticias/gobierno-generalitat-pactan-financiacion-singular-generalizable-20250714_3184917.html", "https://www.que.es/2026/09/18/condonacion-deuda-autonomica-congreso-2/"], "coste": null, "viable": null},
+        "VOX": {"resumen": "Recentralizar competencias o suprimir autonomías, ilegalizar partidos independentistas, derogar la amnistía.", "estado": "anunciado", "ev": "B", "src": ["https://www.democrata.es/encuestas/elecciones-generales/abascal-elecciones-29-n-ultima-oportunidad-vox-remigracion/"], "coste": null, "viable": null},
+        "SUMAR": {"resumen": "Estado plurinacional, financiación federal, referéndum pactado como horizonte.", "estado": "anunciado", "ev": "C", "src": ["https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html"], "coste": null, "viable": null},
+        "PODEMOS": {"resumen": "Referéndum pactado; apoyo a la amnistía.", "estado": "votado", "ev": "B", "src": ["https://www.eldiario.es/politica/congreso-rechaza-ley-junts-psoe-traspaso-competencias-inmigracion-catalunya_1_12625754.html"], "coste": null, "viable": null},
+        "SALF": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "JUNTS": {"resumen": "Concierto económico, competencias de inmigración, catalán en la UE, referéndum, regreso de Puigdemont.", "estado": "anunciado", "ev": "B", "src": ["https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"], "coste": null, "viable": null},
+        "ERC": {"resumen": "Financiación singular con ordinalidad, IRPF recaudado por la ATC, condonación ampliada, referéndum acordado.", "estado": "anunciado", "ev": "B", "src": ["https://www.mundiario.com/articulo/politica/junqueras-marca-perfil-frente-rufian-apuesta-sostener-sanchez-culminar-agenda-catalana/20260617005912390765.html"], "coste": null, "viable": null},
+        "BILDU": {"resumen": "Nuevo estatus para Euskadi y Navarra por vía acordada.", "estado": "anunciado", "ev": "B", "src": ["https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"], "coste": null, "viable": null},
+        "PNV": {"resumen": "Cierre del Estatuto de Gernika (16 transferencias), Seguridad Social, nuevo estatus pactado.", "estado": "anunciado", "ev": "A", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"], "coste": null, "viable": null}
+      }
+    },
+    {
+      "id": "instituciones_justicia",
+      "nombre": "Instituciones y justicia",
+      "pregunta": "¿Qué promete sobre CGPJ, fiscal general, RTVE, lobbies y corrupción?",
+      "posiciones": {
+        "PP": {"resumen": "CGPJ elegido por los jueces, fiscal general independiente, comisiones de investigación sobre los casos del PSOE; retrasa la renovación del TC.", "estado": "anunciado", "ev": "B", "src": ["https://www.estrelladigital.es/articulo/tribunales/reforma-cgpj-eleccion-jueces-comision-venecia-2025/20251020202253436899.html", "https://www.moncloa.com/2026/10/02/renovacion-tribunal-constitucional-bloqueo-pp-3441711"], "coste": null, "viable": null},
+        "PSOE": {"resumen": "Plan de Acción por la Democracia: ley de lobbies, información clasificada, estatuto del fiscal con mandato de 5 años; ninguna aprobada.", "estado": "anunciado", "ev": "A", "src": ["https://commission.europa.eu/document/download/82ce1391-cde5-49e9-9d1b-3f14f4975eb7_es?filename=13_2_coun_chap_spain_es.pdf"], "coste": null, "viable": null},
+        "VOX": {"resumen": "Suprimir subvenciones a partidos, sindicatos y patronal y 'chiringuitos'; cuestiona la limpieza electoral sin pruebas.", "estado": "anunciado", "ev": "C", "src": ["https://www.diariodeleon.es/nacional/261005/2099326/elecciones-generales-2026-directo-todas-reacciones-adelanto-pedro-sanchez.html"], "coste": null, "viable": null},
+        "SUMAR": {"resumen": "Ley de lobbies, derogar la 'ley mordaza', despolitizar RTVE.", "estado": "anunciado", "ev": "C", "src": ["https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html"], "coste": null, "viable": null},
+        "PODEMOS": {"resumen": "Derogar la 'ley mordaza', limitar aforamientos.", "estado": "anunciado", "ev": "C", "src": ["https://vozpopuli.com/espana/adelanto-electoral-de-sanchez-en-directo-el-presidente-comparece-para-desvelar-si-adelanta-las-elecciones-tras-la-crisis-de-la-vivienda.html"], "coste": null, "viable": null},
+        "SALF": {"resumen": "Anticorrupción y libertad de expresión como líneas históricas; sin programa.", "estado": "anunciado", "ev": "C", "src": ["https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta"], "coste": null, "viable": null},
+        "JUNTS": {"resumen": "Aplicación íntegra de la amnistía; 'el Estado está podrido institucionalmente'.", "estado": "anunciado", "ev": "B", "src": ["https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"], "coste": null, "viable": null},
+        "ERC": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "BILDU": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "PNV": {"resumen": "Estabilidad y pactos de Estado.", "estado": "anunciado", "ev": "C", "src": ["https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"], "coste": null, "viable": null}
+      }
+    },
+    {
+      "id": "defensa_exterior",
+      "nombre": "Defensa y política exterior",
+      "pregunta": "¿Qué promete sobre la OTAN, EE. UU., Gaza, Irán y Ucrania?",
+      "posiciones": {
+        "PP": {"resumen": "Cumplir con la OTAN (apoyó el 2 %), reconducir la relación con EE. UU., apoyo a Ucrania; critica el aislamiento de España en la Alianza.", "estado": "anunciado", "ev": "C", "src": ["https://www.infobae.com/espana/2026/03/04/todas-las-veces-que-trump-ha-amenazado-a-espana-de-los-reproches-por-el-gasto-en-defensa-a-plantear-su-expulsion-de-la-otan/"], "coste": null, "viable": null},
+        "PSOE": {"resumen": "2 % del PIB en defensa y 'no' al 5 %, embargo de armas a Israel, no a la guerra de Irán (sin uso ofensivo de Rota y Morón), 1.000 M€ para Ucrania en 2026.", "estado": "votado", "ev": "A", "src": ["https://theobjective.com/espana/politica/2026-03-26/otan-espana-gasto-defensa/", "https://www.infobae.com/espana/2025/10/08/el-congreso-convalida-el-decreto-del-embargo-de-armas-a-israel-con-el-apoyo-de-ultima-hora-de-podemos/", "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2026/180326-sanchez-reunion-zelenski.aspx"], "coste": null, "viable": null},
+        "VOX": {"resumen": "Alianza con Trump, Meloni y Orbán; apoyo a Israel y a EE. UU. en Irán; votó contra el embargo de armas.", "estado": "votado", "ev": "A", "src": ["https://en.wikipedia.org/wiki/Spain_in_the_2026_Iran_war", "https://www.infobae.com/espana/2025/10/08/el-congreso-convalida-el-decreto-del-embargo-de-armas-a-israel-con-el-apoyo-de-ultima-hora-de-podemos/"], "coste": null, "viable": null},
+        "SUMAR": {"resumen": "Embargo total a Israel, contra el aumento del gasto militar, contra la guerra de Irán.", "estado": "votado", "ev": "B", "src": ["https://en.wikipedia.org/wiki/Spain_in_the_2026_Iran_war"], "coste": null, "viable": null},
+        "PODEMOS": {"resumen": "Ruptura total con Israel y salida de la OTAN.", "estado": "anunciado", "ev": "B", "src": ["https://vozpopuli.com/espana/adelanto-electoral-de-sanchez-en-directo-el-presidente-comparece-para-desvelar-si-adelanta-las-elecciones-tras-la-crisis-de-la-vivienda.html"], "coste": null, "viable": null},
+        "SALF": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null},
+        "JUNTS": {"resumen": "Catalán oficial en la UE como prioridad exterior.", "estado": "anunciado", "ev": "B", "src": ["https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"], "coste": null, "viable": null},
+        "ERC": {"resumen": "Votó el embargo a Israel; catalán en la UE.", "estado": "votado", "ev": "B", "src": ["https://www.infobae.com/espana/2025/10/08/el-congreso-convalida-el-decreto-del-embargo-de-armas-a-israel-con-el-apoyo-de-ultima-hora-de-podemos/"], "coste": null, "viable": null},
+        "BILDU": {"resumen": "Votó el embargo a Israel; contra el gasto militar.", "estado": "votado", "ev": "B", "src": ["https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"], "coste": null, "viable": null},
+        "PNV": {"resumen": null, "estado": "sin_posicion", "ev": null, "src": [], "coste": null, "viable": null}
+      }
+    }
+  ]
+}
