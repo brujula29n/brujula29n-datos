@@ -161,7 +161,7 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 17,
+  "n": 20,
   "ultimo": "El Constitucional avala amnistiar la malversación del 'procés'; el Supremo levantará la orden contra Puigdemont"
  },
  "casas": [
@@ -184,7 +184,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "3 movimientos nuevos en el diario. Último: El Constitucional avala amnistiar la malversación del 'procés'; el Supremo levantará la orden contra Puigdemont."
+   "texto": "6 movimientos nuevos en el diario. Último: El Constitucional avala amnistiar la malversación del 'procés'; el Supremo levantará la orden contra Puigdemont."
   }
  ]
 }

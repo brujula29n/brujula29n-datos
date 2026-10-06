@@ -48,6 +48,56 @@
   },
   {
    "fecha": "2026-10-06",
+   "titulo": "Huelga general por la vivienda: Inquilinas, CCOO y UGT, sin fecha",
+   "que": "El Sindicato de Inquilinas ha convocado una huelga general por la vivienda, a la que se han sumado CCOO y UGT; aún no tiene fecha. Montero, coordinadora estratégica del PSOE, dice que se dirige 'contra la oposición por derribar los decretos de vivienda'. Es la lectura del PSOE, no la de los convocantes.",
+   "lectura": "Sitúa la vivienda como eje de la campaña. El PSOE intenta que la protesta apunte a la oposición. Nivel B (hecho según El País, sin fecha; el encuadre es declaración de parte).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://elpais.com/espana/elecciones-generales/2026-10-06/montero-la-huelga-general-se-convoca-contra-la-oposicion-por-derribar-los-decretos-de-vivienda.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "Sumar abre la puerta a Podemos pero no acepta las primarias abiertas",
+   "que": "Verónica Barbero (portavoz de Sumar en el Congreso) dijo en RNE que el espacio está abierto a una candidatura conjunta con Podemos, pero que las primarias no son una línea roja ni el método de Frente Amplio: 'mejor acordar que competir'. Podemos pide primarias abiertas el 14-15 de octubre; el registro de coaliciones cierra el 16.",
+   "lectura": "Quedan diez días para registrar coaliciones sin acuerdo sobre cómo elegir al candidato. Si van por separado, se reparte el voto de la izquierda y el reparto de escaños depende de cada provincia. Nivel C.",
+   "actores": [
+    {
+     "id": "SUMAR",
+     "impacto": 0
+    },
+    {
+     "id": "PODEMOS",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-sumar-abre-puerta-podemos-aleja-peticion-primarias-mejor-acordar-competir-nosotros-20261006110305.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "Montero coordina la campaña del PSOE y no será candidata al Congreso",
+   "que": "María Jesús Montero, secretaria general del PSOE-A, ha sido nombrada coordinadora estratégica de la campaña y ha negado ser candidata al Congreso: dejó el escaño en Madrid tras las elecciones andaluzas del 17 de mayo.",
+   "lectura": "Sánchez refuerza el mando de campaña con una dirigente andaluza; Andalucía es clave para sumar escaños. Dato de organización, no de voto. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.abc.es/espana/andalucia/maria-jesus-montero-candidata-congreso-20261006124637-nts.html",
+    "https://elpais.com/espana/elecciones-generales/2026-10-06/montero-la-huelga-general-se-convoca-contra-la-oposicion-por-derribar-los-decretos-de-vivienda.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
    "titulo": "El BOE publica el decreto: Madrid gana un escaño y Cádiz lo pierde",
    "que": "Disolución de las Cortes y elecciones el 29-N, con 350 diputados. Según el anexo del Real Decreto 806/2026, de 5 de octubre (BOE-A-2026-20742), Madrid elige 38 diputados (uno más que en 2023) y Cádiz 8 (uno menos); las otras 50 circunscripciones no cambian. Parte de la prensa publicó que cambiaban cuatro escaños; el texto del BOE no lo confirma.",
    "lectura": "Efecto mínimo: un escaño pasa de Cádiz a Madrid. Con los votos de 2023 no cambia el orden de los bloques. Nivel C.",
