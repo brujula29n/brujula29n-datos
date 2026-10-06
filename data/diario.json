@@ -48,6 +48,37 @@
   },
   {
    "fecha": "2026-10-06",
+   "titulo": "Pedraz pide datos al PSOE y da traslado a Anticorrupción sobre la imputación del partido",
+   "que": "El juez de la Audiencia Nacional Santiago Pedraz ha pedido al PSOE información sobre la contratación de dos abogados vinculados a la causa de las 'cloacas' y ha dado traslado a la Fiscalía Anticorrupción del escrito del PP que reclama imputar al partido. Aún no hay decisión sobre la imputación; según fuentes judiciales citadas por 20minutos, es un escenario posible pero lejano.",
+   "lectura": "Es el paso del juez ante la petición de parte: pide informe a la Fiscalía y datos al partido. El PSOE no está imputado. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/juez-pedraz-pide-psoe-datos-sobre-fichaje-los-abogados-las-cloacas-pregunta-fiscalia-si-debe-imputar-partido_7045545_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "El Gobierno vuelve a aprobar los decretos de vivienda; irán a la Diputación Permanente",
+   "que": "El Consejo de Ministros ha aprobado de nuevo dos reales decretos-ley de vivienda (protección contra desahucios; renovación automática de alquileres) con gran parte de las medidas que decayeron el viernes al tumbarlos el Congreso. Entran en vigor con su publicación en el BOE y deben convalidarse en 30 días; esta vez los verá la Diputación Permanente, tras la disolución de las Cortes. Sánchez pide su voto a los grupos: 'una cuestión de humanidad'.",
+   "lectura": "Pone la vivienda en el centro de la campaña y el choque con el Congreso como argumento. Que se convaliden depende de la Diputación Permanente. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 1
+    }
+   ],
+   "src": [
+    "https://www.newtral.es/reales-decretos-vivienda-diputacion-permanente/20261006/",
+    "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/061026-sanchez-comparecencia-consejo-ministros.aspx"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
    "titulo": "Huelga general por la vivienda: Inquilinas, CCOO y UGT, sin fecha",
    "que": "El Sindicato de Inquilinas ha convocado una huelga general por la vivienda, a la que se han sumado CCOO y UGT; aún no tiene fecha. Montero, coordinadora estratégica del PSOE, dice que se dirige 'contra la oposición por derribar los decretos de vivienda'. Es la lectura del PSOE, no la de los convocantes.",
    "lectura": "Sitúa la vivienda como eje de la campaña. El PSOE intenta que la protesta apunte a la oposición. Nivel B (hecho según El País, sin fecha; el encuadre es declaración de parte).",
