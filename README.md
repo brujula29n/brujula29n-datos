@@ -2,7 +2,7 @@
 
 Datos, fuentes y motor de cálculo de **[brujula29n.com](https://brujula29n.com)**, el observatorio ciudadano e independiente de las elecciones generales del 29 de noviembre de 2026.
 
-Este repositorio existe para que cualquiera pueda **comprobar cada cifra** de la web y **proponer correcciones**. Se actualiza solo cada vez que cambia la web (dos veces al día durante la campaña).
+Este repositorio existe para que cualquiera pueda **comprobar cada cifra** de la web y **proponer correcciones**. Se actualiza solo cada vez que cambia la web (varias veces al día durante la campaña).
 
 ## Qué hay
 
