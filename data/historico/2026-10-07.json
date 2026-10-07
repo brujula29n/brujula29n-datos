@@ -161,8 +161,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 27,
-  "ultimo": "El BOE publica los dos decretos-ley de vivienda (28/2026 y 29/2026)"
+  "n": 30,
+  "ultimo": "Bolaños: la amnistía se pactó para sumar los 176 votos y para la 'normalización' en Cataluña"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -184,7 +184,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "1 movimiento nuevo en el diario. Último: El BOE publica los dos decretos-ley de vivienda (28/2026 y 29/2026)."
+   "texto": "4 movimientos nuevos en el diario. Último: Bolaños: la amnistía se pactó para sumar los 176 votos y para la 'normalización' en Cataluña."
   }
  ]
 }

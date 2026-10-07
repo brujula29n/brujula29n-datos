@@ -4,6 +4,59 @@
  "entradas": [
   {
    "fecha": "2026-10-07",
+   "titulo": "Bolaños: la amnistía se pactó para sumar los 176 votos y para la 'normalización' en Cataluña",
+   "que": "El ministro Félix Bolaños dijo en la SER que la Ley de Amnistía se pactó con ERC, Junts y otros grupos 'para sumar la mayoría de 176 votos que necesitábamos' tras el 23J, y también para la 'normalización política' en Cataluña. Añadió que Puigdemont 'podría regresar hoy si quisiera' y que PP y Vox sacaron a la calle a miles de personas 'con mentiras' al decir que era inconstitucional.",
+   "lectura": "Confirma el vínculo entre la amnistía y la investidura, el argumento central del PP; el Gobierno lo enmarca como convivencia, avalada por el TC. Nivel B (declaración de un ministro).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-bolanos-admite-pacto-amnistia-sumar-176-votos-tambien-normalizacion-cataluna-20261007102526.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "IU convoca de urgencia a su Coordinadora y el Frente Amplio promete candidato esta semana",
+   "que": "Izquierda Unida reúne hoy a su Coordinadora Federal para adaptar su calendario de primarias al 29-N; su coordinador, Antonio Maíllo, dice que IU defenderá 'sin complejos ni límites' sus propuestas sobre el cabeza de lista del Frente Amplio. Según Europa Press, los cuatro partidos (IU, Más Madrid, Comuns y Movimiento Sumar) aceleran y varios dirigentes esperan decidir en los próximos días. Suenan Mónica García y Ada Colau; Bustinduy se ha autodescartado. Aún no hay candidato.",
+   "lectura": "El nombre puede adelantarse al 17-10 previsto, pero nada está decidido. Nivel B.",
+   "actores": [
+    {
+     "id": "SUMAR",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-iu-proclama-jugara-papel-eleccion-candidato-frente-amplio-defendera-propuestas-complejos-20261007110015.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "PP y PSOE abren la precampaña el sábado: Feijóo en Ifema, Sánchez en Dos Hermanas",
+   "que": "El PP ha convocado su primer acto de precampaña el sábado en el recinto de Ifema (Madrid), con Isabel Díaz Ayuso y José Luis Martínez-Almeida. El PSOE ya dijo que Sánchez abrirá la suya en Dos Hermanas (Sevilla).",
+   "lectura": "Calendario de actos, sin efecto en el voto. Nivel B.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-pp-avanza-mitin-feijoo-ayuso-sabado-madrid-reta-sanchez-ir-zapatero-suyo-sevilla-20261007090946.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
    "titulo": "El BOE publica los dos decretos-ley de vivienda (28/2026 y 29/2026)",
    "que": "El BOE del 7 de octubre (núm. 249) publica el Real Decreto-ley 28/2026, sobre la estabilidad de los contratos de arrendamiento de vivienda habitual, y el 29/2026, sobre la función social de la vivienda y la oferta de vivienda asequible. El segundo incluye una prórroga extraordinaria de contratos y una limitación extraordinaria de la actualización anual de la renta (disposiciones finales quinta y sexta). Entran en vigor con la publicación y deben convalidarse en la Diputación Permanente en un máximo de 30 días.",
    "lectura": "Convierte el pulso de la vivienda en norma vigente en plena precampaña; su convalidación depende de la Diputación Permanente (el PNV ha anunciado apoyo al primero, no al segundo). Nivel A para el texto; la lectura, C.",
