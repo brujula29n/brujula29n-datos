@@ -1,0 +1,190 @@
+{
+ "fecha": "2026-10-07",
+ "media": {
+  "pct": {
+   "PP": 32.65,
+   "PSOE": 26.37,
+   "VOX": 18.62,
+   "SUMAR": 5.86,
+   "PODEMOS": 3.42,
+   "SALF": 1.78,
+   "ERC": 2.14,
+   "JUNTS": 1.2,
+   "BILDU": 1.36,
+   "PNV": 0.98,
+   "BNG": 0.96,
+   "CC": 0.44,
+   "UPN": 0.2
+  },
+  "ref": "2026-10-03",
+  "casas": [
+   "40dB",
+   "Ateneo del Dato",
+   "DYM",
+   "Data10",
+   "Electomanía (ElectoPanel)",
+   "Sigma Dos",
+   "SocioMétrica",
+   "Winston"
+  ],
+  "n_encuestas": 15
+ },
+ "escanos": {
+  "PP": 141,
+  "PSOE": 107,
+  "VOX": 64,
+  "SUMAR": 7,
+  "PODEMOS": 2,
+  "SALF": 0,
+  "ERC": 8,
+  "JUNTS": 4,
+  "BILDU": 7,
+  "PNV": 6,
+  "BNG": 2,
+  "CC": 1,
+  "UPN": 1
+ },
+ "rango": {
+  "PP": [
+   117,
+   158
+  ],
+  "PSOE": [
+   87,
+   128
+  ],
+  "VOX": [
+   49,
+   84
+  ],
+  "SUMAR": [
+   2,
+   15
+  ],
+  "PODEMOS": [
+   0,
+   5
+  ],
+  "SALF": [
+   0,
+   1
+  ],
+  "ERC": [
+   7,
+   13
+  ],
+  "JUNTS": [
+   1,
+   8
+  ],
+  "BILDU": [
+   5,
+   10
+  ],
+  "PNV": [
+   2,
+   6
+  ],
+  "BNG": [
+   2,
+   5
+  ],
+  "CC": [
+   0,
+   3
+  ],
+  "UPN": [
+   0,
+   1
+  ]
+ },
+ "probs": {
+  "pp_vox": 96.9,
+  "pp_solo": 0.5,
+  "psoe_bloque": 1.7,
+  "bloqueo": 0.9
+ },
+ "probs_extra": {
+  "ppvox": 97.4,
+  "bloque": 1.7,
+  "bloque_sin_junts": 0.9,
+  "pp_first": 91.9
+ },
+ "semaforo_esp": {
+  "S1": 1,
+  "S2": 1,
+  "S3": 1,
+  "S4": 2,
+  "S5": 2,
+  "S6": 2,
+  "S7": 2,
+  "S8": 1,
+  "S9": 2,
+  "S10": 1,
+  "S11": 2,
+  "S12": 0,
+  "S13": 0
+ },
+ "problemas": {
+  "vivienda": "+12,2 %",
+  "empleo_salarios": "9,87 %",
+  "coste_vida": "4,9 %",
+  "inmigracion_seguridad": "14,9 %",
+  "sanidad_dependencia": "853.509",
+  "deuda_fiscalidad_pensiones": "101,4 %",
+  "instituciones_corrupcion": "0",
+  "territorial": "6-4 y Gran Sala",
+  "educacion_juventud": "12,8 %"
+ },
+ "programas": {
+  "PP": null,
+  "PSOE": null,
+  "VOX": null,
+  "SUMAR": null,
+  "PODEMOS": null,
+  "SALF": null,
+  "JUNTS": null,
+  "ERC": null,
+  "BILDU": null,
+  "PNV": null
+ },
+ "lideres": {
+  "PSOE": "Pedro Sánchez",
+  "PP": "Alberto Núñez Feijóo",
+  "VOX": "Santiago Abascal",
+  "SUMAR": "Sin decidir (17 de octubre)",
+  "PODEMOS": "Irene Montero",
+  "SALF": "Alvise Pérez",
+  "JUNTS": "Míriam Nogueras",
+  "ERC": "Gabriel Rufián (primarias 17 oct)",
+  "BILDU": "Por designar",
+  "PNV": "Sin candidato (Esteban no repite)"
+ },
+ "diario": {
+  "n": 27,
+  "ultimo": "El BOE publica los dos decretos-ley de vivienda (28/2026 y 29/2026)"
+ },
+ "casas": [
+  "40dB 2026-09-02",
+  "40dB 2026-09-28",
+  "Ateneo del Dato 2026-10-01",
+  "DYM 2026-09-21",
+  "Data10 2026-10-02",
+  "Electomanía (ElectoPanel) 2026-10-03",
+  "GAD3 2026-09-03",
+  "GESOP 2026-07-09",
+  "Hamalgama Métrica 2026-09-08",
+  "NC Report 2026-09-03",
+  "Sigma Dos 2026-10-01",
+  "SocioMétrica 2026-09-26",
+  "SocioMétrica 2026-10-03",
+  "Target Point 2026-09-10",
+  "Winston 2026-10-01"
+ ],
+ "cambios": [
+  {
+   "tipo": "diario",
+   "texto": "1 movimiento nuevo en el diario. Último: El BOE publica los dos decretos-ley de vivienda (28/2026 y 29/2026)."
+  }
+ ]
+}
