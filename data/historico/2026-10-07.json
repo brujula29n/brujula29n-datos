@@ -161,8 +161,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 36,
-  "ultimo": "Más Madrid propone a Ada Colau como candidata del Frente Amplio"
+  "n": 39,
+  "ultimo": "Muere Maricarmen, la mujer de 87 años desahuciada en Madrid"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -184,7 +184,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "10 movimientos nuevos en el diario. Último: Más Madrid propone a Ada Colau como candidata del Frente Amplio."
+   "texto": "13 movimientos nuevos en el diario. Último: Muere Maricarmen, la mujer de 87 años desahuciada en Madrid."
   }
  ]
 }

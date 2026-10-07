@@ -4,6 +4,48 @@
  "entradas": [
   {
    "fecha": "2026-10-07",
+   "titulo": "Muere Maricarmen, la mujer de 87 años desahuciada en Madrid",
+   "que": "Maricarmen Abascal, de 87 años, desahuciada el 23 de septiembre del piso de alquiler de Retiro (Madrid) donde vivió 71 años, ha muerto tras quince días hospitalizada, según el comunicado del Sindicato de Inquilinas. Su caso avivó las protestas por la vivienda, la acampada de Sol y los dos decretos que el Congreso tumbó. El Sindicato dijo que se había logrado un acuerdo que le habría permitido volver, pero 'ha llegado demasiado tarde'.",
+   "lectura": "Hecho humano más que político: refuerza la vivienda como asunto central de la campaña. No se atribuye responsabilidad a nadie. Nivel B.",
+   "actores": [],
+   "src": [
+    "https://www.20minutos.es/nacional/muere-maricarmen-directo-sindicato-inquilinas-debate-vivienda-esta-centro-pero-coste-ha-sido-muy-alto_7046275_6.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "El juez del caso Air Europa cita como testigo a la vicepresidenta Aagesen el 23 de noviembre",
+   "que": "El juez de Instrucción nº 49 de Madrid, que investiga por presunta prevaricación administrativa el rescate de Air Europa a través de la SEPI (querellas de PP, Vox y Manos Limpias), cita como testigos, entre otros, a Sara Aagesen, Pedro Saura, Manuel de la Rocha e Íñigo Errejón la semana previa a las elecciones; ABC fija el 23-N para Aagesen. El único querellado que figura en la providencia es Bartolomé Lora, vicepresidente de la SEPI. Los citados como testigos no están investigados.",
+   "lectura": "Una causa judicial coincide con la campaña. Ser testigo no implica ninguna responsabilidad. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.abc.es/espana/juez-investiga-rescate-air-europa-cita-vicepresidenta-20261007130026-nt.html",
+    "https://www.20minutos.es/nacional/juez-que-investiga-rescate-air-europa-cita-como-testigos-aagesen-guru-economico-sanchez-semana-29n_7045950_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "Feijóo, desde Ceuta: nueva Ley de Extranjería y que se vayan los 15.000 irregulares",
+   "que": "En su primer acto de precampaña, en Ceuta, Feijóo prometió que su 'primer encargo' sería 'recuperar la normalidad' en la ciudad, lo que pasa según él por la salida de las 15.000 personas que entraron de forma irregular y siguen allí, e impulsar una nueva Ley de Extranjería que 'permita la devolución inmediata'. En otra noticia, 20minutos recoge que el PP prepara un plan contra el crimen organizado, con ocho ejes (más medios, unidades especializadas, endurecer el Código Penal).",
+   "lectura": "Anuncios de campaña, sin texto de programa ni coste. El PP los defiende como respuesta a la crisis de Ceuta de finales de julio. Nivel B.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-feijoo-promete-ceuta-nueva-ley-extranjeria-devolver-irregulares-invasion-no-volvera-pasar-20261007142235.html",
+    "https://www.20minutos.es/nacional/pp-prepara-un-plan-contra-crimen-organizado-para-que-espana-vuelva-ser-un-pais-seguro_7045987_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
    "titulo": "Más Madrid propone a Ada Colau como candidata del Frente Amplio",
    "que": "Más Madrid ha propuesto a las organizaciones del Frente Amplio que la exalcaldesa de Barcelona Ada Colau sea la candidata a la Presidencia del Gobierno y encabece la lista por Barcelona, en una 'candidatura coral' con criterio territorial. Es una propuesta de uno de los cuatro socios: IU, Comuns y Movimiento Sumar no han respondido en la noticia.",
    "lectura": "Primer nombre concreto desde un socio del Frente Amplio; la decisión sigue abierta y Podemos pide primarias. Nivel B.",

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-05",
+  "actualizado": "2026-10-07",
   "nota": "A 5 de octubre ningún partido ha publicado programa formal; las entradas son posiciones anunciadas (B/C) recogidas de actos, declaraciones y votaciones. Cuando se publique el programa, 'estado' pasa a 'programa' y se enlaza el PDF en 'programas_publicados'. 'coste' y 'viable' se rellenan cuando haya memoria económica o evaluación independiente (AIReF, Banco de España, Fedea u otros) y quedan en null hasta entonces.",
   "estados": {
     "programa": "Figura en el programa electoral publicado (se enlaza)",
@@ -137,7 +137,7 @@
       "nombre": "Inmigración",
       "pregunta": "¿Qué promete sobre llegadas, regularización e integración?",
       "posiciones": {
-        "PP": {"resumen": "Visado por puntos (idioma, integración), expulsión de quien delinca, revisar la regularización extraordinaria, más medios en fronteras.", "estado": "anunciado", "ev": "B", "src": ["https://cnnespanol.cnn.com/2025/09/29/espana/visado-por-puntos-migrantes-feijoo-orix", "https://www.democrata.es/actualidad/decalogo-pp-inmigracion-feijoo-detalla-plan-ordenar-politica-migratoria/"], "coste": null, "viable": null},
+        "PP": {"resumen": "Visado por puntos, expulsión de quien delinca, revisar la regularización extraordinaria, más medios en fronteras; desde Ceuta (7-10): nueva Ley de Extranjería con devolución inmediata.", "estado": "anunciado", "ev": "B", "src": ["https://cnnespanol.cnn.com/2025/09/29/espana/visado-por-puntos-migrantes-feijoo-orix", "https://www.democrata.es/actualidad/decalogo-pp-inmigracion-feijoo-detalla-plan-ordenar-politica-migratoria/", "https://www.europapress.es/nacional/noticia-feijoo-promete-ceuta-nueva-ley-extranjeria-devolver-irregulares-invasion-no-volvera-pasar-20261007142235.html"], "coste": null, "viable": null},
         "PSOE": {"resumen": "Regularización consolidada (1,17 M solicitudes), migración legal ligada al empleo, cooperación con Marruecos y África.", "estado": "votado", "ev": "A", "src": ["https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/020726-balance-regularizacion-extraordinaria.aspx"], "coste": null, "viable": null},
         "VOX": {"resumen": "'Remigración' (expulsar irregulares, delincuentes y 'quien viva de subsidios'), derogar la regularización, cierre de fronteras, delitos por nacionalidad.", "estado": "anunciado", "ev": "B", "src": ["https://www.infobae.com/espana/agencias/2026/09/14/abascal-plantea-procesos-de-repatriaciones-de-inmigrantes-que-delincan-y-de-remigracion-para-los-que-no-trabajan/", "https://www.elconstitucional.es/es/nacional/politica/santiago-abascal-ya-pone-condiciones-feijoo-gobernar-en-coalicion-elecciones-29n-remigracion-prioridad-nacional_8538_102.html"], "coste": null, "viable": null},
         "SUMAR": {"resumen": "Vías legales y seguras, regularización permanente.", "estado": "votado", "ev": "B", "src": ["https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/020726-balance-regularizacion-extraordinaria.aspx"], "coste": null, "viable": null},
