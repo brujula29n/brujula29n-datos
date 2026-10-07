@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-06",
+ "actualizado": "2026-10-07",
  "eleccion": "2026-11-29",
  "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
  "hitos": [
@@ -90,6 +90,14 @@
    "tipo": "voto",
    "estado": "previsto",
    "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+  },
+  {
+   "fecha": "2026-11-11",
+   "titulo": "Huelga general por la vivienda",
+   "detalle": "Fecha confirmada por UGT (Pepe Álvarez) y propuesta por la Confederación de Sindicatos de Inquilinas; dos días antes del inicio de la campaña.",
+   "tipo": "politico",
+   "estado": "previsto",
+   "src": "https://www.20minutos.es/nacional/los-sindicatos-inquilinas-proponen-11-noviembre-para-celebrar-huelga-general-por-vivienda_7045934_0.html"
   },
   {
    "fecha": "2026-11-13",
