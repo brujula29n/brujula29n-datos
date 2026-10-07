@@ -4,6 +4,56 @@
  "entradas": [
   {
    "fecha": "2026-10-07",
+   "titulo": "Más Madrid propone a Ada Colau como candidata del Frente Amplio",
+   "que": "Más Madrid ha propuesto a las organizaciones del Frente Amplio que la exalcaldesa de Barcelona Ada Colau sea la candidata a la Presidencia del Gobierno y encabece la lista por Barcelona, en una 'candidatura coral' con criterio territorial. Es una propuesta de uno de los cuatro socios: IU, Comuns y Movimiento Sumar no han respondido en la noticia.",
+   "lectura": "Primer nombre concreto desde un socio del Frente Amplio; la decisión sigue abierta y Podemos pide primarias. Nivel B.",
+   "actores": [
+    {
+     "id": "SUMAR",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-mas-madrid-propone-ada-colau-sea-candidata-frente-amplio-29n-encabece-lista-barcelona-20261007161814.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "La Diputación Permanente se reúne el 16 de octubre, sin los decretos de vivienda en el orden del día",
+   "que": "Según El Mundo, la Diputación Permanente del Congreso tendrá su primera reunión el viernes 16 de octubre y el orden del día aprobado no incluye la convalidación de los dos decretos de vivienda. El plazo para convalidarlos termina el sábado 14 de noviembre, ya en campaña. El PP dice que Sánchez la usará como 'plataforma electoral'.",
+   "lectura": "El Gobierno no ha llevado aún los decretos al órgano que debe convalidarlos; hay margen hasta el 14-N. Nivel B (una sola fuente).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/07/6ac633b421efa0b7728b4593.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "Feijóo pedirá a la JEC más garantías para el voto por correo",
+   "que": "Desde Ceuta, Feijóo anunció que el PP propondrá a la Junta Electoral Central 'algunas medidas adicionales' para 'incrementar la garantía' del voto por correo, sin concretarlas: 'confío en los carteros y los empleados públicos, pero no en los directivos de Correos'. No presentó pruebas de irregularidades en la noticia.",
+   "lectura": "Pone el voto por correo en la agenda; el sistema funciona con control de la JEC y no hay irregularidades acreditadas en la fuente. Nivel B.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-feijoo-pedira-jec-medidas-dar-mas-garantias-voto-correo-no-confio-directivos-correos-20261007150427.html",
+    "https://www.20minutos.es/nacional/feijoo-pedira-jec-incrementar-garantia-voto-por-correo-confio-los-empleados-no-los-directivos_7046017_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
    "titulo": "La huelga general por la vivienda será el 11 de noviembre",
    "que": "El secretario general de UGT, Pepe Álvarez, confirmó en RTVE que la huelga general se celebrará el miércoles 11 de noviembre, la fecha propuesta por la Confederación de Sindicatos de Inquilinas, dos días antes del inicio de la campaña. Bolaños (Gobierno) dio el visto bueno a la fecha: 'no es campaña electoral y la han elegido los sindicatos'.",
    "lectura": "Pone la vivienda en la agenda dos días antes de la campaña. Cómo se interprete (contra el Gobierno o contra la oposición) es disputa política. Nivel B.",
