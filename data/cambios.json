@@ -6,11 +6,13 @@
    "items": [
     {
      "tipo": "encuesta",
-     "texto": "Nueva encuesta: NC Report 2026-10-06."
+     "texto": "Nueva encuesta: NC Report 2026-10-06.",
+     "texto_en": "New poll: NC Report 2026-10-06."
     },
     {
      "tipo": "diario",
-     "texto": "15 movimientos nuevos en el diario. Último: La Abogacía del Estado pide al Supremo que levante la suspensión del voto de la 'ley de nietos'."
+     "texto": "15 movimientos nuevos en el diario. Último: La Abogacía del Estado pide al Supremo que levante la suspensión del voto de la 'ley de nietos'.",
+     "texto_en": "15 new entries in the campaign log (in Spanish)."
     }
    ]
   },
@@ -19,7 +21,8 @@
    "items": [
     {
      "tipo": "diario",
-     "texto": "13 movimientos nuevos en el diario. Último: Muere Maricarmen, la mujer de 87 años desahuciada en Madrid."
+     "texto": "13 movimientos nuevos en el diario. Último: Muere Maricarmen, la mujer de 87 años desahuciada en Madrid.",
+     "texto_en": "13 new entries in the campaign log (in Spanish)."
     }
    ]
   },
@@ -28,7 +31,8 @@
    "items": [
     {
      "tipo": "diario",
-     "texto": "12 movimientos nuevos en el diario. Último: El Supremo aplaza hasta el jueves su decisión sobre el voto de los 'nietos'."
+     "texto": "12 movimientos nuevos en el diario. Último: El Supremo aplaza hasta el jueves su decisión sobre el voto de los 'nietos'.",
+     "texto_en": "12 new entries in the campaign log (in Spanish)."
     }
    ]
   },
@@ -37,7 +41,8 @@
    "items": [
     {
      "tipo": "inicio",
-     "texto": "Primer día de seguimiento: desde hoy se guarda el histórico y se señalan los cambios."
+     "texto": "Primer día de seguimiento: desde hoy se guarda el histórico y se señalan los cambios.",
+     "texto_en": "First day of tracking: from today the history is saved and changes are flagged."
     }
    ]
   }
