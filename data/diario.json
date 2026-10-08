@@ -4,6 +4,57 @@
  "entradas": [
   {
    "fecha": "2026-10-08",
+   "titulo": "La Abogacía del Estado pide al Supremo que levante la suspensión del voto de la 'ley de nietos'",
+   "que": "En su escrito de alegaciones, la Abogacía del Estado dice que es 'materialmente imposible' distinguir en el CERA, antes del 29-N, a los nacionalizados por la 'ley de nietos' de los demás: 'o se suspende a todos los inscritos o a ninguno'. Pide levantar la cautelar y que puedan votar todos. ABC cita 168.896 electores afectados por la medida. El Supremo aún no ha resuelto; acusa a Vox de buscar eliminar el voto del exilio.",
+   "lectura": "Decide quién vota desde el exterior el 29-N; el efecto en escaños no está medido. El Gobierno defiende su posición como parte. Nivel B.",
+   "actores": [
+    {
+     "id": "VOX",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-gobierno-ve-imposible-separar-nacionalizados-ley-nietos-otros-motivos-antes-elecciones-20261008203522.html",
+    "https://www.abc.es/espana/gobierno-pide-supremo-permita-voto-ley-nietos-20261008205817-nt.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "ERC: Rufián no confirma su candidatura y la dirección le presiona con un alternativo",
+   "que": "Gabriel Rufián dijo en X que quiere representar a ERC 'acompañado de otras fuerzas de izquierdas y antifascistas' y que 'lo intentará hasta el final', con unas 'mínimas condiciones'; no ha confirmado que repita. Junqueras y la dirección apoyan que sea él, pero, según ABC (que cita a El Periódico), Jordi Albert recoge avales para postularse. Varios diputados de ERC han anunciado que no repiten.",
+   "lectura": "La candidatura de ERC por Barcelona sigue sin cerrar; las primarias están previstas el 17-10. Nivel B.",
+   "actores": [
+    {
+     "id": "ERC",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/catalunya/noticia-rufian-afirma-quiere-representar-erc-acompanado-otras-fuerzas-intentare-final-20261008190904.html",
+    "https://www.abc.es/espana/cataluna/junqueras-presiona-rufian-aireando-candidato-alternativo-29n-20261008185017-nt.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "David Sánchez recurre su condena: pide la absolución por 'investigación prospectiva'",
+   "que": "La defensa del hermano de Pedro Sánchez presentó un recurso de apelación de 104 páginas contra la sentencia de la Audiencia Provincial de Badajoz que lo condena a nueve años de inhabilitación como cooperador necesario de prevaricación. Pide su absolución por vulneración de derechos fundamentales y por no cumplirse los elementos del delito. La sentencia no es firme.",
+   "lectura": "El recurso es el paso procesal normal; hasta que se resuelva, la condena no es firme. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/extremadura/noticia-hermano-pedro-sanchez-presenta-recurso-apelacion-investigacion-prospectiva-pide-absolucion-20261008174049.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
    "titulo": "El BOE fija las subvenciones electorales: 21.167,64 € por escaño y 0,81 € por voto",
    "que": "La Orden HAC/1062/2026 (BOE núm. 250, 8-10) fija las subvenciones por gastos de actividades electorales para el 29-N: 21.167,64 euros por cada escaño obtenido en el Congreso o el Senado, 0,81 euros por voto a candidaturas al Congreso con al menos un diputado, y 0,32 euros por voto a candidatos con escaño en el Senado. También recoge el límite de gastos electorales (0,37 euros por habitante).",
    "lectura": "Dato oficial, sin efecto en el voto: marca la financiación pública de los partidos tras el 29-N. Nivel A.",
