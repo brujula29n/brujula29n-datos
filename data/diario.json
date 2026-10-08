@@ -4,6 +4,47 @@
  "entradas": [
   {
    "fecha": "2026-10-08",
+   "titulo": "Junts: Míriam Nogueras repetirá como cabeza de lista por Barcelona",
+   "que": "Junts ha informado de que Míriam Nogueras será de nuevo su candidata por Barcelona: al cerrarse el plazo de precandidaturas no se presentó nadie más. Marta Madrenas (Girona), Isidre Gavín (Lleida) y Josep Maria Cruset (Tarragona) serán también cabezas de lista, todos diputados actuales. ABC recoge que sectores del partido quieren a Puigdemont de candidato, sin confirmar.",
+   "lectura": "Continuidad en Junts, tras la amnistía y el veto de Turull a investir a Sánchez. Nivel B.",
+   "actores": [
+    {
+     "id": "JUNTS",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.abc.es/espana/cataluna/nogueras-repitira-cabeza-lista-junts-elecciones-noviembre-20261008132538-nt.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "La jueza Biedma declara ante Pedraz que se sintió seguida, sin que influyera en su causa",
+   "que": "Beatriz Biedma, la jueza que instruyó la causa contra David Sánchez, declaró como perjudicada ante el juez de las 'cloacas' que se sintió angustiada por posibles seguimientos (según fuentes jurídicas citadas por ABC, preguntaron por ella en el colegio de sus hijas), pero que no se sintió amenazada y que no alteró su instrucción. Atribuirlo a las 'cloacas' es una hipótesis que investiga el juez; no hay sentencia.",
+   "lectura": "La causa de las 'cloacas' sigue añadiendo declaraciones durante la precampaña; nadie es culpable sin sentencia. Nivel B (fuentes jurídicas).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.abc.es/espana/jueza-biedma-dice-sintio-angustiada-perseguida-cloacas-20261008122158-nt.html",
+    "https://www.eldiario.es/politica/jueza-biedma-declara-pedraz-sintio-temor-no-le-influyo-resoluciones-david-sanchez_1_13571505.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "Un estudio del CIS de junio sobre vivienda se publica ahora: 87 % preocupado, 76 % pide intervenir",
+   "que": "Según El Mundo, un estudio del CIS hecho en junio que el Ministerio de Vivienda ha pedido publicar ahora recoge que el 87 % de los españoles dice estar preocupado por la vivienda y el 76 % aboga por que el Estado intervenga el mercado. Las medidas más apoyadas: bajar impuestos a la compra de la primera vivienda, dar garantías a los caseros frente a impagos y sacar al mercado suelo urbanizable. La oposición cuestiona el momento de la publicación (El Español).",
+   "lectura": "Dato oficial del CIS (junio) citado por prensa, no leído en el CIS. Confirma la vivienda como primera preocupación; el momento de la publicación es motivo de debate. Nivel B hasta contrastar con el CIS.",
+   "actores": [],
+   "src": [
+    "https://www.elmundo.es/espana/2026/10/08/6ac7715121efa039388b457b.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
    "titulo": "Anticorrupción ve indicios contra el PSOE en el caso Leire, pero ve prematura su imputación",
    "que": "Según fuentes jurídicas citadas por Europa Press y elDiario.es, la Fiscalía Anticorrupción ha informado al juez Pedraz de que ve indicios contra el PSOE en el 'caso Leire Díez', pero que la imputación del partido que pide el PP es prematura: antes deben practicarse diligencias pendientes, como la declaración de Santos Cerdán. Decide el juez; el PSOE no está imputado.",
    "lectura": "El informe no pide imputar ahora, pero tampoco lo descarta; el trámite sigue abierto y puede alargarse más allá del 13-N. Nivel B (fuentes jurídicas, informe no publicado).",
