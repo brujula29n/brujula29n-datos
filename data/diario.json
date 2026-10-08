@@ -1,7 +1,56 @@
 {
- "actualizado": "2026-10-07",
+ "actualizado": "2026-10-08",
  "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
  "entradas": [
+  {
+   "fecha": "2026-10-08",
+   "titulo": "Pedraz decidirá sobre imputar al PSOE antes del 13 de noviembre",
+   "que": "Según ABC y fuentes jurídicas, el juez de la Audiencia Nacional Santiago Pedraz decidirá si imputa al PSOE como persona jurídica antes del inicio de la campaña (13-N), tras el informe de la Fiscalía Anticorrupción sobre la petición del PP, que Anticorrupción tenía previsto entregar como máximo este jueves. El PSOE no está imputado.",
+   "lectura": "Fija un plazo para un trámite que ya estaba abierto; el resultado puede ser no imputar. Una sola fuente (ABC). Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -1
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.abc.es/espana/juez-decidira-sobre-imputacion-psoe-campana-20261008012316-nt.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "Sánchez y Feijóo trasladan el pésame por Maricarmen",
+   "que": "Sánchez escribió en X que 'sentimos esta pérdida como propia'. Feijóo pidió 'respeto' y que no haya 'campaña, ni partidos, ni utilización interesada' del caso, y dio el pésame a la familia. El Sindicato de Inquilinas dijo que el acuerdo para que volviera a su casa (nuevo contrato de ocho años, renta de hasta el 30 % de sus ingresos) llegó 'demasiado tarde'.",
+   "lectura": "Ambos líderes evitan atacar al otro con el caso; la vivienda sigue en el centro de la campaña. Nivel B.",
+   "actores": [],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-sanchez-traslada-pesame-muerte-maricarmen-abascal-sentimos-perdida-propia-20261007212150.html",
+    "https://www.europapress.es/sociedad/noticia-feijoo-asegura-solo-cabe-respeto-muerte-maricarmen-campana-partidos-utilizacion-interesada-20261007233244.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "La propuesta de Más Madrid abre la primera bronca en el Frente Amplio",
+   "que": "Según 20minutos, la propuesta unilateral de Más Madrid de que Colau sea candidata a la Presidencia y de encabezar las listas en Madrid ha molestado a Movimiento Sumar, IU y Comuns. Podemos insiste en las primarias abiertas; quedan unos ocho días para cerrar coaliciones (16-10).",
+   "lectura": "La unidad de la izquierda sigue sin cerrarse. Nivel B (una sola fuente).",
+   "actores": [
+    {
+     "id": "SUMAR",
+     "impacto": -1
+    },
+    {
+     "id": "PODEMOS",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/reparto-poder-entre-mas-madrid-colau-solivianta-resto-frente-amplio-mientras-podemos-insiste-ir-primarias_7046217_0.html"
+   ]
+  },
   {
    "fecha": "2026-10-07",
    "titulo": "Muere Maricarmen, la mujer de 87 años desahuciada en Madrid",

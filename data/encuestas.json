@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-05",
+  "actualizado": "2026-10-08",
   "nota": "Escaños sobre 350; mayoría absoluta 176. null = la casa no publica ese dato. 'tipo': privada | oficial | panel. Las cifras se han contrastado con al menos dos fuentes cuando el medio original bloqueaba la lectura.",
   "partidos_orden": [
     "PP",
@@ -54,20 +54,20 @@
   "media": {
     "nombre": "Media ponderada Brújula 29N",
     "metodo": "Media de las encuestas privadas con campo en los últimos 21 días, ponderada por tamaño muestral (raíz cuadrada) y antigüedad (semivida 10 días). El CIS se muestra aparte por su desviación sistemática documentada; los paneles online autoseleccionados ponderan a la mitad.",
-    "fecha": "2026-10-03",
+    "fecha": "2026-10-06",
     "pct": {
-      "PP": 32.65,
-      "PSOE": 26.37,
-      "VOX": 18.62,
-      "SUMAR": 5.86,
-      "PODEMOS": 3.42,
+      "PP": 32.83,
+      "PSOE": 26.2,
+      "VOX": 18.57,
+      "SUMAR": 5.79,
+      "PODEMOS": 3.48,
       "SALF": 1.78,
-      "ERC": 2.14,
-      "JUNTS": 1.2,
-      "BILDU": 1.36,
-      "PNV": 0.98,
-      "BNG": 0.96,
-      "CC": 0.44,
+      "ERC": 2.08,
+      "JUNTS": 1.52,
+      "BILDU": 1.37,
+      "PNV": 0.96,
+      "BNG": 0.91,
+      "CC": 0.43,
       "UPN": 0.2
     },
     "casas": [
@@ -76,6 +76,7 @@
       "DYM",
       "Data10",
       "Electomanía (ElectoPanel)",
+      "NC Report",
       "Sigma Dos",
       "SocioMétrica",
       "Winston"
@@ -674,6 +675,40 @@
       },
       "url": "https://www.electografica.com/2026/07/encuesta-gesop-260714.html",
       "nota": "Anterior a la crisis de Ceuta (30-31 julio)."
+    },
+    {
+      "casa": "NC Report",
+      "medio": "La Razón",
+      "tipo": "privada",
+      "campo_ini": "2026-10-01",
+      "campo_fin": "2026-10-06",
+      "n": 1000,
+      "pct": {
+        "PP": 34.1,
+        "PSOE": 25.0,
+        "VOX": 18.2,
+        "SUMAR": 5.3,
+        "PODEMOS": 3.9,
+        "SALF": null,
+        "ERC": 1.8,
+        "JUNTS": 2.9,
+        "BILDU": 1.4,
+        "PNV": 0.9,
+        "BNG": 0.7,
+        "CC": 0.4,
+        "UPN": 0.2
+      },
+      "esc": {
+        "PP": 147,
+        "PSOE": 100,
+        "VOX": 62,
+        "SUMAR": 7,
+        "PODEMOS": 3,
+        "JUNTS": 10
+      },
+      "esc_rango": "PP 146-148 · PSOE 98-102 · Vox 61-64 · Sumar 6-8 · Podemos 2-4 · Junts 10-11",
+      "nota": "Telefónico + online; margen de error ±3,1 %. Escaños: punto medio del rango publicado; el resto de partidos, sin escaños.",
+      "url": "https://www.electografica.com/2026/10/encuesta-nc-report-261008.html"
     }
   ]
 }

@@ -1,6 +1,19 @@
 {
- "actualizado": "2026-10-07",
+ "actualizado": "2026-10-08",
  "dias": [
+  {
+   "fecha": "2026-10-08",
+   "items": [
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: NC Report 2026-10-06."
+    },
+    {
+     "tipo": "diario",
+     "texto": "3 movimientos nuevos en el diario. Último: Pedraz decidirá sobre imputar al PSOE antes del 13 de noviembre."
+    }
+   ]
+  },
   {
    "fecha": "2026-10-07",
    "items": [
@@ -107,6 +120,32 @@
     "bloqueo": 0.9
    },
    "n_encuestas": 15
+  },
+  {
+   "fecha": "2026-10-08",
+   "media": {
+    "PP": 32.83,
+    "PSOE": 26.2,
+    "VOX": 18.57,
+    "SUMAR": 5.79,
+    "PODEMOS": 3.48,
+    "SALF": 1.78
+   },
+   "escanos": {
+    "PP": 141,
+    "PSOE": 106,
+    "VOX": 64,
+    "SUMAR": 7,
+    "PODEMOS": 2
+   },
+   "ppvox": 205,
+   "probs": {
+    "pp_vox": 97.1,
+    "pp_solo": 0.5,
+    "psoe_bloque": 1.5,
+    "bloqueo": 0.9
+   },
+   "n_encuestas": 16
   }
  ]
 }
