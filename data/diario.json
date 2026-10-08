@@ -4,6 +4,60 @@
  "entradas": [
   {
    "fecha": "2026-10-08",
+   "titulo": "Anticorrupción ve indicios contra el PSOE en el caso Leire, pero ve prematura su imputación",
+   "que": "Según fuentes jurídicas citadas por Europa Press y elDiario.es, la Fiscalía Anticorrupción ha informado al juez Pedraz de que ve indicios contra el PSOE en el 'caso Leire Díez', pero que la imputación del partido que pide el PP es prematura: antes deben practicarse diligencias pendientes, como la declaración de Santos Cerdán. Decide el juez; el PSOE no está imputado.",
+   "lectura": "El informe no pide imputar ahora, pero tampoco lo descarta; el trámite sigue abierto y puede alargarse más allá del 13-N. Nivel B (fuentes jurídicas, informe no publicado).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -1
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-anticorrupcion-ve-indicios-contra-psoe-caso-leire-diez-considera-imputacion-prematura-20261008111339.html",
+    "https://www.eldiario.es/politica/fiscalia-anticorrupcion-opone-prematura-peticion-pp-imputar-psoe-caso-leire_1_13571361.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "Colau: solo liderará el Frente Amplio con una lista que incluya a Podemos",
+   "que": "Ada Colau dijo en TVE y la SER que solo aceptará liderar el Frente Amplio si la candidatura reúne a toda la izquierda en una única papeleta, incluida Podemos, a la que invita a una mesa conjunta de negociación. IU la considera una buena candidata; los Comuns dicen que no hay nada cerrado y Movimiento Sumar pide discreción.",
+   "lectura": "Condiciona su candidatura a la unidad con Podemos, que insiste en primarias; sigue sin acuerdo a ocho días del cierre de coaliciones. Nivel B.",
+   "actores": [
+    {
+     "id": "SUMAR",
+     "impacto": 0
+    },
+    {
+     "id": "PODEMOS",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-colau-dice-aceptara-liderar-frente-amplio-si-auna-sola-papeleta-todas-izquierdas-20261008095748.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "Feijóo nombra a Tellado director de campaña del PP",
+   "que": "Feijóo ha encargado a Miguel Tellado la dirección de campaña del PP para el 29-N; Marta Varela será directora adjunta, Ester Muñoz portavoz de campaña y Alma Ezcurra responsable del programa electoral. Lo trasladará a la Junta Directiva del PP este jueves en Madrid.",
+   "lectura": "Equipo de campaña confirmado; la responsable del programa es Ezcurra, así que el programa del PP aún no está publicado. Nivel B (fuentes del PP).",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-feijoo-nombra-director-campana-miguel-tellado-ya-dirigio-dos-ultimas-galicia-20261008081916.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
    "titulo": "Pedraz decidirá sobre imputar al PSOE antes del 13 de noviembre",
    "que": "Según ABC y fuentes jurídicas, el juez de la Audiencia Nacional Santiago Pedraz decidirá si imputa al PSOE como persona jurídica antes del inicio de la campaña (13-N), tras el informe de la Fiscalía Anticorrupción sobre la petición del PP, que Anticorrupción tenía previsto entregar como máximo este jueves. El PSOE no está imputado.",
    "lectura": "Fija un plazo para un trámite que ya estaba abierto; el resultado puede ser no imputar. Una sola fuente (ABC). Nivel B.",
