@@ -1,192 +1,200 @@
 {
- "actualizado": "2026-10-07",
- "eleccion": "2026-11-29",
- "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
- "hitos": [
-  {
-   "fecha": "2026-10-05",
-   "titulo": "Anuncio y Consejo de Ministros extraordinario",
-   "detalle": "Sánchez anuncia la disolución de las Cortes y fija las elecciones para el 29 de noviembre.",
-   "tipo": "politico",
-   "estado": "hecho",
-   "src": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/051026-sanchez-convocatoria-elecciones.aspx"
-  },
-  {
-   "fecha": "2026-10-06",
-   "titulo": "Publicación del Real Decreto en el BOE",
-   "detalle": "Disolución efectiva de Congreso y Senado; 350 diputados en 52 circunscripciones. Madrid pasa a 38 diputados y Cádiz a 8; el resto, igual que en 2023 (anexo del decreto). Arranca el plazo para solicitar el voto por correo.",
-   "tipo": "legal",
-   "estado": "hecho",
-   "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742"
-  },
-  {
-   "fecha": "2026-10-08",
-   "titulo": "El Supremo decide sobre el voto de los 'nietos' (alegaciones hasta las 15:00)",
-   "detalle": "Plazo improrrogable de 48 horas para alegaciones; después, la Sala resolverá el recurso de la Abogacía del Estado contra la suspensión cautelar de las inscripciones CERA de los nacionalizados por la ley de nietos.",
-   "tipo": "legal",
-   "estado": "previsto",
-   "src": "https://www.20minutos.es/nacional/supremo-aplaza-su-decision-sobre-voto-los-400-000-nacionalizados-con-ley-nietos-las-elecciones-29-n_7045576_0.html"
-  },
-  {
-   "fecha": "2026-10-14",
-   "titulo": "Primarias abiertas propuestas por Podemos (14-15 oct)",
-   "detalle": "Condición de Podemos para concurrir unido con Frente Amplio. Sumar no las ha aceptado.",
-   "tipo": "politico",
-   "estado": "previsto",
-   "src": "https://www.moncloa.com/2026/10/05/izquierda-psoe-sin-coalicion-29n-3442866/"
-  },
-  {
-   "fecha": "2026-10-16",
-   "titulo": "Cierre del registro de coaliciones",
-   "detalle": "10 días desde la convocatoria (art. 44.3 LOREG). Lo que no esté registrado no existe el 29N. Decide si Frente Amplio y Podemos van juntos.",
-   "tipo": "legal",
-   "estado": "previsto",
-   "src": "https://rtvc.es/calendario-elecciones-generales-2026-fechas-clave-hasta-29-de-noviembre/"
-  },
-  {
-   "fecha": "2026-10-16",
-   "titulo": "Primera reunión de la Diputación Permanente",
-   "detalle": "Según El Mundo, el orden del día no incluye la convalidación de los decretos de vivienda; el plazo para convalidarlos termina el 14 de noviembre.",
-   "tipo": "politico",
-   "estado": "previsto",
-   "src": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/07/6ac633b421efa0b7728b4593.html"
-  },
-  {
-   "fecha": "2026-10-17",
-   "titulo": "Frente Amplio elige cabeza de lista; primarias de ERC",
-   "detalle": "Yolanda Díaz no repite. Quinielas: Urtasun, Colau, Mónica García. ERC: Rufián.",
-   "tipo": "politico",
-   "estado": "previsto",
-   "src": "https://www.infobae.com/espana/2026/10/04/el-nuevo-sumar-elegira-a-su-lider-el-17-de-octubre-ante-el-posible-adelanto-electoral-estos-son-los-candidatos-en-las-quinielas/"
-  },
-  {
-   "fecha": "2026-10-19",
-   "titulo": "Fin de consulta y reclamaciones al censo (12-19 oct)",
-   "detalle": "Art. 39 LOREG. Se vota con el censo cerrado el 1 de agosto.",
-   "tipo": "legal",
-   "estado": "previsto",
-   "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
-  },
-  {
-   "fecha": "2026-10-26",
-   "titulo": "Fin del plazo de presentación de candidaturas (21-26 oct)",
-   "detalle": "Días 15.º a 20.º tras la convocatoria (art. 45).",
-   "tipo": "legal",
-   "estado": "previsto",
-   "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
-  },
-  {
-   "fecha": "2026-10-28",
-   "titulo": "Publicación de candidaturas presentadas",
-   "detalle": "BOE.",
-   "tipo": "legal",
-   "estado": "previsto",
-   "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
-  },
-  {
-   "fecha": "2026-11-02",
-   "titulo": "Proclamación de candidaturas",
-   "detalle": "Publicación el 3 de noviembre. Sorteo de mesas electorales entre el 31 de octubre y el 4 de noviembre.",
-   "tipo": "legal",
-   "estado": "previsto",
-   "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
-  },
-  {
-   "fecha": "2026-11-09",
-   "titulo": "Comienza el envío de documentación del voto por correo",
-   "detalle": "Correos empieza a entregar las papeletas a quien lo haya solicitado.",
-   "tipo": "voto",
-   "estado": "previsto",
-   "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
-  },
-  {
-   "fecha": "2026-11-11",
-   "titulo": "Huelga general por la vivienda",
-   "detalle": "Fecha confirmada por UGT (Pepe Álvarez) y propuesta por la Confederación de Sindicatos de Inquilinas; dos días antes del inicio de la campaña.",
-   "tipo": "politico",
-   "estado": "previsto",
-   "src": "https://www.20minutos.es/nacional/los-sindicatos-inquilinas-proponen-11-noviembre-para-celebrar-huelga-general-por-vivienda_7045934_0.html"
-  },
-  {
-   "fecha": "2026-11-13",
-   "titulo": "Inicio de la campaña electoral",
-   "detalle": "15 días (art. 51). A las 0:00.",
-   "tipo": "campana",
-   "estado": "previsto",
-   "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
-  },
-  {
-   "fecha": "2026-11-19",
-   "titulo": "Último día para SOLICITAR el voto por correo",
-   "detalle": "Décimo día anterior a la votación (art. 72). En Correos o por internet con certificado/Cl@ve.",
-   "tipo": "voto",
-   "estado": "previsto",
-   "src": "https://www.vozpopuli.com/actualidad/voto-por-correo-en-las-elecciones-generales-del-29n-fechas-y-plazos-que-es-el-voto-cera-y-como-afecta-la-ley-de-nietos-al-voto-desde-el-exterior.html"
-  },
-  {
-   "fecha": "2026-11-23",
-   "titulo": "Declaración de testigos en el caso Air Europa",
-   "detalle": "El juez cita, según ABC, a la vicepresidenta Sara Aagesen como testigo el 23 de noviembre, junto con otros cargos y excargos; no están investigados.",
-   "tipo": "politico",
-   "estado": "previsto",
-   "src": "https://www.abc.es/espana/juez-investiga-rescate-air-europa-cita-vicepresidenta-20261007130026-nt.html"
-  },
-  {
-   "fecha": "2026-11-25",
-   "titulo": "Último día para DEPOSITAR el voto por correo",
-   "detalle": "Art. 73 LOREG. Algún medio ha publicado el 19 por error: ese día es el de la solicitud, no el del depósito.",
-   "tipo": "voto",
-   "estado": "previsto",
-   "src": "https://rtvc.es/calendario-elecciones-generales-2026-fechas-clave-hasta-29-de-noviembre/"
-  },
-  {
-   "fecha": "2026-11-27",
-   "titulo": "Fin de campaña (24:00)",
-   "detalle": "",
-   "tipo": "campana",
-   "estado": "previsto",
-   "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
-  },
-  {
-   "fecha": "2026-11-28",
-   "titulo": "Jornada de reflexión",
-   "detalle": "Art. 53. Prohibida la propaganda electoral y la publicación de encuestas (desde el 24).",
-   "tipo": "campana",
-   "estado": "previsto",
-   "src": "https://www.mundiario.com/articulo/politica/elecciones-29-n-calendario-que-abre-decision-sanchez/20261005092744445003.html"
-  },
-  {
-   "fecha": "2026-11-29",
-   "titulo": "DÍA DE LAS ELECCIONES",
-   "detalle": "Colegios abiertos de 9:00 a 20:00.",
-   "tipo": "voto",
-   "estado": "previsto",
-   "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
-  },
-  {
-   "fecha": "2026-12-02",
-   "titulo": "Escrutinio general (voto CERA incluido)",
-   "detalle": "Tercer día tras la votación, en las Juntas Electorales Provinciales (art. 103).",
-   "tipo": "legal",
-   "estado": "previsto",
-   "src": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-8463"
-  },
-  {
-   "fecha": "2026-12-24",
-   "titulo": "Fecha límite para constituir las nuevas Cortes",
-   "detalle": "Dentro de los 25 días siguientes a las elecciones (art. 68.6 CE). La prensa prevé mediados de diciembre.",
-   "tipo": "legal",
-   "estado": "previsto",
-   "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
-  },
-  {
-   "fecha": "2027-01-15",
-   "titulo": "Ronda de consultas del Rey e investidura (estimación)",
-   "detalle": "La Constitución no fija plazo para la primera votación; una vez celebrada, si no hay investidura en dos meses, se disuelven las Cortes (art. 99.5). Fecha orientativa.",
-   "tipo": "legal",
-   "estado": "estimado",
-   "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
-  }
- ],
- "voto_exterior": "Tras la LO 12/2022 no hay voto rogado: la Oficina del Censo envía la documentación de oficio a los inscritos en el CERA. El Supremo ha paralizado cautelarmente el voto de los inscritos por la 'ley de nietos'. Fechas exactas pendientes de la JEC."
+  "actualizado": "2026-10-09",
+  "eleccion": "2026-11-29",
+  "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
+  "hitos": [
+    {
+      "fecha": "2026-10-05",
+      "titulo": "Anuncio y Consejo de Ministros extraordinario",
+      "detalle": "Sánchez anuncia la disolución de las Cortes y fija las elecciones para el 29 de noviembre.",
+      "tipo": "politico",
+      "estado": "hecho",
+      "src": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/051026-sanchez-convocatoria-elecciones.aspx"
+    },
+    {
+      "fecha": "2026-10-06",
+      "titulo": "Publicación del Real Decreto en el BOE",
+      "detalle": "Disolución efectiva de Congreso y Senado; 350 diputados en 52 circunscripciones. Madrid pasa a 38 diputados y Cádiz a 8; el resto, igual que en 2023 (anexo del decreto). Arranca el plazo para solicitar el voto por correo.",
+      "tipo": "legal",
+      "estado": "hecho",
+      "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742"
+    },
+    {
+      "fecha": "2026-10-08",
+      "titulo": "El Supremo decide sobre el voto de los 'nietos' (alegaciones hasta las 15:00)",
+      "detalle": "Plazo improrrogable de 48 horas para alegaciones; después, la Sala resolverá el recurso de la Abogacía del Estado contra la suspensión cautelar de las inscripciones CERA de los nacionalizados por la ley de nietos.",
+      "tipo": "legal",
+      "estado": "previsto",
+      "src": "https://www.20minutos.es/nacional/supremo-aplaza-su-decision-sobre-voto-los-400-000-nacionalizados-con-ley-nietos-las-elecciones-29-n_7045576_0.html"
+    },
+    {
+      "fecha": "2026-10-09",
+      "titulo": "El CGPJ designa los vocales judiciales de las Juntas Electorales Provinciales",
+      "detalle": "Acuerdo de la Comisión Permanente del CGPJ de 8 de octubre, publicado en el BOE del 9, que designa los vocales de procedencia judicial de las juntas provinciales para las elecciones a Cortes Generales.",
+      "tipo": "legal",
+      "estado": "hecho",
+      "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20981"
+    },
+    {
+      "fecha": "2026-10-14",
+      "titulo": "Primarias abiertas propuestas por Podemos (14-15 oct)",
+      "detalle": "Condición de Podemos para concurrir unido con Frente Amplio. Sumar no las ha aceptado.",
+      "tipo": "politico",
+      "estado": "previsto",
+      "src": "https://www.moncloa.com/2026/10/05/izquierda-psoe-sin-coalicion-29n-3442866/"
+    },
+    {
+      "fecha": "2026-10-16",
+      "titulo": "Cierre del registro de coaliciones",
+      "detalle": "10 días desde la convocatoria (art. 44.3 LOREG). Lo que no esté registrado no existe el 29N. Decide si Frente Amplio y Podemos van juntos.",
+      "tipo": "legal",
+      "estado": "previsto",
+      "src": "https://rtvc.es/calendario-elecciones-generales-2026-fechas-clave-hasta-29-de-noviembre/"
+    },
+    {
+      "fecha": "2026-10-16",
+      "titulo": "Primera reunión de la Diputación Permanente",
+      "detalle": "Según El Mundo, el orden del día no incluye la convalidación de los decretos de vivienda; el plazo para convalidarlos termina el 14 de noviembre.",
+      "tipo": "politico",
+      "estado": "previsto",
+      "src": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/07/6ac633b421efa0b7728b4593.html"
+    },
+    {
+      "fecha": "2026-10-17",
+      "titulo": "Frente Amplio elige cabeza de lista; primarias de ERC",
+      "detalle": "Yolanda Díaz no repite. Quinielas: Urtasun, Colau, Mónica García. ERC: Rufián.",
+      "tipo": "politico",
+      "estado": "previsto",
+      "src": "https://www.infobae.com/espana/2026/10/04/el-nuevo-sumar-elegira-a-su-lider-el-17-de-octubre-ante-el-posible-adelanto-electoral-estos-son-los-candidatos-en-las-quinielas/"
+    },
+    {
+      "fecha": "2026-10-19",
+      "titulo": "Fin de consulta y reclamaciones al censo (12-19 oct)",
+      "detalle": "Art. 39 LOREG. Se vota con el censo cerrado el 1 de agosto.",
+      "tipo": "legal",
+      "estado": "previsto",
+      "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+    },
+    {
+      "fecha": "2026-10-26",
+      "titulo": "Fin del plazo de presentación de candidaturas (21-26 oct)",
+      "detalle": "Días 15.º a 20.º tras la convocatoria (art. 45).",
+      "tipo": "legal",
+      "estado": "previsto",
+      "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+    },
+    {
+      "fecha": "2026-10-28",
+      "titulo": "Publicación de candidaturas presentadas",
+      "detalle": "BOE.",
+      "tipo": "legal",
+      "estado": "previsto",
+      "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+    },
+    {
+      "fecha": "2026-11-02",
+      "titulo": "Proclamación de candidaturas",
+      "detalle": "Publicación el 3 de noviembre. Sorteo de mesas electorales entre el 31 de octubre y el 4 de noviembre.",
+      "tipo": "legal",
+      "estado": "previsto",
+      "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+    },
+    {
+      "fecha": "2026-11-09",
+      "titulo": "Comienza el envío de documentación del voto por correo",
+      "detalle": "Correos empieza a entregar las papeletas a quien lo haya solicitado.",
+      "tipo": "voto",
+      "estado": "previsto",
+      "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+    },
+    {
+      "fecha": "2026-11-11",
+      "titulo": "Huelga general por la vivienda",
+      "detalle": "Fecha confirmada por UGT (Pepe Álvarez) y propuesta por la Confederación de Sindicatos de Inquilinas; dos días antes del inicio de la campaña.",
+      "tipo": "politico",
+      "estado": "previsto",
+      "src": "https://www.20minutos.es/nacional/los-sindicatos-inquilinas-proponen-11-noviembre-para-celebrar-huelga-general-por-vivienda_7045934_0.html"
+    },
+    {
+      "fecha": "2026-11-13",
+      "titulo": "Inicio de la campaña electoral",
+      "detalle": "15 días (art. 51). A las 0:00.",
+      "tipo": "campana",
+      "estado": "previsto",
+      "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
+    },
+    {
+      "fecha": "2026-11-19",
+      "titulo": "Último día para SOLICITAR el voto por correo",
+      "detalle": "Décimo día anterior a la votación (art. 72). En Correos o por internet con certificado/Cl@ve.",
+      "tipo": "voto",
+      "estado": "previsto",
+      "src": "https://www.vozpopuli.com/actualidad/voto-por-correo-en-las-elecciones-generales-del-29n-fechas-y-plazos-que-es-el-voto-cera-y-como-afecta-la-ley-de-nietos-al-voto-desde-el-exterior.html"
+    },
+    {
+      "fecha": "2026-11-23",
+      "titulo": "Declaración de testigos en el caso Air Europa",
+      "detalle": "El juez cita, según ABC, a la vicepresidenta Sara Aagesen como testigo el 23 de noviembre, junto con otros cargos y excargos; no están investigados.",
+      "tipo": "politico",
+      "estado": "previsto",
+      "src": "https://www.abc.es/espana/juez-investiga-rescate-air-europa-cita-vicepresidenta-20261007130026-nt.html"
+    },
+    {
+      "fecha": "2026-11-25",
+      "titulo": "Último día para DEPOSITAR el voto por correo",
+      "detalle": "Art. 73 LOREG. Algún medio ha publicado el 19 por error: ese día es el de la solicitud, no el del depósito.",
+      "tipo": "voto",
+      "estado": "previsto",
+      "src": "https://rtvc.es/calendario-elecciones-generales-2026-fechas-clave-hasta-29-de-noviembre/"
+    },
+    {
+      "fecha": "2026-11-27",
+      "titulo": "Fin de campaña (24:00)",
+      "detalle": "",
+      "tipo": "campana",
+      "estado": "previsto",
+      "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
+    },
+    {
+      "fecha": "2026-11-28",
+      "titulo": "Jornada de reflexión",
+      "detalle": "Art. 53. Prohibida la propaganda electoral y la publicación de encuestas (desde el 24).",
+      "tipo": "campana",
+      "estado": "previsto",
+      "src": "https://www.mundiario.com/articulo/politica/elecciones-29-n-calendario-que-abre-decision-sanchez/20261005092744445003.html"
+    },
+    {
+      "fecha": "2026-11-29",
+      "titulo": "DÍA DE LAS ELECCIONES",
+      "detalle": "Colegios abiertos de 9:00 a 20:00.",
+      "tipo": "voto",
+      "estado": "previsto",
+      "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+    },
+    {
+      "fecha": "2026-12-02",
+      "titulo": "Escrutinio general (voto CERA incluido)",
+      "detalle": "Tercer día tras la votación, en las Juntas Electorales Provinciales (art. 103).",
+      "tipo": "legal",
+      "estado": "previsto",
+      "src": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-8463"
+    },
+    {
+      "fecha": "2026-12-24",
+      "titulo": "Fecha límite para constituir las nuevas Cortes",
+      "detalle": "Dentro de los 25 días siguientes a las elecciones (art. 68.6 CE). La prensa prevé mediados de diciembre.",
+      "tipo": "legal",
+      "estado": "previsto",
+      "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
+    },
+    {
+      "fecha": "2027-01-15",
+      "titulo": "Ronda de consultas del Rey e investidura (estimación)",
+      "detalle": "La Constitución no fija plazo para la primera votación; una vez celebrada, si no hay investidura en dos meses, se disuelven las Cortes (art. 99.5). Fecha orientativa.",
+      "tipo": "legal",
+      "estado": "estimado",
+      "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
+    }
+  ],
+  "voto_exterior": "Tras la LO 12/2022 no hay voto rogado: la Oficina del Censo envía la documentación de oficio a los inscritos en el CERA. El Supremo ha paralizado cautelarmente el voto de los inscritos por la 'ley de nietos'. Fechas exactas pendientes de la JEC."
 }

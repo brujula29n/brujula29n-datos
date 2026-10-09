@@ -163,8 +163,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 60,
-  "ultimo": "El PSOE estudia listas conjuntas de izquierda al Senado en Baleares y Navarra"
+  "n": 61,
+  "ultimo": "El voto en el exterior crece en 444.335 electores, ligado a la 'ley de nietos'"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -214,7 +214,7 @@
   },
   {
    "tipo": "diario",
-   "texto": "6 movimientos nuevos en el diario. Último: El PSOE estudia listas conjuntas de izquierda al Senado en Baleares y Navarra."
+   "texto": "7 movimientos nuevos en el diario. Último: El voto en el exterior crece en 444.335 electores, ligado a la 'ley de nietos'."
   }
  ]
 }
