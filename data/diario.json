@@ -4,6 +4,22 @@
   "entradas": [
     {
       "fecha": "2026-10-09",
+      "titulo": "El PSOE estudia listas conjuntas de izquierda al Senado en Baleares y Navarra",
+      "que": "El PSOE negocia candidaturas conjuntas de izquierda al Senado en Baleares y Navarra para evitar que el PP repita mayoría absoluta en la Cámara. En Baleares estudia ir con Més per Mallorca y otras formaciones, como en Ibiza en 2023; en Navarra, Geroa Bai propuso al PSN unirse, sin Bildu. Fuentes del socialismo navarro: «no hay nada cerrado aún».",
+      "lectura": "Gestiones en curso, sin acuerdo cerrado; los pactos los decide Ferraz. Nivel B (prensa con fuentes de partido).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elespanol.com/espana/politica/20261009/psoe-estudia-candidaturas-conjuntas-izquierdas-senado-baleares-navarra/1003744414998_0.html",
+        "https://www.europapress.es/nacional/noticia-psoe-estudia-presentarse-senado-lista-conjunta-otras-formaciones-izquierda-evitar-mayoria-pp-20261009142726.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-09",
       "titulo": "Censo para el 29-N: 38,7 millones de electores, 1,6 millones votarán por primera vez",
       "que": "Según el INE, citado por elDiario.es, podrán votar 38.728.356 personas el 29-N; más de 1,6 millones han cumplido la mayoría de edad desde 2023. Más de 2,7 millones son electores residentes en el extranjero, que votarán sin solicitud previa. El censo podrá consultarse del 12 al 19 de octubre.",
       "lectura": "Dato administrativo sin lectura partidista. Nivel B (prensa sobre cifra del INE; pendiente de contrastar con la fuente oficial).",
