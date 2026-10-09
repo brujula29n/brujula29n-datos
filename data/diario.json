@@ -1,7 +1,38 @@
 {
- "actualizado": "2026-10-08",
+ "actualizado": "2026-10-09",
  "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
  "entradas": [
+  {
+   "fecha": "2026-10-09",
+   "titulo": "Sánchez, en elDiario.es: 'no descarto' indultar al fiscal general antes del 29-N",
+   "que": "En su primera entrevista tras convocar elecciones, Sánchez dijo que 'no descarta' el indulto al exfiscal general Álvaro García Ortiz: el Gobierno estudia qué medidas pendientes puede aprobar en la Diputación Permanente o por decreto. Atribuyó las críticas al voto por correo al 'miedo a perder' e 'intento de recortar el derecho al voto', defendió que el Parlamento 'se parezca a la calle' y se comprometió a que 'no se produzca ningún desahucio' en lo que queda de legislatura.",
+   "lectura": "Compromisos y declaraciones de campaña, no medidas aprobadas; un indulto sería una decisión del Gobierno. Nivel B (entrevista).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.eldiario.es/politica/frases-entrevista-pedro-sanchez-bulo-voto-correo-miedo-perder_1_13570028.html",
+    "https://www.elespanol.com/espana/politica/20261009/sanchez-dice-hora-parlamento-parezca-calle-no-descarta-indultar-fiscal-general/1003744414548_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-09",
+   "titulo": "El PSOE de Asturias: Adriana Lastra, número uno al Congreso",
+   "que": "La Ejecutiva de la FSA-PSOE ha decidido, de acuerdo con la dirección federal, que la delegada del Gobierno en Asturias, Adriana Lastra, sea la número uno de la candidatura al Congreso por Asturias el 29-N. El resto de la lista, tras primarias en los próximos días.",
+   "lectura": "Dato de listas del PSOE; sin efecto en el voto medido. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/08/6ac7dbc1e9cf4a916b8b4597.html"
+   ]
+  },
   {
    "fecha": "2026-10-08",
    "titulo": "La Abogacía del Estado pide al Supremo que levante la suspensión del voto de la 'ley de nietos'",

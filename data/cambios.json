@@ -1,6 +1,40 @@
 {
- "actualizado": "2026-10-08",
+ "actualizado": "2026-10-09",
  "dias": [
+  {
+   "fecha": "2026-10-09",
+   "items": [
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: 40dB 2026-10-08.",
+     "texto_en": "New poll: 40dB 2026-10-08."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: DYM 2026-10-07.",
+     "texto_en": "New poll: DYM 2026-10-07."
+    },
+    {
+     "tipo": "media",
+     "texto": "PSOE sube en la media: 26,2 % → 26,6 %.",
+     "delta": 0.4,
+     "partido": "PSOE",
+     "texto_en": "PSOE rises in the poll average: 26.2% → 26.6%."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "Sumar/FA: proyección de 7 a 5 escaños.",
+     "delta": -2,
+     "partido": "SUMAR",
+     "texto_en": "Sumar/FA: projection from 7 to 5 seats."
+    },
+    {
+     "tipo": "diario",
+     "texto": "2 movimientos nuevos en el diario. Último: Sánchez, en elDiario.es: 'no descarto' indultar al fiscal general antes del 29-N.",
+     "texto_en": "2 new entries in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-10-08",
    "items": [
@@ -151,6 +185,32 @@
     "bloqueo": 0.9
    },
    "n_encuestas": 16
+  },
+  {
+   "fecha": "2026-10-09",
+   "media": {
+    "PP": 32.86,
+    "PSOE": 26.6,
+    "VOX": 18.57,
+    "SUMAR": 5.51,
+    "PODEMOS": 3.27,
+    "SALF": 1.57
+   },
+   "escanos": {
+    "PP": 142,
+    "PSOE": 107,
+    "VOX": 64,
+    "SUMAR": 5,
+    "PODEMOS": 2
+   },
+   "ppvox": 206,
+   "probs": {
+    "pp_vox": 97.3,
+    "pp_solo": 0.4,
+    "psoe_bloque": 1.8,
+    "bloqueo": 0.5
+   },
+   "n_encuestas": 18
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08",
+  "actualizado": "2026-10-09",
   "nota": "Escaños sobre 350; mayoría absoluta 176. null = la casa no publica ese dato. 'tipo': privada | oficial | panel. Las cifras se han contrastado con al menos dos fuentes cuando el medio original bloqueaba la lectura.",
   "partidos_orden": [
     "PP",
@@ -54,14 +54,14 @@
   "media": {
     "nombre": "Media ponderada Brújula 29N",
     "metodo": "Media de las encuestas privadas con campo en los últimos 21 días, ponderada por tamaño muestral (raíz cuadrada) y antigüedad (semivida 10 días). El CIS se muestra aparte por su desviación sistemática documentada; los paneles online autoseleccionados ponderan a la mitad.",
-    "fecha": "2026-10-06",
+    "fecha": "2026-10-08",
     "pct": {
-      "PP": 32.83,
-      "PSOE": 26.2,
+      "PP": 32.86,
+      "PSOE": 26.6,
       "VOX": 18.57,
-      "SUMAR": 5.79,
-      "PODEMOS": 3.48,
-      "SALF": 1.78,
+      "SUMAR": 5.51,
+      "PODEMOS": 3.27,
+      "SALF": 1.57,
       "ERC": 2.08,
       "JUNTS": 1.52,
       "BILDU": 1.37,
@@ -709,6 +709,72 @@
       "esc_rango": "PP 146-148 · PSOE 98-102 · Vox 61-64 · Sumar 6-8 · Podemos 2-4 · Junts 10-11",
       "nota": "Telefónico + online; margen de error ±3,1 %. Escaños: punto medio del rango publicado; el resto de partidos, sin escaños.",
       "url": "https://www.electografica.com/2026/10/encuesta-nc-report-261008.html"
+    },
+    {
+      "casa": "DYM",
+      "medio": "Henneo / Grupo Joly (20minutos)",
+      "tipo": "privada",
+      "campo_ini": "2026-10-05",
+      "campo_fin": "2026-10-07",
+      "n": 1011,
+      "pct": {
+        "PP": 34.0,
+        "PSOE": 28.2,
+        "VOX": 18.2,
+        "SUMAR": 3.6,
+        "PODEMOS": 2.6,
+        "SALF": 0.5,
+        "ERC": null,
+        "JUNTS": null,
+        "BILDU": null,
+        "PNV": null,
+        "BNG": null,
+        "CC": null,
+        "UPN": null
+      },
+      "esc": {
+        "PP": 141,
+        "PSOE": 109,
+        "VOX": 63,
+        "SUMAR": 4,
+        "PODEMOS": 1
+      },
+      "esc_rango": "PP 139-143 · PSOE 107-111 · Vox 61-65 · Sumar 3-5 · Podemos 1-2",
+      "nota": "Online; margen de error ±3,1 %. Escaños: punto medio del rango publicado (redondeo a la baja); resto de partidos, sin dato.",
+      "url": "https://www.electografica.com/2026/10/encuesta-dym-261009.html"
+    },
+    {
+      "casa": "40dB",
+      "medio": "El País / Cadena SER",
+      "tipo": "privada",
+      "campo_ini": "2026-10-07",
+      "campo_fin": "2026-10-08",
+      "n": 800,
+      "pct": {
+        "PP": 31.9,
+        "PSOE": 28.1,
+        "VOX": 18.9,
+        "SUMAR": 5.3,
+        "PODEMOS": 2.3,
+        "SALF": 1.8,
+        "ERC": null,
+        "JUNTS": null,
+        "BILDU": null,
+        "PNV": null,
+        "BNG": null,
+        "CC": null,
+        "UPN": null
+      },
+      "esc": {
+        "PP": 131,
+        "PSOE": 111,
+        "VOX": 68,
+        "SUMAR": 6,
+        "PODEMOS": 2
+      },
+      "esc_rango": "PP 123-140 · PSOE 105-117 · Vox 63-74 · Sumar 5-7 · Podemos 2",
+      "nota": "Online; margen de error ±3,5 %. Escaños: punto medio del rango publicado. Si Sumar y Podemos fueran juntos en el Frente Amplio: 9,5 % y 15-19 escaños (según la casa).",
+      "url": "https://www.electografica.com/2026/10/encuesta-40db-261009.html"
     }
   ]
 }
