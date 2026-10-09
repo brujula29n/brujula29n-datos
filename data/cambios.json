@@ -15,6 +15,11 @@
      "texto_en": "New poll: DYM 2026-10-07."
     },
     {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: IMOP Insights 2026-10-07.",
+     "texto_en": "New poll: IMOP Insights 2026-10-07."
+    },
+    {
      "tipo": "media",
      "texto": "PSOE sube en la media: 26,2 % → 26,6 %.",
      "delta": 0.4,
@@ -23,15 +28,15 @@
     },
     {
      "tipo": "escanos",
-     "texto": "Sumar/FA: proyección de 7 a 5 escaños.",
-     "delta": -2,
-     "partido": "SUMAR",
-     "texto_en": "Sumar/FA: projection from 7 to 5 seats."
+     "texto": "PSOE: proyección de 106 a 108 escaños.",
+     "delta": 2,
+     "partido": "PSOE",
+     "texto_en": "PSOE: projection from 106 to 108 seats."
     },
     {
      "tipo": "diario",
-     "texto": "2 movimientos nuevos en el diario. Último: Sánchez, en elDiario.es: 'no descarto' indultar al exfiscal general antes del 29-N.",
-     "texto_en": "2 new entries in the campaign log (in Spanish)."
+     "texto": "4 movimientos nuevos en el diario. Último: Feijóo acepta el cara a cara con Sánchez de Mediaset y propone el 16 de noviembre.",
+     "texto_en": "4 new entries in the campaign log (in Spanish)."
     }
    ]
   },
@@ -189,28 +194,28 @@
   {
    "fecha": "2026-10-09",
    "media": {
-    "PP": 32.86,
-    "PSOE": 26.6,
-    "VOX": 18.57,
-    "SUMAR": 5.51,
-    "PODEMOS": 3.27,
-    "SALF": 1.57
+    "PP": 32.64,
+    "PSOE": 26.59,
+    "VOX": 18.6,
+    "SUMAR": 5.7,
+    "PODEMOS": 3.18,
+    "SALF": 1.61
    },
    "escanos": {
-    "PP": 142,
-    "PSOE": 107,
+    "PP": 140,
+    "PSOE": 108,
     "VOX": 64,
-    "SUMAR": 5,
+    "SUMAR": 6,
     "PODEMOS": 2
    },
-   "ppvox": 206,
+   "ppvox": 204,
    "probs": {
-    "pp_vox": 97.3,
+    "pp_vox": 96.9,
     "pp_solo": 0.4,
-    "psoe_bloque": 1.8,
-    "bloqueo": 0.5
+    "psoe_bloque": 1.9,
+    "bloqueo": 0.9
    },
-   "n_encuestas": 18
+   "n_encuestas": 19
   }
  ]
 }

@@ -2,18 +2,18 @@
  "fecha": "2026-10-09",
  "media": {
   "pct": {
-   "PP": 32.86,
-   "PSOE": 26.6,
-   "VOX": 18.57,
-   "SUMAR": 5.51,
-   "PODEMOS": 3.27,
-   "SALF": 1.57,
-   "ERC": 2.08,
-   "JUNTS": 1.52,
-   "BILDU": 1.37,
-   "PNV": 0.96,
-   "BNG": 0.91,
-   "CC": 0.43,
+   "PP": 32.64,
+   "PSOE": 26.59,
+   "VOX": 18.6,
+   "SUMAR": 5.7,
+   "PODEMOS": 3.18,
+   "SALF": 1.61,
+   "ERC": 2.1,
+   "JUNTS": 1.45,
+   "BILDU": 1.35,
+   "PNV": 0.95,
+   "BNG": 0.94,
+   "CC": 0.46,
    "UPN": 0.2
   },
   "ref": "2026-10-08",
@@ -23,18 +23,19 @@
    "DYM",
    "Data10",
    "Electomanía (ElectoPanel)",
+   "IMOP Insights",
    "NC Report",
    "Sigma Dos",
    "SocioMétrica",
    "Winston"
   ],
-  "n_encuestas": 18
+  "n_encuestas": 19
  },
  "escanos": {
-  "PP": 142,
-  "PSOE": 107,
+  "PP": 140,
+  "PSOE": 108,
   "VOX": 64,
-  "SUMAR": 5,
+  "SUMAR": 6,
   "PODEMOS": 2,
   "SALF": 0,
   "ERC": 8,
@@ -47,8 +48,8 @@
  },
  "rango": {
   "PP": [
-   117,
-   159
+   116,
+   158
   ],
   "PSOE": [
    88,
@@ -56,11 +57,11 @@
   ],
   "VOX": [
    49,
-   83
+   84
   ],
   "SUMAR": [
    2,
-   13
+   14
   ],
   "PODEMOS": [
    0,
@@ -71,7 +72,7 @@
    0
   ],
   "ERC": [
-   6,
+   7,
    12
   ],
   "JUNTS": [
@@ -87,11 +88,11 @@
    6
   ],
   "BNG": [
-   1,
+   2,
    5
   ],
   "CC": [
-   0,
+   1,
    3
   ],
   "UPN": [
@@ -100,16 +101,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 97.3,
+  "pp_vox": 96.9,
   "pp_solo": 0.4,
-  "psoe_bloque": 1.8,
-  "bloqueo": 0.5
+  "psoe_bloque": 1.9,
+  "bloqueo": 0.9
  },
  "probs_extra": {
-  "ppvox": 97.7,
-  "bloque": 1.8,
-  "bloque_sin_junts": 0.6,
-  "pp_first": 92.0
+  "ppvox": 97.3,
+  "bloque": 1.9,
+  "bloque_sin_junts": 0.9,
+  "pp_first": 91.2
  },
  "semaforo_esp": {
   "S1": 1,
@@ -162,8 +163,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 56,
-  "ultimo": "Sánchez, en elDiario.es: 'no descarto' indultar al exfiscal general antes del 29-N"
+  "n": 58,
+  "ultimo": "Feijóo acepta el cara a cara con Sánchez de Mediaset y propone el 16 de noviembre"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -177,6 +178,7 @@
   "GAD3 2026-09-03",
   "GESOP 2026-07-09",
   "Hamalgama Métrica 2026-09-08",
+  "IMOP Insights 2026-10-07",
   "NC Report 2026-09-03",
   "NC Report 2026-10-06",
   "Sigma Dos 2026-10-01",
@@ -195,6 +197,10 @@
    "texto": "Nueva encuesta: DYM 2026-10-07."
   },
   {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: IMOP Insights 2026-10-07."
+  },
+  {
    "tipo": "media",
    "texto": "PSOE sube en la media: 26,2 % → 26,6 %.",
    "delta": 0.4,
@@ -202,13 +208,13 @@
   },
   {
    "tipo": "escanos",
-   "texto": "Sumar/FA: proyección de 7 a 5 escaños.",
-   "delta": -2,
-   "partido": "SUMAR"
+   "texto": "PSOE: proyección de 106 a 108 escaños.",
+   "delta": 2,
+   "partido": "PSOE"
   },
   {
    "tipo": "diario",
-   "texto": "2 movimientos nuevos en el diario. Último: Sánchez, en elDiario.es: 'no descarto' indultar al exfiscal general antes del 29-N."
+   "texto": "4 movimientos nuevos en el diario. Último: Feijóo acepta el cara a cara con Sánchez de Mediaset y propone el 16 de noviembre."
   }
  ]
 }
