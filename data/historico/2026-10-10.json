@@ -163,8 +163,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 63,
-  "ultimo": "El Supremo decide «in extremis» si mantiene sin voto a los nacionalizados por la ley de nietos"
+  "n": 64,
+  "ultimo": "EH Bildu y ERC reeditan su coalición para el Senado"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -190,7 +190,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "2 movimientos nuevos en el diario. Último: El Supremo decide «in extremis» si mantiene sin voto a los nacionalizados por la ley de nietos."
+   "texto": "3 movimientos nuevos en el diario. Último: EH Bildu y ERC reeditan su coalición para el Senado."
   }
  ]
 }

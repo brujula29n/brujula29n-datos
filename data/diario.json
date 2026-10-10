@@ -4,6 +4,25 @@
   "entradas": [
     {
       "fecha": "2026-10-10",
+      "titulo": "EH Bildu y ERC reeditan su coalición para el Senado",
+      "que": "EH Bildu y ERC anuncian en un comunicado conjunto que repetirán la coalición con la que concurrieron al Senado en 2023, tras valorar su colaboración en la Cámara en esta legislatura. Ponen la vivienda en el centro de la candidatura y llaman a frenar al «bloque reaccionario». La reunión de ambas direcciones la lideraron Arnaldo Otegi y Oriol Junqueras.",
+      "lectura": "Acuerdo anunciado por los propios partidos, solo para el Senado; no afecta a las listas del Congreso. Nivel B (comunicado citado por la prensa).",
+      "actores": [
+        {
+          "id": "BILDU",
+          "impacto": 0
+        },
+        {
+          "id": "ERC",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/eh-bildu-erc-reeditan-coalicion-presentan-senado_1_13576976.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-10",
       "titulo": "El Supremo decide «in extremis» si mantiene sin voto a los nacionalizados por la ley de nietos",
       "que": "Según El País, la Sala de lo Contencioso del Supremo estudia si mantiene la suspensión del voto de los nacionalizados por la Ley de Memoria Democrática o, como piden la Abogacía del Estado y la Fiscalía, la levanta por ser imposible revisar el censo de residentes en el extranjero. Prevé decidir en las próximas horas; el censo debe quedar expuesto el 12 de octubre y fijarse el 23. Iustitia Europa pide además suspender las elecciones.",
       "lectura": "Decisión judicial pendiente: aún no hay resolución. Nivel B (prensa sobre un procedimiento en curso).",
