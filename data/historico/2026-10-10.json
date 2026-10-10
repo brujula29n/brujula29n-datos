@@ -163,8 +163,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 67,
-  "ultimo": "Miriam González lanza Democracia 21, que solo concurrirá en Madrid y Barcelona"
+  "n": 69,
+  "ultimo": "Senado: el 29-N se eligen 208 de 266 escaños; el PP parte con 23 designados y el PSOE con 19"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -190,7 +190,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "6 movimientos nuevos en el diario. Último: Miriam González lanza Democracia 21, que solo concurrirá en Madrid y Barcelona."
+   "texto": "8 movimientos nuevos en el diario. Último: Senado: el 29-N se eligen 208 de 266 escaños; el PP parte con 23 designados y el PSOE con 19."
   }
  ]
 }

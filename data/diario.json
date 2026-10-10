@@ -4,6 +4,31 @@
   "entradas": [
     {
       "fecha": "2026-10-10",
+      "titulo": "Senado: el 29-N se eligen 208 de 266 escaños; el PP parte con 23 designados y el PSOE con 19",
+      "que": "Según Europa Press, el 29-N se eligen 208 de los 266 senadores; los otros 58 los designan los parlamentos autonómicos según sus últimos resultados. Entre estos, el PP tiene 23, el PSOE unos 19 y Vox 5. Por tanto, el PP necesitaría al menos 111 escaños en las urnas para repetir la mayoría absoluta, y el PSOE 125.",
+      "lectura": "Cálculo aritmético de partida sobre los designados, no una proyección de resultados. Nivel B (prensa; contrastar con el Senado).",
+      "actores": [],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-29n-pp-parte-ventaja-frente-psoe-senado-antes-elecciones-23-escanos-frente-19-20261010082955.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-10",
+      "titulo": "El PNV rechaza «bloques» tras el 29-N y descarta pactar con Vox: «ni a heredar»",
+      "que": "La portavoz del PNV en el Congreso, Maribel Vaquero, dice en RNE que su partido no se incluye en ningún «bloque» y que actuará «en clave vasca». Afirma que no dará apoyo a «algo que signifique involución democrática» y que con Vox, «ni a heredar»; atribuye al PP un «seguidismo total» de Vox. Critica también el abuso de decretos ley del Gobierno.",
+      "lectura": "Posición declarada antes de las elecciones; no equivale a un voto de investidura. Nivel B (entrevista recogida por la prensa).",
+      "actores": [
+        {
+          "id": "PNV",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/pnv-rechaza-que-se-le-incluya-ningun-bloque-tras-29n-pero-avisa-feijoo-que-con-vox-ni-heredar_7047483_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-10",
       "titulo": "Miriam González lanza Democracia 21, que solo concurrirá en Madrid y Barcelona",
       "que": "La abogada Miriam González Durántez presenta Democracia 21, un partido inscrito a finales de junio, con candidaturas al Congreso únicamente por Madrid y Barcelona. Entre sus propuestas: rebajar los impuestos de vivienda a menores de 35 años, despolitizar el CGPJ, que el ministerio fiscal responda ante el Parlamento y crear juzgados especializados en corrupción. Acuden antiguos miembros de UPyD.",
       "lectura": "Propuestas anunciadas en la presentación; no es un programa electoral publicado. Candidatura pendiente de proclamación por la Junta Electoral. Nivel B (prensa).",
