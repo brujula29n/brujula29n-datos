@@ -3,6 +3,32 @@
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
     {
+      "fecha": "2026-10-10",
+      "titulo": "El Supremo decide «in extremis» si mantiene sin voto a los nacionalizados por la ley de nietos",
+      "que": "Según El País, la Sala de lo Contencioso del Supremo estudia si mantiene la suspensión del voto de los nacionalizados por la Ley de Memoria Democrática o, como piden la Abogacía del Estado y la Fiscalía, la levanta por ser imposible revisar el censo de residentes en el extranjero. Prevé decidir en las próximas horas; el censo debe quedar expuesto el 12 de octubre y fijarse el 23. Iustitia Europa pide además suspender las elecciones.",
+      "lectura": "Decisión judicial pendiente: aún no hay resolución. Nivel B (prensa sobre un procedimiento en curso).",
+      "actores": [],
+      "src": [
+        "https://elpais.com/espana/elecciones-generales/2026-10-10/el-supremo-decide-in-extremis-sobre-el-derecho-a-voto-de-los-descendientes-del-exilio-para-el-29-n.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-10",
+      "titulo": "Anticorrupción ve indicios de cohecho y tráfico de influencias en el PSOE, pero ve prematura su imputación",
+      "que": "Según El Mundo, el escrito de las fiscales de Anticorrupción sostiene que hay indicios de dos delitos, tráfico de influencias y cohecho, y descarta malversación, financiación ilegal y blanqueo. Atribuye a Santos Cerdán haber puesto la infraestructura del PSOE al servicio de la trama de Leire Díez. Considera precipitado investigar ya al partido: faltan diligencias, como las declaraciones de Cerdán y de la gerente. El juez Pedraz ha rechazado por ahora la imputación.",
+      "lectura": "Son tesis de la Fiscalía, no hechos probados: el PSOE no está imputado y nadie ha sido condenado. Nivel B (prensa sobre un escrito de la Fiscalía).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": -1
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/espana/2026/10/10/6ac92eade85ece5a4d8b458f.html",
+        "https://www.elespanol.com/espana/tribunales/20261009/psoe-puso-disposicion-organizacion-criminal-leire-estructura-finanzas-dice-fiscalia/1003744414822_0.html"
+      ]
+    },
+    {
       "fecha": "2026-10-09",
       "titulo": "El voto en el exterior crece en 444.335 electores, ligado a la 'ley de nietos'",
       "que": "Según El Español, con fuentes del INE y EFE, el censo del 29-N suma unos 1,26 millones de electores más que en 2023. Hay 2.769.645 electores con pasaporte español residentes en el extranjero, 444.335 más, un aumento atribuido sobre todo a la 'ley de nietos'. El Supremo debe decidir si pueden votar los nacionalizados por esa ley, cuya inscripción ha suspendido cautelarmente hasta sentenciar los recursos de Iustitia Europa y Vox.",
