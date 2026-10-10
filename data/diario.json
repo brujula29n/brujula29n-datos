@@ -1,1129 +1,1129 @@
 {
-  "actualizado": "2026-10-09",
-  "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
-  "entradas": [
-    {
-      "fecha": "2026-10-10",
-      "titulo": "Primeros grandes actos de precampaña: Sánchez en Dos Hermanas y Feijóo en Madrid",
-      "que": "Sánchez abrió su precampaña en Dos Hermanas (Sevilla), con más de 5.000 asistentes según la organización: centró el mensaje en la vivienda, prometió reforzar los decretos de vivienda y criticó el discurso de PP y Vox sobre el voto por correo. Feijóo hizo su primer gran acto en Madrid con Ayuso y Almeida: propuso una «reconstrucción nacional», un Gobierno «que os pida sacrificio» y puso fin a «las falsas promesas en vivienda, a la asfixia fiscal».",
-      "lectura": "Promesas y mensajes de campaña, no medidas aprobadas ni programas publicados. Misma vara para ambos: se anota lo dicho, sin valorar su eficacia. Nivel B (prensa).",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 0
-        },
-        {
-          "id": "PP",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/andalucia/noticia-sanchez-reivindica-perro-amo-pide-urnas-llenas-frente-miedo-pp-vox-voto-correo-29n-20261010133133.html",
-        "https://www.eldiario.es/politica/sanchez-acusa-derecha-enfrentar-pequenos-propietarios-e-inquilinos-no-miremos-aticazos-fondos-buitre_1_13577384.html",
-        "https://www.eldiario.es/politica/feijoo-promete-gobierno-pedira-sacrificios-ayuso-tilda-terroristas-acampados-sol_1_13577261.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-10",
-      "titulo": "EH Bildu y ERC reeditan su coalición para el Senado",
-      "que": "EH Bildu y ERC anuncian en un comunicado conjunto que repetirán la coalición con la que concurrieron al Senado en 2023, tras valorar su colaboración en la Cámara en esta legislatura. Ponen la vivienda en el centro de la candidatura y llaman a frenar al «bloque reaccionario». La reunión de ambas direcciones la lideraron Arnaldo Otegi y Oriol Junqueras.",
-      "lectura": "Acuerdo anunciado por los propios partidos, solo para el Senado; no afecta a las listas del Congreso. Nivel B (comunicado citado por la prensa).",
-      "actores": [
-        {
-          "id": "BILDU",
-          "impacto": 0
-        },
-        {
-          "id": "ERC",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.eldiario.es/politica/eh-bildu-erc-reeditan-coalicion-presentan-senado_1_13576976.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-10",
-      "titulo": "El Supremo decide «in extremis» si mantiene sin voto a los nacionalizados por la ley de nietos",
-      "que": "Según El País, la Sala de lo Contencioso del Supremo estudia si mantiene la suspensión del voto de los nacionalizados por la Ley de Memoria Democrática o, como piden la Abogacía del Estado y la Fiscalía, la levanta por ser imposible revisar el censo de residentes en el extranjero. Prevé decidir en las próximas horas; el censo debe quedar expuesto el 12 de octubre y fijarse el 23. Iustitia Europa pide además suspender las elecciones.",
-      "lectura": "Decisión judicial pendiente: aún no hay resolución. Nivel B (prensa sobre un procedimiento en curso).",
-      "actores": [],
-      "src": [
-        "https://elpais.com/espana/elecciones-generales/2026-10-10/el-supremo-decide-in-extremis-sobre-el-derecho-a-voto-de-los-descendientes-del-exilio-para-el-29-n.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-10",
-      "titulo": "Anticorrupción ve indicios de cohecho y tráfico de influencias en el PSOE, pero ve prematura su imputación",
-      "que": "Según El Mundo, el escrito de las fiscales de Anticorrupción sostiene que hay indicios de dos delitos, tráfico de influencias y cohecho, y descarta malversación, financiación ilegal y blanqueo. Atribuye a Santos Cerdán haber puesto la infraestructura del PSOE al servicio de la trama de Leire Díez. Considera precipitado investigar ya al partido: faltan diligencias, como las declaraciones de Cerdán y de la gerente. El juez Pedraz ha rechazado por ahora la imputación.",
-      "lectura": "Son tesis de la Fiscalía, no hechos probados: el PSOE no está imputado y nadie ha sido condenado. Nivel B (prensa sobre un escrito de la Fiscalía).",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": -1
-        }
-      ],
-      "src": [
-        "https://www.elmundo.es/espana/2026/10/10/6ac92eade85ece5a4d8b458f.html",
-        "https://www.elespanol.com/espana/tribunales/20261009/psoe-puso-disposicion-organizacion-criminal-leire-estructura-finanzas-dice-fiscalia/1003744414822_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-09",
-      "titulo": "El voto en el exterior crece en 444.335 electores, ligado a la 'ley de nietos'",
-      "que": "Según El Español, con fuentes del INE y EFE, el censo del 29-N suma unos 1,26 millones de electores más que en 2023. Hay 2.769.645 electores con pasaporte español residentes en el extranjero, 444.335 más, un aumento atribuido sobre todo a la 'ley de nietos'. El Supremo debe decidir si pueden votar los nacionalizados por esa ley, cuya inscripción ha suspendido cautelarmente hasta sentenciar los recursos de Iustitia Europa y Vox.",
-      "lectura": "Dato de censo y pleito pendiente: no hay decisión del Supremo todavía. Nivel B (prensa citando al INE; sin contrastar con el censo oficial).",
-      "actores": [],
-      "src": [
-        "https://www.elespanol.com/espana/20261009/censo-crece-millones-personas-exterior-espera-decision-tribunal-supremo/1003744415845_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-09",
-      "titulo": "El PSOE estudia listas conjuntas de izquierda al Senado en Baleares y Navarra",
-      "que": "El PSOE negocia candidaturas conjuntas de izquierda al Senado en Baleares y Navarra para evitar que el PP repita mayoría absoluta en la Cámara. En Baleares estudia ir con Més per Mallorca y otras formaciones, como en Ibiza en 2023; en Navarra, Geroa Bai propuso al PSN unirse, sin Bildu. Fuentes del socialismo navarro: «no hay nada cerrado aún».",
-      "lectura": "Gestiones en curso, sin acuerdo cerrado; los pactos los decide Ferraz. Nivel B (prensa con fuentes de partido).",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.elespanol.com/espana/politica/20261009/psoe-estudia-candidaturas-conjuntas-izquierdas-senado-baleares-navarra/1003744414998_0.html",
-        "https://www.europapress.es/nacional/noticia-psoe-estudia-presentarse-senado-lista-conjunta-otras-formaciones-izquierda-evitar-mayoria-pp-20261009142726.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-09",
-      "titulo": "Censo para el 29-N: 38,7 millones de electores, 1,6 millones votarán por primera vez",
-      "que": "Según el INE, citado por elDiario.es, podrán votar 38.728.356 personas el 29-N; más de 1,6 millones han cumplido la mayoría de edad desde 2023. Más de 2,7 millones son electores residentes en el extranjero, que votarán sin solicitud previa. El censo podrá consultarse del 12 al 19 de octubre.",
-      "lectura": "Dato administrativo sin lectura partidista. Nivel B (prensa sobre cifra del INE; pendiente de contrastar con la fuente oficial).",
-      "actores": [],
-      "src": [
-        "https://www.eldiario.es/politica/38-millones-espanoles-podran-votar-29n-1-6-haran-primera-vez_1_13574606.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-09",
-      "titulo": "Feijóo acepta el cara a cara con Sánchez de Mediaset y propone el 16 de noviembre",
-      "que": "El PP acepta el cara a cara con Sánchez propuesto por Mediaset y plantea celebrarlo el lunes 16 de noviembre. También acepta un debate de candidatos de los principales partidos nacionales (propuesto por Atresmedia, que sugiere el 26 de noviembre) y el de portavoces de RTVE del 23 de noviembre, con Ester Muñoz. El PSOE asegura que participará en todos los debates; las fechas aún no están cerradas.",
-      "lectura": "Ambos partidos dicen aceptar los debates, pero no hay fechas acordadas. Nivel B. Ampliado el 9-10: la versión anterior decía que no constaba respuesta del PSOE.",
-      "actores": [
-        {
-          "id": "PP",
-          "impacto": 0
-        },
-        {
-          "id": "PSOE",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.20minutos.es/nacional/feijoo-acepta-debate-cara-cara-con-sanchez-mediaset-plantea-celebrarlo-16-noviembre_7046924_0.html",
-        "https://www.eldiario.es/politica/pp-plantea-cara-cara-feijoo-sanchez-debate-cuatro-portavoces-29n_1_13574252.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-09",
-      "titulo": "Pedraz rechaza «en este momento» imputar al PSOE en el caso Leire Díez",
-      "que": "El juez de la Audiencia Nacional Santiago Pedraz rechaza por ahora imputar al PSOE, como pedía el PP. Anticorrupción ve indicios pero considera prematura la imputación hasta practicar diligencias pendientes, entre ellas la declaración de Santos Cerdán.",
-      "lectura": "Decisión provisional, no un archivo: la causa sigue abierta y no hay sentencia. Nivel B (prensa sobre resolución judicial).",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 0
-        },
-        {
-          "id": "PP",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.eldiario.es/politica/juez-pedraz-rechaza-imputar-momento-psoe-caso-leire-diez_1_13574529.html",
-        "https://elpais.com/espana/2026-10-09/el-juez-pedraz-rechaza-imputar-por-ahora-al-psoe-en-el-caso-leire-diez-como-pedia-el-pp.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-09",
-      "titulo": "Sánchez, en elDiario.es: 'no descarto' indultar al exfiscal general antes del 29-N",
-      "que": "En su primera entrevista tras convocar elecciones, Sánchez dijo que 'no descarta' el indulto al exfiscal general Álvaro García Ortiz: el Gobierno estudia qué medidas pendientes puede aprobar en la Diputación Permanente o por decreto. Atribuyó las críticas al voto por correo al 'miedo a perder' e 'intento de recortar el derecho al voto', defendió que el Parlamento 'se parezca a la calle' y se comprometió a que 'no se produzca ningún desahucio' en lo que queda de legislatura.",
-      "lectura": "Compromisos y declaraciones de campaña, no medidas aprobadas; un indulto sería una decisión del Gobierno. Nivel B (entrevista).",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.eldiario.es/politica/frases-entrevista-pedro-sanchez-bulo-voto-correo-miedo-perder_1_13570028.html",
-        "https://www.elespanol.com/espana/politica/20261009/sanchez-dice-hora-parlamento-parezca-calle-no-descarta-indultar-fiscal-general/1003744414548_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-09",
-      "titulo": "El PSOE de Asturias: Adriana Lastra, número uno al Congreso",
-      "que": "La Ejecutiva de la FSA-PSOE ha decidido, de acuerdo con la dirección federal, que la delegada del Gobierno en Asturias, Adriana Lastra, sea la número uno de la candidatura al Congreso por Asturias el 29-N. El resto de la lista, tras primarias en los próximos días.",
-      "lectura": "Dato de listas del PSOE; sin efecto en el voto medido. Nivel B.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/08/6ac7dbc1e9cf4a916b8b4597.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "La Abogacía del Estado pide al Supremo que levante la suspensión del voto de la 'ley de nietos'",
-      "que": "En su escrito de alegaciones, la Abogacía del Estado dice que es 'materialmente imposible' distinguir en el CERA, antes del 29-N, a los nacionalizados por la 'ley de nietos' de los demás: 'o se suspende a todos los inscritos o a ninguno'. Pide levantar la cautelar y que puedan votar todos. ABC cita 168.896 electores afectados por la medida. El Supremo aún no ha resuelto; acusa a Vox de buscar eliminar el voto del exilio.",
-      "lectura": "Decide quién vota desde el exterior el 29-N; el efecto en escaños no está medido. El Gobierno defiende su posición como parte. Nivel B.",
-      "actores": [
-        {
-          "id": "VOX",
-          "impacto": 0
-        },
-        {
-          "id": "PSOE",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/nacional/noticia-gobierno-ve-imposible-separar-nacionalizados-ley-nietos-otros-motivos-antes-elecciones-20261008203522.html",
-        "https://www.abc.es/espana/gobierno-pide-supremo-permita-voto-ley-nietos-20261008205817-nt.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "ERC: Rufián no confirma su candidatura y la dirección le presiona con un alternativo",
-      "que": "Gabriel Rufián dijo en X que quiere representar a ERC 'acompañado de otras fuerzas de izquierdas y antifascistas' y que 'lo intentará hasta el final', con unas 'mínimas condiciones'; no ha confirmado que repita. Junqueras y la dirección apoyan que sea él, pero, según ABC (que cita a El Periódico), Jordi Albert recoge avales para postularse. Varios diputados de ERC han anunciado que no repiten.",
-      "lectura": "La candidatura de ERC por Barcelona sigue sin cerrar; las primarias están previstas el 17-10. Nivel B.",
-      "actores": [
-        {
-          "id": "ERC",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/catalunya/noticia-rufian-afirma-quiere-representar-erc-acompanado-otras-fuerzas-intentare-final-20261008190904.html",
-        "https://www.abc.es/espana/cataluna/junqueras-presiona-rufian-aireando-candidato-alternativo-29n-20261008185017-nt.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "David Sánchez recurre su condena: pide la absolución por 'investigación prospectiva'",
-      "que": "La defensa del hermano de Pedro Sánchez presentó un recurso de apelación de 104 páginas contra la sentencia de la Audiencia Provincial de Badajoz que lo condena a nueve años de inhabilitación como cooperador necesario de prevaricación. Pide su absolución por vulneración de derechos fundamentales y por no cumplirse los elementos del delito. La sentencia no es firme.",
-      "lectura": "El recurso es el paso procesal normal; hasta que se resuelva, la condena no es firme. Nivel B.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/extremadura/noticia-hermano-pedro-sanchez-presenta-recurso-apelacion-investigacion-prospectiva-pide-absolucion-20261008174049.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "El BOE fija las subvenciones electorales: 21.167,64 € por escaño y 0,81 € por voto",
-      "que": "La Orden HAC/1062/2026 (BOE núm. 250, 8-10) fija las subvenciones por gastos de actividades electorales para el 29-N: 21.167,64 euros por cada escaño obtenido en el Congreso o el Senado, 0,81 euros por voto a candidaturas al Congreso con al menos un diputado, y 0,32 euros por voto a candidatos con escaño en el Senado. También recoge el límite de gastos electorales (0,37 euros por habitante).",
-      "lectura": "Dato oficial, sin efecto en el voto: marca la financiación pública de los partidos tras el 29-N. Nivel A.",
-      "actores": [],
-      "src": [
-        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20962"
-      ]
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "Montero: Podemos mantiene las primarias del 14-15 de octubre pese a Colau",
-      "que": "Irene Montero (Podemos) dijo en TVE que su posición no cambia con la posible candidatura de Colau: 'la única forma de llegar a acuerdos son las primarias y los días 14 y 15 de octubre habrá primarias'. IU (Maíllo) vuelve a tender la mano a Podemos; Colau dice que solo liderará una lista que lo incluya.",
-      "lectura": "Dos condiciones cruzadas (unidad con Podemos / primarias) a ocho días del cierre del registro de coaliciones (16-10). Nivel B.",
-      "actores": [
-        {
-          "id": "PODEMOS",
-          "impacto": 0
-        },
-        {
-          "id": "SUMAR",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/nacional/noticia-via-ada-colau-no-altera-paso-podemos-irene-montero-proclama-solo-cabe-acuerdo-si-hay-primarias-20261008142154.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "El Supremo anula el decreto del Gobierno sobre universidades privadas por la urgencia de su tramitación",
-      "que": "La Sala de lo Contencioso-Administrativo del Supremo ha anulado el real decreto de hace un año que endurecía los requisitos para crear universidades, al estimar el recurso de Baleares: la tramitación urgente 'no está debidamente justificada' (se acortaron plazos y se omitió la consulta pública). No entra en el fondo de la norma.",
-      "lectura": "Anula por defecto de forma, no por el contenido. Nivel B.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": -1
-        }
-      ],
-      "src": [
-        "https://www.20minutos.es/nacional/supremo-anula-decreto-gobierno-que-ponia-coto-creacion-universidades-privadas_7046556_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "Junts: Míriam Nogueras repetirá como cabeza de lista por Barcelona",
-      "que": "Junts ha informado de que Míriam Nogueras será de nuevo su candidata por Barcelona: al cerrarse el plazo de precandidaturas no se presentó nadie más. Marta Madrenas (Girona), Isidre Gavín (Lleida) y Josep Maria Cruset (Tarragona) serán también cabezas de lista, todos diputados actuales. ABC recoge que sectores del partido quieren a Puigdemont de candidato, sin confirmar.",
-      "lectura": "Continuidad en Junts, tras la amnistía y el veto de Turull a investir a Sánchez. Nivel B.",
-      "actores": [
-        {
-          "id": "JUNTS",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.abc.es/espana/cataluna/nogueras-repitira-cabeza-lista-junts-elecciones-noviembre-20261008132538-nt.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "La jueza Biedma declara ante Pedraz que se sintió seguida, sin que influyera en su causa",
-      "que": "Beatriz Biedma, la jueza que instruyó la causa contra David Sánchez, declaró como perjudicada ante el juez de las 'cloacas' que se sintió angustiada por posibles seguimientos (según fuentes jurídicas citadas por ABC, preguntaron por ella en el colegio de sus hijas), pero que no se sintió amenazada y que no alteró su instrucción. Atribuirlo a las 'cloacas' es una hipótesis que investiga el juez; no hay sentencia.",
-      "lectura": "La causa de las 'cloacas' sigue añadiendo declaraciones durante la precampaña; nadie es culpable sin sentencia. Nivel B (fuentes jurídicas).",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.abc.es/espana/jueza-biedma-dice-sintio-angustiada-perseguida-cloacas-20261008122158-nt.html",
-        "https://www.eldiario.es/politica/jueza-biedma-declara-pedraz-sintio-temor-no-le-influyo-resoluciones-david-sanchez_1_13571505.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "Un estudio del CIS de junio sobre vivienda se publica ahora: 87 % preocupado, 76 % pide intervenir",
-      "que": "Según El Mundo, un estudio del CIS hecho en junio que el Ministerio de Vivienda ha pedido publicar ahora recoge que el 87 % de los españoles dice estar preocupado por la vivienda y el 76 % aboga por que el Estado intervenga el mercado. Las medidas más apoyadas: bajar impuestos a la compra de la primera vivienda, dar garantías a los caseros frente a impagos y sacar al mercado suelo urbanizable. La oposición cuestiona el momento de la publicación (El Español).",
-      "lectura": "Dato oficial del CIS (junio) citado por prensa, no leído en el CIS. Confirma la vivienda como primera preocupación; el momento de la publicación es motivo de debate. Nivel B hasta contrastar con el CIS.",
-      "actores": [],
-      "src": [
-        "https://www.elmundo.es/espana/2026/10/08/6ac7715121efa039388b457b.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "Anticorrupción ve indicios contra el PSOE en el caso Leire, pero ve prematura su imputación",
-      "que": "Según fuentes jurídicas citadas por Europa Press y elDiario.es, la Fiscalía Anticorrupción ha informado al juez Pedraz de que ve indicios contra el PSOE en el 'caso Leire Díez', pero que la imputación del partido que pide el PP es prematura: antes deben practicarse diligencias pendientes, como la declaración de Santos Cerdán. Decide el juez; el PSOE no está imputado.",
-      "lectura": "El informe no pide imputar ahora, pero tampoco lo descarta; el trámite sigue abierto y puede alargarse más allá del 13-N. Nivel B (fuentes jurídicas, informe no publicado).",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": -1
-        },
-        {
-          "id": "PP",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/nacional/noticia-anticorrupcion-ve-indicios-contra-psoe-caso-leire-diez-considera-imputacion-prematura-20261008111339.html",
-        "https://www.eldiario.es/politica/fiscalia-anticorrupcion-opone-prematura-peticion-pp-imputar-psoe-caso-leire_1_13571361.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "Colau: solo liderará el Frente Amplio con una lista que incluya a Podemos",
-      "que": "Ada Colau dijo en TVE y la SER que solo aceptará liderar el Frente Amplio si la candidatura reúne a toda la izquierda en una única papeleta, incluida Podemos, a la que invita a una mesa conjunta de negociación. IU la considera una buena candidata; los Comuns dicen que no hay nada cerrado y Movimiento Sumar pide discreción.",
-      "lectura": "Condiciona su candidatura a la unidad con Podemos, que insiste en primarias; sigue sin acuerdo a ocho días del cierre de coaliciones. Nivel B.",
-      "actores": [
-        {
-          "id": "SUMAR",
-          "impacto": 0
-        },
-        {
-          "id": "PODEMOS",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/nacional/noticia-colau-dice-aceptara-liderar-frente-amplio-si-auna-sola-papeleta-todas-izquierdas-20261008095748.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "Feijóo nombra a Tellado director de campaña del PP",
-      "que": "Feijóo ha encargado a Miguel Tellado la dirección de campaña del PP para el 29-N; Marta Varela será directora adjunta, Ester Muñoz portavoz de campaña y Alma Ezcurra responsable del programa electoral. Lo trasladará a la Junta Directiva del PP este jueves en Madrid.",
-      "lectura": "Equipo de campaña confirmado; la responsable del programa es Ezcurra, así que el programa del PP aún no está publicado. Nivel B (fuentes del PP).",
-      "actores": [
-        {
-          "id": "PP",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/nacional/noticia-feijoo-nombra-director-campana-miguel-tellado-ya-dirigio-dos-ultimas-galicia-20261008081916.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "Pedraz decidirá sobre imputar al PSOE antes del 13 de noviembre",
-      "que": "Según ABC y fuentes jurídicas, el juez de la Audiencia Nacional Santiago Pedraz decidirá si imputa al PSOE como persona jurídica antes del inicio de la campaña (13-N), tras el informe de la Fiscalía Anticorrupción sobre la petición del PP, que Anticorrupción tenía previsto entregar como máximo este jueves. El PSOE no está imputado.",
-      "lectura": "Fija un plazo para un trámite que ya estaba abierto; el resultado puede ser no imputar. Una sola fuente (ABC). Nivel B.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": -1
-        },
-        {
-          "id": "PP",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.abc.es/espana/juez-decidira-sobre-imputacion-psoe-campana-20261008012316-nt.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "Sánchez y Feijóo trasladan el pésame por Maricarmen",
-      "que": "Sánchez escribió en X que 'sentimos esta pérdida como propia'. Feijóo pidió 'respeto' y que no haya 'campaña, ni partidos, ni utilización interesada' del caso, y dio el pésame a la familia. El Sindicato de Inquilinas dijo que el acuerdo para que volviera a su casa (nuevo contrato de ocho años, renta de hasta el 30 % de sus ingresos) llegó 'demasiado tarde'.",
-      "lectura": "Ambos líderes evitan atacar al otro con el caso; la vivienda sigue en el centro de la campaña. Nivel B.",
-      "actores": [],
-      "src": [
-        "https://www.europapress.es/nacional/noticia-sanchez-traslada-pesame-muerte-maricarmen-abascal-sentimos-perdida-propia-20261007212150.html",
-        "https://www.europapress.es/sociedad/noticia-feijoo-asegura-solo-cabe-respeto-muerte-maricarmen-campana-partidos-utilizacion-interesada-20261007233244.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "La propuesta de Más Madrid abre la primera bronca en el Frente Amplio",
-      "que": "Según 20minutos, la propuesta unilateral de Más Madrid de que Colau sea candidata a la Presidencia y de encabezar las listas en Madrid ha molestado a Movimiento Sumar, IU y Comuns. Podemos insiste en las primarias abiertas; quedan unos ocho días para cerrar coaliciones (16-10).",
-      "lectura": "La unidad de la izquierda sigue sin cerrarse. Nivel B (una sola fuente).",
-      "actores": [
-        {
-          "id": "SUMAR",
-          "impacto": -1
-        },
-        {
-          "id": "PODEMOS",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.20minutos.es/nacional/reparto-poder-entre-mas-madrid-colau-solivianta-resto-frente-amplio-mientras-podemos-insiste-ir-primarias_7046217_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-07",
-      "titulo": "Muere Maricarmen, la mujer de 87 años desahuciada en Madrid",
-      "que": "Maricarmen Abascal, de 87 años, desahuciada el 23 de septiembre del piso de alquiler de Retiro (Madrid) donde vivió 71 años, ha muerto tras quince días hospitalizada, según el comunicado del Sindicato de Inquilinas. Su caso avivó las protestas por la vivienda, la acampada de Sol y los dos decretos que el Congreso tumbó. El Sindicato dijo que se había logrado un acuerdo que le habría permitido volver, pero 'ha llegado demasiado tarde'.",
-      "lectura": "Hecho humano más que político: refuerza la vivienda como asunto central de la campaña. No se atribuye responsabilidad a nadie. Nivel B.",
-      "actores": [],
-      "src": [
-        "https://www.20minutos.es/nacional/muere-maricarmen-directo-sindicato-inquilinas-debate-vivienda-esta-centro-pero-coste-ha-sido-muy-alto_7046275_6.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-07",
-      "titulo": "El juez del caso Air Europa cita como testigo a la vicepresidenta Aagesen el 23 de noviembre",
-      "que": "El juez de Instrucción nº 49 de Madrid, que investiga por presunta prevaricación administrativa el rescate de Air Europa a través de la SEPI (querellas de PP, Vox y Manos Limpias), cita como testigos, entre otros, a Sara Aagesen, Pedro Saura, Manuel de la Rocha e Íñigo Errejón la semana previa a las elecciones; ABC fija el 23-N para Aagesen. El único querellado que figura en la providencia es Bartolomé Lora, vicepresidente de la SEPI. Los citados como testigos no están investigados.",
-      "lectura": "Una causa judicial coincide con la campaña. Ser testigo no implica ninguna responsabilidad. Nivel B.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.abc.es/espana/juez-investiga-rescate-air-europa-cita-vicepresidenta-20261007130026-nt.html",
-        "https://www.20minutos.es/nacional/juez-que-investiga-rescate-air-europa-cita-como-testigos-aagesen-guru-economico-sanchez-semana-29n_7045950_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-07",
-      "titulo": "Feijóo, desde Ceuta: nueva Ley de Extranjería y que se vayan los 15.000 irregulares",
-      "que": "En su primer acto de precampaña, en Ceuta, Feijóo prometió que su 'primer encargo' sería 'recuperar la normalidad' en la ciudad, lo que pasa según él por la salida de las 15.000 personas que entraron de forma irregular y siguen allí, e impulsar una nueva Ley de Extranjería que 'permita la devolución inmediata'. En otra noticia, 20minutos recoge que el PP prepara un plan contra el crimen organizado, con ocho ejes (más medios, unidades especializadas, endurecer el Código Penal).",
-      "lectura": "Anuncios de campaña, sin texto de programa ni coste. El PP los defiende como respuesta a la crisis de Ceuta de finales de julio. Nivel B.",
-      "actores": [
-        {
-          "id": "PP",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/nacional/noticia-feijoo-promete-ceuta-nueva-ley-extranjeria-devolver-irregulares-invasion-no-volvera-pasar-20261007142235.html",
-        "https://www.20minutos.es/nacional/pp-prepara-un-plan-contra-crimen-organizado-para-que-espana-vuelva-ser-un-pais-seguro_7045987_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-07",
-      "titulo": "Más Madrid propone a Ada Colau como candidata del Frente Amplio",
-      "que": "Más Madrid ha propuesto a las organizaciones del Frente Amplio que la exalcaldesa de Barcelona Ada Colau sea la candidata a la Presidencia del Gobierno y encabece la lista por Barcelona, en una 'candidatura coral' con criterio territorial. Es una propuesta de uno de los cuatro socios: IU, Comuns y Movimiento Sumar no han respondido en la noticia.",
-      "lectura": "Primer nombre concreto desde un socio del Frente Amplio; la decisión sigue abierta y Podemos pide primarias. Nivel B.",
-      "actores": [
-        {
-          "id": "SUMAR",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/nacional/noticia-mas-madrid-propone-ada-colau-sea-candidata-frente-amplio-29n-encabece-lista-barcelona-20261007161814.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-07",
-      "titulo": "La Diputación Permanente se reúne el 16 de octubre, sin los decretos de vivienda en el orden del día",
-      "que": "Según El Mundo, la Diputación Permanente del Congreso tendrá su primera reunión el viernes 16 de octubre y el orden del día aprobado no incluye la convalidación de los dos decretos de vivienda. El plazo para convalidarlos termina el sábado 14 de noviembre, ya en campaña. El PP dice que Sánchez la usará como 'plataforma electoral'.",
-      "lectura": "El Gobierno no ha llevado aún los decretos al órgano que debe convalidarlos; hay margen hasta el 14-N. Nivel B (una sola fuente).",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 0
-        },
-        {
-          "id": "PP",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/07/6ac633b421efa0b7728b4593.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-07",
-      "titulo": "Feijóo pedirá a la JEC más garantías para el voto por correo",
-      "que": "Desde Ceuta, Feijóo anunció que el PP propondrá a la Junta Electoral Central 'algunas medidas adicionales' para 'incrementar la garantía' del voto por correo, sin concretarlas: 'confío en los carteros y los empleados públicos, pero no en los directivos de Correos'. No presentó pruebas de irregularidades en la noticia.",
-      "lectura": "Pone el voto por correo en la agenda; el sistema funciona con control de la JEC y no hay irregularidades acreditadas en la fuente. Nivel B.",
-      "actores": [
-        {
-          "id": "PP",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/nacional/noticia-feijoo-pedira-jec-medidas-dar-mas-garantias-voto-correo-no-confio-directivos-correos-20261007150427.html",
-        "https://www.20minutos.es/nacional/feijoo-pedira-jec-incrementar-garantia-voto-por-correo-confio-los-empleados-no-los-directivos_7046017_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-07",
-      "titulo": "La huelga general por la vivienda será el 11 de noviembre",
-      "que": "El secretario general de UGT, Pepe Álvarez, confirmó en RTVE que la huelga general se celebrará el miércoles 11 de noviembre, la fecha propuesta por la Confederación de Sindicatos de Inquilinas, dos días antes del inicio de la campaña. Bolaños (Gobierno) dio el visto bueno a la fecha: 'no es campaña electoral y la han elegido los sindicatos'.",
-      "lectura": "Pone la vivienda en la agenda dos días antes de la campaña. Cómo se interprete (contra el Gobierno o contra la oposición) es disputa política. Nivel B.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 0
-        },
-        {
-          "id": "PP",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.20minutos.es/nacional/los-sindicatos-inquilinas-proponen-11-noviembre-para-celebrar-huelga-general-por-vivienda_7045934_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-07",
-      "titulo": "Turull (Junts): 'No investiremos a Sánchez'",
-      "que": "El secretario general de Junts, Jordi Turull, dijo en TV3 que sus diputados no volverán a investir a Pedro Sánchez: 'hemos salido escaldados con esta persona'. Acusa al presidente de incumplir el acuerdo de Bruselas.",
-      "lectura": "Primer veto público de un socio clave a una nueva investidura, dado tras el aval del TC a la amnistía; es una promesa de campaña, no un voto. Nivel B.",
-      "actores": [
-        {
-          "id": "JUNTS",
-          "impacto": 0
-        },
-        {
-          "id": "PSOE",
-          "impacto": -1
-        }
-      ],
-      "src": [
-        "https://www.abc.es/espana/cataluna/turull-junts-investiremos-sanchez-salido-escaldados-persona-20261007111906-nt.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-07",
-      "titulo": "Mediaset propone un cara a cara Sánchez-Feijóo",
-      "que": "Mediaset España ha propuesto a PSOE y PP un debate cara a cara entre Sánchez y Feijóo, moderado por Carlos Franganillo y Alba Lago, en Telecinco y Cuatro; fecha por determinar. Ni PSOE ni PP han respondido en la noticia. En 2023 el grupo no organizó ningún debate.",
-      "lectura": "Propuesta de un medio, sin aceptar; no hay debate acordado. Nivel B.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 0
-        },
-        {
-          "id": "PP",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/sociedad/noticia-mediaset-propone-cara-cara-sanchez-feijoo-presentado-carlos-franganillo-alba-lago-20261007133515.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-07",
-      "titulo": "Bolaños: la amnistía se pactó para sumar los 176 votos y para la 'normalización' en Cataluña",
-      "que": "El ministro Félix Bolaños dijo en la SER que la Ley de Amnistía se pactó con ERC, Junts y otros grupos 'para sumar la mayoría de 176 votos que necesitábamos' tras el 23J, y también para la 'normalización política' en Cataluña. Añadió que Puigdemont 'podría regresar hoy si quisiera' y que PP y Vox sacaron a la calle a miles de personas 'con mentiras' al decir que era inconstitucional.",
-      "lectura": "Confirma el vínculo entre la amnistía y la investidura, el argumento central del PP; el Gobierno lo enmarca como convivencia, avalada por el TC. Nivel B (declaración de un ministro).",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 0
-        },
-        {
-          "id": "PP",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/nacional/noticia-bolanos-admite-pacto-amnistia-sumar-176-votos-tambien-normalizacion-cataluna-20261007102526.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-07",
-      "titulo": "IU convoca de urgencia a su Coordinadora y el Frente Amplio promete candidato esta semana",
-      "que": "Izquierda Unida reúne hoy a su Coordinadora Federal para adaptar su calendario de primarias al 29-N; su coordinador, Antonio Maíllo, dice que IU defenderá 'sin complejos ni límites' sus propuestas sobre el cabeza de lista del Frente Amplio. Según Europa Press, los cuatro partidos (IU, Más Madrid, Comuns y Movimiento Sumar) aceleran y varios dirigentes esperan decidir en los próximos días. Suenan Mónica García y Ada Colau; Bustinduy se ha autodescartado. Aún no hay candidato.",
-      "lectura": "El nombre puede adelantarse al 17-10 previsto, pero nada está decidido. Nivel B.",
-      "actores": [
-        {
-          "id": "SUMAR",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/nacional/noticia-iu-proclama-jugara-papel-eleccion-candidato-frente-amplio-defendera-propuestas-complejos-20261007110015.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-07",
-      "titulo": "PP y PSOE abren la precampaña el sábado: Feijóo en Ifema, Sánchez en Dos Hermanas",
-      "que": "El PP ha convocado su primer acto de precampaña el sábado en el recinto de Ifema (Madrid), con Isabel Díaz Ayuso y José Luis Martínez-Almeida. El PSOE ya dijo que Sánchez abrirá la suya en Dos Hermanas (Sevilla).",
-      "lectura": "Calendario de actos, sin efecto en el voto. Nivel B.",
-      "actores": [
-        {
-          "id": "PP",
-          "impacto": 0
-        },
-        {
-          "id": "PSOE",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/nacional/noticia-pp-avanza-mitin-feijoo-ayuso-sabado-madrid-reta-sanchez-ir-zapatero-suyo-sevilla-20261007090946.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-07",
-      "titulo": "El BOE publica los dos decretos-ley de vivienda (28/2026 y 29/2026)",
-      "que": "El BOE del 7 de octubre (núm. 249) publica el Real Decreto-ley 28/2026, sobre la estabilidad de los contratos de arrendamiento de vivienda habitual, y el 29/2026, sobre la función social de la vivienda y la oferta de vivienda asequible. El segundo incluye una prórroga extraordinaria de contratos y una limitación extraordinaria de la actualización anual de la renta (disposiciones finales quinta y sexta). Entran en vigor con la publicación y deben convalidarse en la Diputación Permanente en un máximo de 30 días.",
-      "lectura": "Convierte el pulso de la vivienda en norma vigente en plena precampaña; su convalidación depende de la Diputación Permanente: el PNV ha anunciado que apoyará el 29/2026 (el decreto principal: fondos y grandes tenedores, protección de pequeños propietarios e inquilinos) y votará en contra del 28/2026 (prórroga de los contratos de alquiler). Nivel A para el texto; la lectura, C. Corregido el 9-10: la versión anterior asignaba el apoyo del PNV al decreto equivocado.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 1
-        }
-      ],
-      "src": [
-        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20822",
-        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20823"
-      ]
-    },
-    {
-      "fecha": "2026-10-06",
-      "titulo": "El Supremo aplaza hasta el jueves su decisión sobre el voto de los 'nietos'",
-      "que": "La Sala de lo Contencioso del Supremo da 48 horas 'improrrogables' (hasta las 15:00 del jueves 8) para que las partes aleguen antes de decidir sobre el recurso de la Abogacía del Estado contra la suspensión cautelar de las inscripciones en el CERA de los nacionalizados por la 'ley de nietos' (unos 400.000 beneficiarios, según la estimación citada). Mientras tanto, la suspensión cautelar sigue. Vox pide ampliarla a los descendientes de exiliados.",
-      "lectura": "Decide cuántos votantes del exterior pueden votar el 29-N; el efecto en escaños no está medido. Nivel B.",
-      "actores": [
-        {
-          "id": "VOX",
-          "impacto": 0
-        },
-        {
-          "id": "PSOE",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.20minutos.es/nacional/supremo-aplaza-su-decision-sobre-voto-los-400-000-nacionalizados-con-ley-nietos-las-elecciones-29-n_7045576_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-06",
-      "titulo": "El PNV votará a favor del decreto principal de vivienda y en contra del de alquileres",
-      "que": "El PNV ha anunciado que en la Diputación Permanente apoyará el primer decreto de vivienda (el que protege a pequeños propietarios e inquilinos y limita compras de vivienda) y votará en contra del segundo, el de prórroga indefinida de alquileres, como el pasado viernes en el Pleno. Dice que las medidas son 'un parche'.",
-      "lectura": "Con su voto, el primer decreto puede convalidarse; el de alquileres, no tiene asegurada la mayoría. Nivel B.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 1
-        },
-        {
-          "id": "PNV",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.20minutos.es/nacional/pnv-votara-favor-primer-decreto-vivienda-contra-segundo-prorroga-indefinida-alquileres_7045628_0.html",
-        "https://elpais.com/espana/2026-10-06/el-pnv-volvera-a-apoyar-el-decreto-principal-de-vivienda.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-06",
-      "titulo": "Podemos abre la puerta a una lista única con el Frente Amplio, ratificada en primarias",
-      "que": "Podemos se muestra por primera vez abierto a pactar con el Frente Amplio el reparto de candidaturas, siempre que la ciudadanía las avale en un proceso abierto. El Frente Amplio sigue negociando el nombre de su líder y dice no querer 'un debate en los medios'. El registro de coaliciones cierra el 16 de octubre.",
-      "lectura": "Acerca posturas, pero quedan diez días y sin acuerdo sobre el método. Nivel C.",
-      "actores": [
-        {
-          "id": "PODEMOS",
-          "impacto": 0
-        },
-        {
-          "id": "SUMAR",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.eldiario.es/politica/abre-puerta-pactar-lista-unica-frente-amplio-despues-ratificarla-primarias_1_13566962.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-06",
-      "titulo": "El PP denuncia a Sánchez ante la Junta Electoral por su comparecencia en la Moncloa",
-      "que": "El PP ha pedido a la Junta Electoral Central que abra un expediente sancionador a Sánchez por usar la Moncloa para 'dar un mitin del PSOE' tras el Consejo de Ministros, y que retire el material de la web de la Moncloa. Es una denuncia de parte: la JEC no ha resuelto.",
-      "lectura": "Primer choque ante la JEC de la precampaña. Sin resolución, no hay infracción declarada. Nivel B.",
-      "actores": [
-        {
-          "id": "PP",
-          "impacto": 0
-        },
-        {
-          "id": "PSOE",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.20minutos.es/nacional/pp-denuncia-ante-junta-electoral-mitin-sanchez-tras-consejo-ministros_7045675_0.html",
-        "https://www.europapress.es/nacional/noticia-pp-pide-junta-electoral-sancione-sanchez-utilizar-moncloa-dar-mitin-psoe-20261006183024.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-06",
-      "titulo": "El Constitucional avala amnistiar la malversación del 'procés'; el Supremo levantará la orden contra Puigdemont",
-      "que": "El Tribunal Constitucional ha avalado aplicar la amnistía al delito de malversación de dirigentes del 'procés' y ha ordenado al Tribunal Supremo aplicarla; el Supremo dejará sin efecto la orden de detención contra Puigdemont cuando reciba la sentencia. Sánchez lo defiende como 'convivencia entre catalanes'; Feijóo acata la decisión pero la llama 'otro engaño más' y pide castigarlo en las urnas.",
-      "lectura": "Da a Sánchez un argumento de 'convivencia' y a Feijóo uno de movilización contra la amnistía, el mismo día de la disolución. Para Junts es un logro, pero la política de pactos con el PSOE queda abierta tras el 29-N. Nivel B (declaraciones y fallo según prensa; sentencia pendiente de leer).",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 0
-        },
-        {
-          "id": "PP",
-          "impacto": 0
-        },
-        {
-          "id": "JUNTS",
-          "impacto": 1
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/nacional/noticia-sanchez-aval-amnistia-regreso-puigdemont-importante-convivencia-catalanes-20261006132700.html",
-        "https://www.europapress.es/nacional/noticia-feijoo-ve-amnistia-otro-engano-mas-sanchez-vender-favores-cambio-poder-debe-castigarse-urnas-20261006141229.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-06",
-      "titulo": "El PP pide a la Audiencia Nacional que impute al PSOE en el caso Leire Díez",
-      "que": "El PP ha solicitado al juez de la Audiencia Nacional que cite al PSOE como investigado en la causa sobre Leire Díez. Es una petición de parte: el juez no ha decidido y el PSOE no está imputado.",
-      "lectura": "Lleva la causa a la precampaña. Hasta que el juez decida, es una acusación de parte, sin efecto jurídico. Nivel B.",
-      "actores": [
-        {
-          "id": "PP",
-          "impacto": 0
-        },
-        {
-          "id": "PSOE",
-          "impacto": -1
-        }
-      ],
-      "src": [
-        "https://www.eldiario.es/politica/pp-pide-audiencia-nacional-imputacion-psoe-caso-leire-diez_1_13565841.html",
-        "https://www.20minutos.es/nacional/pp-pide-juez-imputacion-psoe-causa-las-cloacas-por-cinco-delitos-corrupcion_7045442_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-06",
-      "titulo": "Pedraz pide datos al PSOE y da traslado a Anticorrupción sobre la imputación del partido",
-      "que": "El juez de la Audiencia Nacional Santiago Pedraz ha pedido al PSOE información sobre la contratación de dos abogados vinculados a la causa de las 'cloacas' y ha dado traslado a la Fiscalía Anticorrupción del escrito del PP que reclama imputar al partido. Aún no hay decisión sobre la imputación; según fuentes judiciales citadas por 20minutos, es un escenario posible pero lejano.",
-      "lectura": "Es el paso del juez ante la petición de parte: pide informe a la Fiscalía y datos al partido. El PSOE no está imputado. Nivel B.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": -1
-        }
-      ],
-      "src": [
-        "https://www.20minutos.es/nacional/juez-pedraz-pide-psoe-datos-sobre-fichaje-los-abogados-las-cloacas-pregunta-fiscalia-si-debe-imputar-partido_7045545_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-06",
-      "titulo": "El Gobierno vuelve a aprobar los decretos de vivienda; irán a la Diputación Permanente",
-      "que": "El Consejo de Ministros ha aprobado de nuevo dos reales decretos-ley de vivienda (protección contra desahucios; renovación automática de alquileres) con gran parte de las medidas que decayeron el viernes al tumbarlos el Congreso. Entran en vigor con su publicación en el BOE y deben convalidarse en 30 días; esta vez los verá la Diputación Permanente, tras la disolución de las Cortes. Sánchez pide su voto a los grupos: 'una cuestión de humanidad'.",
-      "lectura": "Pone la vivienda en el centro de la campaña y el choque con el Congreso como argumento. Que se convaliden depende de la Diputación Permanente. Nivel B.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 1
-        }
-      ],
-      "src": [
-        "https://www.newtral.es/reales-decretos-vivienda-diputacion-permanente/20261006/",
-        "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/061026-sanchez-comparecencia-consejo-ministros.aspx"
-      ]
-    },
-    {
-      "fecha": "2026-10-06",
-      "titulo": "Huelga general por la vivienda: Inquilinas, CCOO y UGT, sin fecha",
-      "que": "El Sindicato de Inquilinas ha convocado una huelga general por la vivienda, a la que se han sumado CCOO y UGT; aún no tiene fecha. Montero, coordinadora estratégica del PSOE, dice que se dirige 'contra la oposición por derribar los decretos de vivienda'. Es la lectura del PSOE, no la de los convocantes.",
-      "lectura": "Sitúa la vivienda como eje de la campaña. El PSOE intenta que la protesta apunte a la oposición. Nivel B (hecho según El País, sin fecha; el encuadre es declaración de parte).",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://elpais.com/espana/elecciones-generales/2026-10-06/montero-la-huelga-general-se-convoca-contra-la-oposicion-por-derribar-los-decretos-de-vivienda.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-06",
-      "titulo": "Sumar abre la puerta a Podemos pero no acepta las primarias abiertas",
-      "que": "Verónica Barbero (portavoz de Sumar en el Congreso) dijo en RNE que el espacio está abierto a una candidatura conjunta con Podemos, pero que las primarias no son una línea roja ni el método de Frente Amplio: 'mejor acordar que competir'. Podemos pide primarias abiertas el 14-15 de octubre; el registro de coaliciones cierra el 16.",
-      "lectura": "Quedan diez días para registrar coaliciones sin acuerdo sobre cómo elegir al candidato. Si van por separado, se reparte el voto de la izquierda y el reparto de escaños depende de cada provincia. Nivel C.",
-      "actores": [
-        {
-          "id": "SUMAR",
-          "impacto": 0
-        },
-        {
-          "id": "PODEMOS",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.europapress.es/nacional/noticia-sumar-abre-puerta-podemos-aleja-peticion-primarias-mejor-acordar-competir-nosotros-20261006110305.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-06",
-      "titulo": "Montero coordina la campaña del PSOE y no será candidata al Congreso",
-      "que": "María Jesús Montero, secretaria general del PSOE-A, ha sido nombrada coordinadora estratégica de la campaña y ha negado ser candidata al Congreso: dejó el escaño en Madrid tras las elecciones andaluzas del 17 de mayo.",
-      "lectura": "Sánchez refuerza el mando de campaña con una dirigente andaluza; Andalucía es clave para sumar escaños. Dato de organización, no de voto. Nivel B.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.abc.es/espana/andalucia/maria-jesus-montero-candidata-congreso-20261006124637-nts.html",
-        "https://elpais.com/espana/elecciones-generales/2026-10-06/montero-la-huelga-general-se-convoca-contra-la-oposicion-por-derribar-los-decretos-de-vivienda.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-06",
-      "titulo": "El BOE publica el decreto: Madrid gana un escaño y Cádiz lo pierde",
-      "que": "Disolución de las Cortes y elecciones el 29-N, con 350 diputados. Según el anexo del Real Decreto 806/2026, de 5 de octubre (BOE-A-2026-20742), Madrid elige 38 diputados (uno más que en 2023) y Cádiz 8 (uno menos); las otras 50 circunscripciones no cambian. Parte de la prensa publicó que cambiaban cuatro escaños; el texto del BOE no lo confirma.",
-      "lectura": "Efecto mínimo: un escaño pasa de Cádiz a Madrid. Con los votos de 2023 no cambia el orden de los bloques. Nivel C.",
-      "actores": [
-        {
-          "id": "PP",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742",
-        "https://www.democrata.es/politica/el-boe-difunde-el-decreto-que-disuelve-las-cortes-y-fija-las-elecciones-para-el-29-de-noviembre/"
-      ]
-    },
-    {
-      "fecha": "2026-10-05",
-      "titulo": "Sánchez disuelve las Cortes y convoca el 29N",
-      "que": "Consejo de Ministros extraordinario; BOE el 6. Mensaje: mayoría 'más amplia y progresista' para 'doblegar a las élites'; vivienda como plebiscito ('V de vivienda o B de buitre').",
-      "lectura": "Convoca en su mejor momento relativo tras el caso Maricarmen y las manifestaciones, pero con la derecha por encima de 200 escaños en todas las encuestas privadas. Apuesta por absorber el voto de Sumar y Podemos y por movilizar con la vivienda.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 1
-        },
-        {
-          "id": "SUMAR",
-          "impacto": -1
-        },
-        {
-          "id": "JUNTS",
-          "impacto": -1
-        }
-      ],
-      "src": [
-        "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/051026-sanchez-convocatoria-elecciones.aspx"
-      ]
-    },
-    {
-      "fecha": "2026-10-05",
-      "titulo": "Alvise encabezará la lista de SALF por Madrid",
-      "que": "Deja el Parlamento Europeo; tiene seis causas abiertas en el Supremo.",
-      "lectura": "Compite por el mismo voto que Vox en Madrid; con 1,5-2,5 % no entra, pero puede restar un escaño a la derecha en provincias ajustadas.",
-      "actores": [
-        {
-          "id": "SALF",
-          "impacto": 0
-        },
-        {
-          "id": "VOX",
-          "impacto": -1
-        }
-      ],
-      "src": [
-        "https://www.eldebate.com/espana/20261005/alvise-sera-cabeza-lista-acabo-fiesta-madrid-elecciones-generales_466300.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-05",
-      "titulo": "Podemos exige primarias abiertas (14-15 oct) para ir con Frente Amplio",
-      "que": "Dos días antes de que Frente Amplio elija líder (17) y del cierre de coaliciones (16).",
-      "lectura": "Ultimátum difícil de aceptar para Sumar. Si van separados, el simulador estima entre 3 y 6 escaños perdidos para el bloque por D'Hondt.",
-      "actores": [
-        {
-          "id": "PODEMOS",
-          "impacto": 0
-        },
-        {
-          "id": "SUMAR",
-          "impacto": -1
-        },
-        {
-          "id": "PSOE",
-          "impacto": 1
-        }
-      ],
-      "src": [
-        "https://www.moncloa.com/2026/10/05/izquierda-psoe-sin-coalicion-29n-3442866/"
-      ]
-    },
-    {
-      "fecha": "2026-10-05",
-      "titulo": "Ayuso: 'que a nadie se le ocurra votar por correo'",
-      "que": "Declaración sin aportar pruebas de fraude; Abascal pide 'elecciones limpias'.",
-      "lectura": "Desincentivar el voto por correo perjudica sobre todo a quien lo pide (mayores, residentes fuera). Señal S7 y S13 del semáforo: sembrar dudas sobre el proceso sin base.",
-      "actores": [
-        {
-          "id": "PP",
-          "impacto": -1
-        },
-        {
-          "id": "VOX",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://vozpopuli.com/espana/adelanto-electoral-de-sanchez-en-directo-el-presidente-comparece-para-desvelar-si-adelanta-las-elecciones-tras-la-crisis-de-la-vivienda.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-03",
-      "titulo": "Feijóo presenta su plan de vivienda en La Toja",
-      "que": "Un millón de viviendas, ley del suelo, IVA al 4 % para jóvenes, 'Hucha Hogar Joven', avales del 100 %.",
-      "lectura": "Neutraliza por anticipado el eje de campaña del PSOE con una oferta de oferta (no de control de rentas). Falta la memoria económica.",
-      "actores": [
-        {
-          "id": "PP",
-          "impacto": 1
-        }
-      ],
-      "src": [
-        "https://www.eleconomista.es/economia/noticias/14018537/10/26/feijoo-convierte-la-vivienda-en-su-gran-arma-contra-sanchez-un-millon-de-pisos-y-rebajas-fiscales.html"
-      ]
-    },
-    {
-      "fecha": "2026-10-03",
-      "titulo": "Manifestaciones por la vivienda en más de 50 ciudades",
-      "que": "Madrid: 70.000 según el Gobierno, 500.000 según el Sindicato de Inquilinas.",
-      "lectura": "Movilización que el Gobierno intenta convertir en voto. La brecha entre cifras es en sí una señal de polarización.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": 1
-        },
-        {
-          "id": "SUMAR",
-          "impacto": 1
-        }
-      ],
-      "src": [
-        "https://elindependiente.com/espana/2026/10/04/gobierno-exito-movilizacion-antidesahucios-adelanto-electoral"
-      ]
-    },
-    {
-      "fecha": "2026-10-02",
-      "titulo": "El Congreso tumba los dos decretos de vivienda (178-172 y 184-166)",
-      "que": "PP, Vox, Junts y UPN en contra. El segundo decreto estuvo 16 horas en vigor.",
-      "lectura": "Detonante del adelanto. Junts asume el coste de votar con PP y Vox contra medidas que apoyan más de la mitad de sus votantes.",
-      "actores": [
-        {
-          "id": "JUNTS",
-          "impacto": -2
-        },
-        {
-          "id": "PSOE",
-          "impacto": 1
-        },
-        {
-          "id": "PP",
-          "impacto": 0
-        }
-      ],
-      "src": [
-        "https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/"
-      ]
-    },
-    {
-      "fecha": "2026-09-29",
-      "titulo": "IPC de septiembre: 4,9 %, máximo desde 2023",
-      "que": "Carburantes por la guerra de Irán; subyacente 3,1 %. Nuevo escudo anticrisis el mismo día.",
-      "lectura": "La inflación vuelve a ser argumento de campaña. Causa externa, pero erosiona el relato económico del Gobierno.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": -1
-        },
-        {
-          "id": "PP",
-          "impacto": 1
-        }
-      ],
-      "src": [
-        "https://www.ine.es/dyngs/Prensa/adIPC0926.htm"
-      ]
-    },
-    {
-      "fecha": "2026-09-22",
-      "titulo": "El TC aprueba (7-5) la ponencia que amnistiaría la malversación",
-      "que": "Pleno definitivo previsto la semana del 5 de octubre; Llarena mantiene la orden contra Puigdemont hasta entonces.",
-      "lectura": "Si Puigdemont vuelve en plena precampaña, Junts recupera relato y el PP activa el argumento de la amnistía.",
-      "actores": [
-        {
-          "id": "JUNTS",
-          "impacto": 1
-        },
-        {
-          "id": "PP",
-          "impacto": 1
-        },
-        {
-          "id": "PSOE",
-          "impacto": -1
-        }
-      ],
-      "src": [
-        "https://www.que.es/2026/10/05/amnistia-puigdemont-constitucional-supremo/"
-      ]
-    },
-    {
-      "fecha": "2026-09-21",
-      "titulo": "Begoña Gómez, a juicio con jurado",
-      "que": "Auto de apertura por tráfico de influencias y malversación; la Fiscalía pide la absolución.",
-      "lectura": "Sin fecha de juicio; el PP lo usará en campaña, el PSOE lo presentará como 'lawfare'.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": -1
-        }
-      ],
-      "src": [
-        "https://www.infobae.com/espana/2026/09/21/el-juez-peinado-envia-a-begona-gomez-a-juicio-ante-un-jurado-popular-en-la-audiencia-provincial-de-madrid-por-malversacion-y-trafico-de-influencias/"
-      ]
-    },
-    {
-      "fecha": "2026-09-14",
-      "titulo": "Abascal propone la 'remigración'",
-      "que": "Repatriar a quien delinca y 'remigrar' a quien 'no trabaje y viva de subsidios' (Mediaset Italia).",
-      "lectura": "Consolida el eje inmigración tras Ceuta y obliga al PP a posicionarse. Jurídicamente inviable para residentes legales y nacionalizados.",
-      "actores": [
-        {
-          "id": "VOX",
-          "impacto": 1
-        },
-        {
-          "id": "PP",
-          "impacto": -1
-        }
-      ],
-      "src": [
-        "https://www.infobae.com/espana/agencias/2026/09/14/abascal-plantea-procesos-de-repatriaciones-de-inmigrantes-que-delincan-y-de-remigracion-para-los-que-no-trabajan/"
-      ]
-    },
-    {
-      "fecha": "2026-07-30",
-      "titulo": "Crisis de Ceuta: más de 60.000 entradas en 48 horas",
-      "que": "67 muertos, 48.300 retornos a Marruecos; Italia suspende Schengen con España. Detonante: bulos sobre 'fronteras abiertas' tras la sentencia del Supremo sobre devoluciones en caliente.",
-      "lectura": "Punto de inflexión de la legislatura: la inmigración pasa a ser la primera preocupación y el PSOE marca mínimos en septiembre.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": -2
-        },
-        {
-          "id": "VOX",
-          "impacto": 2
-        },
-        {
-          "id": "PP",
-          "impacto": 1
-        }
-      ],
-      "src": [
-        "https://www.infobae.com/espana/2026/08/02/la-crisis-de-ceuta-en-cinco-claves-de-las-falsas-promesas-de-asilo-a-la-avalancha-de-60000-personas-y-el-papel-de-marruecos/"
-      ]
-    },
-    {
-      "fecha": "2026-06-22",
-      "titulo": "El Supremo condena a Ábalos a 24 años y 3 meses",
-      "que": "Sentencia unánime del caso mascarillas; Koldo García, 19 años y 8 meses.",
-      "lectura": "La condena más alta a un exministro en democracia. El PSOE lo presenta como caso individual; la pieza de financiación del partido sigue abierta.",
-      "actores": [
-        {
-          "id": "PSOE",
-          "impacto": -2
-        }
-      ],
-      "src": [
-        "https://www.infobae.com/espana/2026/06/22/el-supremo-condena-a-abalos-a-24-anos-de-carcel-por-mordidas-en-contratos-de-mascarillas-y-contratacion-irregular/"
-      ]
-    },
-    {
-      "fecha": "2025-11-06",
-      "titulo": "Junts rompe con el PSOE y anuncia bloqueo total",
-      "que": "87 % de la militancia a favor; enmiendas a la totalidad a 25 proyectos.",
-      "lectura": "Desde aquí el Gobierno pierde la mayoría legislativa; la legislatura entra en fase terminal.",
-      "actores": [
-        {
-          "id": "JUNTS",
-          "impacto": 0
-        },
-        {
-          "id": "PSOE",
-          "impacto": -1
-        }
-      ],
-      "src": [
-        "https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"
-      ]
+ "actualizado": "2026-10-09",
+ "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
+ "entradas": [
+  {
+   "fecha": "2026-10-10",
+   "titulo": "Primeros grandes actos de precampaña: Sánchez en Dos Hermanas y Feijóo en Madrid",
+   "que": "Sánchez abrió su precampaña en Dos Hermanas (Sevilla), con más de 5.000 asistentes según la organización: centró el mensaje en la vivienda, prometió reforzar los decretos de vivienda y criticó el discurso de PP y Vox sobre el voto por correo. Feijóo hizo su primer gran acto en Madrid con Ayuso y Almeida: propuso una «reconstrucción nacional», un Gobierno «que os pida sacrificio» y puso fin a «las falsas promesas en vivienda, a la asfixia fiscal».",
+   "lectura": "Promesas y mensajes de campaña, no medidas aprobadas ni programas publicados. Misma vara para ambos: se anota lo dicho, sin valorar su eficacia. Nivel B (prensa).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    },
+    {
+     "id": "PP",
+     "impacto": 0
     }
-  ]
+   ],
+   "src": [
+    "https://www.europapress.es/andalucia/noticia-sanchez-reivindica-perro-amo-pide-urnas-llenas-frente-miedo-pp-vox-voto-correo-29n-20261010133133.html",
+    "https://www.eldiario.es/politica/sanchez-acusa-derecha-enfrentar-pequenos-propietarios-e-inquilinos-no-miremos-aticazos-fondos-buitre_1_13577384.html",
+    "https://www.eldiario.es/politica/feijoo-promete-gobierno-pedira-sacrificios-ayuso-tilda-terroristas-acampados-sol_1_13577261.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-10",
+   "titulo": "EH Bildu y ERC reeditan su coalición para el Senado",
+   "que": "EH Bildu y ERC anuncian en un comunicado conjunto que repetirán la coalición con la que concurrieron al Senado en 2023, tras valorar su colaboración en la Cámara en esta legislatura. Ponen la vivienda en el centro de la candidatura y llaman a frenar al «bloque reaccionario». La reunión de ambas direcciones la lideraron Arnaldo Otegi y Oriol Junqueras.",
+   "lectura": "Acuerdo anunciado por los propios partidos, solo para el Senado; no afecta a las listas del Congreso. Nivel B (comunicado citado por la prensa).",
+   "actores": [
+    {
+     "id": "BILDU",
+     "impacto": 0
+    },
+    {
+     "id": "ERC",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.eldiario.es/politica/eh-bildu-erc-reeditan-coalicion-presentan-senado_1_13576976.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-10",
+   "titulo": "El Supremo decide «in extremis» si mantiene sin voto a los nacionalizados por la ley de nietos",
+   "que": "Según El País, la Sala de lo Contencioso del Supremo estudia si mantiene la suspensión del voto de los nacionalizados por la Ley de Memoria Democrática o, como piden la Abogacía del Estado y la Fiscalía, la levanta por ser imposible revisar el censo de residentes en el extranjero. Prevé decidir en las próximas horas; el censo debe quedar expuesto el 12 de octubre y fijarse el 23. Iustitia Europa pide además suspender las elecciones.",
+   "lectura": "Decisión judicial pendiente: aún no hay resolución. Nivel B (prensa sobre un procedimiento en curso).",
+   "actores": [],
+   "src": [
+    "https://elpais.com/espana/elecciones-generales/2026-10-10/el-supremo-decide-in-extremis-sobre-el-derecho-a-voto-de-los-descendientes-del-exilio-para-el-29-n.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-10",
+   "titulo": "Anticorrupción ve indicios de cohecho y tráfico de influencias en el PSOE, pero ve prematura su imputación",
+   "que": "Según El Mundo, el escrito de las fiscales de Anticorrupción sostiene que hay indicios de dos delitos, tráfico de influencias y cohecho, y descarta malversación, financiación ilegal y blanqueo. Atribuye a Santos Cerdán haber puesto la infraestructura del PSOE al servicio de la presunta trama de Leire Díez. Considera precipitado investigar ya al partido: faltan diligencias, como las declaraciones de Cerdán y de la gerente. El juez Pedraz ha rechazado por ahora la imputación.",
+   "lectura": "Son tesis de la Fiscalía, no hechos probados: el PSOE no está imputado y nadie ha sido condenado. Nivel B (prensa sobre un escrito de la Fiscalía).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.elmundo.es/espana/2026/10/10/6ac92eade85ece5a4d8b458f.html",
+    "https://www.elespanol.com/espana/tribunales/20261009/psoe-puso-disposicion-organizacion-criminal-leire-estructura-finanzas-dice-fiscalia/1003744414822_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-09",
+   "titulo": "El voto en el exterior crece en 444.335 electores, ligado a la 'ley de nietos'",
+   "que": "Según El Español, con fuentes del INE y EFE, el censo del 29-N suma unos 1,26 millones de electores más que en 2023. Hay 2.769.645 electores con pasaporte español residentes en el extranjero, 444.335 más, un aumento atribuido sobre todo a la 'ley de nietos'. El Supremo debe decidir si pueden votar los nacionalizados por esa ley, cuya inscripción ha suspendido cautelarmente hasta sentenciar los recursos de Iustitia Europa y Vox.",
+   "lectura": "Dato de censo y pleito pendiente: no hay decisión del Supremo todavía. Nivel B (prensa citando al INE; sin contrastar con el censo oficial).",
+   "actores": [],
+   "src": [
+    "https://www.elespanol.com/espana/20261009/censo-crece-millones-personas-exterior-espera-decision-tribunal-supremo/1003744415845_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-09",
+   "titulo": "El PSOE estudia listas conjuntas de izquierda al Senado en Baleares y Navarra",
+   "que": "El PSOE negocia candidaturas conjuntas de izquierda al Senado en Baleares y Navarra para evitar que el PP repita mayoría absoluta en la Cámara. En Baleares estudia ir con Més per Mallorca y otras formaciones, como en Ibiza en 2023; en Navarra, Geroa Bai propuso al PSN unirse, sin Bildu. Fuentes del socialismo navarro: «no hay nada cerrado aún».",
+   "lectura": "Gestiones en curso, sin acuerdo cerrado; los pactos los decide Ferraz. Nivel B (prensa con fuentes de partido).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.elespanol.com/espana/politica/20261009/psoe-estudia-candidaturas-conjuntas-izquierdas-senado-baleares-navarra/1003744414998_0.html",
+    "https://www.europapress.es/nacional/noticia-psoe-estudia-presentarse-senado-lista-conjunta-otras-formaciones-izquierda-evitar-mayoria-pp-20261009142726.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-09",
+   "titulo": "Censo para el 29-N: 38,7 millones de electores, 1,6 millones votarán por primera vez",
+   "que": "Según el INE, citado por elDiario.es, podrán votar 38.728.356 personas el 29-N; más de 1,6 millones han cumplido la mayoría de edad desde 2023. Más de 2,7 millones son electores residentes en el extranjero, que votarán sin solicitud previa. El censo podrá consultarse del 12 al 19 de octubre.",
+   "lectura": "Dato administrativo sin lectura partidista. Nivel B (prensa sobre cifra del INE; pendiente de contrastar con la fuente oficial).",
+   "actores": [],
+   "src": [
+    "https://www.eldiario.es/politica/38-millones-espanoles-podran-votar-29n-1-6-haran-primera-vez_1_13574606.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-09",
+   "titulo": "Feijóo acepta el cara a cara con Sánchez de Mediaset y propone el 16 de noviembre",
+   "que": "El PP acepta el cara a cara con Sánchez propuesto por Mediaset y plantea celebrarlo el lunes 16 de noviembre. También acepta un debate de candidatos de los principales partidos nacionales (propuesto por Atresmedia, que sugiere el 26 de noviembre) y el de portavoces de RTVE del 23 de noviembre, con Ester Muñoz. El PSOE asegura que participará en todos los debates; las fechas aún no están cerradas.",
+   "lectura": "Ambos partidos dicen aceptar los debates, pero no hay fechas acordadas. Nivel B. Ampliado el 9-10: la versión anterior decía que no constaba respuesta del PSOE.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/feijoo-acepta-debate-cara-cara-con-sanchez-mediaset-plantea-celebrarlo-16-noviembre_7046924_0.html",
+    "https://www.eldiario.es/politica/pp-plantea-cara-cara-feijoo-sanchez-debate-cuatro-portavoces-29n_1_13574252.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-09",
+   "titulo": "Pedraz rechaza «en este momento» imputar al PSOE en el caso Leire Díez",
+   "que": "El juez de la Audiencia Nacional Santiago Pedraz rechaza por ahora imputar al PSOE, como pedía el PP. Anticorrupción ve indicios pero considera prematura la imputación hasta practicar diligencias pendientes, entre ellas la declaración de Santos Cerdán.",
+   "lectura": "Decisión provisional, no un archivo: la causa sigue abierta y no hay sentencia. Nivel B (prensa sobre resolución judicial).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.eldiario.es/politica/juez-pedraz-rechaza-imputar-momento-psoe-caso-leire-diez_1_13574529.html",
+    "https://elpais.com/espana/2026-10-09/el-juez-pedraz-rechaza-imputar-por-ahora-al-psoe-en-el-caso-leire-diez-como-pedia-el-pp.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-09",
+   "titulo": "Sánchez, en elDiario.es: 'no descarto' indultar al exfiscal general antes del 29-N",
+   "que": "En su primera entrevista tras convocar elecciones, Sánchez dijo que 'no descarta' el indulto al exfiscal general Álvaro García Ortiz: el Gobierno estudia qué medidas pendientes puede aprobar en la Diputación Permanente o por decreto. Atribuyó las críticas al voto por correo al 'miedo a perder' e 'intento de recortar el derecho al voto', defendió que el Parlamento 'se parezca a la calle' y se comprometió a que 'no se produzca ningún desahucio' en lo que queda de legislatura.",
+   "lectura": "Compromisos y declaraciones de campaña, no medidas aprobadas; un indulto sería una decisión del Gobierno. Nivel B (entrevista).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.eldiario.es/politica/frases-entrevista-pedro-sanchez-bulo-voto-correo-miedo-perder_1_13570028.html",
+    "https://www.elespanol.com/espana/politica/20261009/sanchez-dice-hora-parlamento-parezca-calle-no-descarta-indultar-fiscal-general/1003744414548_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-09",
+   "titulo": "El PSOE de Asturias: Adriana Lastra, número uno al Congreso",
+   "que": "La Ejecutiva de la FSA-PSOE ha decidido, de acuerdo con la dirección federal, que la delegada del Gobierno en Asturias, Adriana Lastra, sea la número uno de la candidatura al Congreso por Asturias el 29-N. El resto de la lista, tras primarias en los próximos días.",
+   "lectura": "Dato de listas del PSOE; sin efecto en el voto medido. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/08/6ac7dbc1e9cf4a916b8b4597.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "La Abogacía del Estado pide al Supremo que levante la suspensión del voto de la 'ley de nietos'",
+   "que": "En su escrito de alegaciones, la Abogacía del Estado dice que es 'materialmente imposible' distinguir en el CERA, antes del 29-N, a los nacionalizados por la 'ley de nietos' de los demás: 'o se suspende a todos los inscritos o a ninguno'. Pide levantar la cautelar y que puedan votar todos. ABC cita 168.896 electores afectados por la medida. El Supremo aún no ha resuelto; acusa a Vox de buscar eliminar el voto del exilio.",
+   "lectura": "Decide quién vota desde el exterior el 29-N; el efecto en escaños no está medido. El Gobierno defiende su posición como parte. Nivel B.",
+   "actores": [
+    {
+     "id": "VOX",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-gobierno-ve-imposible-separar-nacionalizados-ley-nietos-otros-motivos-antes-elecciones-20261008203522.html",
+    "https://www.abc.es/espana/gobierno-pide-supremo-permita-voto-ley-nietos-20261008205817-nt.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "ERC: Rufián no confirma su candidatura y la dirección le presiona con un alternativo",
+   "que": "Gabriel Rufián dijo en X que quiere representar a ERC 'acompañado de otras fuerzas de izquierdas y antifascistas' y que 'lo intentará hasta el final', con unas 'mínimas condiciones'; no ha confirmado que repita. Junqueras y la dirección apoyan que sea él, pero, según ABC (que cita a El Periódico), Jordi Albert recoge avales para postularse. Varios diputados de ERC han anunciado que no repiten.",
+   "lectura": "La candidatura de ERC por Barcelona sigue sin cerrar; las primarias están previstas el 17-10. Nivel B.",
+   "actores": [
+    {
+     "id": "ERC",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/catalunya/noticia-rufian-afirma-quiere-representar-erc-acompanado-otras-fuerzas-intentare-final-20261008190904.html",
+    "https://www.abc.es/espana/cataluna/junqueras-presiona-rufian-aireando-candidato-alternativo-29n-20261008185017-nt.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "David Sánchez recurre su condena: pide la absolución por 'investigación prospectiva'",
+   "que": "La defensa del hermano de Pedro Sánchez presentó un recurso de apelación de 104 páginas contra la sentencia de la Audiencia Provincial de Badajoz que lo condena a nueve años de inhabilitación como cooperador necesario de prevaricación. Pide su absolución por vulneración de derechos fundamentales y por no cumplirse los elementos del delito. La sentencia no es firme.",
+   "lectura": "El recurso es el paso procesal normal; hasta que se resuelva, la condena no es firme. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/extremadura/noticia-hermano-pedro-sanchez-presenta-recurso-apelacion-investigacion-prospectiva-pide-absolucion-20261008174049.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "El BOE fija las subvenciones electorales: 21.167,64 € por escaño y 0,81 € por voto",
+   "que": "La Orden HAC/1062/2026 (BOE núm. 250, 8-10) fija las subvenciones por gastos de actividades electorales para el 29-N: 21.167,64 euros por cada escaño obtenido en el Congreso o el Senado, 0,81 euros por voto a candidaturas al Congreso con al menos un diputado, y 0,32 euros por voto a candidatos con escaño en el Senado. También recoge el límite de gastos electorales (0,37 euros por habitante).",
+   "lectura": "Dato oficial, sin efecto en el voto: marca la financiación pública de los partidos tras el 29-N. Nivel A.",
+   "actores": [],
+   "src": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20962"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "Montero: Podemos mantiene las primarias del 14-15 de octubre pese a Colau",
+   "que": "Irene Montero (Podemos) dijo en TVE que su posición no cambia con la posible candidatura de Colau: 'la única forma de llegar a acuerdos son las primarias y los días 14 y 15 de octubre habrá primarias'. IU (Maíllo) vuelve a tender la mano a Podemos; Colau dice que solo liderará una lista que lo incluya.",
+   "lectura": "Dos condiciones cruzadas (unidad con Podemos / primarias) a ocho días del cierre del registro de coaliciones (16-10). Nivel B.",
+   "actores": [
+    {
+     "id": "PODEMOS",
+     "impacto": 0
+    },
+    {
+     "id": "SUMAR",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-via-ada-colau-no-altera-paso-podemos-irene-montero-proclama-solo-cabe-acuerdo-si-hay-primarias-20261008142154.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "El Supremo anula el decreto del Gobierno sobre universidades privadas por la urgencia de su tramitación",
+   "que": "La Sala de lo Contencioso-Administrativo del Supremo ha anulado el real decreto de hace un año que endurecía los requisitos para crear universidades, al estimar el recurso de Baleares: la tramitación urgente 'no está debidamente justificada' (se acortaron plazos y se omitió la consulta pública). No entra en el fondo de la norma.",
+   "lectura": "Anula por defecto de forma, no por el contenido. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/supremo-anula-decreto-gobierno-que-ponia-coto-creacion-universidades-privadas_7046556_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "Junts: Míriam Nogueras repetirá como cabeza de lista por Barcelona",
+   "que": "Junts ha informado de que Míriam Nogueras será de nuevo su candidata por Barcelona: al cerrarse el plazo de precandidaturas no se presentó nadie más. Marta Madrenas (Girona), Isidre Gavín (Lleida) y Josep Maria Cruset (Tarragona) serán también cabezas de lista, todos diputados actuales. ABC recoge que sectores del partido quieren a Puigdemont de candidato, sin confirmar.",
+   "lectura": "Continuidad en Junts, tras la amnistía y el veto de Turull a investir a Sánchez. Nivel B.",
+   "actores": [
+    {
+     "id": "JUNTS",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.abc.es/espana/cataluna/nogueras-repitira-cabeza-lista-junts-elecciones-noviembre-20261008132538-nt.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "La jueza Biedma declara ante Pedraz que se sintió seguida, sin que influyera en su causa",
+   "que": "Beatriz Biedma, la jueza que instruyó la causa contra David Sánchez, declaró como perjudicada ante el juez de las 'cloacas' que se sintió angustiada por posibles seguimientos (según fuentes jurídicas citadas por ABC, preguntaron por ella en el colegio de sus hijas), pero que no se sintió amenazada y que no alteró su instrucción. Atribuirlo a las 'cloacas' es una hipótesis que investiga el juez; no hay sentencia.",
+   "lectura": "La causa de las 'cloacas' sigue añadiendo declaraciones durante la precampaña; nadie es culpable sin sentencia. Nivel B (fuentes jurídicas).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.abc.es/espana/jueza-biedma-dice-sintio-angustiada-perseguida-cloacas-20261008122158-nt.html",
+    "https://www.eldiario.es/politica/jueza-biedma-declara-pedraz-sintio-temor-no-le-influyo-resoluciones-david-sanchez_1_13571505.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "Un estudio del CIS de junio sobre vivienda se publica ahora: 87 % preocupado, 76 % pide intervenir",
+   "que": "Según El Mundo, un estudio del CIS hecho en junio que el Ministerio de Vivienda ha pedido publicar ahora recoge que el 87 % de los españoles dice estar preocupado por la vivienda y el 76 % aboga por que el Estado intervenga el mercado. Las medidas más apoyadas: bajar impuestos a la compra de la primera vivienda, dar garantías a los caseros frente a impagos y sacar al mercado suelo urbanizable. La oposición cuestiona el momento de la publicación (El Español).",
+   "lectura": "Dato oficial del CIS (junio) citado por prensa, no leído en el CIS. Confirma la vivienda como primera preocupación; el momento de la publicación es motivo de debate. Nivel B hasta contrastar con el CIS.",
+   "actores": [],
+   "src": [
+    "https://www.elmundo.es/espana/2026/10/08/6ac7715121efa039388b457b.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "Anticorrupción ve indicios contra el PSOE en el caso Leire, pero ve prematura su imputación",
+   "que": "Según fuentes jurídicas citadas por Europa Press y elDiario.es, la Fiscalía Anticorrupción ha informado al juez Pedraz de que ve indicios contra el PSOE en el 'caso Leire Díez', pero que la imputación del partido que pide el PP es prematura: antes deben practicarse diligencias pendientes, como la declaración de Santos Cerdán. Decide el juez; el PSOE no está imputado.",
+   "lectura": "El informe no pide imputar ahora, pero tampoco lo descarta; el trámite sigue abierto y puede alargarse más allá del 13-N. Nivel B (fuentes jurídicas, informe no publicado).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -1
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-anticorrupcion-ve-indicios-contra-psoe-caso-leire-diez-considera-imputacion-prematura-20261008111339.html",
+    "https://www.eldiario.es/politica/fiscalia-anticorrupcion-opone-prematura-peticion-pp-imputar-psoe-caso-leire_1_13571361.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "Colau: solo liderará el Frente Amplio con una lista que incluya a Podemos",
+   "que": "Ada Colau dijo en TVE y la SER que solo aceptará liderar el Frente Amplio si la candidatura reúne a toda la izquierda en una única papeleta, incluida Podemos, a la que invita a una mesa conjunta de negociación. IU la considera una buena candidata; los Comuns dicen que no hay nada cerrado y Movimiento Sumar pide discreción.",
+   "lectura": "Condiciona su candidatura a la unidad con Podemos, que insiste en primarias; sigue sin acuerdo a ocho días del cierre de coaliciones. Nivel B.",
+   "actores": [
+    {
+     "id": "SUMAR",
+     "impacto": 0
+    },
+    {
+     "id": "PODEMOS",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-colau-dice-aceptara-liderar-frente-amplio-si-auna-sola-papeleta-todas-izquierdas-20261008095748.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "Feijóo nombra a Tellado director de campaña del PP",
+   "que": "Feijóo ha encargado a Miguel Tellado la dirección de campaña del PP para el 29-N; Marta Varela será directora adjunta, Ester Muñoz portavoz de campaña y Alma Ezcurra responsable del programa electoral. Lo trasladará a la Junta Directiva del PP este jueves en Madrid.",
+   "lectura": "Equipo de campaña confirmado; la responsable del programa es Ezcurra, así que el programa del PP aún no está publicado. Nivel B (fuentes del PP).",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-feijoo-nombra-director-campana-miguel-tellado-ya-dirigio-dos-ultimas-galicia-20261008081916.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "Pedraz decidirá sobre imputar al PSOE antes del 13 de noviembre",
+   "que": "Según ABC y fuentes jurídicas, el juez de la Audiencia Nacional Santiago Pedraz decidirá si imputa al PSOE como persona jurídica antes del inicio de la campaña (13-N), tras el informe de la Fiscalía Anticorrupción sobre la petición del PP, que Anticorrupción tenía previsto entregar como máximo este jueves. El PSOE no está imputado.",
+   "lectura": "Fija un plazo para un trámite que ya estaba abierto; el resultado puede ser no imputar. Una sola fuente (ABC). Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -1
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.abc.es/espana/juez-decidira-sobre-imputacion-psoe-campana-20261008012316-nt.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "Sánchez y Feijóo trasladan el pésame por Maricarmen",
+   "que": "Sánchez escribió en X que 'sentimos esta pérdida como propia'. Feijóo pidió 'respeto' y que no haya 'campaña, ni partidos, ni utilización interesada' del caso, y dio el pésame a la familia. El Sindicato de Inquilinas dijo que el acuerdo para que volviera a su casa (nuevo contrato de ocho años, renta de hasta el 30 % de sus ingresos) llegó 'demasiado tarde'.",
+   "lectura": "Ambos líderes evitan atacar al otro con el caso; la vivienda sigue en el centro de la campaña. Nivel B.",
+   "actores": [],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-sanchez-traslada-pesame-muerte-maricarmen-abascal-sentimos-perdida-propia-20261007212150.html",
+    "https://www.europapress.es/sociedad/noticia-feijoo-asegura-solo-cabe-respeto-muerte-maricarmen-campana-partidos-utilizacion-interesada-20261007233244.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "La propuesta de Más Madrid abre la primera bronca en el Frente Amplio",
+   "que": "Según 20minutos, la propuesta unilateral de Más Madrid de que Colau sea candidata a la Presidencia y de encabezar las listas en Madrid ha molestado a Movimiento Sumar, IU y Comuns. Podemos insiste en las primarias abiertas; quedan unos ocho días para cerrar coaliciones (16-10).",
+   "lectura": "La unidad de la izquierda sigue sin cerrarse. Nivel B (una sola fuente).",
+   "actores": [
+    {
+     "id": "SUMAR",
+     "impacto": -1
+    },
+    {
+     "id": "PODEMOS",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/reparto-poder-entre-mas-madrid-colau-solivianta-resto-frente-amplio-mientras-podemos-insiste-ir-primarias_7046217_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "Muere Maricarmen, la mujer de 87 años desahuciada en Madrid",
+   "que": "Maricarmen Abascal, de 87 años, desahuciada el 23 de septiembre del piso de alquiler de Retiro (Madrid) donde vivió 71 años, ha muerto tras quince días hospitalizada, según el comunicado del Sindicato de Inquilinas. Su caso avivó las protestas por la vivienda, la acampada de Sol y los dos decretos que el Congreso tumbó. El Sindicato dijo que se había logrado un acuerdo que le habría permitido volver, pero 'ha llegado demasiado tarde'.",
+   "lectura": "Hecho humano más que político: refuerza la vivienda como asunto central de la campaña. No se atribuye responsabilidad a nadie. Nivel B.",
+   "actores": [],
+   "src": [
+    "https://www.20minutos.es/nacional/muere-maricarmen-directo-sindicato-inquilinas-debate-vivienda-esta-centro-pero-coste-ha-sido-muy-alto_7046275_6.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "El juez del caso Air Europa cita como testigo a la vicepresidenta Aagesen el 23 de noviembre",
+   "que": "El juez de Instrucción nº 49 de Madrid, que investiga por presunta prevaricación administrativa el rescate de Air Europa a través de la SEPI (querellas de PP, Vox y Manos Limpias), cita como testigos, entre otros, a Sara Aagesen, Pedro Saura, Manuel de la Rocha e Íñigo Errejón la semana previa a las elecciones; ABC fija el 23-N para Aagesen. El único querellado que figura en la providencia es Bartolomé Lora, vicepresidente de la SEPI. Los citados como testigos no están investigados.",
+   "lectura": "Una causa judicial coincide con la campaña. Ser testigo no implica ninguna responsabilidad. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.abc.es/espana/juez-investiga-rescate-air-europa-cita-vicepresidenta-20261007130026-nt.html",
+    "https://www.20minutos.es/nacional/juez-que-investiga-rescate-air-europa-cita-como-testigos-aagesen-guru-economico-sanchez-semana-29n_7045950_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "Feijóo, desde Ceuta: nueva Ley de Extranjería y que se vayan los 15.000 irregulares",
+   "que": "En su primer acto de precampaña, en Ceuta, Feijóo prometió que su 'primer encargo' sería 'recuperar la normalidad' en la ciudad, lo que pasa según él por la salida de las 15.000 personas que entraron de forma irregular y siguen allí, e impulsar una nueva Ley de Extranjería que 'permita la devolución inmediata'. En otra noticia, 20minutos recoge que el PP prepara un plan contra el crimen organizado, con ocho ejes (más medios, unidades especializadas, endurecer el Código Penal).",
+   "lectura": "Anuncios de campaña, sin texto de programa ni coste. El PP los defiende como respuesta a la crisis de Ceuta de finales de julio. Nivel B.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-feijoo-promete-ceuta-nueva-ley-extranjeria-devolver-irregulares-invasion-no-volvera-pasar-20261007142235.html",
+    "https://www.20minutos.es/nacional/pp-prepara-un-plan-contra-crimen-organizado-para-que-espana-vuelva-ser-un-pais-seguro_7045987_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "Más Madrid propone a Ada Colau como candidata del Frente Amplio",
+   "que": "Más Madrid ha propuesto a las organizaciones del Frente Amplio que la exalcaldesa de Barcelona Ada Colau sea la candidata a la Presidencia del Gobierno y encabece la lista por Barcelona, en una 'candidatura coral' con criterio territorial. Es una propuesta de uno de los cuatro socios: IU, Comuns y Movimiento Sumar no han respondido en la noticia.",
+   "lectura": "Primer nombre concreto desde un socio del Frente Amplio; la decisión sigue abierta y Podemos pide primarias. Nivel B.",
+   "actores": [
+    {
+     "id": "SUMAR",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-mas-madrid-propone-ada-colau-sea-candidata-frente-amplio-29n-encabece-lista-barcelona-20261007161814.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "La Diputación Permanente se reúne el 16 de octubre, sin los decretos de vivienda en el orden del día",
+   "que": "Según El Mundo, la Diputación Permanente del Congreso tendrá su primera reunión el viernes 16 de octubre y el orden del día aprobado no incluye la convalidación de los dos decretos de vivienda. El plazo para convalidarlos termina el sábado 14 de noviembre, ya en campaña. El PP dice que Sánchez la usará como 'plataforma electoral'.",
+   "lectura": "El Gobierno no ha llevado aún los decretos al órgano que debe convalidarlos; hay margen hasta el 14-N. Nivel B (una sola fuente).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/07/6ac633b421efa0b7728b4593.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "Feijóo pedirá a la JEC más garantías para el voto por correo",
+   "que": "Desde Ceuta, Feijóo anunció que el PP propondrá a la Junta Electoral Central 'algunas medidas adicionales' para 'incrementar la garantía' del voto por correo, sin concretarlas: 'confío en los carteros y los empleados públicos, pero no en los directivos de Correos'. No presentó pruebas de irregularidades en la noticia.",
+   "lectura": "Pone el voto por correo en la agenda; el sistema funciona con control de la JEC y no hay irregularidades acreditadas en la fuente. Nivel B.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-feijoo-pedira-jec-medidas-dar-mas-garantias-voto-correo-no-confio-directivos-correos-20261007150427.html",
+    "https://www.20minutos.es/nacional/feijoo-pedira-jec-incrementar-garantia-voto-por-correo-confio-los-empleados-no-los-directivos_7046017_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "La huelga general por la vivienda será el 11 de noviembre",
+   "que": "El secretario general de UGT, Pepe Álvarez, confirmó en RTVE que la huelga general se celebrará el miércoles 11 de noviembre, la fecha propuesta por la Confederación de Sindicatos de Inquilinas, dos días antes del inicio de la campaña. Bolaños (Gobierno) dio el visto bueno a la fecha: 'no es campaña electoral y la han elegido los sindicatos'.",
+   "lectura": "Pone la vivienda en la agenda dos días antes de la campaña. Cómo se interprete (contra el Gobierno o contra la oposición) es disputa política. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/los-sindicatos-inquilinas-proponen-11-noviembre-para-celebrar-huelga-general-por-vivienda_7045934_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "Turull (Junts): 'No investiremos a Sánchez'",
+   "que": "El secretario general de Junts, Jordi Turull, dijo en TV3 que sus diputados no volverán a investir a Pedro Sánchez: 'hemos salido escaldados con esta persona'. Acusa al presidente de incumplir el acuerdo de Bruselas.",
+   "lectura": "Primer veto público de un socio clave a una nueva investidura, dado tras el aval del TC a la amnistía; es una promesa de campaña, no un voto. Nivel B.",
+   "actores": [
+    {
+     "id": "JUNTS",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.abc.es/espana/cataluna/turull-junts-investiremos-sanchez-salido-escaldados-persona-20261007111906-nt.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "Mediaset propone un cara a cara Sánchez-Feijóo",
+   "que": "Mediaset España ha propuesto a PSOE y PP un debate cara a cara entre Sánchez y Feijóo, moderado por Carlos Franganillo y Alba Lago, en Telecinco y Cuatro; fecha por determinar. Ni PSOE ni PP han respondido en la noticia. En 2023 el grupo no organizó ningún debate.",
+   "lectura": "Propuesta de un medio, sin aceptar; no hay debate acordado. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/sociedad/noticia-mediaset-propone-cara-cara-sanchez-feijoo-presentado-carlos-franganillo-alba-lago-20261007133515.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "Bolaños: la amnistía se pactó para sumar los 176 votos y para la 'normalización' en Cataluña",
+   "que": "El ministro Félix Bolaños dijo en la SER que la Ley de Amnistía se pactó con ERC, Junts y otros grupos 'para sumar la mayoría de 176 votos que necesitábamos' tras el 23J, y también para la 'normalización política' en Cataluña. Añadió que Puigdemont 'podría regresar hoy si quisiera' y que PP y Vox sacaron a la calle a miles de personas 'con mentiras' al decir que era inconstitucional.",
+   "lectura": "Confirma el vínculo entre la amnistía y la investidura, el argumento central del PP; el Gobierno lo enmarca como convivencia, avalada por el TC. Nivel B (declaración de un ministro).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-bolanos-admite-pacto-amnistia-sumar-176-votos-tambien-normalizacion-cataluna-20261007102526.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "IU convoca de urgencia a su Coordinadora y el Frente Amplio promete candidato esta semana",
+   "que": "Izquierda Unida reúne hoy a su Coordinadora Federal para adaptar su calendario de primarias al 29-N; su coordinador, Antonio Maíllo, dice que IU defenderá 'sin complejos ni límites' sus propuestas sobre el cabeza de lista del Frente Amplio. Según Europa Press, los cuatro partidos (IU, Más Madrid, Comuns y Movimiento Sumar) aceleran y varios dirigentes esperan decidir en los próximos días. Suenan Mónica García y Ada Colau; Bustinduy se ha autodescartado. Aún no hay candidato.",
+   "lectura": "El nombre puede adelantarse al 17-10 previsto, pero nada está decidido. Nivel B.",
+   "actores": [
+    {
+     "id": "SUMAR",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-iu-proclama-jugara-papel-eleccion-candidato-frente-amplio-defendera-propuestas-complejos-20261007110015.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "PP y PSOE abren la precampaña el sábado: Feijóo en Ifema, Sánchez en Dos Hermanas",
+   "que": "El PP ha convocado su primer acto de precampaña el sábado en el recinto de Ifema (Madrid), con Isabel Díaz Ayuso y José Luis Martínez-Almeida. El PSOE ya dijo que Sánchez abrirá la suya en Dos Hermanas (Sevilla).",
+   "lectura": "Calendario de actos, sin efecto en el voto. Nivel B.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-pp-avanza-mitin-feijoo-ayuso-sabado-madrid-reta-sanchez-ir-zapatero-suyo-sevilla-20261007090946.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-07",
+   "titulo": "El BOE publica los dos decretos-ley de vivienda (28/2026 y 29/2026)",
+   "que": "El BOE del 7 de octubre (núm. 249) publica el Real Decreto-ley 28/2026, sobre la estabilidad de los contratos de arrendamiento de vivienda habitual, y el 29/2026, sobre la función social de la vivienda y la oferta de vivienda asequible. El segundo incluye una prórroga extraordinaria de contratos y una limitación extraordinaria de la actualización anual de la renta (disposiciones finales quinta y sexta). Entran en vigor con la publicación y deben convalidarse en la Diputación Permanente en un máximo de 30 días.",
+   "lectura": "Convierte el pulso de la vivienda en norma vigente en plena precampaña; su convalidación depende de la Diputación Permanente: el PNV ha anunciado que apoyará el 29/2026 (el decreto principal: fondos y grandes tenedores, protección de pequeños propietarios e inquilinos) y votará en contra del 28/2026 (prórroga de los contratos de alquiler). Nivel A para el texto; la lectura, C. Corregido el 9-10: la versión anterior asignaba el apoyo del PNV al decreto equivocado.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 1
+    }
+   ],
+   "src": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20822",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20823"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "El Supremo aplaza hasta el jueves su decisión sobre el voto de los 'nietos'",
+   "que": "La Sala de lo Contencioso del Supremo da 48 horas 'improrrogables' (hasta las 15:00 del jueves 8) para que las partes aleguen antes de decidir sobre el recurso de la Abogacía del Estado contra la suspensión cautelar de las inscripciones en el CERA de los nacionalizados por la 'ley de nietos' (unos 400.000 beneficiarios, según la estimación citada). Mientras tanto, la suspensión cautelar sigue. Vox pide ampliarla a los descendientes de exiliados.",
+   "lectura": "Decide cuántos votantes del exterior pueden votar el 29-N; el efecto en escaños no está medido. Nivel B.",
+   "actores": [
+    {
+     "id": "VOX",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/supremo-aplaza-su-decision-sobre-voto-los-400-000-nacionalizados-con-ley-nietos-las-elecciones-29-n_7045576_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "El PNV votará a favor del decreto principal de vivienda y en contra del de alquileres",
+   "que": "El PNV ha anunciado que en la Diputación Permanente apoyará el primer decreto de vivienda (el que protege a pequeños propietarios e inquilinos y limita compras de vivienda) y votará en contra del segundo, el de prórroga indefinida de alquileres, como el pasado viernes en el Pleno. Dice que las medidas son 'un parche'.",
+   "lectura": "Con su voto, el primer decreto puede convalidarse; el de alquileres, no tiene asegurada la mayoría. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 1
+    },
+    {
+     "id": "PNV",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/pnv-votara-favor-primer-decreto-vivienda-contra-segundo-prorroga-indefinida-alquileres_7045628_0.html",
+    "https://elpais.com/espana/2026-10-06/el-pnv-volvera-a-apoyar-el-decreto-principal-de-vivienda.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "Podemos abre la puerta a una lista única con el Frente Amplio, ratificada en primarias",
+   "que": "Podemos se muestra por primera vez abierto a pactar con el Frente Amplio el reparto de candidaturas, siempre que la ciudadanía las avale en un proceso abierto. El Frente Amplio sigue negociando el nombre de su líder y dice no querer 'un debate en los medios'. El registro de coaliciones cierra el 16 de octubre.",
+   "lectura": "Acerca posturas, pero quedan diez días y sin acuerdo sobre el método. Nivel C.",
+   "actores": [
+    {
+     "id": "PODEMOS",
+     "impacto": 0
+    },
+    {
+     "id": "SUMAR",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.eldiario.es/politica/abre-puerta-pactar-lista-unica-frente-amplio-despues-ratificarla-primarias_1_13566962.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "El PP denuncia a Sánchez ante la Junta Electoral por su comparecencia en la Moncloa",
+   "que": "El PP ha pedido a la Junta Electoral Central que abra un expediente sancionador a Sánchez por usar la Moncloa para 'dar un mitin del PSOE' tras el Consejo de Ministros, y que retire el material de la web de la Moncloa. Es una denuncia de parte: la JEC no ha resuelto.",
+   "lectura": "Primer choque ante la JEC de la precampaña. Sin resolución, no hay infracción declarada. Nivel B.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/pp-denuncia-ante-junta-electoral-mitin-sanchez-tras-consejo-ministros_7045675_0.html",
+    "https://www.europapress.es/nacional/noticia-pp-pide-junta-electoral-sancione-sanchez-utilizar-moncloa-dar-mitin-psoe-20261006183024.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "El Constitucional avala amnistiar la malversación del 'procés'; el Supremo levantará la orden contra Puigdemont",
+   "que": "El Tribunal Constitucional ha avalado aplicar la amnistía al delito de malversación de dirigentes del 'procés' y ha ordenado al Tribunal Supremo aplicarla; el Supremo dejará sin efecto la orden de detención contra Puigdemont cuando reciba la sentencia. Sánchez lo defiende como 'convivencia entre catalanes'; Feijóo acata la decisión pero la llama 'otro engaño más' y pide castigarlo en las urnas.",
+   "lectura": "Da a Sánchez un argumento de 'convivencia' y a Feijóo uno de movilización contra la amnistía, el mismo día de la disolución. Para Junts es un logro, pero la política de pactos con el PSOE queda abierta tras el 29-N. Nivel B (declaraciones y fallo según prensa; sentencia pendiente de leer).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    },
+    {
+     "id": "JUNTS",
+     "impacto": 1
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-sanchez-aval-amnistia-regreso-puigdemont-importante-convivencia-catalanes-20261006132700.html",
+    "https://www.europapress.es/nacional/noticia-feijoo-ve-amnistia-otro-engano-mas-sanchez-vender-favores-cambio-poder-debe-castigarse-urnas-20261006141229.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "El PP pide a la Audiencia Nacional que impute al PSOE en el caso Leire Díez",
+   "que": "El PP ha solicitado al juez de la Audiencia Nacional que cite al PSOE como investigado en la causa sobre Leire Díez. Es una petición de parte: el juez no ha decidido y el PSOE no está imputado.",
+   "lectura": "Lleva la causa a la precampaña. Hasta que el juez decida, es una acusación de parte, sin efecto jurídico. Nivel B.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.eldiario.es/politica/pp-pide-audiencia-nacional-imputacion-psoe-caso-leire-diez_1_13565841.html",
+    "https://www.20minutos.es/nacional/pp-pide-juez-imputacion-psoe-causa-las-cloacas-por-cinco-delitos-corrupcion_7045442_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "Pedraz pide datos al PSOE y da traslado a Anticorrupción sobre la imputación del partido",
+   "que": "El juez de la Audiencia Nacional Santiago Pedraz ha pedido al PSOE información sobre la contratación de dos abogados vinculados a la causa de las 'cloacas' y ha dado traslado a la Fiscalía Anticorrupción del escrito del PP que reclama imputar al partido. Aún no hay decisión sobre la imputación; según fuentes judiciales citadas por 20minutos, es un escenario posible pero lejano.",
+   "lectura": "Es el paso del juez ante la petición de parte: pide informe a la Fiscalía y datos al partido. El PSOE no está imputado. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/juez-pedraz-pide-psoe-datos-sobre-fichaje-los-abogados-las-cloacas-pregunta-fiscalia-si-debe-imputar-partido_7045545_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "El Gobierno vuelve a aprobar los decretos de vivienda; irán a la Diputación Permanente",
+   "que": "El Consejo de Ministros ha aprobado de nuevo dos reales decretos-ley de vivienda (protección contra desahucios; renovación automática de alquileres) con gran parte de las medidas que decayeron el viernes al tumbarlos el Congreso. Entran en vigor con su publicación en el BOE y deben convalidarse en 30 días; esta vez los verá la Diputación Permanente, tras la disolución de las Cortes. Sánchez pide su voto a los grupos: 'una cuestión de humanidad'.",
+   "lectura": "Pone la vivienda en el centro de la campaña y el choque con el Congreso como argumento. Que se convaliden depende de la Diputación Permanente. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 1
+    }
+   ],
+   "src": [
+    "https://www.newtral.es/reales-decretos-vivienda-diputacion-permanente/20261006/",
+    "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/061026-sanchez-comparecencia-consejo-ministros.aspx"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "Huelga general por la vivienda: Inquilinas, CCOO y UGT, sin fecha",
+   "que": "El Sindicato de Inquilinas ha convocado una huelga general por la vivienda, a la que se han sumado CCOO y UGT; aún no tiene fecha. Montero, coordinadora estratégica del PSOE, dice que se dirige 'contra la oposición por derribar los decretos de vivienda'. Es la lectura del PSOE, no la de los convocantes.",
+   "lectura": "Sitúa la vivienda como eje de la campaña. El PSOE intenta que la protesta apunte a la oposición. Nivel B (hecho según El País, sin fecha; el encuadre es declaración de parte).",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://elpais.com/espana/elecciones-generales/2026-10-06/montero-la-huelga-general-se-convoca-contra-la-oposicion-por-derribar-los-decretos-de-vivienda.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "Sumar abre la puerta a Podemos pero no acepta las primarias abiertas",
+   "que": "Verónica Barbero (portavoz de Sumar en el Congreso) dijo en RNE que el espacio está abierto a una candidatura conjunta con Podemos, pero que las primarias no son una línea roja ni el método de Frente Amplio: 'mejor acordar que competir'. Podemos pide primarias abiertas el 14-15 de octubre; el registro de coaliciones cierra el 16.",
+   "lectura": "Quedan diez días para registrar coaliciones sin acuerdo sobre cómo elegir al candidato. Si van por separado, se reparte el voto de la izquierda y el reparto de escaños depende de cada provincia. Nivel C.",
+   "actores": [
+    {
+     "id": "SUMAR",
+     "impacto": 0
+    },
+    {
+     "id": "PODEMOS",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.europapress.es/nacional/noticia-sumar-abre-puerta-podemos-aleja-peticion-primarias-mejor-acordar-competir-nosotros-20261006110305.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "Montero coordina la campaña del PSOE y no será candidata al Congreso",
+   "que": "María Jesús Montero, secretaria general del PSOE-A, ha sido nombrada coordinadora estratégica de la campaña y ha negado ser candidata al Congreso: dejó el escaño en Madrid tras las elecciones andaluzas del 17 de mayo.",
+   "lectura": "Sánchez refuerza el mando de campaña con una dirigente andaluza; Andalucía es clave para sumar escaños. Dato de organización, no de voto. Nivel B.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.abc.es/espana/andalucia/maria-jesus-montero-candidata-congreso-20261006124637-nts.html",
+    "https://elpais.com/espana/elecciones-generales/2026-10-06/montero-la-huelga-general-se-convoca-contra-la-oposicion-por-derribar-los-decretos-de-vivienda.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "El BOE publica el decreto: Madrid gana un escaño y Cádiz lo pierde",
+   "que": "Disolución de las Cortes y elecciones el 29-N, con 350 diputados. Según el anexo del Real Decreto 806/2026, de 5 de octubre (BOE-A-2026-20742), Madrid elige 38 diputados (uno más que en 2023) y Cádiz 8 (uno menos); las otras 50 circunscripciones no cambian. Parte de la prensa publicó que cambiaban cuatro escaños; el texto del BOE no lo confirma.",
+   "lectura": "Efecto mínimo: un escaño pasa de Cádiz a Madrid. Con los votos de 2023 no cambia el orden de los bloques. Nivel C.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742",
+    "https://www.democrata.es/politica/el-boe-difunde-el-decreto-que-disuelve-las-cortes-y-fija-las-elecciones-para-el-29-de-noviembre/"
+   ]
+  },
+  {
+   "fecha": "2026-10-05",
+   "titulo": "Sánchez disuelve las Cortes y convoca el 29N",
+   "que": "Consejo de Ministros extraordinario; BOE el 6. Mensaje: mayoría 'más amplia y progresista' para 'doblegar a las élites'; vivienda como plebiscito ('V de vivienda o B de buitre').",
+   "lectura": "Convoca en su mejor momento relativo tras el caso Maricarmen y las manifestaciones, pero con la derecha por encima de 200 escaños en todas las encuestas privadas. Apuesta por absorber el voto de Sumar y Podemos y por movilizar con la vivienda.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 1
+    },
+    {
+     "id": "SUMAR",
+     "impacto": -1
+    },
+    {
+     "id": "JUNTS",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/051026-sanchez-convocatoria-elecciones.aspx"
+   ]
+  },
+  {
+   "fecha": "2026-10-05",
+   "titulo": "Alvise encabezará la lista de SALF por Madrid",
+   "que": "Deja el Parlamento Europeo; tiene seis causas abiertas en el Supremo.",
+   "lectura": "Compite por el mismo voto que Vox en Madrid; con 1,5-2,5 % no entra, pero puede restar un escaño a la derecha en provincias ajustadas.",
+   "actores": [
+    {
+     "id": "SALF",
+     "impacto": 0
+    },
+    {
+     "id": "VOX",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.eldebate.com/espana/20261005/alvise-sera-cabeza-lista-acabo-fiesta-madrid-elecciones-generales_466300.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-05",
+   "titulo": "Podemos exige primarias abiertas (14-15 oct) para ir con Frente Amplio",
+   "que": "Dos días antes de que Frente Amplio elija líder (17) y del cierre de coaliciones (16).",
+   "lectura": "Ultimátum difícil de aceptar para Sumar. Si van separados, el simulador estima entre 3 y 6 escaños perdidos para el bloque por D'Hondt.",
+   "actores": [
+    {
+     "id": "PODEMOS",
+     "impacto": 0
+    },
+    {
+     "id": "SUMAR",
+     "impacto": -1
+    },
+    {
+     "id": "PSOE",
+     "impacto": 1
+    }
+   ],
+   "src": [
+    "https://www.moncloa.com/2026/10/05/izquierda-psoe-sin-coalicion-29n-3442866/"
+   ]
+  },
+  {
+   "fecha": "2026-10-05",
+   "titulo": "Ayuso: 'que a nadie se le ocurra votar por correo'",
+   "que": "Declaración sin aportar pruebas de fraude; Abascal pide 'elecciones limpias'.",
+   "lectura": "Desincentivar el voto por correo perjudica sobre todo a quien lo pide (mayores, residentes fuera). Señal S7 y S13 del semáforo: sembrar dudas sobre el proceso sin base.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": -1
+    },
+    {
+     "id": "VOX",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://vozpopuli.com/espana/adelanto-electoral-de-sanchez-en-directo-el-presidente-comparece-para-desvelar-si-adelanta-las-elecciones-tras-la-crisis-de-la-vivienda.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-03",
+   "titulo": "Feijóo presenta su plan de vivienda en La Toja",
+   "que": "Un millón de viviendas, ley del suelo, IVA al 4 % para jóvenes, 'Hucha Hogar Joven', avales del 100 %.",
+   "lectura": "Neutraliza por anticipado el eje de campaña del PSOE con una oferta de oferta (no de control de rentas). Falta la memoria económica.",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 1
+    }
+   ],
+   "src": [
+    "https://www.eleconomista.es/economia/noticias/14018537/10/26/feijoo-convierte-la-vivienda-en-su-gran-arma-contra-sanchez-un-millon-de-pisos-y-rebajas-fiscales.html"
+   ]
+  },
+  {
+   "fecha": "2026-10-03",
+   "titulo": "Manifestaciones por la vivienda en más de 50 ciudades",
+   "que": "Madrid: 70.000 según el Gobierno, 500.000 según el Sindicato de Inquilinas.",
+   "lectura": "Movilización que el Gobierno intenta convertir en voto. La brecha entre cifras es en sí una señal de polarización.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 1
+    },
+    {
+     "id": "SUMAR",
+     "impacto": 1
+    }
+   ],
+   "src": [
+    "https://elindependiente.com/espana/2026/10/04/gobierno-exito-movilizacion-antidesahucios-adelanto-electoral"
+   ]
+  },
+  {
+   "fecha": "2026-10-02",
+   "titulo": "El Congreso tumba los dos decretos de vivienda (178-172 y 184-166)",
+   "que": "PP, Vox, Junts y UPN en contra. El segundo decreto estuvo 16 horas en vigor.",
+   "lectura": "Detonante del adelanto. Junts asume el coste de votar con PP y Vox contra medidas que apoyan más de la mitad de sus votantes.",
+   "actores": [
+    {
+     "id": "JUNTS",
+     "impacto": -2
+    },
+    {
+     "id": "PSOE",
+     "impacto": 1
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/"
+   ]
+  },
+  {
+   "fecha": "2026-09-29",
+   "titulo": "IPC de septiembre: 4,9 %, máximo desde 2023",
+   "que": "Carburantes por la guerra de Irán; subyacente 3,1 %. Nuevo escudo anticrisis el mismo día.",
+   "lectura": "La inflación vuelve a ser argumento de campaña. Causa externa, pero erosiona el relato económico del Gobierno.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -1
+    },
+    {
+     "id": "PP",
+     "impacto": 1
+    }
+   ],
+   "src": [
+    "https://www.ine.es/dyngs/Prensa/adIPC0926.htm"
+   ]
+  },
+  {
+   "fecha": "2026-09-22",
+   "titulo": "El TC aprueba (7-5) la ponencia que amnistiaría la malversación",
+   "que": "Pleno definitivo previsto la semana del 5 de octubre; Llarena mantiene la orden contra Puigdemont hasta entonces.",
+   "lectura": "Si Puigdemont vuelve en plena precampaña, Junts recupera relato y el PP activa el argumento de la amnistía.",
+   "actores": [
+    {
+     "id": "JUNTS",
+     "impacto": 1
+    },
+    {
+     "id": "PP",
+     "impacto": 1
+    },
+    {
+     "id": "PSOE",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.que.es/2026/10/05/amnistia-puigdemont-constitucional-supremo/"
+   ]
+  },
+  {
+   "fecha": "2026-09-21",
+   "titulo": "Begoña Gómez, a juicio con jurado",
+   "que": "Auto de apertura por tráfico de influencias y malversación; la Fiscalía pide la absolución.",
+   "lectura": "Sin fecha de juicio; el PP lo usará en campaña, el PSOE lo presentará como 'lawfare'.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.infobae.com/espana/2026/09/21/el-juez-peinado-envia-a-begona-gomez-a-juicio-ante-un-jurado-popular-en-la-audiencia-provincial-de-madrid-por-malversacion-y-trafico-de-influencias/"
+   ]
+  },
+  {
+   "fecha": "2026-09-14",
+   "titulo": "Abascal propone la 'remigración'",
+   "que": "Repatriar a quien delinca y 'remigrar' a quien 'no trabaje y viva de subsidios' (Mediaset Italia).",
+   "lectura": "Consolida el eje inmigración tras Ceuta y obliga al PP a posicionarse. Jurídicamente inviable para residentes legales y nacionalizados.",
+   "actores": [
+    {
+     "id": "VOX",
+     "impacto": 1
+    },
+    {
+     "id": "PP",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.infobae.com/espana/agencias/2026/09/14/abascal-plantea-procesos-de-repatriaciones-de-inmigrantes-que-delincan-y-de-remigracion-para-los-que-no-trabajan/"
+   ]
+  },
+  {
+   "fecha": "2026-07-30",
+   "titulo": "Crisis de Ceuta: más de 60.000 entradas en 48 horas",
+   "que": "67 muertos, 48.300 retornos a Marruecos; Italia suspende Schengen con España. Detonante: bulos sobre 'fronteras abiertas' tras la sentencia del Supremo sobre devoluciones en caliente.",
+   "lectura": "Punto de inflexión de la legislatura: la inmigración pasa a ser la primera preocupación y el PSOE marca mínimos en septiembre.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -2
+    },
+    {
+     "id": "VOX",
+     "impacto": 2
+    },
+    {
+     "id": "PP",
+     "impacto": 1
+    }
+   ],
+   "src": [
+    "https://www.infobae.com/espana/2026/08/02/la-crisis-de-ceuta-en-cinco-claves-de-las-falsas-promesas-de-asilo-a-la-avalancha-de-60000-personas-y-el-papel-de-marruecos/"
+   ]
+  },
+  {
+   "fecha": "2026-06-22",
+   "titulo": "El Supremo condena a Ábalos a 24 años y 3 meses",
+   "que": "Sentencia unánime del caso mascarillas; Koldo García, 19 años y 8 meses.",
+   "lectura": "La condena más alta a un exministro en democracia. El PSOE lo presenta como caso individual; la pieza de financiación del partido sigue abierta.",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": -2
+    }
+   ],
+   "src": [
+    "https://www.infobae.com/espana/2026/06/22/el-supremo-condena-a-abalos-a-24-anos-de-carcel-por-mordidas-en-contratos-de-mascarillas-y-contratacion-irregular/"
+   ]
+  },
+  {
+   "fecha": "2025-11-06",
+   "titulo": "Junts rompe con el PSOE y anuncia bloqueo total",
+   "que": "87 % de la militancia a favor; enmiendas a la totalidad a 25 proyectos.",
+   "lectura": "Desde aquí el Gobierno pierde la mayoría legislativa; la legislatura entra en fase terminal.",
+   "actores": [
+    {
+     "id": "JUNTS",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": -1
+    }
+   ],
+   "src": [
+    "https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"
+   ]
+  }
+ ]
 }
