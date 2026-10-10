@@ -4,6 +4,27 @@
   "entradas": [
     {
       "fecha": "2026-10-10",
+      "titulo": "Primeros grandes actos de precampaña: Sánchez en Dos Hermanas y Feijóo en Madrid",
+      "que": "Sánchez abrió su precampaña en Dos Hermanas (Sevilla), con más de 5.000 asistentes según la organización: centró el mensaje en la vivienda, prometió reforzar los decretos de vivienda y criticó el discurso de PP y Vox sobre el voto por correo. Feijóo hizo su primer gran acto en Madrid con Ayuso y Almeida: propuso una «reconstrucción nacional», un Gobierno «que os pida sacrificio» y puso fin a «las falsas promesas en vivienda, a la asfixia fiscal».",
+      "lectura": "Promesas y mensajes de campaña, no medidas aprobadas ni programas publicados. Misma vara para ambos: se anota lo dicho, sin valorar su eficacia. Nivel B (prensa).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/andalucia/noticia-sanchez-reivindica-perro-amo-pide-urnas-llenas-frente-miedo-pp-vox-voto-correo-29n-20261010133133.html",
+        "https://www.eldiario.es/politica/sanchez-acusa-derecha-enfrentar-pequenos-propietarios-e-inquilinos-no-miremos-aticazos-fondos-buitre_1_13577384.html",
+        "https://www.eldiario.es/politica/feijoo-promete-gobierno-pedira-sacrificios-ayuso-tilda-terroristas-acampados-sol_1_13577261.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-10",
       "titulo": "EH Bildu y ERC reeditan su coalición para el Senado",
       "que": "EH Bildu y ERC anuncian en un comunicado conjunto que repetirán la coalición con la que concurrieron al Senado en 2023, tras valorar su colaboración en la Cámara en esta legislatura. Ponen la vivienda en el centro de la candidatura y llaman a frenar al «bloque reaccionario». La reunión de ambas direcciones la lideraron Arnaldo Otegi y Oriol Junqueras.",
       "lectura": "Acuerdo anunciado por los propios partidos, solo para el Senado; no afecta a las listas del Congreso. Nivel B (comunicado citado por la prensa).",
