@@ -1,6 +1,26 @@
 {
- "actualizado": "2026-10-10",
+ "actualizado": "2026-10-11",
  "dias": [
+  {
+   "fecha": "2026-10-11",
+   "items": [
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Hamalgama Métrica 2026-10-08.",
+     "texto_en": "New poll: Hamalgama Métrica 2026-10-08."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Target Point 2026-10-09.",
+     "texto_en": "New poll: Target Point 2026-10-09."
+    },
+    {
+     "tipo": "diario",
+     "texto": "1 movimiento nuevo en el diario. Último: Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso.",
+     "texto_en": "1 new entry in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-10-10",
    "items": [
@@ -252,6 +272,32 @@
     "bloqueo": 0.9
    },
    "n_encuestas": 19
+  },
+  {
+   "fecha": "2026-10-11",
+   "media": {
+    "PP": 32.64,
+    "PSOE": 26.42,
+    "VOX": 18.7,
+    "SUMAR": 5.78,
+    "PODEMOS": 3.21,
+    "SALF": 1.6
+   },
+   "escanos": {
+    "PP": 139,
+    "PSOE": 107,
+    "VOX": 65,
+    "SUMAR": 7,
+    "PODEMOS": 2
+   },
+   "ppvox": 204,
+   "probs": {
+    "pp_vox": 97.0,
+    "pp_solo": 0.5,
+    "psoe_bloque": 1.7,
+    "bloqueo": 0.8
+   },
+   "n_encuestas": 21
   }
  ]
 }

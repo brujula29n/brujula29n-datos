@@ -1,7 +1,23 @@
 {
- "actualizado": "2026-10-10",
+ "actualizado": "2026-10-11",
  "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
  "entradas": [
+  {
+   "fecha": "2026-10-11",
+   "titulo": "Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso",
+   "que": "La portavoz de EH Bildu en el Congreso, Mertxe Aizpurua, no repetirá como candidata el 29-N, según fuentes del partido confirmadas a El País, ABC y 20minutos. Tiene 66 años y prevé jubilarse tras tres legislaturas. EH Bildu hará públicas el 16 de octubre sus candidaturas al Congreso y al Senado; los militantes votarán el 17 y 18 y se proclamarán el 19.",
+   "lectura": "Relevo en la portavocía de un socio del Gobierno; la decisión de la lista es del partido. Nivel B (fuentes del partido citadas por la prensa).",
+   "actores": [
+    {
+     "id": "BILDU",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://elpais.com/espana/elecciones-generales/2026-10-11/mertxe-aizpurua-no-repetira-como-candidata-de-eh-bildu-al-congreso-el-29-n.html",
+    "https://www.20minutos.es/nacional/mertxe-aizpurua-no-sera-candidata-eh-bildu-congreso-por-decision-propia_7047565_0.html"
+   ]
+  },
   {
    "fecha": "2026-10-10",
    "titulo": "Senado: el 29-N se eligen 208 de 266 escaños; el PP parte con 23 designados y el PSOE con 19",
