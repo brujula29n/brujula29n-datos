@@ -4,6 +4,59 @@
   "entradas": [
     {
       "fecha": "2026-10-11",
+      "titulo": "Illa proclama a Jordi Hereu candidato del PSC por Barcelona",
+      "que": "El primer secretario del PSC, Salvador Illa, proclama al ministro de Industria y Turismo, Jordi Hereu, candidato por Barcelona a las generales del 29-N, en un Consell Nacional extraordinario. Illa critica el rechazo de Junts a los decretos de vivienda y sitúa la vivienda como eje de la disputa electoral.",
+      "lectura": "Candidatura anunciada por el propio partido; la proclamación oficial depende de la Junta Electoral. Nivel B (prensa).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/cataluna/lla-proclama-jordi-hereu-candidato-psc-elecciones-20261011120838-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-11",
+      "titulo": "Más Madrid propone para Madrid una lista con Emilio Delgado y Mónica García, abierta a Podemos",
+      "que": "Más Madrid propone una lista conjunta del Frente Amplio por la provincia de Madrid: los dos primeros puestos serían para Emilio Delgado y la ministra de Sanidad, Mónica García. Pide integrar a IU y Movimiento Sumar y, si decide sumarse al Frente Amplio, a Podemos. Podemos mantiene que quiere primarias abiertas, aunque ha abierto la puerta a negociar una lista conjunta que luego se ratifique en ellas.",
+      "lectura": "Es una propuesta de un socio del Frente Amplio, no un acuerdo: IU, Movimiento Sumar y Podemos no han respondido. Nivel B (prensa).",
+      "actores": [
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        },
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/madrid-propone-lista-consenso-liderada-emilio-delgado-elecciones-29n_1_13578644.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-11",
+      "titulo": "ERC y Podem Catalunya ultiman presentarse juntos en Cataluña, con Rufián e Irene Montero",
+      "que": "Según 20minutos, ERC y Podem Catalunya ultiman un acuerdo para concurrir juntos en las cuatro provincias catalanas el 29-N, con Rufián e Irene Montero como cara de una «candidatura de impacto». Aún se estudia si iría bajo las siglas ERC-Podem o bajo las de ERC con independientes de Podemos. ERC sí ha confirmado que Rufián encabezará su lista.",
+      "lectura": "Acuerdo no cerrado: se apoya en fuentes sin identificar; ni ERC ni Podemos lo han anunciado. Nivel C hasta que lo confirmen. ",
+      "actores": [
+        {
+          "id": "ERC",
+          "impacto": 0
+        },
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/erc-podem-ultiman-un-acuerdo-para-concurrir-juntos-cataluna-las-generales_7047645_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-11",
       "titulo": "Rufián encabezará la lista de ERC al Congreso y no liderará el Frente Amplio",
       "que": "ERC comunica que Gabriel Rufián será cabeza de lista de los republicanos, decisión que formaliza la Ejecutiva Nacional este domingo. No liderará, por tanto, el Frente Amplio, como le pedían voces de esa coalición, entre ellas Ada Colau. ERC prevé el 20 de octubre las reuniones de sus órganos que aprobarán las candidaturas al Congreso y al Senado.",
       "lectura": "Cierra la duda abierta el 8 de octubre sobre la candidatura de Rufián; las listas definitivas siguen pendientes de aprobación interna y de proclamación. Nivel A/B (comunicado de ERC recogido por la prensa).",

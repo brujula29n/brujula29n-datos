@@ -165,8 +165,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 72,
-  "ultimo": "Rufián encabezará la lista de ERC al Congreso y no liderará el Frente Amplio"
+  "n": 75,
+  "ultimo": "Illa proclama a Jordi Hereu candidato del PSC por Barcelona"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -202,7 +202,7 @@
   },
   {
    "tipo": "diario",
-   "texto": "3 movimientos nuevos en el diario. Último: Rufián encabezará la lista de ERC al Congreso y no liderará el Frente Amplio."
+   "texto": "6 movimientos nuevos en el diario. Último: Illa proclama a Jordi Hereu candidato del PSC por Barcelona."
   }
  ]
 }
