@@ -160,7 +160,7 @@
   "PODEMOS": "Irene Montero",
   "SALF": "Alvise Pérez",
   "JUNTS": "Míriam Nogueras",
-  "ERC": "Gabriel Rufián (primarias 17 oct)",
+  "ERC": "Gabriel Rufián",
   "BILDU": "Por designar",
   "PNV": "Sin candidato (Esteban no repite)"
  },
@@ -199,6 +199,10 @@
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: Target Point 2026-10-09."
+  },
+  {
+   "tipo": "partido",
+   "texto": "ERC: cabeza de lista Gabriel Rufián (antes Gabriel Rufián (primarias 17 oct))."
   },
   {
    "tipo": "diario",

@@ -15,6 +15,11 @@
      "texto_en": "New poll: Target Point 2026-10-09."
     },
     {
+     "tipo": "partido",
+     "texto": "ERC: cabeza de lista Gabriel Rufián (antes Gabriel Rufián (primarias 17 oct)).",
+     "texto_en": "ERC: lead candidate Gabriel Rufián (previously Gabriel Rufián (primarias 17 oct))."
+    },
+    {
      "tipo": "diario",
      "texto": "8 movimientos nuevos en el diario. Último: IU respalda a Ada Colau como candidata del Frente Amplio.",
      "texto_en": "8 new entries in the campaign log (in Spanish)."

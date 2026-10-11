@@ -151,7 +151,7 @@
       "incertidumbre": "Si Puigdemont vuelve antes del 29N y si eso frena su caída."
     },
     {
-      "id": "ERC", "nombre": "Esquerra Republicana", "color": "#F5B300", "lider": "Gabriel Rufián (primarias 17 oct)", "bloque": "nacionalista", "esc2023": 7,
+      "id": "ERC", "nombre": "Esquerra Republicana", "color": "#F5B300", "lider": "Gabriel Rufián", "bloque": "nacionalista", "esc2023": 7,
       "resumen": "Socio estable que ha obtenido compromisos (financiación singular, condonación) pero ninguna ley aprobada. Se mantiene en 7-10 escaños.",
       "bien": [
         {"t": "Apoyó la investidura de Illa a cambio de la financiación singular (acuerdo del CPFF de julio 2025) y la condonación de 17.104 M€ de deuda catalana.", "ev": "B", "src": ["https://www.mundiario.com/articulo/politica/junqueras-marca-perfil-frente-rufian-apuesta-sostener-sanchez-culminar-agenda-catalana/20260617005912390765.html"]},
