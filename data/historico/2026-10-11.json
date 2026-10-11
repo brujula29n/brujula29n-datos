@@ -165,8 +165,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 70,
-  "ultimo": "Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso"
+  "n": 72,
+  "ultimo": "Rufián encabezará la lista de ERC al Congreso y no liderará el Frente Amplio"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -202,7 +202,7 @@
   },
   {
    "tipo": "diario",
-   "texto": "1 movimiento nuevo en el diario. Último: Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso."
+   "texto": "3 movimientos nuevos en el diario. Último: Rufián encabezará la lista de ERC al Congreso y no liderará el Frente Amplio."
   }
  ]
 }
