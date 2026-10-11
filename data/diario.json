@@ -4,6 +4,36 @@
   "entradas": [
     {
       "fecha": "2026-10-11",
+      "titulo": "IU respalda a Ada Colau como candidata del Frente Amplio",
+      "que": "Izquierda Unida respalda en un comunicado que Ada Colau encabece la candidatura del Frente Amplio el 29-N y pide al resto de fuerzas un acuerdo. Lo hace tras la propuesta de Más Madrid de una lista por Madrid con Emilio Delgado y la proclamación de Rufián como candidato de ERC.",
+      "lectura": "Apoyo de un socio, no una decisión del Frente Amplio: aún no hay cabeza de lista ni acuerdo con Podemos. Nivel B (comunicado recogido por la prensa).",
+      "actores": [
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-iu-traslada-respaldo-ada-colau-candidata-frente-amplio-pide-responsabilidad-resto-partidos-20261011192137.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-11",
+      "titulo": "Abascal abre la precampaña de Vox en Estepona y pide no fiarse de las encuestas",
+      "que": "En un mitin en Estepona (Málaga), Santiago Abascal dice que el 29-N «nos lo jugamos todo» y pide no hacer caso de las encuestas, que son «nuestro principal enemigo», y acudir a votar. Acusa a Sánchez de intentar «amañar el censo electoral» con la ley de nietos, algo que no está probado. Después viaja a Ceuta para la Fiesta Nacional.",
+      "lectura": "Mensajes de campaña; la acusación sobre el censo es de Abascal, sin pruebas aportadas en la noticia, y el censo lo gestiona la Oficina del Censo Electoral. Nivel B (prensa).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/abascal-abre-precampana-29n-pidiendo-no-hacer-caso-las-encuestas-porque-son-principal-enemigo-para-las-elecciones_7047678_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-11",
       "titulo": "Illa proclama a Jordi Hereu candidato del PSC por Barcelona",
       "que": "El primer secretario del PSC, Salvador Illa, proclama al ministro de Industria y Turismo, Jordi Hereu, candidato por Barcelona a las generales del 29-N, en un Consell Nacional extraordinario. Illa critica el rechazo de Junts a los decretos de vivienda y sitúa la vivienda como eje de la disputa electoral.",
       "lectura": "Candidatura anunciada por el propio partido; la proclamación oficial depende de la Junta Electoral. Nivel B (prensa).",
@@ -39,7 +69,7 @@
     {
       "fecha": "2026-10-11",
       "titulo": "ERC y Podem Catalunya ultiman presentarse juntos en Cataluña, con Rufián e Irene Montero",
-      "que": "Según 20minutos, ERC y Podem Catalunya ultiman un acuerdo para concurrir juntos en las cuatro provincias catalanas el 29-N, con Rufián e Irene Montero como cara de una «candidatura de impacto». Aún se estudia si iría bajo las siglas ERC-Podem o bajo las de ERC con independientes de Podemos. ERC sí ha confirmado que Rufián encabezará su lista.",
+      "que": "Según fuentes sin identificar citadas por 20minutos y Europa Press, ERC y Podem Catalunya ultiman un acuerdo para concurrir juntos en las cuatro provincias catalanas el 29-N, con Rufián e Irene Montero como cara de una «candidatura de impacto». Aún se estudia si iría bajo las siglas ERC-Podem o bajo las de ERC con independientes de Podemos. ERC sí ha confirmado que Rufián encabezará su lista.",
       "lectura": "Acuerdo no cerrado: se apoya en fuentes sin identificar; ni ERC ni Podemos lo han anunciado. Nivel C hasta que lo confirmen. ",
       "actores": [
         {
