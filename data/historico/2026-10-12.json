@@ -167,8 +167,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 79,
-  "ultimo": "Podemos y ERC confirman su pacto para el 29-N"
+  "n": 81,
+  "ultimo": "El Supremo mantiene la suspensión del voto de los nacionalizados por la «ley de nietos» para el 29-N"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -217,7 +217,7 @@
   },
   {
    "tipo": "diario",
-   "texto": "2 movimientos nuevos en el diario. Último: Podemos y ERC confirman su pacto para el 29-N."
+   "texto": "4 movimientos nuevos en el diario. Último: El Supremo mantiene la suspensión del voto de los nacionalizados por la «ley de nietos» para el 29-N."
   }
  ]
 }

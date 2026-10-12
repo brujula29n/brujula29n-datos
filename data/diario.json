@@ -4,6 +4,41 @@
   "entradas": [
     {
       "fecha": "2026-10-12",
+      "titulo": "El Supremo mantiene la suspensión del voto de los nacionalizados por la «ley de nietos» para el 29-N",
+      "que": "La Sala de lo Contencioso del Tribunal Supremo rechaza el recurso de la Abogacía del Estado (y la petición de la Fiscalía) y mantiene la medida cautelar pedida por Vox e Iustitia Europa: los nacionalizados por esa vía no votarán el 29-N, salvo quienes acrediten por certificación consular que sus ascendientes sufrieron exilio. Según el Gobierno, afecta a 163.020 personas (censo cerrado a 1-8-2026). El Supremo ordena publicar los autos en el BOE «con la mayor urgencia».",
+      "lectura": "Decisión judicial que limita el censo de residentes ausentes en esta convocatoria; el tribunal prioriza «el interés general» del censo sobre el derecho de sufragio. Falta ver su publicación en el BOE. Nivel A (autos recogidos por Europa Press y El País; texto oficial pendiente de BOE).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-supremo-rechaza-recurso-gobierno-ratifica-suspension-voto-nacionalizados-ley-nietos-20261012154624.html",
+        "https://elpais.com/espana/elecciones-generales/2026-10-12/el-supremo-mantiene-para-el-29-n-la-suspension-del-derecho-al-voto-de-los-nacionalizados-por-la-ley-de-nietos.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-12",
+      "titulo": "La militancia de la CUP ratifica que no concurrirá al 29-N",
+      "que": "La CUP confirma con un 68,9 % de votos de su militancia que no se presentará a las elecciones generales del 29 de noviembre; un 27,1 % votó a favor de concurrir y un 1,6 % se abstuvo. Alega que no se dan las condiciones políticas.",
+      "lectura": "Una candidatura menos en Cataluña. Nivel A (votación y rueda de prensa del propio partido, recogidas por 20minutos).",
+      "actores": [
+        {
+          "id": "ERC",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/militancia-cup-por-un-68-9-votos-ratifica-que-no-se-presentan-las-elecciones-29n_7047828_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-12",
       "titulo": "Podemos y ERC confirman su pacto para el 29-N",
       "que": "En un comunicado conjunto, Podemos y ERC confirman que los morados «contribuirán a la candidatura» de ERC al Congreso en Cataluña y que Irene Montero y Gabriel Rufián «harán equipo» en la campaña. No concretan puestos en las listas. Sumar (Verónica Martínez Barbero) dice que el pacto no favorece el acuerdo de las izquierdas, pero sigue abierto al Frente Amplio. El plazo para registrar coaliciones termina el viernes 16 a las 23.59.",
       "lectura": "Divide el espacio a la izquierda del PSOE: Podemos no iría con el Frente Amplio en Cataluña, donde ERC competiría con los Comuns. Falta ver cómo se concreta fuera de Cataluña. Nivel B (comunicado de las partes recogido por la prensa).",
