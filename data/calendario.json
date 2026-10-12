@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09",
+  "actualizado": "2026-10-12",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -21,11 +21,11 @@
     },
     {
       "fecha": "2026-10-08",
-      "titulo": "El Supremo decide sobre el voto de los 'nietos' (alegaciones hasta las 15:00)",
-      "detalle": "Plazo improrrogable de 48 horas para alegaciones; después, la Sala resolverá el recurso de la Abogacía del Estado contra la suspensión cautelar de las inscripciones CERA de los nacionalizados por la ley de nietos.",
+      "titulo": "El Supremo mantiene la suspensión del voto de los nacionalizados por la ley de nietos",
+      "detalle": "Auto del 12-10 (Sección Cuarta de lo Contencioso, con un voto particular): rechaza el recurso de la Abogacía del Estado y mantiene la cautelar para el 29-N. Excepción: quienes acrediten por certificación consular exilio de sus ascendientes. El Gobierno estudia si cabe recurso ante el Constitucional. Se ordena publicar los autos en el BOE.",
       "tipo": "legal",
-      "estado": "previsto",
-      "src": "https://www.20minutos.es/nacional/supremo-aplaza-su-decision-sobre-voto-los-400-000-nacionalizados-con-ley-nietos-las-elecciones-29-n_7045576_0.html"
+      "estado": "hecho",
+      "src": "https://elpais.com/espana/elecciones-generales/2026-10-12/el-supremo-mantiene-para-el-29-n-la-suspension-del-derecho-al-voto-de-los-nacionalizados-por-la-ley-de-nietos.html"
     },
     {
       "fecha": "2026-10-09",
@@ -62,7 +62,7 @@
     {
       "fecha": "2026-10-17",
       "titulo": "Frente Amplio elige cabeza de lista; primarias de ERC",
-      "detalle": "Yolanda Díaz no repite. Quinielas: Urtasun, Colau, Mónica García. ERC: Rufián.",
+      "detalle": "Yolanda Díaz no repite. El 12-10 IU, Comuns, Más Madrid y Movimiento Sumar proponen a Ada Colau como candidata (circunscripción sin concretar). ERC: Rufián encabeza la lista (el 12-10 pacta con Podemos). Pendiente: respuesta de Colau y de Podemos.",
       "tipo": "politico",
       "estado": "previsto",
       "src": "https://www.infobae.com/espana/2026/10/04/el-nuevo-sumar-elegira-a-su-lider-el-17-de-octubre-ante-el-posible-adelanto-electoral-estos-son-los-candidatos-en-las-quinielas/"

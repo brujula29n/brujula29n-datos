@@ -4,6 +4,42 @@
   "entradas": [
     {
       "fecha": "2026-10-12",
+      "titulo": "El Frente Amplio propone a Ada Colau como candidata y llama a Podemos a sumarse",
+      "que": "IU, Comuns, Más Madrid y Movimiento Sumar proponen en un comunicado conjunto a Ada Colau como candidata a la presidencia del Gobierno el 29-N. No indican por qué circunscripción se presentaría. Invitan a Podemos («aquí no sobra nadie») tras su pacto con ERC. Colau no se había pronunciado sobre la propuesta, según 20minutos.",
+      "lectura": "Cierra la cabeza de lista del Frente Amplio, pero el espacio a la izquierda del PSOE sigue dividido entre el Frente Amplio y el pacto Podemos-ERC. El registro de coaliciones cierra el viernes 16. Nivel B (comunicado de las partes recogido por la prensa).",
+      "actores": [
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        },
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://elpais.com/espana/elecciones-generales/2026-10-12/el-frente-amplio-propone-a-ada-colau-como-candidata-a-la-presidencia-y-deja-abierta-la-integracion-de-podemos.html",
+        "https://www.20minutos.es/nacional/frente-amplio-propone-ada-colau-como-cabeza-lista-las-elecciones-29n_7047873_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-12",
+      "titulo": "Sánchez admite que buques marroquíes entraron en aguas de Ceuta en julio",
+      "que": "Pedro Sánchez reconoce ante periodistas en el Palacio Real que buques de la Marina marroquí entraron en aguas de Ceuta coincidiendo con la llegada de más de 80.000 migrantes el 30 y 31 de julio. Lo califica de «hecho puntual», no lo vincula con la entrada de migrantes y dice que se resolvió con contacto entre las Armadas. Había adelantado la información El País. Los Reyes visitan Ceuta y Melilla el 13 y 14 de octubre.",
+      "lectura": "Confirma una información adelantada por El País; el Gobierno lo presenta como un hecho puntual resuelto por contacto entre las Armadas. Nivel B (declaraciones del presidente recogidas por Europa Press y ABC).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-sanchez-admite-buques-marroquies-entraron-aguas-ceuta-julio-resalta-progresiva-vuelta-normalidad-20261012172138.html",
+        "https://www.abc.es/espana/sanchez-admite-buques-marroquies-entraron-aguas-ceuta-20261012201515-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-12",
       "titulo": "El Supremo mantiene la suspensión del voto de los nacionalizados por la «ley de nietos» para el 29-N",
       "que": "La Sala de lo Contencioso del Tribunal Supremo rechaza el recurso de la Abogacía del Estado (y la petición de la Fiscalía) y mantiene la medida cautelar pedida por Vox e Iustitia Europa: los nacionalizados por esa vía no votarán el 29-N, salvo quienes acrediten por certificación consular que sus ascendientes sufrieron exilio. Según el Gobierno, afecta a 163.020 personas (censo cerrado a 1-8-2026). El Supremo ordena publicar los autos en el BOE «con la mayor urgencia».",
       "lectura": "Decisión judicial que limita el censo de residentes ausentes en esta convocatoria; el tribunal prioriza «el interés general» del censo sobre el derecho de sufragio. Falta ver su publicación en el BOE. Nivel A (autos recogidos por Europa Press y El País; texto oficial pendiente de BOE).",
