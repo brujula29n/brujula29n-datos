@@ -1,6 +1,33 @@
 {
- "actualizado": "2026-10-11",
+ "actualizado": "2026-10-12",
  "dias": [
+  {
+   "fecha": "2026-10-12",
+   "items": [
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: GAD3 2026-10-08.",
+     "texto_en": "New poll: GAD3 2026-10-08."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: GESOP 2026-10-08.",
+     "texto_en": "New poll: GESOP 2026-10-08."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: SocioMétrica 2026-10-11.",
+     "texto_en": "New poll: SocioMétrica 2026-10-11."
+    },
+    {
+     "tipo": "media",
+     "texto": "PP baja en la media: 32,6 % → 32,3 %.",
+     "delta": -0.4,
+     "partido": "PP",
+     "texto_en": "PP falls in the poll average: 32.6% → 32.3%."
+    }
+   ]
+  },
   {
    "fecha": "2026-10-11",
    "items": [
@@ -303,6 +330,32 @@
     "bloqueo": 0.8
    },
    "n_encuestas": 21
+  },
+  {
+   "fecha": "2026-10-12",
+   "media": {
+    "PP": 32.29,
+    "PSOE": 26.38,
+    "VOX": 18.68,
+    "SUMAR": 5.97,
+    "PODEMOS": 3.07,
+    "SALF": 1.7
+   },
+   "escanos": {
+    "PP": 139,
+    "PSOE": 107,
+    "VOX": 65,
+    "SUMAR": 7,
+    "PODEMOS": 2
+   },
+   "ppvox": 204,
+   "probs": {
+    "pp_vox": 96.6,
+    "pp_solo": 0.4,
+    "psoe_bloque": 1.8,
+    "bloqueo": 1.2
+   },
+   "n_encuestas": 24
   }
  ]
 }
