@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-10-11",
+  "actualizado": "2026-10-12",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-12",
+      "titulo": "Podemos y ERC confirman su pacto para el 29-N",
+      "que": "En un comunicado conjunto, Podemos y ERC confirman que los morados «contribuirán a la candidatura» de ERC al Congreso en Cataluña y que Irene Montero y Gabriel Rufián «harán equipo» en la campaña. No concretan puestos en las listas. Sumar (Verónica Martínez Barbero) dice que el pacto no favorece el acuerdo de las izquierdas, pero sigue abierto al Frente Amplio. El plazo para registrar coaliciones termina el viernes 16 a las 23.59.",
+      "lectura": "Divide el espacio a la izquierda del PSOE: Podemos no iría con el Frente Amplio en Cataluña, donde ERC competiría con los Comuns. Falta ver cómo se concreta fuera de Cataluña. Nivel B (comunicado de las partes recogido por la prensa).",
+      "actores": [
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        },
+        {
+          "id": "ERC",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/confirma-erc-les-incorporara-listas-rufian-hara-campana-montero_1_13579498.html",
+        "https://www.abc.es/espana/podemos-erc-oficializan-alianza-29n-haran-campana-20261012122428-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-12",
+      "titulo": "Abascal no acude al desfile del 12-O y viaja a Ceuta con Bardella",
+      "que": "El líder de Vox, Santiago Abascal, no asiste al desfile de la Fiesta Nacional y va a Ceuta con Jordan Bardella (Agrupación Nacional). Dice que no quiere compartir tribuna con «traidores», pide «militarizar» la frontera y «repatriaciones inmediatas». Es la segunda vez que falta al acto, según elDiario.es. Feijóo sí asiste.",
+      "lectura": "Gesto de campaña de Vox sobre inmigración y soberanía. Sus propuestas de expulsión y «repatriaciones» deberán ajustarse a la legislación vigente. Nivel B (declaraciones públicas recogidas por la prensa).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/abascal-planta-reyes-12-octubre-irse-ceuta-ultra-bardella-no-quiero-compartir-tribuna-traidores_1_13579298.html",
+        "https://www.abc.es/espana/abascal-ausenta-desfile-12o-ceuta-sigue-invadida-20261012142626-nt.html"
+      ]
+    },
     {
       "fecha": "2026-10-11",
       "titulo": "IU respalda a Ada Colau como candidata del Frente Amplio",

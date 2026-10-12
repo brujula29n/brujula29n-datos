@@ -167,8 +167,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 77,
-  "ultimo": "IU respalda a Ada Colau como candidata del Frente Amplio"
+  "n": 79,
+  "ultimo": "Podemos y ERC confirman su pacto para el 29-N"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -214,6 +214,10 @@
    "texto": "PP baja en la media: 32,6 % → 32,3 %.",
    "delta": -0.4,
    "partido": "PP"
+  },
+  {
+   "tipo": "diario",
+   "texto": "2 movimientos nuevos en el diario. Último: Podemos y ERC confirman su pacto para el 29-N."
   }
  ]
 }
