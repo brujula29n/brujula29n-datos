@@ -4,6 +4,26 @@
   "entradas": [
     {
       "fecha": "2026-10-13",
+      "titulo": "Montero: Podemos no se integrará en el Frente Amplio y mantiene su alianza con ERC abierta a otros",
+      "que": "Irene Montero (Podemos) niega en TVE que su partido vaya a integrarse en el Frente Amplio y dice que su alianza con Rufián está «abierta a que se incorpore quien quiera». Defiende las primarias para llegar a acuerdos y, en la Cadena SER, evita pronunciarse sobre la «puerta abierta» que ofreció el Frente Amplio: «Prefiero mi silencio». Sumar sigue confiando en que Podemos se incorpore.",
+      "lectura": "El espacio a la izquierda del PSOE sigue sin acuerdo único a tres días del cierre del registro de coaliciones (viernes 16). Nivel B (entrevistas recogidas por Europa Press).",
+      "actores": [
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-montero-defiende-alianza-erc-evita-pronunciarse-puerta-abierta-unirse-frente-amplio-20261013100131.html",
+        "https://www.europapress.es/nacional/noticia-sumar-confia-podemos-incorpore-frente-amplio-dice-actitud-rufian-no-debe-impedir-acuerdos-20261013084254.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-13",
       "titulo": "Ignacio González se sienta en el banquillo por el campo de golf del Canal de Isabel II",
       "que": "La Audiencia Nacional celebra desde este martes el primero de los tres juicios pendientes contra el expresidente de la Comunidad de Madrid Ignacio González (PP) en el caso Lezo. Se le acusa de urdir un sistema para que las adjudicaciones del campo de golf proyectado sobre los depósitos del Canal de Isabel II recayeran en una empresa vinculada a familiares suyos. La instalación fue declarada ilegal y está demolida.",
       "lectura": "Juicio de un exdirigente del PP en plena precampaña; los hechos se atribuyen a la etapa 2003-2012. Es una acusación, sin sentencia: rige la presunción de inocencia. Nivel A (vista oral en la Audiencia Nacional recogida por la prensa).",

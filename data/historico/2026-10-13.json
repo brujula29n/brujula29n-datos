@@ -167,8 +167,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 84,
-  "ultimo": "Ignacio González se sienta en el banquillo por el campo de golf del Canal de Isabel II"
+  "n": 85,
+  "ultimo": "Montero: Podemos no se integrará en el Frente Amplio y mantiene su alianza con ERC abierta a otros"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -199,7 +199,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "1 movimiento nuevo en el diario. Último: Ignacio González se sienta en el banquillo por el campo de golf del Canal de Isabel II."
+   "texto": "2 movimientos nuevos en el diario. Último: Montero: Podemos no se integrará en el Frente Amplio y mantiene su alianza con ERC abierta a otros."
   }
  ]
 }
