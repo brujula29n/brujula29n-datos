@@ -4,6 +4,37 @@
   "entradas": [
     {
       "fecha": "2026-10-13",
+      "titulo": "Pedraz cita como investigado a un exjuez por contactar con un clan narco para atacar a la jueza del caso David Sánchez",
+      "que": "El juez de la Audiencia Nacional Santiago Pedraz cita como investigado, en la causa sobre las supuestas «cloacas» del PSOE, a un exjuez que habría contactado con un clan de narcotraficantes de Badajoz para plantear un ataque contra la instructora Beatriz Biedma, según declaró ante la UCO la líder del clan. Ve indicios de cuatro posibles delitos (organización criminal, calumnias, coacciones y contra la integridad moral) y le interrogará el 28 de octubre. La jueza Biedma había pedido su imputación el mismo día. Está por determinar si actuó coordinado con Leire Díez.",
+      "lectura": "Es una investigación abierta, sin acusación formal ni sentencia: rige la presunción de inocencia y la imputación no prueba los hechos. Nivel A (auto judicial recogido por la prensa).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/audiencia-nacional-imputa-exjuez-ligado-las-cloacas-psoe-que-contacto-con-clan-los-rochos-para-atacar-biedma_7048297_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-13",
+      "titulo": "Colau agradece la propuesta del Frente Amplio sin aceptarla expresamente; Emilio Delgado encabeza Madrid",
+      "que": "Ada Colau dice que es «un honor» que el Frente Amplio la proponga, no manifiesta de forma explícita que acepte y reclama una candidatura única de las izquierdas: «todavía hay tiempo» (el registro de coaliciones cierra el viernes 16); tiende la mano a ERC y Podemos. Por la tarde, el Frente Amplio confirma a Emilio Delgado (Más Madrid) como número uno por Madrid, con lo que Colau iría, en principio y sin confirmación oficial, por Barcelona.",
+      "lectura": "El Frente Amplio fija nombres pero sigue sin acuerdo con Podemos y ERC a tres días del cierre del registro. Nivel B (declaraciones de Colau y comunicado del Frente Amplio, recogidos por 20minutos y elDiario.es).",
+      "actores": [
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/colau-ve-un-honor-que-frente-amplio-proponga-como-lider-pero-insiste-unidad-con-podemos-tiende-mano-erc_7048310_0.html",
+        "https://www.eldiario.es/politica/frente-amplio-confirma-emilio-delgado-numero-1-madrid_1_13583221.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-13",
       "titulo": "El Gobierno acatará el Supremo sobre la «ley de nietos» pero lo critica y apunta a que recurran los afectados",
       "que": "La portavoz, Elma Saiz, tras el Consejo de Ministros: «el derecho al voto se garantiza, no se restringe»; califica la suspensión de «extraordinaria gravedad» y dice que el Gobierno «siempre acata las resoluciones judiciales». No concreta si recurrirá al Constitucional; fuentes gubernamentales se inclinan por que sean los propios afectados quienes recurran. Señalan la complejidad de aplicar la orden con tan poco margen hasta el 29-N.",
       "lectura": "El Gobierno cumplirá la resolución sin compartirla. Queda por ver cómo se aplica a los 163.020 inscritos en el CERA y si hay recurso de amparo. Nivel B (rueda de prensa y fuentes gubernamentales recogidas por Europa Press).",
