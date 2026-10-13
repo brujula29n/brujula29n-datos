@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-10-12",
+  "actualizado": "2026-10-13",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-13",
+      "titulo": "Ignacio González se sienta en el banquillo por el campo de golf del Canal de Isabel II",
+      "que": "La Audiencia Nacional celebra desde este martes el primero de los tres juicios pendientes contra el expresidente de la Comunidad de Madrid Ignacio González (PP) en el caso Lezo. Se le acusa de urdir un sistema para que las adjudicaciones del campo de golf proyectado sobre los depósitos del Canal de Isabel II recayeran en una empresa vinculada a familiares suyos. La instalación fue declarada ilegal y está demolida.",
+      "lectura": "Juicio de un exdirigente del PP en plena precampaña; los hechos se atribuyen a la etapa 2003-2012. Es una acusación, sin sentencia: rige la presunción de inocencia. Nivel A (vista oral en la Audiencia Nacional recogida por la prensa).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/ignacio-gonzalez-sienta-banquillo-amano-campo-golf-pp-construyo-centro-madrid_1_13575747.html",
+        "https://elpais.com/espana/2026-10-13/el-expresidente-madrileno-ignacio-gonzalez-se-sienta-en-el-banquillo-por-corrupcion-en-plena-precampana.html"
+      ]
+    },
     {
       "fecha": "2026-10-12",
       "titulo": "El Frente Amplio propone a Ada Colau como candidata y llama a Podemos a sumarse",
