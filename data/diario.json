@@ -4,6 +4,45 @@
   "entradas": [
     {
       "fecha": "2026-10-13",
+      "titulo": "PP y UPN alcanzan un principio de acuerdo para ir juntos en Navarra el 29-N",
+      "que": "Fuentes de Génova confirman a EFE un principio de acuerdo para que PP y UPN concurran en coalición en Navarra. UPN no lo da por cerrado: debe ratificarlo su Consejo Político, que se reúne esta tarde. En 2023 fueron por separado y obtuvieron un diputado cada uno de los cinco escaños en juego.",
+      "lectura": "Pendiente de ratificación de UPN; el plazo para registrar coaliciones termina el viernes 16. Nivel B (fuentes de Génova a EFE; UPN sin confirmar).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "UPN",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/pp-upn-llegan-un-principio-acuerdo-para-presentarse-juntos-las-elecciones_7048151_0.html",
+        "https://www.abc.es/espana/pp-upn-alcanzan-principio-acuerdo-concurrir-juntos-20261013123343-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-13",
+      "titulo": "ERC niega una coalición con Podemos: habrá independientes de Podemos en sus listas",
+      "que": "El portavoz de ERC, Isaac Albert, dice que no hay coalición con Podemos, sino «colaboración»: habrá miembros independientes del partido morado en las listas de ERC por Barcelona y Tarragona. Añade que la lista y el programa son de ERC y que los diputados que obtenga formarán parte del grupo de ERC.",
+      "lectura": "Precisa el alcance del pacto anunciado el 12-10: Podemos no concurre en Cataluña y no se integra en el grupo de ERC. Nivel B (rueda de prensa recogida por Europa Press).",
+      "actores": [
+        {
+          "id": "ERC",
+          "impacto": 0
+        },
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/catalunya/noticia-erc-niega-coalicion-podemos-si-contribuira-independientes-listas-barcelona-tarragona-20261013135705.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-13",
       "titulo": "Montero: Podemos no se integrará en el Frente Amplio y mantiene su alianza con ERC abierta a otros",
       "que": "Irene Montero (Podemos) niega en TVE que su partido vaya a integrarse en el Frente Amplio y dice que su alianza con Rufián está «abierta a que se incorpore quien quiera». Defiende las primarias para llegar a acuerdos y, en la Cadena SER, evita pronunciarse sobre la «puerta abierta» que ofreció el Frente Amplio: «Prefiero mi silencio». Sumar sigue confiando en que Podemos se incorpore.",
       "lectura": "El espacio a la izquierda del PSOE sigue sin acuerdo único a tres días del cierre del registro de coaliciones (viernes 16). Nivel B (entrevistas recogidas por Europa Press).",
