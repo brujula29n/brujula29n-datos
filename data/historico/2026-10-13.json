@@ -167,8 +167,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 87,
-  "ultimo": "PP y UPN alcanzan un principio de acuerdo para ir juntos en Navarra el 29-N"
+  "n": 89,
+  "ultimo": "El Gobierno acatará el Supremo sobre la «ley de nietos» pero lo critica y apunta a que recurran los afectados"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -199,7 +199,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "4 movimientos nuevos en el diario. Último: PP y UPN alcanzan un principio de acuerdo para ir juntos en Navarra el 29-N."
+   "texto": "6 movimientos nuevos en el diario. Último: El Gobierno acatará el Supremo sobre la «ley de nietos» pero lo critica y apunta a que recurran los afectados."
   }
  ]
 }
