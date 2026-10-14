@@ -4,6 +4,63 @@
   "entradas": [
     {
       "fecha": "2026-10-14",
+      "titulo": "PP y Vox firman la moción de censura contra el alcalde de Algeciras",
+      "que": "Los doce concejales del PP que dejaron el gobierno local y los cuatro de Vox firman una moción de censura contra el alcalde, José Ignacio Landaluce, con Jacinto Muñoz (PP) como candidato; se registrará este miércoles. El alcalde, que dejó el PP en 2025 y afronta dos denuncias por presunta agresión sexual, se niega a dimitir. El PSOE se había mostrado a favor de apartarlo, sin precisar su voto.",
+      "lectura": "La mayoría absoluta del pleno son 14 votos y suman 16. Son denuncias, no hay sentencia: rige la presunción de inocencia. Nivel B (declaraciones del presidente del PP de Cádiz recogidas por El Español y ABC).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elespanol.com/espana/andalucia/20261014/pp-lanza-junto-vox-mocion-censura-desalojar-alcalde-algeciras-negativa-dimitir/1003744420392_0.html",
+        "https://www.abc.es/espana/andalucia/cadiz/pp-vox-firman-peticion-mocion-censura-algeciras-20261014204148-nts.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-14",
+      "titulo": "Los tres vicepresidentes del Gobierno no irán en las listas; varios ministros sí",
+      "que": "Sara Aagesen y Carlos Cuerpo renuncian a ir en las listas del PSOE pese al ofrecimiento de Ferraz y se suman a Yolanda Díaz, que no irá en ninguna lista del Frente Amplio (El Español). Según elDiario.es, entre los ministros candidatos: Bolaños (número tres por Madrid), Robles (dos), Grande-Marlaska (cinco), Albares (uno por Cádiz), Puente (Valladolid), Hereu (Barcelona), Saiz (Navarra) y Rodríguez (Ciudad Real); Óscar López y Ángel Víctor Torres no concurren por las autonómicas de 2027.",
+      "lectura": "Composición de las listas del PSOE y del Frente Amplio a pocos días del cierre. Nivel B (informaciones de prensa; falta comunicado oficial).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elespanol.com/espana/politica/20261014/vicepresidentes-renuncian-ir-listas-sanchez-queda-robles-numero-madrid/1003744420381_0.html",
+        "https://www.eldiario.es/politica/ministros-iran-listas-congreso-no-repetiran_1_13585524.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-14",
+      "titulo": "Pensiones, primer cruce de la campaña: el PP promete revalorizarlas con el IPC y el PSOE le acusa de querer «privatizar» el sistema",
+      "que": "La portavoz del PP en el Congreso, Ester Muñoz, dijo que el sistema «va a colapsar» y que el modelo «hay que cambiarlo»; Feijóo prometió revalorizar las pensiones con el IPC y no cuestionar el sistema público. Dirigentes del PSOE responden que el PP quiere «privatizar» y Sánchez, en Zaragoza, dice que PP y Vox «firman la carta de defunción del Estado del Bienestar». El PP lo califica de «mentiras». Newtral recuerda que la AIReF dice que la regla de gasto en pensiones «se cumple formalmente, pero no garantiza la sostenibilidad».",
+      "lectura": "Cada parte atribuye a la otra intenciones; ninguno de los dos partidos ha publicado aún su programa. Dato independiente: AIReF, informe de 2026 (nivel A); el resto, declaraciones (nivel B).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-pp-critica-mentiras-psoe-contra-feijoo-pensiones-promete-subirlas-conforme-ipc-si-gobiernan-20261014192806.html",
+        "https://www.europapress.es/aragon/noticia-sanchez-cree-si-pp-vox-llegan-gobierno-espana-firman-carta-defuncion-estado-bienestar-20261014203519.html",
+        "https://www.newtral.es/sostenibilidad-pensiones-pedro-sanchez-factcheck/20261014/"
+      ]
+    },
+    {
+      "fecha": "2026-10-14",
       "titulo": "Robles será la número dos de Sánchez por Madrid; Planas no encabezará la lista de Córdoba",
       "que": "Según El País, Margarita Robles será la número dos de Pedro Sánchez en la lista del PSOE por Madrid, con Félix Bolaños de tres y once ministros en las listas. Fernando Grande-Marlaska pasa de encabezar Cádiz al quinto puesto de Madrid. Aparte, el ministro Luis Planas comunica al PSOE de Córdoba que no será cabeza de lista por esa provincia (El Español).",
       "lectura": "Composición de las listas del PSOE antes de su cierre; los nombres se ratifican en los órganos del partido. Nivel B (informaciones de prensa; sin comunicado oficial leído).",
