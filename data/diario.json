@@ -4,6 +4,52 @@
   "entradas": [
     {
       "fecha": "2026-10-14",
+      "titulo": "Robles será la número dos de Sánchez por Madrid; Planas no encabezará la lista de Córdoba",
+      "que": "Según El País, Margarita Robles será la número dos de Pedro Sánchez en la lista del PSOE por Madrid, con Félix Bolaños de tres y once ministros en las listas. Fernando Grande-Marlaska pasa de encabezar Cádiz al quinto puesto de Madrid. Aparte, el ministro Luis Planas comunica al PSOE de Córdoba que no será cabeza de lista por esa provincia (El Español).",
+      "lectura": "Composición de las listas del PSOE antes de su cierre; los nombres se ratifican en los órganos del partido. Nivel B (informaciones de prensa; sin comunicado oficial leído).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://elpais.com/espana/elecciones-generales/2026-10-14/margarita-robles-sera-la-numero-dos-de-pedro-sanchez-en-las-listas-del-psoe.html",
+        "https://www.elespanol.com/espana/andalucia/20261014/ministro-luis-planas-no-presentara-elecciones-cabeza-lista-psoe-cordoba/1003744419974_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-14",
+      "titulo": "Feijóo exige que Sánchez comparezca en la Diputación Permanente por los buques marroquíes",
+      "que": "Alberto Núñez Feijóo reclama que Pedro Sánchez explique en la Diputación Permanente la entrada de buques marroquíes en aguas de Ceuta y dice que el PP ya lo ha puesto en conocimiento de la Audiencia Nacional, donde está personado. Afirma que el Gobierno «lo sabía» y que el presidente se lo ocultó a las Cortes; el Gobierno lo califica de «hecho puntual» (13-10) y dice que el Rey fue informado.",
+      "lectura": "Petición del PP, sin decisión del Gobierno ni de la Mesa por ahora; la Diputación Permanente tiene su primera reunión prevista el 16-10. Nivel B (declaraciones de Feijóo recogidas por Europa Press).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-feijoo-exige-sanchez-comparezca-congreso-buques-marroquies-ceuta-lleva-audiencia-nacional-20261014141652.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-14",
+      "titulo": "El Gobierno admite que es casi imposible revisar a tiempo los expedientes de la «ley de nietos»",
+      "que": "Fuentes de Justicia dicen a elDiario.es que unos 76.000 expedientes son electrónicos y unos 80.000 están en papel en los consulados, y que revisar estos a mano es «prácticamente imposible». La Oficina del Censo Electoral debe enviar la documentación de voto entre el 24 y el 30 de octubre; el INE confirma que ningún consulado ha enviado aún las certificaciones necesarias.",
+      "lectura": "Si no se certifican a tiempo, quedarían sin voto los afectados (163.020 inscritos según el Gobierno). Nivel B (fuentes del Ministerio de Justicia y del INE recogidas por elDiario.es).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/gobierno-ve-imposible-cumplir-auto-supremo-revisar-mano-80-000-expedientes-ley-nietos_1_13584531.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-14",
       "titulo": "El CIS de octubre sitúa al PSOE 11,8 puntos por delante del PP",
       "que": "Barómetro del CIS (campo 1-6 de octubre, 5.025 entrevistas telefónicas, margen ±1,4 %): PSOE 34,0 % (+3,0 respecto a septiembre), PP 22,2 % (−3,3), Vox 17,1 %, Sumar-Frente Amplio 6,1 %, Podemos 3,1 %, ERC 3,0 %. Es el primer barómetro tras la convocatoria. PSOE y Sumar suman 40,1 % frente al 39,3 % de PP y Vox (Europa Press). Campo anterior al 7 de octubre.",
       "lectura": "Es la única encuesta de la serie actual que da ventaja al PSOE; las demás casas sitúan al PP primero. El CIS no publica escaños, no pondera por recuerdo de voto y ha sobreestimado al bloque de izquierda en 41 de 42 elecciones desde 2018 (Maldita.es), por lo que se muestra pero no entra en la media. Nivel A (organismo oficial).",
