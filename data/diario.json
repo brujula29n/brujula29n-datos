@@ -4,6 +4,26 @@
   "entradas": [
     {
       "fecha": "2026-10-14",
+      "titulo": "El CIS de octubre sitúa al PSOE 11,8 puntos por delante del PP",
+      "que": "Barómetro del CIS (campo 1-6 de octubre, 5.025 entrevistas telefónicas, margen ±1,4 %): PSOE 34,0 % (+3,0 respecto a septiembre), PP 22,2 % (−3,3), Vox 17,1 %, Sumar-Frente Amplio 6,1 %, Podemos 3,1 %, ERC 3,0 %. Es el primer barómetro tras la convocatoria. PSOE y Sumar suman 40,1 % frente al 39,3 % de PP y Vox (Europa Press). Campo anterior al 7 de octubre.",
+      "lectura": "Es la única encuesta de la serie actual que da ventaja al PSOE; las demás casas sitúan al PP primero. El CIS no publica escaños, no pondera por recuerdo de voto y ha sobreestimado al bloque de izquierda en 41 de 42 elecciones desde 2018 (Maldita.es), por lo que se muestra pero no entra en la media. Nivel A (organismo oficial).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-psoe-sube-35-puntos-cis-desahucio-maricarmen-mantiene-53-puntos-pp-tambien-crece-20261014124243.html",
+        "https://www.eldiario.es/politica/cis-aumenta-apoyo-psoe-arranque-precampana-amplia-ventaja-11-8-puntos-pp-cae_1_13584009.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-14",
       "titulo": "Colau se ofrece a dar un paso atrás y arrancan las primarias de Podemos",
       "que": "Ada Colau dice en TVE que su candidatura no es definitiva y que está dispuesta a apartarse, e incluso a cambiar la marca Frente Amplio, si ayuda a una candidatura de unidad con Podemos e Irene Montero. Ese mismo día arrancan las primarias abiertas de Podemos (hasta la medianoche del 15; resultados el 16 a las 12.00) con Montero como aspirante; el ganador encabezaría Madrid. El Frente Amplio había pedido negociar antes el método de elección.",
       "lectura": "Movimiento para desbloquear la unidad a la izquierda del PSOE; el registro de coaliciones cierra el viernes 16 a las 23.59 y sigue sin acuerdo. Nivel B (declaraciones y convocatoria de las propias formaciones, recogidas por Europa Press).",

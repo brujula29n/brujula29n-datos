@@ -167,8 +167,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 96,
-  "ultimo": "Colau se ofrece a dar un paso atrás y arrancan las primarias de Podemos"
+  "n": 97,
+  "ultimo": "El CIS de octubre sitúa al PSOE 11,8 puntos por delante del PP"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -199,7 +199,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "5 movimientos nuevos en el diario. Último: Colau se ofrece a dar un paso atrás y arrancan las primarias de Podemos."
+   "texto": "6 movimientos nuevos en el diario. Último: El CIS de octubre sitúa al PSOE 11,8 puntos por delante del PP."
   }
  ]
 }
