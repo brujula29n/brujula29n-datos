@@ -1,7 +1,58 @@
 {
-  "actualizado": "2026-10-13",
+  "actualizado": "2026-10-14",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-14",
+      "titulo": "El Constitucional no prevé intervenir antes del 29-N en la suspensión del voto de la «ley de nietos»",
+      "que": "Fuentes del Tribunal Constitucional dicen a El Español que no tienen «intención alguna de intervenir» ahora: el asunto está en trámite en la Sala de lo Contencioso del Supremo, que es competente junto a la administración electoral. Añaden que, si llegaran amparos antes de la votación, no cabría una medida cautelarísima para levantar la suspensión. ABC cita también al TC en el mismo sentido.",
+      "lectura": "Cierra, en la práctica, la vía del Constitucional antes del 29-N; la suspensión del voto de los afectados (163.020 inscritos según el Gobierno) sigue en vigor salvo cambio del Supremo. Nivel B (fuentes del TC, no una resolución).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elespanol.com/espana/tribunales/20261014/tc-descarta-intervenir-revisar-suspension-voto-nietos-acordada-ts/1003744419074_0.html",
+        "https://www.abc.es/espana/condepumpido-ira-nuevo-choque-supremo-ley-nietos-20261014012241-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-14",
+      "titulo": "Podemos y el Frente Amplio, sin acuerdo: se decidirá el viernes a las 23.59",
+      "que": "Según elDiario.es, las posiciones siguen muy alejadas desde el pacto de Podemos con ERC. El Frente Amplio pide a Podemos que se integre; Podemos dice estar abierta a un acuerdo pero que debe moverse la otra parte. Las fuentes consultadas coinciden en que no se sabrá si habrá lista única a la izquierda del PSOE hasta el cierre del registro de coaliciones, el viernes 16 a las 23.59.",
+      "lectura": "Dos candidaturas a la izquierda del PSOE siguen siendo el escenario por defecto. Nivel B (fuentes de ambas partes recogidas por elDiario.es).",
+      "actores": [
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/negociacion-frente-amplio-encalla-apunta-resolucion-viernes-ultimo-minuto_1_13583015.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-14",
+      "titulo": "Doce concejales del PP dejan el gobierno de Algeciras tras la negativa del alcalde a dimitir por dos denuncias",
+      "que": "Doce de los quince concejales del PP de Algeciras renuncian a sus delegaciones tras negarse el alcalde, José Ignacio Landaluce, a dimitir, después de que dos mujeres lo denunciaran ante la Justicia por presunta agresión sexual. El alcalde defiende su inocencia en un vídeo. El PP de Cádiz dice que adoptará medidas para garantizar la estabilidad y baraja una moción de censura; Vox anuncia que la apoyaría.",
+      "lectura": "Hecho de política local con efecto en el PP andaluz. Son denuncias, no hay sentencia: rige la presunción de inocencia. Nivel B (El Mundo y El Español; partido y alcalde han hecho declaraciones públicas).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/andalucia/2026/10/13/6ace42e921efa0b74f8b4593.html",
+        "https://www.elespanol.com/espana/andalucia/20261014/alcalde-algeciras-enroca-concejales-no-dimitir-pone-riesgo-mayoria-pp-diputacion-cadiz/1003744418073_0.html"
+      ]
+    },
     {
       "fecha": "2026-10-13",
       "titulo": "Pedraz cita como investigado a un exjuez por contactar con un clan narco para atacar a la jueza del caso David Sánchez",
