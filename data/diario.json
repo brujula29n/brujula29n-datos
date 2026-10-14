@@ -4,6 +4,36 @@
   "entradas": [
     {
       "fecha": "2026-10-14",
+      "titulo": "Colau se ofrece a dar un paso atrás y arrancan las primarias de Podemos",
+      "que": "Ada Colau dice en TVE que su candidatura no es definitiva y que está dispuesta a apartarse, e incluso a cambiar la marca Frente Amplio, si ayuda a una candidatura de unidad con Podemos e Irene Montero. Ese mismo día arrancan las primarias abiertas de Podemos (hasta la medianoche del 15; resultados el 16 a las 12.00) con Montero como aspirante; el ganador encabezaría Madrid. El Frente Amplio había pedido negociar antes el método de elección.",
+      "lectura": "Movimiento para desbloquear la unidad a la izquierda del PSOE; el registro de coaliciones cierra el viernes 16 a las 23.59 y sigue sin acuerdo. Nivel B (declaraciones y convocatoria de las propias formaciones, recogidas por Europa Press).",
+      "actores": [
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        },
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-colau-afirma-estar-dispuesta-dar-paso-atras-candidata-si-ayuda-pacto-lista-unidad-20261014092307.html",
+        "https://www.europapress.es/nacional/noticia-arranca-votaciones-primarias-impulsadas-podemos-irene-montero-aspirante-candidata-20261014102702.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-14",
+      "titulo": "Democracia 21 y Ciudadanos irán juntos en Madrid y Barcelona bajo el nombre «Democracia para el Siglo 21»",
+      "que": "Democracia 21, Ciudadanos y UCIN sellan una alianza para concurrir juntos el 29-N en Madrid y Barcelona, únicas circunscripciones donde se presentará Democracia 21. Lo anuncia la candidata, Miriam González, en redes, y lo confirman fuentes del partido a ABC. Ciudadanos no concurrió en 2023.",
+      "lectura": "Una coalición más a registrar antes del cierre del plazo (viernes 16). Nivel B (anuncio de la candidata y fuentes del partido; falta el registro ante la Junta Electoral Central).",
+      "actores": [],
+      "src": [
+        "https://www.abc.es/espana/democracia-concurrira-coalicion-ciudadanos-elecciones-29n-20261014104659-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-14",
       "titulo": "El Constitucional no prevé intervenir antes del 29-N en la suspensión del voto de la «ley de nietos»",
       "que": "Fuentes del Tribunal Constitucional dicen a El Español que no tienen «intención alguna de intervenir» ahora: el asunto está en trámite en la Sala de lo Contencioso del Supremo, que es competente junto a la administración electoral. Añaden que, si llegaran amparos antes de la votación, no cabría una medida cautelarísima para levantar la suspensión. ABC cita también al TC en el mismo sentido.",
       "lectura": "Cierra, en la práctica, la vía del Constitucional antes del 29-N; la suspensión del voto de los afectados (163.020 inscritos según el Gobierno) sigue en vigor salvo cambio del Supremo. Nivel B (fuentes del TC, no una resolución).",

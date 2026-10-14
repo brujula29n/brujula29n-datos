@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-13",
+  "actualizado": "2026-10-14",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -37,11 +37,11 @@
     },
     {
       "fecha": "2026-10-14",
-      "titulo": "Primarias abiertas propuestas por Podemos (14-15 oct)",
-      "detalle": "Condición de Podemos para concurrir unido con Frente Amplio. Sumar no las ha aceptado.",
+      "titulo": "Primarias abiertas de Podemos (14-15 oct; resultados el 16 a las 12.00)",
+      "detalle": "En curso: votación del 14-10 (08.00) al 15-10 (24.00) con Irene Montero como aspirante; el ganador encabezaría Madrid. Resultados el 16-10 a las 12.00. Sumar/Frente Amplio no las aceptó como método.",
       "tipo": "politico",
       "estado": "previsto",
-      "src": "https://www.moncloa.com/2026/10/05/izquierda-psoe-sin-coalicion-29n-3442866/"
+      "src": "https://www.europapress.es/nacional/noticia-arranca-votaciones-primarias-impulsadas-podemos-irene-montero-aspirante-candidata-20261014102702.html"
     },
     {
       "fecha": "2026-10-16",
