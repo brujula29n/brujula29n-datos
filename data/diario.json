@@ -4,6 +4,66 @@
   "entradas": [
     {
       "fecha": "2026-10-15",
+      "titulo": "Primera lista unitaria de la izquierda: NC-BC, Podemos, IU y Sumar irán juntos en Canarias",
+      "que": "Nueva Canarias-Bloque Canarista, Podemos Canarias, Izquierda Unida Canaria y Movimiento Sumar Canarias concurrirán en alianza el 29-N bajo la marca «Unidad del Pueblo Canario». Lo anuncian en un comunicado conjunto, con tres ejes: intereses de Canarias, vivienda y servicios públicos. Irene Montero dice que Podemos sigue «buscando acuerdos en más territorios».",
+      "lectura": "Primer acuerdo en el que Podemos y los partidos del Frente Amplio van juntos; en Madrid y Cataluña siguen sin acuerdo a un día del cierre del registro de coaliciones (viernes 16, 23.59). Nivel B (comunicado de las formaciones recogido por Europa Press).",
+      "actores": [
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/islas-canarias/noticia-nc-bc-podemos-canarias-iuc-sumar-canarias-acudiran-alianza-29n-marca-unidad-pueblo-canario-20261015185207.html",
+        "https://www.europapress.es/nacional/noticia-montero-dice-podemos-sigue-buscando-acuerdos-mas-territorios-pacto-canarias-nc-sumar-iu-20261015193710.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-15",
+      "titulo": "Una asociación de descendientes de exiliados presenta alegaciones contra la suspensión del voto de la «ley de nietos»",
+      "que": "El Centro de Descendientes de Españoles Unidos (Ce.DEU) presenta las primeras alegaciones contra los autos del Supremo, con el abogado Eduardo Ranz, para pedir que se levante la suspensión cautelar que afecta a unos 163.000 ciudadanos.",
+      "lectura": "Primer movimiento de los afectados ante el Supremo; queda por ver si admite las alegaciones y si llegan otros recursos o amparos. Nivel B (comunicado de la asociación recogido por elDiario.es).",
+      "actores": [],
+      "src": [
+        "https://www.eldiario.es/politica/asociacion-exiliados-presenta-alegaciones-decision-supremo-suspender-derecho-voto_1_13589335.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-15",
+      "titulo": "Abascal se reúne con Meloni en Bruselas y preside una reunión de Patriots",
+      "que": "Santiago Abascal viaja a Bruselas para presidir la reunión de Patriots (partido europeo que integra Vox) y se reúne con Giorgia Meloni. Dice en redes que Italia «eligió otro camino» y que «España también puede elegirlo», y agradece a sus socios «el apoyo a Ceuta».",
+      "lectura": "Mensaje de campaña de Vox con aliados europeos. Nivel B (declaraciones del propio Abascal recogidas por 20minutos).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/abascal-se-reune-con-giorgia-meloni-bruselas-reivindica-modelo-italiano-espana-tambien-puede-elegirlo_7049336_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-15",
+      "titulo": "El fiscal superior de Extremadura defiende la absolución de los condenados en el caso del hermano de Sánchez",
+      "que": "El fiscal superior de Extremadura, Francisco Javier Montero, defiende que la Fiscalía mantiene una tesis absolutoria en el procedimiento por la contratación de David Sánchez en la Diputación de Badajoz: dice que los hechos no están probados. La Audiencia Provincial de Badajoz condenó en julio por prevaricación a David Sánchez, Miguel Ángel Gallardo y otros nueve; la sentencia está recurrida ante el TSJ de Extremadura y varias acusaciones piden endurecerla.",
+      "lectura": "Sentencia no firme: hay recursos pendientes y los condenados piden la absolución. Nivel A (declaraciones del fiscal superior recogidas por El País).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://elpais.com/espana/2026-10-15/el-fiscal-superior-de-extremadura-defiende-la-absolucion-de-los-condenados-en-el-caso-del-hermano-del-presidente-del-gobierno.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-15",
       "titulo": "La JEC abre un expediente sancionador a Sánchez por su rueda de prensa del 6 de octubre en Moncloa",
       "que": "La Junta Electoral Central acuerda abrir expediente a Pedro Sánchez porque «determinadas manifestaciones» de la rueda de prensa del 6-10, tras el Consejo de Ministros, «podrían haber vulnerado» el art. 50.2 de la LOREG y el deber de neutralidad. Atiende parcialmente denuncias del PP y de SALF: según la JEC no se limitó a informar de los decretos y añadió valoraciones sobre su gestión, críticas a la oposición y la petición de una nueva mayoría. No incluye la declaración del 5-10, anterior al decreto. Europa Press cuenta cinco expedientes abiertos a Sánchez por la JEC.",
       "lectura": "Es la apertura de un expediente, no una sanción: falta la resolución de la JEC. Nivel A (acuerdo de la JEC recogido por Europa Press y elDiario.es).",
