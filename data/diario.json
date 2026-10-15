@@ -4,6 +4,60 @@
   "entradas": [
     {
       "fecha": "2026-10-15",
+      "titulo": "Cuerpo: la subida de las pensiones sería tras el 29-N, con el Gobierno en funciones; Feijóo la da por «innegociable»",
+      "que": "El vicepresidente Carlos Cuerpo dice en TVE que las pensiones no se subirán antes de las elecciones porque el IPC con el que se calculan se conoce el 27 de noviembre, y que se podrá aprobar en diciembre con el Gobierno en funciones y convalidarla la Diputación Permanente. Sánchez dice que el Gobierno pretende subirlas «antes de final de año» sin precisar si antes o después del 29-N. Feijóo (PP) dice que revalorizarlas con el IPC es «innegociable» y que quiere «zanjar» el debate.",
+      "lectura": "Los tres coinciden en el IPC; la diferencia está en el calendario de aprobación y en quién garantiza la sostenibilidad. Nivel B (declaraciones recogidas por El País y Europa Press).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://elpais.com/espana/elecciones-generales/2026-10-15/cuerpo-asegura-que-el-gobierno-quiere-subir-las-pensiones-despues-de-las-elecciones.html",
+        "https://www.europapress.es/nacional/noticia-feijoo-recalca-subida-pensiones-conforme-ipc-innegociable-busca-zanjar-debate-acabo-20261015123042.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-15",
+      "titulo": "Colau aclara que ha asumido ser candidata del Frente Amplio, pero cedería si ayuda a integrar a Podemos",
+      "que": "Ada Colau dice en TVE que ha asumido el encargo de ser candidata del Frente Amplio y lo ejercerá «con toda la fuerza», aunque cedería el puesto si las fuerzas que impulsan una lista unitaria consideran que hay una persona de mayor consenso. Rechaza los «acuerdos parciales» que Podemos ofrece en diez comunidades y les invita a negociar de forma global.",
+      "lectura": "Aclara su postura del 14-10 (entonces no había aceptado expresamente). Registro de coaliciones: viernes 16 a las 23.59. Nivel B (entrevista recogida por Europa Press).",
+      "actores": [
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        },
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-colau-aclara-solo-renunciaria-ser-candidata-si-asi-decide-frente-amplio-sirve-integrar-podemos-20261015135836.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-15",
+      "titulo": "Un juzgado de Madrid abre diligencias por el incidente del spray de pimienta en el Congreso",
+      "que": "Un juzgado de Madrid investiga un posible delito de lesiones tras la denuncia de tres afectados por el incidente en el que la diputada del PP Ana Vázquez exhibió un spray de pimienta en el pleno y después se vació en baños del Congreso. El magistrado pedirá los partes médicos. La Mesa no ha podido sancionarla al estar disueltas las Cortes.",
+      "lectura": "Solo hay diligencias iniciales, sin imputación ni sentencia: rige la presunción de inocencia. Nivel B (elDiario.es y El País).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/juzgado-investiga-incidente-spray-pimienta-ana-vazquez-pp-congreso_1_13587574.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-15",
       "titulo": "Podemos ofrece a IU pactos en diez comunidades sin Madrid ni Barcelona; IU los rechaza",
       "que": "Ione Belarra ofrece a IU acuerdos de unidad en diez comunidades (Galicia, Asturias, Cantabria, Euskadi, Navarra, Castilla y León, Castilla-La Mancha, Murcia, Extremadura y Andalucía), dejando fuera Madrid y Barcelona, y habla con Compromís, Ara Més y Chunta. Antonio Maíllo (IU) responde que IU solo negociará dentro del Frente Amplio y no acepta acuerdos «troceados».",
       "lectura": "A día y medio del cierre del registro de coaliciones (viernes 16, 23.59) siguen sin acuerdo global. Nivel B (entrevistas recogidas por Europa Press).",
