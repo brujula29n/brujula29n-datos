@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14",
+  "actualizado": "2026-10-15",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -22,10 +22,10 @@
     {
       "fecha": "2026-10-08",
       "titulo": "El Supremo mantiene la suspensión del voto de los nacionalizados por la ley de nietos",
-      "detalle": "Auto del 12-10 (Sección Cuarta de lo Contencioso, con un voto particular): rechaza el recurso de la Abogacía del Estado y mantiene la cautelar para el 29-N. Excepción: quienes acrediten por certificación consular exilio de sus ascendientes. El Gobierno estudia si cabe recurso ante el Constitucional. Se ordena publicar los autos en el BOE.",
+      "detalle": "Auto del 12-10 (Sección Cuarta de lo Contencioso, con un voto particular): rechaza el recurso de la Abogacía del Estado y mantiene la cautelar para el 29-N. Excepción: quienes acrediten por certificación consular exilio de sus ascendientes. El Gobierno estudia si cabe recurso ante el Constitucional. Parte dispositiva publicada en el BOE del 15-10 (BOE-A-2026-21447 y 21448).",
       "tipo": "legal",
       "estado": "hecho",
-      "src": "https://elpais.com/espana/elecciones-generales/2026-10-12/el-supremo-mantiene-para-el-29-n-la-suspension-del-derecho-al-voto-de-los-nacionalizados-por-la-ley-de-nietos.html"
+      "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21447"
     },
     {
       "fecha": "2026-10-09",

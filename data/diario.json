@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-10-14",
+  "actualizado": "2026-10-15",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-15",
+      "titulo": "El BOE publica los autos del Supremo que mantienen la suspensión del voto de la «ley de nietos»",
+      "que": "El BOE del 15-10 publica la parte dispositiva de los autos del 12-10 de la Sala Tercera del Supremo (recursos de Iustitia Europa y de Vox). Desestiman el recurso de reposición de la Administración del Estado y del INE y confirman el auto del 10-9: la Oficina del Censo Electoral no puede inscribir en el CERA a quienes obtuvieron la nacionalidad por esa vía y se mantiene la suspensión de efectos electorales de los ya inscritos en estas elecciones (RD 806/2026). La suspensión no rige para quienes los registros consulares certifiquen, bajo su responsabilidad, que a 1-8-2026 eran hijos o nietos de españoles exiliados.",
+      "lectura": "Texto oficial de la decisión ya anotada el 12-10; fija el mecanismo (certificación consular) que el Gobierno dice que no podrá completar a tiempo para todos. Nivel A (BOE).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21447",
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21448"
+      ]
+    },
+    {
+      "fecha": "2026-10-15",
+      "titulo": "Colau critica que el pacto ERC-Podemos no pasara por primarias; Rufián pedirá el voto para Bildu y BNG",
+      "que": "Colau dice en TV que el pacto de Podemos con ERC tiene «aspectos desconcertantes»: Podemos exigía primarias y su principal acuerdo no pasó por ninguna, y «no sirve para construir una candidatura unitaria»; pide centrarse en «el programa que nos une». Según elDiario.es, EH Bildu y BNG descartan reproducir el pacto, y Rufián pedirá el voto para ambos en sus territorios.",
+      "lectura": "A dos días del cierre del registro de coaliciones (viernes 16, 23.59) siguen sin acuerdo el Frente Amplio y Podemos. Nivel B (entrevista recogida por Europa Press; fuentes de las formaciones en elDiario.es).",
+      "actores": [
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        },
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        },
+        {
+          "id": "ERC",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-colau-ve-desconcertante-acuerdo-erc-podemos-no-incluya-primarias-hay-alguna-contradiccion-20261014230952.html",
+        "https://www.eldiario.es/politica/gabriel-rufian-pedira-voto-eh-bildu-bng-territorios-pese-acuerdo_1_13585906.html"
+      ]
+    },
     {
       "fecha": "2026-10-14",
       "titulo": "PP y Vox firman la moción de censura contra el alcalde de Algeciras",
