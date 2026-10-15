@@ -4,6 +4,37 @@
   "entradas": [
     {
       "fecha": "2026-10-15",
+      "titulo": "La JEC abre un expediente sancionador a Sánchez por su rueda de prensa del 6 de octubre en Moncloa",
+      "que": "La Junta Electoral Central acuerda abrir expediente a Pedro Sánchez porque «determinadas manifestaciones» de la rueda de prensa del 6-10, tras el Consejo de Ministros, «podrían haber vulnerado» el art. 50.2 de la LOREG y el deber de neutralidad. Atiende parcialmente denuncias del PP y de SALF: según la JEC no se limitó a informar de los decretos y añadió valoraciones sobre su gestión, críticas a la oposición y la petición de una nueva mayoría. No incluye la declaración del 5-10, anterior al decreto. Europa Press cuenta cinco expedientes abiertos a Sánchez por la JEC.",
+      "lectura": "Es la apertura de un expediente, no una sanción: falta la resolución de la JEC. Nivel A (acuerdo de la JEC recogido por Europa Press y elDiario.es).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-jec-abre-nuevo-expediente-sancionador-sanchez-hacer-partidismo-moncloa-20261015164433.html",
+        "https://www.eldiario.es/politica/junta-electoral-expedienta-sanchez-manifestaciones-valorativas-rueda-prensa-moncloa_1_13588771.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-15",
+      "titulo": "La JEC ordena enviar la documentación de voto a todos los inscritos en el CERA, con aviso de que no todos podrán votar",
+      "que": "Según fuentes de la JEC a elDiario.es, la Junta ordena a la Oficina del Censo Electoral enviar entre el 24 y el 30 de octubre la documentación a los 2,7 millones de inscritos en el CERA, incluidos los 163.020 nacionalizados por la «ley de nietos» que el Supremo ha dejado sin voto, con un aviso de que habrá electores que no podrán votar. La JEC también rechaza la petición del PP de revisar el voto por correo, apoyándose en un informe de Correos.",
+      "lectura": "Da más tiempo a los consulados para certificar expedientes, sin cambiar el mandato del Supremo. Nivel B (fuentes de la JEC; acuerdo sin texto oficial leído).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/junta-electoral-ordena-enviar-documentacion-29n-inscritos-extranjero-aviso-no-podran-votar_1_13588746.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-15",
       "titulo": "Cuerpo: la subida de las pensiones sería tras el 29-N, con el Gobierno en funciones; Feijóo la da por «innegociable»",
       "que": "El vicepresidente Carlos Cuerpo dice en TVE que las pensiones no se subirán antes de las elecciones porque el IPC con el que se calculan se conoce el 27 de noviembre, y que se podrá aprobar en diciembre con el Gobierno en funciones y convalidarla la Diputación Permanente. Sánchez dice que el Gobierno pretende subirlas «antes de final de año» sin precisar si antes o después del 29-N. Feijóo (PP) dice que revalorizarlas con el IPC es «innegociable» y que quiere «zanjar» el debate.",
       "lectura": "Los tres coinciden en el IPC; la diferencia está en el calendario de aprobación y en quién garantiza la sostenibilidad. Nivel B (declaraciones recogidas por El País y Europa Press).",
