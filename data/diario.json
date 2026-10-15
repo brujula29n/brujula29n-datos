@@ -4,6 +4,41 @@
   "entradas": [
     {
       "fecha": "2026-10-15",
+      "titulo": "Podemos ofrece a IU pactos en diez comunidades sin Madrid ni Barcelona; IU los rechaza",
+      "que": "Ione Belarra ofrece a IU acuerdos de unidad en diez comunidades (Galicia, Asturias, Cantabria, Euskadi, Navarra, Castilla y León, Castilla-La Mancha, Murcia, Extremadura y Andalucía), dejando fuera Madrid y Barcelona, y habla con Compromís, Ara Més y Chunta. Antonio Maíllo (IU) responde que IU solo negociará dentro del Frente Amplio y no acepta acuerdos «troceados».",
+      "lectura": "A día y medio del cierre del registro de coaliciones (viernes 16, 23.59) siguen sin acuerdo global. Nivel B (entrevistas recogidas por Europa Press).",
+      "actores": [
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-podemos-ofrece-iu-acuerdos-unidad-mayoria-comunidades-dejar-margen-madrid-barcelona-20261015092230.html",
+        "https://www.europapress.es/nacional/noticia-iu-rechaza-negociar-podemos-fuera-frente-amplio-deja-claro-no-acepta-acuerdos-troceados-29n-20261015102013.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-15",
+      "titulo": "Sánchez no descarta listas conjuntas de la izquierda al Senado",
+      "que": "Desde Bruselas, Pedro Sánchez dice que sigue sobre la mesa que el PSOE concurra al Senado en una lista unitaria con otras fuerzas de izquierda, a un día del cierre del plazo de coaliciones, porque quieren «ganar el Senado». Sobre un posible pacto Frente Amplio-Podemos al Congreso, expresa «respeto» y «autonomía». Ferraz dice estudiar «todas las alternativas». En esta legislatura el PP tuvo mayoría absoluta en el Senado.",
+      "lectura": "Posible coalición que debería registrarse antes del viernes 16 a las 23.59. Nivel B (declaraciones recogidas por Europa Press).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-sanchez-asegura-sigue-mesa-opcion-listas-conjuntas-senado-24-horas-cierre-plazo-20261015111052.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-15",
       "titulo": "El BOE publica los autos del Supremo que mantienen la suspensión del voto de la «ley de nietos»",
       "que": "El BOE del 15-10 publica la parte dispositiva de los autos del 12-10 de la Sala Tercera del Supremo (recursos de Iustitia Europa y de Vox). Desestiman el recurso de reposición de la Administración del Estado y del INE y confirman el auto del 10-9: la Oficina del Censo Electoral no puede inscribir en el CERA a quienes obtuvieron la nacionalidad por esa vía y se mantiene la suspensión de efectos electorales de los ya inscritos en estas elecciones (RD 806/2026). La suspensión no rige para quienes los registros consulares certifiquen, bajo su responsabilidad, que a 1-8-2026 eran hijos o nietos de españoles exiliados.",
       "lectura": "Texto oficial de la decisión ya anotada el 12-10; fija el mecanismo (certificación consular) que el Gobierno dice que no podrá completar a tiempo para todos. Nivel A (BOE).",
