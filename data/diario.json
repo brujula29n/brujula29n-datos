@@ -1,7 +1,46 @@
 {
-  "actualizado": "2026-10-15",
+  "actualizado": "2026-10-16",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-16",
+      "titulo": "Último día para registrar coaliciones sin acuerdo estatal entre Podemos y el Frente Amplio",
+      "que": "Los partidos tienen hasta las 23.59 de hoy para comunicar sus coaliciones a la JEC o a las juntas provinciales (LOREG, diez días desde la convocatoria). Según elDiario.es, Podemos y el Frente Amplio no tenían cerrado un acuerdo estatal ni se reunieron a ese nivel el jueves; avanzan pactos territoriales (Compromís, Chunta, Més). Belarra propuso solo a IU pactos en diez comunidades.",
+      "lectura": "Si no hay acuerdo, el voto de la izquierda alternativa se repartiría entre dos candidaturas en las provincias de menos escaños, donde el reparto D'Hondt penaliza la división. Lectura (C); depende de lo que se registre esta noche.",
+      "actores": [
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-partidos-tienen-doce-noche-viernes-formalizar-coaliciones-generales-20261016074250.html",
+        "https://www.eldiario.es/politica/frente-amplio-mantienen-pulso-24-horas-decisivas-unidad_1_13589325.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-16",
+      "titulo": "Feijóo pide desplegar la Armada en Ceuta y llamar a consultas al embajador en Rabat",
+      "que": "Feijóo reclama en X a Sánchez que despliegue la Armada en Ceuta, convoque a la embajadora de Marruecos y llame a consultas al embajador español en Rabat, tras una información de ABC sobre una patrullera marroquí en aguas de Ceuta. El texto de ABC no se ha contrastado con una fuente oficial; el Gobierno defiende que no son hechos reiterados.",
+      "lectura": "El PP lleva el asunto de Ceuta a la precampaña como prueba de debilidad del Gobierno; el Gobierno sostiene que son hechos puntuales. Es una petición política, no un hecho acreditado. Lectura (C).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-feijoo-pide-sanchez-despliegue-armada-ceuta-explique-espanoles-ocurre-marruecos-20261016080343.html"
+      ]
+    },
     {
       "fecha": "2026-10-15",
       "titulo": "Primera lista unitaria de la izquierda: NC-BC, Podemos, IU y Sumar irán juntos en Canarias",
