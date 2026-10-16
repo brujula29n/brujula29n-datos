@@ -4,6 +4,46 @@
   "entradas": [
     {
       "fecha": "2026-10-16",
+      "titulo": "Dimite Montse Mínguez como portavoz del PSOE y no repetirá como diputada",
+      "que": "La portavoz de la Ejecutiva Federal del PSOE, que iba a encabezar la lista por Lleida, renuncia a todos sus cargos y a repetir como diputada, tras la polémica por las propiedades inmobiliarias de su pareja que publicó la prensa a comienzos de semana. Dice hacerlo «con la conciencia tranquila». El PSOE defiende su «coherencia» y su trayectoria; Sánchez, en Bruselas, afirma que le pidió que siguiera y que ella alegó razones personales. El PP dice que dimite «porque la han pillado». Las informaciones sobre el patrimonio de su pareja no constan en ningún procedimiento judicial.",
+      "lectura": "Abre un hueco en la portavocía y en la lista de Lleida a 44 días de las elecciones, y da al PP un argumento de campaña sobre vivienda; el PSOE sostiene que su voto siempre fue coherente con sus principios. Nivel B (mensaje de Mínguez, comunicado del PSOE y declaraciones de Sánchez recogidos por Europa Press).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": -1
+        },
+        {
+          "id": "PP",
+          "impacto": 1
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-montse-minguez-anuncia-da-paso-atras-politica-polemica-pisos-pareja-20261016181647.html",
+        "https://www.europapress.es/nacional/noticia-sanchez-revela-pidio-montse-minguez-siguiera-puesto-reconoce-estaba-rota-20261016192735.html",
+        "https://www.eldiario.es/politica/dimite-portavoz-psoe-montse-minguez-informaciones-negocios-inmobiliarios-pareja_1_13592500.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-16",
+      "titulo": "Frente Amplio y Podemos, sin acuerdo en Madrid a horas del cierre; sí unidos en Canarias y Comunitat Valenciana",
+      "que": "Colau, candidata del Frente Amplio a la Presidencia, se reúne en el Congreso con los partidos de la alianza ante el cierre del registro (23.59). Según Europa Press, Podemos comparte coalición con partidos del Frente Amplio solo en Canarias y la Comunitat Valenciana, y queda fuera de los acuerdos de Aragón, Baleares y Andalucía; Madrid es el principal escollo y Podemos propone acuerdos «asimétricos» sin Madrid ni Cataluña.",
+      "lectura": "Si se mantiene, la izquierda alternativa concurrirá dividida en Madrid y Cataluña y unida en otros territorios. Nivel B (fuentes del espacio recogidas por Europa Press); el registro definitivo se conocerá tras el cierre.",
+      "actores": [
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-colau-reune-partidos-frente-amplio-congreso-encarar-cierre-plazo-coaliciones-20261016191202.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-16",
       "titulo": "Compromís-Front Valencià reúne a Compromís, EUPV, Podem y ERPV; las bases de Podemos avalan los pactos con el 87,7%",
       "que": "Las formaciones a la izquierda del PSOE en la Comunitat Valenciana concurrirán juntas bajo la marca Compromís-Front Valencià: Compromís encabeza Valencia y Castellón, Podem Alicante y EUPV tiene el número tres por Valencia, tras cambiar su Consell Polític su postura inicial (75% en contra, ahora 66% a favor). Podemos informa de que sus bases respaldaron con el 87,7% concurrir conjuntamente en la Comunitat y otros territorios.",
       "lectura": "Primer pacto de Podemos con partidos del Frente Amplio fuera de Canarias, el último día del registro de coaliciones. Los detalles se presentan a las 18.30; no consta acuerdo en Madrid. Nivel B (anuncio de las formaciones recogido por Europa Press).",
