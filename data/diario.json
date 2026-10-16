@@ -4,6 +4,26 @@
   "entradas": [
     {
       "fecha": "2026-10-16",
+      "titulo": "Podemos consulta a sus bases el pacto con ERC y los acuerdos de Canarias y Compromís; el Frente Amplio suma cinco partidos",
+      "que": "Podemos abre una consulta exprés (hasta las 14.00) para que sus inscritos refrenden el acuerdo con ERC en Cataluña (Podemos no se presenta y aporta independientes a las listas de ERC en Barcelona y Tarragona; Rufián y Irene Montero harán campaña juntos), la lista de Canarias, el pacto con Compromís en la Comunitat Valenciana y una candidatura al Senado en Menorca, Ibiza y Formentera. Por su parte, el Frente Amplio incorpora a su coalición a cinco partidos, entre ellos Recortes Cero y Partido Humanista (Europa Press).",
+      "lectura": "Podemos cierra pactos territoriales por separado del Frente Amplio, sin acuerdo estatal ni en Madrid a falta de horas para el cierre del registro (23.59). Resultado de la consulta no publicado en el momento de redactar. Lectura (C).",
+      "actores": [
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-podemos-lanza-consulta-expres-bases-refrenden-acuerdo-erc-tandem-rufian-montero-20261016124118.html",
+        "https://www.europapress.es/nacional/noticia-frente-amplio-incorpora-coalicion-cinco-partidos-ellos-recortes-cero-partido-humanista-20261016134047.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-16",
       "titulo": "Acuerdos del Frente Amplio en Aragón y Baleares; Rufián admite que no habrá candidatura única en Madrid",
       "que": "El Frente Amplio anuncia pactos en Aragón (Chunta Aragonesista-Frente Amplio Aragón, sin Podemos) y Baleares (Ara MÉS con Sumar e IU), que se suman a Canarias. Rufián (ERC) dice en Rac1: «He fracasado. Hemos fracasado» al no lograr una candidatura unitaria y ve poco probable un acuerdo global antes del cierre del plazo.",
       "lectura": "La izquierda alternativa llegará dividida en Madrid y Cataluña y unida solo en algunos territorios. Qué efecto tendrá en escaños depende de lo que se registre esta noche. Lectura (C).",
