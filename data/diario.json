@@ -4,6 +4,45 @@
   "entradas": [
     {
       "fecha": "2026-10-16",
+      "titulo": "Acuerdos del Frente Amplio en Aragón y Baleares; Rufián admite que no habrá candidatura única en Madrid",
+      "que": "El Frente Amplio anuncia pactos en Aragón (Chunta Aragonesista-Frente Amplio Aragón, sin Podemos) y Baleares (Ara MÉS con Sumar e IU), que se suman a Canarias. Rufián (ERC) dice en Rac1: «He fracasado. Hemos fracasado» al no lograr una candidatura unitaria y ve poco probable un acuerdo global antes del cierre del plazo.",
+      "lectura": "La izquierda alternativa llegará dividida en Madrid y Cataluña y unida solo en algunos territorios. Qué efecto tendrá en escaños depende de lo que se registre esta noche. Lectura (C).",
+      "actores": [
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-frente-amplio-celebra-ultimos-acuerdos-alcanzados-aragon-baleares-mantiene-puerta-abierta-podemos-20261016090241.html",
+        "https://www.europapress.es/catalunya/noticia-29n-rufian-disculpa-no-lograr-candidatura-unitaria-izquierda-he-fracasado-20261016100655.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-16",
+      "titulo": "La JEC rechaza medidas extra de custodia del voto por correo que pedían PP y Vox",
+      "que": "Según Europa Press, que ha tenido acceso a las resoluciones, la Junta Electoral Central recuerda que la transparencia del voto por correo y del CERA está regulada en la ley, rechaza las medidas extraordinarias de «custodia» solicitadas por PP y Vox y señala que solo actúa ante denuncias de hechos o indicios concretos de irregularidad. Texto oficial de las resoluciones no leído.",
+      "lectura": "La JEC aplica el procedimiento vigente y remite a PP y Vox a cambiar la ley. Lectura (C): zanja por ahora la petición, no la discusión política sobre el voto exterior.",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-jec-recalca-pp-vox-transparencia-voto-correo-regulada-ley-rechaza-medidas-extra-20261016104323.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-16",
       "titulo": "Último día para registrar coaliciones sin acuerdo estatal entre Podemos y el Frente Amplio",
       "que": "Los partidos tienen hasta las 23.59 de hoy para comunicar sus coaliciones a la JEC o a las juntas provinciales (LOREG, diez días desde la convocatoria). Según elDiario.es, Podemos y el Frente Amplio no tenían cerrado un acuerdo estatal ni se reunieron a ese nivel el jueves; avanzan pactos territoriales (Compromís, Chunta, Més). Belarra propuso solo a IU pactos en diez comunidades.",
       "lectura": "Si no hay acuerdo, el voto de la izquierda alternativa se repartiría entre dos candidaturas en las provincias de menos escaños, donde el reparto D'Hondt penaliza la división. Lectura (C); depende de lo que se registre esta noche.",
