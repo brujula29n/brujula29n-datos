@@ -4,6 +4,29 @@
   "entradas": [
     {
       "fecha": "2026-10-17",
+      "titulo": "La JEC facilita la lista de nueve coaliciones registradas para el 29-N",
+      "que": "Según la lista de la Junta Electoral Central recogida por 20minutos, se registraron nueve coaliciones: Frente Amplio (estatal, sin Podemos), Senado de Progreso (PSOE y aliados), Democracia21 (con Ciudadanos y UCIN, para Madrid y Barcelona), Unidad del Pueblo Canario, Compromís-Front Valencià, Coalición Existe, Coalición Canaria-Municipalistas Primero, Comuns-Front Ampli (Senado) y ERC-EH Bildu (Senado en Cataluña, País Vasco y Navarra).",
+      "lectura": "Fija qué marcas aparecerán en las papeletas y confirma que Podemos solo va en coalición en Canarias y la Comunitat Valenciana. Nivel B (lista de la JEC recogida por 20minutos; la lista oficial no se ha leído directamente).",
+      "actores": [
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/nueve-coaliciones-se-registran-ante-junta-electoral-para-las-elecciones-29n_7050027_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-17",
       "titulo": "Albiol encabezará la lista del PP por Barcelona; Sánchez lanza la precampaña con un mitin en Fuenlabrada",
       "que": "El PP anuncia en X que Xavier García Albiol, alcalde de Badalona, será número uno por Barcelona en lugar de Nacho Martín Blanco; Albiol dice que seguirá como alcalde. Por su parte, Sánchez abre la precampaña ante unos 3.000 asistentes en Fuenlabrada, pide movilización y acusa al PP de «recortes disfrazados de sacrificios» y de querer aplicar «la motosierra» a las pensiones.",
       "lectura": "El PP refuerza su apuesta por Barcelona con un perfil político conocido; el PSOE centra su arranque en la movilización de sus bases y en las pensiones. Son mensajes de campaña, no hechos verificados. Nivel B (anuncio del PP y discurso de Sánchez recogidos por ABC y Europa Press).",

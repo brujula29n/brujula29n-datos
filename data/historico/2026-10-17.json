@@ -167,8 +167,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 132,
-  "ultimo": "Albiol encabezará la lista del PP por Barcelona; Sánchez lanza la precampaña con un mitin en Fuenlabrada"
+  "n": 133,
+  "ultimo": "La JEC facilita la lista de nueve coaliciones registradas para el 29-N"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -199,7 +199,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "6 movimientos nuevos en el diario. Último: Albiol encabezará la lista del PP por Barcelona; Sánchez lanza la precampaña con un mitin en Fuenlabrada."
+   "texto": "7 movimientos nuevos en el diario. Último: La JEC facilita la lista de nueve coaliciones registradas para el 29-N."
   }
  ]
 }
