@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-10-16",
+  "actualizado": "2026-10-17",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-17",
+      "titulo": "Frente Amplio y Podemos cierran el registro sin pacto global: solo irán juntos en Canarias y la Comunitat Valenciana",
+      "que": "Al vencer el plazo (16-10, 23.59), Frente Amplio registra una coalición de ámbito estatal sin Podemos, con pactos propios en Baleares (Ara Més) y Aragón (Chunta Aragonesista). Podemos concurre unido al Frente Amplio solo en Canarias y la Comunitat Valenciana (Compromís-Front Valencià). Podemos reúne hoy su Consejo Ciudadano para fijar su estrategia; Irene Montero es su candidata por Madrid.",
+      "lectura": "La izquierda alternativa llegará dividida a la mayoría de circunscripciones; en las de pocos escaños el reparto D'Hondt penaliza la división. El efecto real en escaños se verá cuando haya encuestas con este reparto de listas. Nivel B (Europa Press y elDiario.es); la lista oficial de coaliciones aún no la ha publicado la JEC.",
+      "actores": [
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-consuman-fractura-no-llegar-acuerdo-global-coaliciones-29n-20261017000800.html",
+        "https://www.eldiario.es/politica/frente-amplio-fracasan-negociaciones-iran-canarias-comunitat-valenciana_1_13592471.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-17",
+      "titulo": "PSOE y Frente Amplio registran la coalición «Senado de Progreso» para el 29-N",
+      "que": "PSOE, IU, Movimiento Sumar, Más Madrid y otros partidos presentan listas conjuntas al Senado en toda España salvo Cataluña y Canarias (excepto La Gomera); en Baleares, con Més. Según 20minutos, los cálculos socialistas apuntan a dejar al PP, que logró 143 senadores en 2023, por debajo de los 134 de la mayoría absoluta; no es una proyección independiente.",
+      "lectura": "Concentra el voto progresista en las circunscripciones donde la lista más votada suele llevarse tres de cuatro escaños y la segunda uno, que la división podía hacer perder. El efecto depende del voto, no está medido. Nivel B (20minutos y elDiario.es, con comunicados de las formaciones).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 1
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 1
+        },
+        {
+          "id": "PP",
+          "impacto": -1
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/psoe-frente-amplio-presentan-listas-conjuntas-senado-29-n-todas-las-provincias-salvo-cataluna-canarias_7049910_0.html",
+        "https://www.eldiario.es/politica/psoe-frente-amplio-llegan-acuerdo-presentar-listas-conjuntas-senado_1_13583230.html"
+      ]
+    },
     {
       "fecha": "2026-10-16",
       "titulo": "Dimite Montse Mínguez como portavoz del PSOE y no repetirá como diputada",

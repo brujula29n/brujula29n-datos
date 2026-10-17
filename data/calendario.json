@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15",
+  "actualizado": "2026-10-17",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -46,10 +46,10 @@
     {
       "fecha": "2026-10-16",
       "titulo": "Cierre del registro de coaliciones",
-      "detalle": "10 días desde la convocatoria (art. 44.3 LOREG). Lo que no esté registrado no existe el 29N. Decide si Frente Amplio y Podemos van juntos.",
+      "detalle": "Cerrado el 16-10 a las 23.59 (art. 44.3 LOREG). Según Europa Press, Frente Amplio registró una coalición de ámbito estatal sin Podemos; ambos solo concurren juntos en Canarias y la Comunitat Valenciana (Compromís-Front Valencià). PSOE y Frente Amplio registraron la coalición «Senado de Progreso» para el Senado (salvo Cataluña y Canarias, excepto La Gomera). Lista oficial de coaliciones: pendiente de publicación por la JEC.",
       "tipo": "legal",
-      "estado": "previsto",
-      "src": "https://rtvc.es/calendario-elecciones-generales-2026-fechas-clave-hasta-29-de-noviembre/"
+      "estado": "hecho",
+      "src": "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-consuman-fractura-no-llegar-acuerdo-global-coaliciones-29n-20261017000800.html"
     },
     {
       "fecha": "2026-10-16",
