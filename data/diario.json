@@ -4,6 +4,21 @@
   "entradas": [
     {
       "fecha": "2026-10-17",
+      "titulo": "El PSOE nombra a Rebeca Torró portavoz tras la dimisión de Montse Mínguez",
+      "que": "La Ejecutiva Federal del PSOE, reunida en Fuenlabrada (Madrid) antes del Comité Federal que ratificará las listas del 29-N, designa portavoz a la secretaria de Organización, Rebeca Torró. Cristina Narbona pasa a secretaria de Estudios y Programas y Javier Alfonso Cendón a secretario general del Grupo Parlamentario Socialista, los puestos que dejó vacantes Mínguez.",
+      "lectura": "El PSOE cubre la vacante en menos de un día y mantiene el calendario de ratificación de listas. Nivel B (información de Europa Press sobre la reunión de la Ejecutiva).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-ejecutiva-psoe-nombra-rebeca-torro-nueva-portavoz-dimision-montse-minguez-20261017100324.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-17",
       "titulo": "Frente Amplio y Podemos cierran el registro sin pacto global: solo irán juntos en Canarias y la Comunitat Valenciana",
       "que": "Al vencer el plazo (16-10, 23.59), Frente Amplio registra una coalición de ámbito estatal sin Podemos, con pactos propios en Baleares (Ara Més) y Aragón (Chunta Aragonesista). Podemos concurre unido al Frente Amplio solo en Canarias y la Comunitat Valenciana (Compromís-Front Valencià). Podemos reúne hoy su Consejo Ciudadano para fijar su estrategia; Irene Montero es su candidata por Madrid.",
       "lectura": "La izquierda alternativa llegará dividida a la mayoría de circunscripciones; en las de pocos escaños el reparto D'Hondt penaliza la división. El efecto real en escaños se verá cuando haya encuestas con este reparto de listas. Nivel B (Europa Press y elDiario.es); la lista oficial de coaliciones aún no la ha publicado la JEC.",
