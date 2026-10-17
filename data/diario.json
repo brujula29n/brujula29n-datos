@@ -4,6 +4,40 @@
   "entradas": [
     {
       "fecha": "2026-10-17",
+      "titulo": "El Comité Federal del PSOE proclama a Sánchez candidato y ratifica las listas al Congreso y al Senado",
+      "que": "El Comité Federal, reunido en Fuenlabrada, proclama por unanimidad a Pedro Sánchez candidato a la Presidencia del Gobierno y ratifica las candidaturas aprobadas la víspera por la Comisión Federal de Listas. Según Ferraz, el 52% de las cabezas de lista al Congreso son mujeres y el PSOE presenta 444 mujeres y 443 hombres a las Cortes.",
+      "lectura": "El PSOE cierra sus listas y su cabeza de cartel sin disidencia formal en el Comité; la prensa recoge quejas de cargos locales por algunas listas, que aquí no se dan por verificadas. Nivel B (comunicado de Ferraz recogido por Europa Press; el porcentaje de mujeres es dato del propio partido).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-sanchez-proclamado-unanimidad-candidato-psoe-presidencia-gobierno-20261017113156.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-17",
+      "titulo": "Podemos reprocha al Frente Amplio pactar con el PSOE en el Senado y no con ellos en las comunidades",
+      "que": "En el Consejo Ciudadano Estatal, convocado de urgencia, Ione Belarra e Irene Montero critican que el Frente Amplio acordara listas únicas al Senado con el PSOE mientras no hubo listas conjuntas con Podemos en la mayoría de comunidades. Solo habrá listas unitarias de la izquierda alternativa en la Comunitat Valenciana y Canarias.",
+      "lectura": "Cada parte atribuye a la otra la ruptura; el pacto del Senado con el PSOE excluye a Podemos. Nivel B (intervenciones recogidas por 20minutos).",
+      "actores": [
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/montero-belarra-acusan-frente-amplio-preferir-pactar-con-psoe-senado-antes-que-con-podemos-las-comunidades_7049985_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-17",
       "titulo": "El PSOE nombra a Rebeca Torró portavoz tras la dimisión de Montse Mínguez",
       "que": "La Ejecutiva Federal del PSOE, reunida en Fuenlabrada (Madrid) antes del Comité Federal que ratificará las listas del 29-N, designa portavoz a la secretaria de Organización, Rebeca Torró. Cristina Narbona pasa a secretaria de Estudios y Programas y Javier Alfonso Cendón a secretario general del Grupo Parlamentario Socialista, los puestos que dejó vacantes Mínguez.",
       "lectura": "El PSOE cubre la vacante en menos de un día y mantiene el calendario de ratificación de listas. Nivel B (información de Europa Press sobre la reunión de la Ejecutiva).",
