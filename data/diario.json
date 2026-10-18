@@ -1,7 +1,27 @@
 {
-  "actualizado": "2026-10-17",
+  "actualizado": "2026-10-18",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-18",
+      "titulo": "Vox y PP estudian cómo responder en el Senado a la coalición PSOE-Frente Amplio; Abascal promete «altura de miras»",
+      "que": "Tras el registro de «Senado de Progreso», Abascal escribe en X que Vox actuará «con altura de miras» y hará «lo necesario para que España sea libre». Según fuentes sin identificar de Vox y del PP citadas por El Español y El Mundo, Vox decidirá el lunes en su Comité Ejecutivo si negocia algo con el PP para el Senado; se barajan fórmulas como no presentarse en algunas provincias o repartir el voto entre ambos. Ningún partido ha confirmado un acuerdo; las fuentes del PP hablan de un «pacto de no agresión» sin negociación formal.",
+      "lectura": "En el Senado, donde se vota hasta a tres candidatos y la lista más votada suele llevarse tres de cuatro escaños, la división del voto del bloque PP-Vox podría favorecer a la coalición de izquierdas; de ahí el estudio de fórmulas. Nivel C (según fuentes sin identificar de Vox y del PP, en El Español y El Mundo); la declaración de Abascal es pública (nivel B).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elespanol.com/espana/politica/20261018/vox-dispuesto-demostrar-altura-miras-frente-popular-senado-lunes-decidira-pacta-pp/1003744424775_0.html",
+        "https://www.elmundo.es/espana/2026/10/18/6ad3a436fdddfffb408b459c.html"
+      ]
+    },
     {
       "fecha": "2026-10-17",
       "titulo": "La JEC facilita la lista de nueve coaliciones registradas para el 29-N",
