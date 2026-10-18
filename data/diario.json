@@ -4,6 +4,21 @@
   "entradas": [
     {
       "fecha": "2026-10-18",
+      "titulo": "Feijóo, en Barcelona: Albiol será ponente de una ley antiokupación si gobierna el PP y pide más escaños en Cataluña",
+      "que": "En un acto con varios cientos de militantes en el Palacio de Congresos de Barcelona, Feijóo anuncia que, si el PP gana el 29-N, Xavier García Albiol será ponente de una ley antiokupación en el Congreso. Dice que en 2023 «faltaron cuatro escaños para gobernar, dos de ellos en Lérida y Gerona», plantea «¿Colau o Albiol?» y afirma que no es partidario de subir más los impuestos.",
+      "lectura": "El PP concentra su mensaje de esta jornada en Cataluña y en vivienda y seguridad; es un compromiso de campaña condicionado a ganar, sin texto legal publicado. Nivel B (declaraciones de Feijóo recogidas por ABC).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/cataluna/feijoo-encarga-albiol-ley-antiokupacion-pone-foco-20261018125206-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-18",
       "titulo": "Vox y PP estudian cómo responder en el Senado a la coalición PSOE-Frente Amplio; Abascal promete «altura de miras»",
       "que": "Tras el registro de «Senado de Progreso», Abascal escribe en X que Vox actuará «con altura de miras» y hará «lo necesario para que España sea libre». Según fuentes sin identificar de Vox y del PP citadas por El Español y El Mundo, Vox decidirá el lunes en su Comité Ejecutivo si negocia algo con el PP para el Senado; se barajan fórmulas como no presentarse en algunas provincias o repartir el voto entre ambos. Ningún partido ha confirmado un acuerdo; las fuentes del PP hablan de un «pacto de no agresión» sin negociación formal.",
       "lectura": "En el Senado, donde se vota hasta a tres candidatos y la lista más votada suele llevarse tres de cuatro escaños, la división del voto del bloque PP-Vox podría favorecer a la coalición de izquierdas; de ahí el estudio de fórmulas. Nivel C (según fuentes sin identificar de Vox y del PP, en El Español y El Mundo); la declaración de Abascal es pública (nivel B).",
