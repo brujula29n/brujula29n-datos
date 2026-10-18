@@ -4,6 +4,26 @@
   "entradas": [
     {
       "fecha": "2026-10-18",
+      "titulo": "El Defensor del Pueblo recurre en amparo la suspensión del voto CERA de los nacionalizados y Vox pide al TC que lo inadmita",
+      "que": "Según un comunicado del Defensor del Pueblo (Ángel Gabilondo) recogido por 20minutos, la institución ha acudido al Tribunal Constitucional en amparo contra las resoluciones del Supremo que suspenden el voto de los nacionalizados por la «ley de nietos» y ha pedido medidas cautelarísimas. La suspensión afecta a 163.020 inscritos en el CERA, según datos que el Gobierno trasladó al tribunal. Vox presenta un escrito para que el TC inadmita el recurso por «prematuro»: el plazo para personarse en el Supremo sigue abierto hasta el 22-10 y, a su juicio, no se acredita una lesión constitucional actual. El Supremo rechazó antes el recurso de la Abogacía del Estado y la Fiscalía ha pedido levantar la medida.",
+      "lectura": "El debate sobre quién puede votar desde el exterior llega al Constitucional a pocos días de que empiece el envío de la documentación del CERA (24-30 oct). El TC no ha resuelto. Nivel B (comunicado del Defensor del Pueblo y escrito de Vox, recogidos por 20minutos); las resoluciones no se han leído.",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/vox-pide-constitucional-que-inadmita-recurso-defensor-pueblo-por-ley-nietos_7050192_0.html",
+        "https://www.abc.es/espana/vox-pide-tc-inadmita-recurso-defensor-pueblo-20261018162344-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-18",
       "titulo": "Feijóo, en Barcelona: Albiol será ponente de una ley antiokupación si gobierna el PP y pide más escaños en Cataluña",
       "que": "En un acto con varios cientos de militantes en el Palacio de Congresos de Barcelona, Feijóo anuncia que, si el PP gana el 29-N, Xavier García Albiol será ponente de una ley antiokupación en el Congreso. Dice que en 2023 «faltaron cuatro escaños para gobernar, dos de ellos en Lérida y Gerona», plantea «¿Colau o Albiol?» y afirma que no es partidario de subir más los impuestos.",
       "lectura": "El PP concentra su mensaje de esta jornada en Cataluña y en vivienda y seguridad; es un compromiso de campaña condicionado a ganar, sin texto legal publicado. Nivel B (declaraciones de Feijóo recogidas por ABC).",
