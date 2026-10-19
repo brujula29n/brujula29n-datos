@@ -1,6 +1,16 @@
 {
- "actualizado": "2026-10-18",
+ "actualizado": "2026-10-19",
  "dias": [
+  {
+   "fecha": "2026-10-19",
+   "items": [
+    {
+     "tipo": "diario",
+     "texto": "1 movimiento nuevo en el diario. Último: Nuevo sondeo de Sigma Dos para El Mundo: PP 31,5 %, Vox 19,5 % y un máximo de 121 escaños para PSOE, Frente Amplio y Podemos.",
+     "texto_en": "1 new entry in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-10-18",
    "items": [
@@ -554,6 +564,32 @@
   },
   {
    "fecha": "2026-10-18",
+   "media": {
+    "PP": 32.29,
+    "PSOE": 26.38,
+    "VOX": 18.68,
+    "SUMAR": 5.97,
+    "PODEMOS": 3.07,
+    "SALF": 1.7
+   },
+   "escanos": {
+    "PP": 139,
+    "PSOE": 107,
+    "VOX": 65,
+    "SUMAR": 7,
+    "PODEMOS": 2
+   },
+   "ppvox": 204,
+   "probs": {
+    "pp_vox": 96.6,
+    "pp_solo": 0.4,
+    "psoe_bloque": 1.8,
+    "bloqueo": 1.2
+   },
+   "n_encuestas": 24
+  },
+  {
+   "fecha": "2026-10-19",
    "media": {
     "PP": 32.29,
     "PSOE": 26.38,

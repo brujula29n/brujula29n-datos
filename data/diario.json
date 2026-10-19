@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-10-18",
+  "actualizado": "2026-10-19",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-19",
+      "titulo": "Nuevo sondeo de Sigma Dos para El Mundo: PP 31,5 %, Vox 19,5 % y un máximo de 121 escaños para PSOE, Frente Amplio y Podemos",
+      "que": "Según Electográfica, que resume el sondeo de Sigma Dos para El Mundo publicado el 19-10, el PP obtendría el 31,5 % y 132-137 escaños y Vox el 19,5 % y 65-68, con el 51 % de los votos y hasta 205 escaños entre ambos. PSOE, Frente Amplio y Podemos reunirían el 36,2 % y un máximo de 121 escaños, frente a los 152 de PSOE y Sumar en la legislatura saliente. El Mundo añade que Vox queda a 5,8 puntos del PSOE y este a 6,2 del PP, y que la izquierda perdería representación en 23 provincias.",
+      "lectura": "Sigue la línea de la media de Brújula: PP primero, Vox al alza y la izquierda dividida. Es una encuesta privada, no un pronóstico. Nivel B (ficha de Electográfica y artículo de El Mundo); aún no entra en la media porque faltan datos de la ficha (fechas de campo, tamaño muestral y reparto por partido).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 1
+        },
+        {
+          "id": "VOX",
+          "impacto": 1
+        },
+        {
+          "id": "PSOE",
+          "impacto": -1
+        }
+      ],
+      "src": [
+        "https://www.electografica.com/2026/10/encuesta-sigmados-261019.html",
+        "https://www.elmundo.es/espana/encuestas/2026/10/19/6ad4f320fc6c8374648b4583.html"
+      ]
+    },
     {
       "fecha": "2026-10-18",
       "titulo": "El Defensor del Pueblo recurre en amparo la suspensión del voto CERA de los nacionalizados y Vox pide al TC que lo inadmita",
