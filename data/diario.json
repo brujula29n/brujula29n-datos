@@ -4,6 +4,37 @@
   "entradas": [
     {
       "fecha": "2026-10-19",
+      "titulo": "Llarena rechaza reactivar la orden de detención contra Puigdemont, Comín y Puig",
+      "que": "El juez del Supremo Pablo Llarena desestima el recurso de Vox, que ejerce la acusación popular, contra su decisión del 6 de octubre de dejar sin efecto las órdenes de busca y captura de Puigdemont, Comín y Puig, tras el fallo del Constitucional que declara amnistiable la malversación del procés. En un escrito de 12 folios dice que la doctrina del TC «debe aplicarse, aunque no se compartan las razones en las que se apoya» y critica esa doctrina. La resolución no implica que la amnistía ya se haya aplicado a Puigdemont.",
+      "lectura": "Cierra por ahora uno de los huecos abiertos del calendario judicial: las órdenes siguen sin efecto. Nivel B (resolución judicial recogida por 20minutos y El País; el auto no se ha leído directamente).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/llarena-critica-decision-tc-sobre-amnistia-pero-rechaza-reactivar-orden-detencion-puigdemont_7050347_0.html",
+        "https://elpais.com/espana/2026-10-19/llarena-confirma-su-decision-de-levantar-la-orden-de-detencion-de-puigdemont-con-c"
+      ]
+    },
+    {
+      "fecha": "2026-10-19",
+      "titulo": "Albares admite que será «muy difícil» que los consulados comprueben a tiempo quién puede votar por la «ley de nietos»",
+      "que": "El ministro de Exteriores, José Manuel Albares, dice en Telecinco, según Europa Press, que será «muy difícil» que los consulados verifiquen a tiempo quiénes son descendientes de exiliados, como pide el Supremo. Afirma que se envió un telegrama a los consulados y se anularon permisos, que la Oficina del Censo ya tiene los datos de los nacionalizados en 2025 y 2026 vía DICIREG y que el resto se vuelca «manualmente»; recuerda que Asuntos Consulares ya avisó de que tardaría «por lo menos hasta enero».",
+      "lectura": "Es una declaración del Gobierno sobre sus propios plazos, no una verificación independiente. Nivel B (declaraciones recogidas por Europa Press a través de 20minutos).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": -1
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/exteriores-admite-que-sera-muy-dificil-que-los-consulados-comprueben-tiempo-quien-puede-votar-29n-por-ley-nietos_7050359_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-19",
       "titulo": "Nuevo sondeo de Sigma Dos para El Mundo: PP 31,5 %, Vox 19,5 % y un máximo de 121 escaños para PSOE, Frente Amplio y Podemos",
       "que": "Según Electográfica, que resume el sondeo de Sigma Dos para El Mundo publicado el 19-10, el PP obtendría el 31,5 % y 132-137 escaños y Vox el 19,5 % y 65-68, con el 51 % de los votos y hasta 205 escaños entre ambos. PSOE, Frente Amplio y Podemos reunirían el 36,2 % y un máximo de 121 escaños, frente a los 152 de PSOE y Sumar en la legislatura saliente. El Mundo añade que Vox queda a 5,8 puntos del PSOE y este a 6,2 del PP, y que la izquierda perdería representación en 23 provincias.",
       "lectura": "Sigue la línea de la media de Brújula: PP primero, Vox al alza y la izquierda dividida. Es una encuesta privada, no un pronóstico. Nivel B (ficha de Electográfica y artículo de El Mundo); aún no entra en la media porque faltan datos de la ficha (fechas de campo, tamaño muestral y reparto por partido).",
