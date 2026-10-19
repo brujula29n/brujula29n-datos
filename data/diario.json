@@ -4,6 +4,37 @@
   "entradas": [
     {
       "fecha": "2026-10-19",
+      "titulo": "Podemos presentará candidaturas en toda España y cierra la puerta a ir como independientes en las listas del Frente Amplio",
+      "que": "Podemos anuncia que presentará candidaturas al Congreso y al Senado en todo el país. Según El Mundo, la izquierda alternativa irá dividida en 47 de las 52 circunscripciones: 43 con marca propia de Podemos y cuatro bajo el paraguas de ERC en Cataluña; las excepciones son Canarias y la Comunitat Valenciana, con lista única. Podemos descarta integrarse como «independientes» en candidaturas como la de Aragón.",
+      "lectura": "Se confirma la división en la práctica totalidad del mapa: dos papeletas de la izquierda alternativa donde no hay pacto (tres en Andalucía, con Adelante Andalucía). El efecto en escaños dependerá del voto en cada provincia. Nivel B (anuncio de Podemos recogido por Europa Press y El Mundo; el recuento por circunscripciones es de El Mundo).",
+      "actores": [
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-podemos-presentara-todo-pais-chocar-frente-amplio-rechaza-ir-independientes-aragon-baleares-20261019120912.html",
+        "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/19/6ad5f3e1fdddff9f5d8b45aa.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-19",
+      "titulo": "La jueza Tardón cita como testigos a consejeros de Ceuta y a mandos policiales por la entrada masiva de julio",
+      "que": "Según resoluciones a las que ha tenido acceso Europa Press, la jueza de la Audiencia Nacional María Tardón, a petición de la Fiscalía, cita a testificar el 27 de octubre a tres consejeros del Gobierno de Ceuta y a tres agentes de la Policía Nacional al día siguiente; el 26 de octubre, a un inspector jefe de la Policía Nacional y al jefe de operaciones de la Guardia Civil en Ceuta. Pide además a la ciudad autónoma y a la Delegación del Gobierno las comunicaciones y documentación previas a la entrada masiva del 30 de julio, y que se identifique a una fuente de información de la Guardia Civil.",
+      "lectura": "Son diligencias de instrucción: citar como testigos no implica responsabilidad de nadie y no hay imputados citados en lo recogido. Nivel B (resoluciones recogidas por Europa Press y El País; no leídas directamente).",
+      "actores": [],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-jueza-cita-testigos-consejeros-ceuta-pide-comunicaciones-gobierno-ciudad-autonoma-20261019133433.html",
+        "https://elpais.com/espana/2026-10-19/la-jueza-tardon-pide-mas-informes-al-ejercito-sobre-ceuta-y-cita-a-tres-consejeros-del-gobierno-ceuti-y-a-tres-policias.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-19",
       "titulo": "Feijóo firma su «Contrato con España»: doce compromisos, de un millón de viviendas a revalorizar las pensiones",
       "que": "En un acto en Madrid, Feijóo firma un manifiesto de doce compromisos y da su «palabra» de cumplirlos si gobierna: defender la soberanía e integridad territorial, mejorar la democracia y reforzar la separación de poderes, «limpiar el Estado», construir un millón de viviendas nuevas, ordenar la inmigración, garantizar la revalorización de las pensiones, más médicos, bajar los impuestos y subir el salario medio. Según elDiario.es, no revela medidas nuevas; no es el programa electoral formal del PP, que no consta publicado.",
       "lectura": "El PP fija su mensaje de campaña con compromisos generales, sin cifras de coste ni calendario en lo recogido. Nivel B (acto y manifiesto, recogidos por Europa Press y elDiario.es); el texto íntegro del manifiesto no se ha leído.",
