@@ -4,6 +4,41 @@
   "entradas": [
     {
       "fecha": "2026-10-19",
+      "titulo": "Feijóo firma su «Contrato con España»: doce compromisos, de un millón de viviendas a revalorizar las pensiones",
+      "que": "En un acto en Madrid, Feijóo firma un manifiesto de doce compromisos y da su «palabra» de cumplirlos si gobierna: defender la soberanía e integridad territorial, mejorar la democracia y reforzar la separación de poderes, «limpiar el Estado», construir un millón de viviendas nuevas, ordenar la inmigración, garantizar la revalorización de las pensiones, más médicos, bajar los impuestos y subir el salario medio. Según elDiario.es, no revela medidas nuevas; no es el programa electoral formal del PP, que no consta publicado.",
+      "lectura": "El PP fija su mensaje de campaña con compromisos generales, sin cifras de coste ni calendario en lo recogido. Nivel B (acto y manifiesto, recogidos por Europa Press y elDiario.es); el texto íntegro del manifiesto no se ha leído.",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-feijoo-da-palabra-cumplir-docena-promesas-vivienda-pensiones-inmigracion-no-voy-fallar-20261019125258.html",
+        "https://www.eldiario.es/politica/feijoo-firma-contrato-espana-si-gobierna-elecciones-29-noviembre-revelar-sola-medida-nueva_1_13596902.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-19",
+      "titulo": "Abascal ofrece al PP «algún entendimiento» para proteger el Senado del pacto PSOE-Frente Amplio",
+      "que": "Tras el Comité Ejecutivo Nacional de Vox, Abascal ofrece al PP negociar «algún entendimiento» que «proteja el Senado» del pacto de Sánchez con «la extrema izquierda» y pide «sacrificios» a los partidos de la oposición, sin concretar fórmulas. No hay respuesta del PP recogida en la información de Europa Press.",
+      "lectura": "Confirma de forma pública lo que se apuntaba el domingo con fuentes sin identificar: Vox y PP estudian cómo evitar que la división del voto de la derecha favorezca a «Senado de Progreso». No hay acuerdo anunciado. Nivel B (declaración institucional de Abascal recogida por Europa Press).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-abascal-tiende-mano-pp-negociar-algun-entendimiento-senado-20261019133611.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-19",
       "titulo": "Llarena rechaza reactivar la orden de detención contra Puigdemont, Comín y Puig",
       "que": "El juez del Supremo Pablo Llarena desestima el recurso de Vox, que ejerce la acusación popular, contra su decisión del 6 de octubre de dejar sin efecto las órdenes de busca y captura de Puigdemont, Comín y Puig, tras el fallo del Constitucional que declara amnistiable la malversación del procés. En un escrito de 12 folios dice que la doctrina del TC «debe aplicarse, aunque no se compartan las razones en las que se apoya» y critica esa doctrina. La resolución no implica que la amnistía ya se haya aplicado a Puigdemont.",
       "lectura": "Cierra por ahora uno de los huecos abiertos del calendario judicial: las órdenes siguen sin efecto. Nivel B (resolución judicial recogida por 20minutos y El País; el auto no se ha leído directamente).",
