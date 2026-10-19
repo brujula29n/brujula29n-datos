@@ -4,6 +4,44 @@
   "entradas": [
     {
       "fecha": "2026-10-19",
+      "titulo": "Sánchez pide concentrar el voto de izquierda en el PSOE: «Todo al rojo»",
+      "que": "En un mitin de precampaña en Valladolid, Sánchez llama a concentrar el voto progresista en el PSOE ante la fragmentación de la izquierda: «Habrá muchas siglas, pero solamente hay dos modelos de sociedad». Afirma que PP y Vox quieren «tocar las pensiones, las bajas laborales», el derecho al aborto y el salario mínimo, y pide «la mayor mayoría parlamentaria» para seguir gobernando. El PP y Vox no han respondido a ese mensaje en lo recogido.",
+      "lectura": "Tras el cierre de coaliciones, el PSOE apela abiertamente al voto útil frente a Frente Amplio y Podemos; es un mensaje de campaña, no un hecho comprobable. Nivel B (discurso recogido por Europa Press).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": -1
+        },
+        {
+          "id": "PODEMOS",
+          "impacto": -1
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-sanchez-apela-concentracion-voto-izquierda-psoe-todo-rojo-20261019202934.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-19",
+      "titulo": "Los candidatos 2 y 3 del PSOE al Congreso por Palencia renuncian tras imponer Ferraz otra cabeza de lista",
+      "que": "Luis Ángel Marín y Alicia García, números 2 y 3 de la lista del PSOE por Palencia, y los dos suplentes renuncian a figurar en la candidatura tras la decisión de la Comisión Federal de Listas, ratificada por el Comité Federal, de situar como número uno a la diputada María Luz Martínez Seijo. Según el comunicado del PSOE de Palencia, el Comité Provincial había propuesto a Álvaro Bilbao con 77 votos a favor y una abstención. ABC y El Mundo informan de que el PSOE se queda sin lista completa en la provincia.",
+      "lectura": "Un caso de desacuerdo entre una agrupación provincial y la dirección federal sobre la lista; el PSOE deberá completar la candidatura antes del plazo de presentación (21-26 oct). Nivel B (comunicado del PSOE de Palencia recogido por Europa Press; confirmado por ABC y El Mundo).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": -1
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/castilla-y-leon/noticia-luis-angel-marin-alicia-garcia-renuncian-ocupar-puestos-lista-psoe-congreso-palencia-20261019192520.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-19",
       "titulo": "Podemos presentará candidaturas en toda España y cierra la puerta a ir como independientes en las listas del Frente Amplio",
       "que": "Podemos anuncia que presentará candidaturas al Congreso y al Senado en todo el país. Según El Mundo, la izquierda alternativa irá dividida en 47 de las 52 circunscripciones: 43 con marca propia de Podemos y cuatro bajo el paraguas de ERC en Cataluña; las excepciones son Canarias y la Comunitat Valenciana, con lista única. Podemos descarta integrarse como «independientes» en candidaturas como la de Aragón.",
       "lectura": "Se confirma la división en la práctica totalidad del mapa: dos papeletas de la izquierda alternativa donde no hay pacto (tres en Andalucía, con Adelante Andalucía). El efecto en escaños dependerá del voto en cada provincia. Nivel B (anuncio de Podemos recogido por Europa Press y El Mundo; el recuento por circunscripciones es de El Mundo).",
