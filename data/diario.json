@@ -4,6 +4,21 @@
   "entradas": [
     {
       "fecha": "2026-10-20",
+      "titulo": "Sánchez anuncia que el Consejo de Ministros declarará zona gravemente afectada a los municipios asolados por la DANA",
+      "que": "Tras visitar el Puesto de Mando Avanzado de Oliva (Valencia), Sánchez anuncia, según La Moncloa, que el Consejo de Ministros aprobará la declaración de zona gravemente afectada por una emergencia de protección civil para los municipios afectados por la DANA, que el Gobierno «va a poner recursos económicos» y facilitará «la agilización en la contratación pública». Traslada condolencias por las cinco víctimas mortales de las lluvias. Le acompañaban cuatro ministros, la delegada del Gobierno en la Comunitat Valenciana y el presidente de la Generalitat, Juan Francisco Pérez Llorca.",
+      "lectura": "Es un anuncio, no un acuerdo adoptado: no se conocen aún la cuantía ni la fecha de aprobación. Nivel A (nota oficial de La Moncloa sobre el anuncio; el contenido del acuerdo está pendiente).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/201026-sanchez-zonas-emergencia-dana.aspx"
+      ]
+    },
+    {
+      "fecha": "2026-10-20",
       "titulo": "El Consejo de Ministros aprueba 180 millones para alquiler asequible en las cinco comunidades con zonas tensionadas",
       "que": "Según 20minutos, el Consejo de Ministros aprueba una partida «extraordinaria» de 180 millones de euros para ampliar la oferta de vivienda de alquiler social y asequible en las cinco comunidades con zonas tensionadas (Cataluña, País Vasco, Navarra, Galicia y Asturias), repartida según el número de municipios declarados; Cataluña recibirá 119,4 millones para 271 municipios. Los fondos pueden destinarse a vivienda nueva o a la compra de pisos ya existentes por las administraciones. La ministra de Vivienda, Isabel Rodríguez, lo presenta como respuesta a un problema, no como algo positivo.",
       "lectura": "Es una decisión del Gobierno en plena precampaña, centrada en las comunidades que aplican la ley de vivienda; su efecto en la oferta no se conoce. Nivel B (rueda de prensa del Consejo de Ministros recogida por 20minutos; el acuerdo no se ha leído en La Moncloa ni en el BOE).",
