@@ -1,7 +1,42 @@
 {
-  "actualizado": "2026-10-19",
+  "actualizado": "2026-10-20",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-20",
+      "titulo": "Mónica García renuncia a ir en la lista de Frente Amplio para centrarse en las autonómicas de Madrid",
+      "que": "La ministra de Sanidad y líder de Más Madrid, Mónica García, anuncia a El País, según Europa Press, que no concurrirá en la lista de Frente Amplio el 29-N y seguirá como candidata de Más Madrid en las autonómicas de mayo de 2027. Defiende que el número dos por Madrid sea la diputada Tesh Sidi; la cabeza de lista es Emilio Delgado y Ada Colau encabeza Barcelona.",
+      "lectura": "La ministra deja el puesto de número dos que Más Madrid había propuesto para la lista de Madrid, la circunscripción donde la izquierda alternativa competirá dividida con Podemos; según ella, antepone «el bien común al interés personal». Nivel B (declaraciones recogidas por Europa Press, elDiario.es y 20minutos).",
+      "actores": [
+        {
+          "id": "SUMAR",
+          "impacto": -1
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-monica-garcia-renuncia-incorporarse-lista-frente-amplio-centrarse-elecciones-autonomicas-20261020072958.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-20",
+      "titulo": "PP y Vox negocian cómo responder en el Senado a «Senado de Progreso»; el plazo apunta al 26 de octubre",
+      "que": "Según fuentes sin identificar de ambos partidos citadas por ABC, la negociación (por el PP, con Miguel Tellado) «avanza» y los contactos se mantienen; una fórmula que apoya el PP sería que Vox no se presente en algunas circunscripciones a cambio de senadores autonómicos. Fuentes de Génova aseguran a ABC que nunca propusieron una coalición. 20minutos recoge que Génova mantiene la incógnita sobre si hay conversaciones. El plazo para registrar las listas apunta al 26-10; no hay acuerdo anunciado.",
+      "lectura": "El Senado, donde cada elector vota hasta tres candidatos y se eligen 209 senadores directos, es el campo donde la división del voto de la derecha puede costar escaños; los detalles de la negociación no son públicos. Nivel C (según fuentes sin identificar de PP y Vox, en ABC); la oferta pública de Abascal del lunes es nivel B.",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/negociacion-quirurgica-pp-vox-evitar-izquierda-haga-20261020012626-nt.html",
+        "https://www.20minutos.es/nacional/pp-mantiene-incognita-sobre-un-posible-acuerdo-senado-tras-oferta-vox-no-presentarse-algunas-provincias_7050657_0.html"
+      ]
+    },
     {
       "fecha": "2026-10-19",
       "titulo": "Sánchez pide concentrar el voto de izquierda en el PSOE: «Todo al rojo»",

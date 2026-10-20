@@ -1,6 +1,16 @@
 {
- "actualizado": "2026-10-19",
+ "actualizado": "2026-10-20",
  "dias": [
+  {
+   "fecha": "2026-10-20",
+   "items": [
+    {
+     "tipo": "diario",
+     "texto": "2 movimientos nuevos en el diario. Último: Mónica García renuncia a ir en la lista de Frente Amplio para centrarse en las autonómicas de Madrid.",
+     "texto_en": "2 new entries in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-10-19",
    "items": [
@@ -590,6 +600,32 @@
   },
   {
    "fecha": "2026-10-19",
+   "media": {
+    "PP": 32.29,
+    "PSOE": 26.38,
+    "VOX": 18.68,
+    "SUMAR": 5.97,
+    "PODEMOS": 3.07,
+    "SALF": 1.7
+   },
+   "escanos": {
+    "PP": 139,
+    "PSOE": 107,
+    "VOX": 65,
+    "SUMAR": 7,
+    "PODEMOS": 2
+   },
+   "ppvox": 204,
+   "probs": {
+    "pp_vox": 96.6,
+    "pp_solo": 0.4,
+    "psoe_bloque": 1.8,
+    "bloqueo": 1.2
+   },
+   "n_encuestas": 24
+  },
+  {
+   "fecha": "2026-10-20",
    "media": {
     "PP": 32.29,
     "PSOE": 26.38,
