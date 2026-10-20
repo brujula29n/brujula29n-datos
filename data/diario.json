@@ -4,6 +4,31 @@
   "entradas": [
     {
       "fecha": "2026-10-20",
+      "titulo": "El Gobierno aprueba un real decreto-ley que amplía la incapacidad temporal para víctimas de violencia de género y mujeres con patologías de la menopausia",
+      "que": "Según el resumen oficial del Consejo de Ministros en La Moncloa, el Gobierno aprueba un real decreto-ley para mejorar la acción protectora de la Seguridad Social: crea dos situaciones especiales de incapacidad temporal (mujeres con patologías incapacitantes relacionadas con la menopausia y trabajadoras víctimas de violencia de género con lesiones que les impidan trabajar), sin período mínimo de carencia y con una prestación del 60 % de la base reguladora, que sube al 75 % desde el día 20. El texto debe ser convalidado por la Diputación Permanente del Congreso. El mismo Consejo destina 180 millones a vivienda asequible en zonas tensionadas, 45 millones a alojamiento universitario y 9 millones a explotaciones agrarias afectadas por incendios.",
+      "lectura": "Son medidas aprobadas por el Gobierno durante la precampaña; su efecto depende de la convalidación y de su aplicación. Nivel A (resumen oficial del Consejo de Ministros en La Moncloa; el texto del real decreto-ley no se ha leído en el BOE).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 1
+        }
+      ],
+      "src": [
+        "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/201026-rueda-prensa-ministros.aspx"
+      ]
+    },
+    {
+      "fecha": "2026-10-20",
+      "titulo": "El Supremo da 24 horas a las partes para opinar sobre el texto de la JEC sobre el voto exterior",
+      "que": "Según El País, la Junta Electoral Central acordó la semana pasada empezar a enviar la documentación a los inscritos en el censo del extranjero (CERA) con una advertencia sobre el posible efecto de la decisión del Supremo en la «ley de nietos». La JEC envió el texto a la Sala de lo Contencioso del Supremo, que da 24 horas a las partes para presentar alegaciones. Iustitia Europa ya ha respondido y pide advertir de que incumplir los autos podría constituir un delito electoral. Según El País, la LOREG sitúa el envío entre el 24 y el 30 de octubre.",
+      "lectura": "El Supremo revisa el contenido del envío antes de que empiece; sigue sin resolverse cómo distinguir a los nacionalizados afectados. La petición de Iustitia Europa es una posición de parte, no una resolución. Nivel B (El País; resoluciones no leídas).",
+      "actores": [],
+      "src": [
+        "https://elpais.com/espana/elecciones-generales/2026-10-20/el-supremo-pregunta-a-las-partes-por-el-acuerdo-de-la-junta-electoral-sobre-el-voto-exterior.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-20",
       "titulo": "Sánchez anuncia que el Consejo de Ministros declarará zona gravemente afectada a los municipios asolados por la DANA",
       "que": "Tras visitar el Puesto de Mando Avanzado de Oliva (Valencia), Sánchez anuncia, según La Moncloa, que el Consejo de Ministros aprobará la declaración de zona gravemente afectada por una emergencia de protección civil para los municipios afectados por la DANA, que el Gobierno «va a poner recursos económicos» y facilitará «la agilización en la contratación pública». Traslada condolencias por las cinco víctimas mortales de las lluvias. Le acompañaban cuatro ministros, la delegada del Gobierno en la Comunitat Valenciana y el presidente de la Generalitat, Juan Francisco Pérez Llorca.",
       "lectura": "Es un anuncio, no un acuerdo adoptado: no se conocen aún la cuantía ni la fecha de aprobación. Nivel A (nota oficial de La Moncloa sobre el anuncio; el contenido del acuerdo está pendiente).",
