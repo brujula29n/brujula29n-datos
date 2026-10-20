@@ -4,6 +4,37 @@
   "entradas": [
     {
       "fecha": "2026-10-20",
+      "titulo": "El Consejo de Ministros aprueba 180 millones para alquiler asequible en las cinco comunidades con zonas tensionadas",
+      "que": "Según 20minutos, el Consejo de Ministros aprueba una partida «extraordinaria» de 180 millones de euros para ampliar la oferta de vivienda de alquiler social y asequible en las cinco comunidades con zonas tensionadas (Cataluña, País Vasco, Navarra, Galicia y Asturias), repartida según el número de municipios declarados; Cataluña recibirá 119,4 millones para 271 municipios. Los fondos pueden destinarse a vivienda nueva o a la compra de pisos ya existentes por las administraciones. La ministra de Vivienda, Isabel Rodríguez, lo presenta como respuesta a un problema, no como algo positivo.",
+      "lectura": "Es una decisión del Gobierno en plena precampaña, centrada en las comunidades que aplican la ley de vivienda; su efecto en la oferta no se conoce. Nivel B (rueda de prensa del Consejo de Ministros recogida por 20minutos; el acuerdo no se ha leído en La Moncloa ni en el BOE).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/gobierno-aprueba-180-millones-euros-para-aumentar-oferta-viviendas-alquiler-asequible-zonas-tensionadas_7050970_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-20",
+      "titulo": "El juez Pedraz da 48 horas al PSOE para entregar la relación de abogados y despachos contratados entre 2021 y 2025",
+      "que": "Según El Mundo y El Español, el juez de la Audiencia Nacional Santiago Pedraz, que instruye el caso de las «cloacas», requiere al PSOE en un plazo de 48 horas la relación completa de abogados o despachos y consultoras contratados entre 2021 y 2025, la documentación que justifica esos servicios y los expedientes internos de pago, «visto el tiempo transcurrido» sin respuesta a la primera petición hecha a la Asesoría Jurídica del partido. El PSOE no ha respondido en lo recogido.",
+      "lectura": "Es una diligencia de instrucción; el requerimiento no implica que el partido ni ninguna persona haya cometido delito alguno y rige la presunción de inocencia. Nivel B (resolución judicial recogida por El Mundo y El Español; el auto no se ha leído directamente).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": -1
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/espana/2026/10/20/6ad758eafdddffeb678b4599.html",
+        "https://www.elespanol.com/espana/tribunales/20261020/juez-reclama-vez-psoe-contratos-abogados-pidio-hace-semanas-da-dias-contestar/1003744427635_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-20",
       "titulo": "Feijóo confirma que busca una «fórmula» con Vox en el Senado: «sería un error facilitar al sanchismo» su control",
       "que": "Feijóo admite que busca una «fórmula» con Vox para el Senado porque «sería un error facilitar al sanchismo» el control de la Cámara «de forma directa o indirecta», apela a «respeto y discreción» y dice que entiende que «hay posibilidades de llegar a puntos de encuentro». Recuerda que Vox tiene cinco senadores autonómicos fruto de pactos del PP con Vox en parlamentos autonómicos, y que el PP aspira no solo a la mayoría absoluta, sino a los tres quintos.",
       "lectura": "Pasa de nivel C a declaración pública del líder del PP la negociación con Vox que apuntaban fuentes sin identificar; no hay acuerdo anunciado ni fórmula concreta, y el plazo de presentación de listas va del 21 al 26-10. Nivel B (declaraciones de Feijóo recogidas por Europa Press, elDiario.es y 20minutos).",
