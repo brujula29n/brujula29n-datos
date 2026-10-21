@@ -167,8 +167,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 153,
-  "ultimo": "El Gobierno aprueba un real decreto-ley que amplía la incapacidad temporal para víctimas de violencia de género y mujeres con patologías de la menopausia"
+  "n": 155,
+  "ultimo": "Milei, en Madrid, llama «dictador» a Sánchez y pide «sacar a los socialistas a patadas»; el PSOE responde con una lona en Ferraz"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -198,8 +198,8 @@
  ],
  "cambios": [
   {
-   "tipo": "nada",
-   "texto": "Sin cambios relevantes respecto al día anterior."
+   "tipo": "diario",
+   "texto": "2 movimientos nuevos en el diario. Último: Milei, en Madrid, llama «dictador» a Sánchez y pide «sacar a los socialistas a patadas»; el PSOE responde con una lona en Ferraz."
   }
  ]
 }

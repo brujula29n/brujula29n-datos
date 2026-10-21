@@ -1,7 +1,46 @@
 {
-  "actualizado": "2026-10-20",
+  "actualizado": "2026-10-21",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-21",
+      "titulo": "Milei, en Madrid, llama «dictador» a Sánchez y pide «sacar a los socialistas a patadas»; el PSOE responde con una lona en Ferraz",
+      "que": "El presidente de Argentina, Javier Milei, en un acto de Nueva Economía Fórum, califica a Sánchez de «impresentable dictador», afirma sin aportar pruebas que el Gobierno fomentó la entrada masiva en Ceuta porque «cada inmigrante es un voto» y pide «sacar a los socialistas a patadas» del poder. El PSOE y Sánchez le dan la «bienvenida» con una lona en Ferraz y un vídeo («Orgullosos de ser zurdos»). Según elDiario.es, Milei no se reúne con Abascal.",
+      "lectura": "Un mandatario extranjero interviene abiertamente en la campaña y el PSOE lo convierte en argumento propio. Las afirmaciones de Milei sobre Ceuta son opiniones y acusaciones suyas, no hechos acreditados; no consta respuesta oficial del Gobierno más allá de la lona. Nivel B (declaraciones recogidas por Europa Press, El País, El Mundo y ABC).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-milei-llama-dictador-sanchez-dice-fomento-invasion-ceuta-porque-cada-inmigrante-voto-20261021104649.html",
+        "https://elpais.com/espana/2026-10-21/milei-participa-en-un-desayuno-informativo-en-madrid-durante-su-visita-a-espana.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-21",
+      "titulo": "Vox no descarta «ninguna fórmula» para el Senado con el PP y no tiene prisa: «Los plazos están para agotarlos»",
+      "que": "La portavoz de Vox en el Congreso, Pepa Rodríguez de Millán, dice en una entrevista recogida por Europa Press que su partido no descarta «ninguna fórmula» para el pacto con el PP para el Senado, que no da detalles de las conversaciones y que «los plazos están para agotarlos». Recuerda la disposición de Vox a hacer «sacrificios». Feijóo confirmó el martes que buscan un acuerdo para alcanzar los tres quintos del Senado.",
+      "lectura": "Ambos partidos admiten públicamente que negocian sin anunciar fórmula; el plazo de presentación de listas llega al 26-10. Nivel B (declaraciones de Rodríguez de Millán y de Feijóo, recogidas por Europa Press).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-vox-no-descarta-ninguna-formula-pacto-pp-senado-no-tiene-prisa-cerrarlo-20261021105811.html"
+      ]
+    },
     {
       "fecha": "2026-10-20",
       "titulo": "El Gobierno aprueba un real decreto-ley que amplía la incapacidad temporal para víctimas de violencia de género y mujeres con patologías de la menopausia",
