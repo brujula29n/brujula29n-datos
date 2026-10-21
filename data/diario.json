@@ -4,6 +4,60 @@
   "entradas": [
     {
       "fecha": "2026-10-21",
+      "titulo": "Exteriores condena los insultos de Milei a Sánchez y los califica de «indignos»",
+      "que": "En un comunicado, el Ministerio de Asuntos Exteriores expresa su «más enérgica condena ante los insultos y calumnias» de Javier Milei contra Sánchez, España y los españoles y su «llamamiento al uso de la violencia», considera «indigno» que un jefe de Estado venga a «fomentar un clima de polarización» y recuerda que España «es una nación soberana que no acepta injerencias». Sánchez, en actos del PSOE, usa la visita para advertir de que PP y Vox harían «lo mismo que en Argentina» (El País).",
+      "lectura": "El Gobierno convierte la visita de Milei en eje de campaña; las advertencias de Sánchez sobre lo que harían PP y Vox son mensaje electoral, no un hecho comprobable. Nivel A (comunicado del Ministerio de Exteriores recogido por Europa Press) para la condena; nivel B para el discurso de Sánchez.",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-exteriores-ve-indigno-milei-venga-espana-insultar-sanchez-fomentar-polarizacion-espanoles-20261021170604.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-21",
+      "titulo": "El PP envía un burofax a Exteriores por la «ley de nietos» y avisa de posibles multas y penas de cárcel",
+      "que": "Según el burofax al que ha tenido acceso Europa Press, el secretario general del PP, Miguel Tellado, acusa a Exteriores de una «conducta pasiva y obstruccionista» dirigida a la «desobediencia efectiva» de los autos del Supremo del 10 de septiembre y 12 de octubre sobre la «ley de nietos», requiere a la directora general de Españoles en el Exterior que los cumpla «con carácter inmediato y urgente» y advierte de que incumplir puede acarrear multas y penas de seis a 24 meses de cárcel. Albares había rechazado ese día que se «acose» a Exteriores y dijo que cumple con diligencia.",
+      "lectura": "Es una acusación y un requerimiento de un partido, no una resolución judicial; el Supremo no ha declarado incumplimiento alguno en lo recogido. Nivel B (burofax recogido por Europa Press; respuesta del Ministerio recogida por 20minutos).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-pp-acusa-exteriores-burofax-desobediencia-efectiva-ordenado-supremo-ley-nietos-20261021191049.html",
+        "https://www.20minutos.es/nacional/albares-exige-pp-que-deje-acosar-exteriores-por-ley-nietos-asegura-que-cumple-auto-supremo-con-diligencia_7051374_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-21",
+      "titulo": "El PP propone al PSOE un cara a cara sobre vivienda entre Bravo y la ministra Rodríguez; el PSOE rechaza la carta",
+      "que": "El secretario general del PP, Miguel Tellado, propone en una carta a la coordinadora de campaña del PSOE, María Jesús Montero, un debate monográfico sobre vivienda entre el vicesecretario del PP Juan Bravo y la ministra de Vivienda, Isabel Rodríguez. Según El Español y El Mundo, una «secretaria» de Ferraz rechazó recibir la carta. No consta una respuesta oficial del PSOE a la propuesta en lo recogido.",
+      "lectura": "El PP intenta mantener la vivienda como tema central tras el caso Mínguez; el PSOE no ha respondido en lo recogido más allá del rechazo a recibir la carta. Nivel B (carta del PP recogida por 20minutos; rechazo de recepción según El Español y El Mundo).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/pp-propone-psoe-un-cara-cara-sobre-vivienda-durante-campana_7051697_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-21",
       "titulo": "Cargas policiales y altercados en A Coruña en las protestas contra un acto de Abascal",
       "que": "Según El Mundo, más de un millar de manifestantes convocados por organizaciones estudiantiles, Galiza Nova y el Sindicato de Inquilinas protestan en A Coruña contra el acto de Santiago Abascal; al terminar el mitin hay forcejeos y la Policía Nacional realiza cargas en un flanco de la plaza de María Pita. Abascal dice que «no hay coacción que pueda con nosotros». ABC informa de que el PP condena los disturbios y expresa su solidaridad con Abascal. No constan en lo leído balance de heridos ni detenidos.",
       "lectura": "Un episodio de tensión callejera en plena precampaña; las responsabilidades concretas de los altercados no están establecidas. Nivel B (relato de El Mundo; ABC para la reacción del PP). Sin cifras oficiales de heridos ni detenidos.",
