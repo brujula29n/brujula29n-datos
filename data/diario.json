@@ -4,6 +4,40 @@
   "entradas": [
     {
       "fecha": "2026-10-21",
+      "titulo": "Cargas policiales y altercados en A Coruña en las protestas contra un acto de Abascal",
+      "que": "Según El Mundo, más de un millar de manifestantes convocados por organizaciones estudiantiles, Galiza Nova y el Sindicato de Inquilinas protestan en A Coruña contra el acto de Santiago Abascal; al terminar el mitin hay forcejeos y la Policía Nacional realiza cargas en un flanco de la plaza de María Pita. Abascal dice que «no hay coacción que pueda con nosotros». ABC informa de que el PP condena los disturbios y expresa su solidaridad con Abascal. No constan en lo leído balance de heridos ni detenidos.",
+      "lectura": "Un episodio de tensión callejera en plena precampaña; las responsabilidades concretas de los altercados no están establecidas. Nivel B (relato de El Mundo; ABC para la reacción del PP). Sin cifras oficiales de heridos ni detenidos.",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/espana/2026/10/21/6ad894f4e4d4d85a288b4578.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-21",
+      "titulo": "El Frente Amplio niega negociar con el PSOE no presentarse en provincias pequeñas; Delgado había hablado de conversaciones «en marcha»",
+      "que": "Según elDiario.es, fuentes de todas las familias del Frente Amplio desmienten que haya conversaciones con el PSOE para que la coalición no se presente al Congreso en algunas provincias pequeñas. El martes por la noche, el número uno por Madrid, Emilio Delgado, dijo en TVE que había conversaciones abiertas con los socialistas para «optimizar» resultados, sin concretar. Ferraz dice oficialmente que «nunca ha estado sobre la mesa pactar listas». elDiario.es añade que el PSOE sí lo planteó en la negociación del Senado y lo rechazaron.",
+      "lectura": "Versiones contradictorias entre un portavoz y fuentes de su propia coalición sobre una posible retirada de listas; no hay acuerdo anunciado y el plazo de candidaturas va hasta el 26-10. Nivel C para lo atribuido a fuentes sin identificar de la coalición y a lo que «planteó» el PSOE (elDiario.es); nivel B para las declaraciones públicas de Delgado y de Ferraz.",
+      "actores": [
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/frente-amplio-cierra-puerta-pacto-psoe-retirar-listas-congreso-provincias-pequenas_1_13602712.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-21",
       "titulo": "Feijóo promete en Sevilla tres leyes de vivienda en sus primeros 100 días: antiokupación, del suelo y propiedad horizontal",
       "que": "En un acto sobre vivienda con Juanma Moreno, Feijóo se compromete a que el Consejo de Ministros apruebe en sus primeros 100 días tres proyectos de ley (antiokupación, con desalojos en 48 horas; del suelo; y reforma de la propiedad horizontal), a crear un millón de viviendas, a aplicar deducciones fiscales a inquilinos y propietarios en los alquileres que se renueven y a dar «la mayor ayuda de la historia» a los jóvenes para comprar. Según El País, propone también el silencio administrativo positivo a los 90 días para las licencias de construcción. Cifras como la subida del 45 % del alquiler y del 74 % de la compra son afirmaciones suyas, no comprobadas aquí.",
       "lectura": "El PP concreta su oferta de vivienda con un plazo legislativo, pero sin coste ni texto publicado en lo recogido. Nivel B (acto recogido por Europa Press y El País). No es el programa electoral formal del PP.",
