@@ -4,6 +4,22 @@
   "entradas": [
     {
       "fecha": "2026-10-21",
+      "titulo": "Feijóo promete en Sevilla tres leyes de vivienda en sus primeros 100 días: antiokupación, del suelo y propiedad horizontal",
+      "que": "En un acto sobre vivienda con Juanma Moreno, Feijóo se compromete a que el Consejo de Ministros apruebe en sus primeros 100 días tres proyectos de ley (antiokupación, con desalojos en 48 horas; del suelo; y reforma de la propiedad horizontal), a crear un millón de viviendas, a aplicar deducciones fiscales a inquilinos y propietarios en los alquileres que se renueven y a dar «la mayor ayuda de la historia» a los jóvenes para comprar. Según El País, propone también el silencio administrativo positivo a los 90 días para las licencias de construcción. Cifras como la subida del 45 % del alquiler y del 74 % de la compra son afirmaciones suyas, no comprobadas aquí.",
+      "lectura": "El PP concreta su oferta de vivienda con un plazo legislativo, pero sin coste ni texto publicado en lo recogido. Nivel B (acto recogido por Europa Press y El País). No es el programa electoral formal del PP.",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-feijoo-promete-ley-antiokupas-ley-suelo-primeros-100-dias-deducciones-fiscales-alquileres-20261021114500.html",
+        "https://elpais.com/espana/2026-10-21/feijoo-propone-el-silencio-administrativo-positivo-en-90-dias-para-conceder-licencias-de-construccion.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-21",
       "titulo": "Milei, en Madrid, llama «dictador» a Sánchez y pide «sacar a los socialistas a patadas»; el PSOE responde con una lona en Ferraz",
       "que": "El presidente de Argentina, Javier Milei, en un acto de Nueva Economía Fórum, califica a Sánchez de «impresentable dictador», afirma sin aportar pruebas que el Gobierno fomentó la entrada masiva en Ceuta porque «cada inmigrante es un voto» y pide «sacar a los socialistas a patadas» del poder. El PSOE y Sánchez le dan la «bienvenida» con una lona en Ferraz y un vídeo («Orgullosos de ser zurdos»). Según elDiario.es, Milei no se reúne con Abascal.",
       "lectura": "Un mandatario extranjero interviene abiertamente en la campaña y el PSOE lo convierte en argumento propio. Las afirmaciones de Milei sobre Ceuta son opiniones y acusaciones suyas, no hechos acreditados; no consta respuesta oficial del Gobierno más allá de la lona. Nivel B (declaraciones recogidas por Europa Press, El País, El Mundo y ABC).",
