@@ -4,6 +4,40 @@
   "entradas": [
     {
       "fecha": "2026-10-22",
+      "titulo": "Feijóo elige a Cayetana Álvarez de Toledo como número dos de la lista de Madrid y a Borja Sémper como tres",
+      "que": "El PP confirma que Cayetana Álvarez de Toledo, portavoz adjunta del Grupo Popular, será la número dos de la lista de Madrid al Congreso, detrás de Feijóo, y que Borja Sémper, portavoz nacional, repite como número tres. El PP admite que representan «formas distintas de entender España» y que en el partido caben «todas las sensibilidades».",
+      "lectura": "Cubre una de las incógnitas de las listas del PP en Madrid; el propio PP lo presenta como unión de «perfiles distintos». Nivel B (confirmación del PP recogida por Europa Press, elDiario.es y 20minutos).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-29n-feijoo-elige-alvarez-toledo-numero-dos-lista-madrid-congreso-semper-tres-20261022085707.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-22",
+      "titulo": "El PSOE acepta debatir sobre vivienda con el PP pero pide que sean los medios quienes organicen los debates",
+      "que": "La portavoz del PSOE, Rebeca Torró, dice en la Cadena SER que su partido «no tendrá ningún problema en sentarse» a debatir sobre vivienda y que participará en todos los debates que planteen los medios, pero que no debe ser Miguel Tellado quien decida «cómo, de qué manera y en qué sitio» se hace el cara a cara. Responde así a la carta del PP del miércoles proponiendo un debate entre Juan Bravo y la ministra Isabel Rodríguez.",
+      "lectura": "El PSOE acepta el tema pero no el formato propuesto por el PP; no hay fecha, medio ni participantes acordados. Nivel B (entrevista de Torró recogida por Europa Press).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-psoe-reclama-pp-deje-sean-medios-organizadores-debate-acepta-vivienda-ser-20261022093537.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-22",
       "titulo": "El Constitucional inadmite el amparo del Defensor del Pueblo sobre el voto de los nacionalizados por la «ley de nietos»",
       "que": "El Pleno del Tribunal Constitucional rechaza admitir a trámite el recurso de amparo del Defensor del Pueblo, Ángel Gabilondo, contra la suspensión cautelar del voto de los nacionalizados decretada por el Supremo. Según 20minutos, la votación fue de diez magistrados contra dos; elDiario.es confirma que una minoría de dos magistrados del sector progresista (Ramón Sáez y Juan Carlos Campo) defendía al menos examinar el recurso y presentará un voto particular. La mayoría lo considera «prematuro» porque el procedimiento sigue abierto en el Supremo. La suspensión sigue vigente y afecta a 163.020 inscritos en el CERA según datos del Gobierno.",
       "lectura": "El foco vuelve al Supremo, que se reúne este jueves para analizar cómo cumplen consulados y JEC sus medidas cautelares; los afectados pueden presentar alegaciones hasta este viernes. No queda resuelto quién podrá votar el 29-N. Nivel B (20minutos y elDiario.es; la resolución del TC no se ha leído).",

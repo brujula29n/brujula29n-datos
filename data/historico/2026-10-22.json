@@ -167,8 +167,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 162,
-  "ultimo": "El Constitucional inadmite el amparo del Defensor del Pueblo sobre el voto de los nacionalizados por la «ley de nietos»"
+  "n": 164,
+  "ultimo": "Feijóo elige a Cayetana Álvarez de Toledo como número dos de la lista de Madrid y a Borja Sémper como tres"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -199,7 +199,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "1 movimiento nuevo en el diario. Último: El Constitucional inadmite el amparo del Defensor del Pueblo sobre el voto de los nacionalizados por la «ley de nietos»."
+   "texto": "3 movimientos nuevos en el diario. Último: Feijóo elige a Cayetana Álvarez de Toledo como número dos de la lista de Madrid y a Borja Sémper como tres."
   }
  ]
 }
