@@ -1,7 +1,27 @@
 {
-  "actualizado": "2026-10-21",
+  "actualizado": "2026-10-22",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-22",
+      "titulo": "El Constitucional inadmite el amparo del Defensor del Pueblo sobre el voto de los nacionalizados por la «ley de nietos»",
+      "que": "El Pleno del Tribunal Constitucional rechaza admitir a trámite el recurso de amparo del Defensor del Pueblo, Ángel Gabilondo, contra la suspensión cautelar del voto de los nacionalizados decretada por el Supremo. Según 20minutos, la votación fue de diez magistrados contra dos; elDiario.es confirma que una minoría de dos magistrados del sector progresista (Ramón Sáez y Juan Carlos Campo) defendía al menos examinar el recurso y presentará un voto particular. La mayoría lo considera «prematuro» porque el procedimiento sigue abierto en el Supremo. La suspensión sigue vigente y afecta a 163.020 inscritos en el CERA según datos del Gobierno.",
+      "lectura": "El foco vuelve al Supremo, que se reúne este jueves para analizar cómo cumplen consulados y JEC sus medidas cautelares; los afectados pueden presentar alegaciones hasta este viernes. No queda resuelto quién podrá votar el 29-N. Nivel B (20minutos y elDiario.es; la resolución del TC no se ha leído).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/ley-nietos-tras-decision-constitucional-quien-podra-votar-29-n-que-consecuencias-puede-tener_7051779_0.html",
+        "https://www.eldiario.es/politica/supremo-pone-lupa-ahora-documentacion-ordeno-enviar-junta-electoral-votantes-exterior_1_13604780.html"
+      ]
+    },
     {
       "fecha": "2026-10-21",
       "titulo": "Exteriores condena los insultos de Milei a Sánchez y los califica de «indignos»",
