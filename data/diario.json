@@ -4,6 +4,38 @@
   "entradas": [
     {
       "fecha": "2026-10-22",
+      "titulo": "Frente Amplio nombra al ministro Pablo Bustinduy portavoz de su campaña del 29-N",
+      "que": "La coalición impulsada por IU, Movimiento Sumar, Más Madrid y los comunes anunció en un comunicado que el ministro de Derechos Sociales, Consumo y Agenda 2030 será el portavoz de campaña. El comunicado dice que Bustinduy ha mostrado «apoyo total a la coalición» y que en la campaña está en juego «garantizar el derecho a la vivienda y defender los salarios, las pensiones y los servicios públicos». En marzo había dicho que no sería el candidato.",
+      "lectura": "Es un papel de campaña, no una candidatura: no cambia quién encabeza la lista. Nivel B (El Mundo, 20minutos, citando el comunicado de la coalición).",
+      "actores": [
+        {
+          "id": "Frente Amplio",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ad9dcf4e4d4d8f3178b4576.html",
+        "https://www.20minutos.es/nacional/pablo-bustinduy-sera-portavoz-campana-frente-amplio-para-29-n_7051984_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-22",
+      "titulo": "Dimite el coordinador de Podemos en Aragón, Ricard Mitjana, y deja el partido en manos de una gestora",
+      "que": "Según El Mundo y ABC, Mitjana deja sus cargos por «desacuerdos» con la dirección nacional. El Mundo apunta como motivos la falta de acuerdo para integrarse en el Frente Amplio y que la dirección prefiriese a María Goikoetxea como candidata a la alcaldía de Zaragoza. ABC recoge su frase: «Que nadie de Madrid venga a decirnos lo que tenemos que hacer en Aragón». Podemos obtuvo un 0,9% en las autonómicas aragonesas de febrero.",
+      "lectura": "Es una crisis territorial de un partido que concurre por separado, a cinco semanas de las elecciones. Los motivos son los que cuentan los dos medios; no hay una versión de la dirección nacional en las fuentes leídas. Nivel B (El Mundo, ABC).",
+      "actores": [
+        {
+          "id": "Podemos",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/aragon/2026/10/22/6ad9e5d0e85ece3f758b457e.html",
+        "https://www.abc.es/espana/aragon/dimite-direccion-podemos-aragon-bloque-profundos-desacuerdos-20261022134920-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-22",
       "titulo": "Feijóo elige a Cayetana Álvarez de Toledo como número dos de la lista de Madrid y a Borja Sémper como tres",
       "que": "El PP confirma que Cayetana Álvarez de Toledo, portavoz adjunta del Grupo Popular, será la número dos de la lista de Madrid al Congreso, detrás de Feijóo, y que Borja Sémper, portavoz nacional, repite como número tres. El PP admite que representan «formas distintas de entender España» y que en el partido caben «todas las sensibilidades».",
       "lectura": "Cubre una de las incógnitas de las listas del PP en Madrid; el propio PP lo presenta como unión de «perfiles distintos». Nivel B (confirmación del PP recogida por Europa Press, elDiario.es y 20minutos).",
