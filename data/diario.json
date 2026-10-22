@@ -4,6 +4,42 @@
   "entradas": [
     {
       "fecha": "2026-10-22",
+      "titulo": "Sánchez acepta el cara a cara con Feijóo el 16-N en una privada; PSOE y PP chocan por el debate a cuatro del 26-N",
+      "que": "El PSOE comunicó que acepta un cara a cara en medios privados el lunes 16 de noviembre y que acepta la invitación de RTVE al debate a cuatro (con Vox y Frente Amplio) del jueves 26. El PP dice que el cara a cara será en Mediaset el 16-N, rechaza que el debate a cuatro sea en RTVE y lo quiere en Atresmedia: «No habrá debate a cuatro en RTVE», según fuentes de Génova. El PSOE dice que no vetará a ningún grupo mediático.",
+      "lectura": "PSOE y PP coinciden en la fecha del cara a cara (16-N); discrepan en la cadena del debate a cuatro. Cada posición es la que expone su partido. Nivel B (ABC y 20minutos, con comunicado del PSOE y fuentes del PP).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/debate-cara-cara-sanchez-feijoo-noviembre-20261022172329-nt.html",
+        "https://www.20minutos.es/nacional/sanchez-acepta-un-cara-cara-con-feijoo-16-noviembre-mientras-que-debate-cuatro-sera-diez-dias-despues-rtve_7052236_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-22",
+      "titulo": "IU ratifica que se presentará en Teruel pese a que Chunta retira su lista del Frente Amplio en esa provincia",
+      "que": "Chunta Aragonesista anunció el 21-10 que no concurrirá al Congreso por Teruel «para evitar la dispersión del voto». Según elDiario.es, fuentes de la dirección federal de IU confirmaron que presentarán lista propia allí. Chunta sostiene que la decisión estaba en el acuerdo de la coalición. ABC añade que Azcón (PP) llamó «traidor» a Pueyo por la decisión.",
+      "lectura": "elDiario.es lo describe como la primera fisura del Frente Amplio desde su registro; queda por ver qué lista proclama la JEC. Nivel B (elDiario.es y ABC).",
+      "actores": [
+        {
+          "id": "Frente Amplio",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/iu-ratifica-presentara-teruel-chunta-trata-cerrar-debate-retirar-listas-provincias-pequenas_1_13607573.html",
+        "https://www.abc.es/espana/aragon/azcon-llama-traidor-pueyo-concurrir-teruel-legar-20261022144055-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-22",
       "titulo": "La JEC rechaza abrir otro expediente a Sánchez por sus declaraciones en Bruselas pero le recuerda su deber de neutralidad",
       "que": "Según Europa Press, la Junta Electoral Central desestimó dos denuncias del PP sobre las declaraciones del presidente los días 15 y 16 de octubre en el Consejo Europeo, por no ver elementos suficientes para un procedimiento sancionador. Añade que algunas manifestaciones son «difícilmente conciliables» con la neutralidad y otras están «en el límite de lo admisible».",
       "lectura": "No hay sanción ni expediente nuevo, pero la JEC deja por escrito un aviso sobre el artículo 50.2 de la LOREG. Nivel B (Europa Press, que cita la resolución de la JEC).",
