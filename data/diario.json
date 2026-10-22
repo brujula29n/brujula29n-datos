@@ -4,6 +4,57 @@
   "entradas": [
     {
       "fecha": "2026-10-22",
+      "titulo": "La JEC rechaza abrir otro expediente a Sánchez por sus declaraciones en Bruselas pero le recuerda su deber de neutralidad",
+      "que": "Según Europa Press, la Junta Electoral Central desestimó dos denuncias del PP sobre las declaraciones del presidente los días 15 y 16 de octubre en el Consejo Europeo, por no ver elementos suficientes para un procedimiento sancionador. Añade que algunas manifestaciones son «difícilmente conciliables» con la neutralidad y otras están «en el límite de lo admisible».",
+      "lectura": "No hay sanción ni expediente nuevo, pero la JEC deja por escrito un aviso sobre el artículo 50.2 de la LOREG. Nivel B (Europa Press, que cita la resolución de la JEC).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-jec-descarta-expedientar-nuevo-sanchez-declaraciones-bruselas-le-ruega-neutralidad-20261022164035.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-22",
+      "titulo": "El PSOE pide tiempo a Pedraz para entregar los contratos con sus abogados y alega secreto profesional",
+      "que": "En un escrito al juez del caso Leire Díez, el PSOE dice que la relación de despachos y hojas de encargo de 2021 a 2025 no está centralizada, que la precampaña merma su capacidad de respuesta y que parte de lo pedido está sujeto a secreto profesional. Según El Español, el partido consultó al Consejo General de la Abogacía el día 20; el juez pidió la información por primera vez el 6 de octubre.",
+      "lectura": "Es una petición de plazo y una alegación del partido, no una negativa judicial resuelta: decide el juez. Nivel B (elDiario.es y El Español, que citan el escrito).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/psoe-pide-tiempo-pedraz-entregarle-contratos-abogados-afectar-secreto-profesional_1_13607095.html",
+        "https://www.elespanol.com/espana/tribunales/20261022/psoe-escuda-justificar-demora-dar-datos-juez-trata-evitarlo-alegando-secreto-profesional/1003744431328_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-22",
+      "titulo": "Felipe González anuncia que votará en blanco el 29-N",
+      "que": "El expresidente dijo en un encuentro empresarial en Málaga: «Voy a votar en blanco porque no me siento representado por ninguno». Sobre un pacto PP-Vox lo llamó «inevitable» y criticó los pactos de Sánchez con Bildu y la amnistía. Ironizó con que, si Milei visita España 15 veces más, «es posible que gane Sánchez».",
+      "lectura": "Es una posición personal de un exdirigente socialista, no un cambio de línea del PSOE. Nivel B (El Español, 20minutos).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elespanol.com/espana/politica/20261022/felipe-gonzalez-votara-blanco-pacto-pp-vox-no-gusta-pactar-bildu-pedir-perdon-puigdemont/1003744431301_0.html",
+        "https://www.20minutos.es/nacional/felipe-gonzalez-anuncia-que-votara-blanco-las-elecciones-29n-no-veo-nada-que-me-represente_7052112_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-22",
       "titulo": "Frente Amplio nombra al ministro Pablo Bustinduy portavoz de su campaña del 29-N",
       "que": "La coalición impulsada por IU, Movimiento Sumar, Más Madrid y los comunes anunció en un comunicado que el ministro de Derechos Sociales, Consumo y Agenda 2030 será el portavoz de campaña. El comunicado dice que Bustinduy ha mostrado «apoyo total a la coalición» y que en la campaña está en juego «garantizar el derecho a la vivienda y defender los salarios, las pensiones y los servicios públicos». En marzo había dicho que no sería el candidato.",
       "lectura": "Es un papel de campaña, no una candidatura: no cambia quién encabeza la lista. Nivel B (El Mundo, 20minutos, citando el comunicado de la coalición).",
