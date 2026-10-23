@@ -4,6 +4,47 @@
   "entradas": [
     {
       "fecha": "2026-10-23",
+      "titulo": "Feijóo, en la SER: gobernará «la lista más votada», no descarta a Vox en el Gobierno y reduce ministerios; Senado con Vox «no está cerrado»",
+      "que": "En Hoy por Hoy, Feijóo se comprometió a que gobierne la lista más votada, aunque a la tercera repregunta según elDiario.es. Dijo que, si los españoles se lo piden, daría estabilidad al Gobierno «con la tercera fuerza»; que no mantendrá 22 ministerios y que Igualdad perderá su rango propio; que derogará la Ley de Memoria Democrática y que estudiará «la viabilidad» de las pensiones y reformará la ley de eutanasia (elDiario.es). Sobre el Senado, dijo que las conversaciones con Vox siguen, que «no hay nada cerrado» y que corresponderá si Vox no se presenta en algunas provincias; el plazo acaba el 26-10 (20minutos).",
+      "lectura": "Son compromisos y posiciones expresados por el candidato en una entrevista, no un programa publicado. Nivel B (elDiario.es, ABC y 20minutos, que recogen sus palabras).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/feijoo-reabre-debate-aborto-eliminara-ministerio-igualdad-estudiara-viabilidad-pensiones_1_13608554.html",
+        "https://www.abc.es/espana/feijoo-mantiene-viva-posibilidad-pactos-vox-senado-20261023092445-nt.html",
+        "https://www.20minutos.es/nacional/feijoo-se-muestra-dispuesto-corresponder-vox-si-partido-abascal-se-retira-provincias-donde-no-podran-tener-senador_7052442_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-23",
+      "titulo": "Leire Díez presenta ante la Audiencia Nacional una querella contra el PP por el vídeo de IA",
+      "que": "Según ABC y elDiario.es, la defensa de Díez presentó un escrito ante el juez Pedraz en el que acusa al PP de calumnias con publicidad, delito contra la integridad moral y suplantación de identidad digital, por el vídeo hecho con IA publicado el miércoles. Pide como cautelar retirarlo de las cuentas del PP. El escrito dice que lo que el vídeo atribuye a Díez es «absoluta y rotundamente falso». Es una querella de parte: no consta decisión del juez ni respuesta del PP en las fuentes leídas.",
+      "lectura": "Es una acusación de la querellante: no hay decisión judicial ni se ha admitido la querella. La causa de Pedraz investiga una presunta trama que Díez habría coordinado, sin sentencia. Nivel B (ABC y elDiario.es, que citan el escrito).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/leire-querella-pp-video-ia-atribuye-haber-20261023111638-nt.html",
+        "https://www.eldiario.es/politica/leire-diez-querella-pp-video-ia-acusa-contratar-matones-eliminar-jueza-biedma_1_13608569.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-23",
       "titulo": "Sánchez, en La Revuelta: pide voto útil, admite que Ceuta «se pudo gestionar mejor» y llama «error» a la corrupción",
       "que": "En su primera entrevista de precampaña, en el programa de TVE, Sánchez dijo que «la alternancia es sana, pero si está Vox en la ecuación no es alternancia, es involución». Pidió concentrar el voto en el PSOE ante la fragmentación a su izquierda, dijo que sabía que la idea de Rufián «no iba a volar», admitió que la crisis de Ceuta «se pudo gestionar mejor» y habló de «decepción doble» por Ábalos y el caso Koldo. Se fijó como meta, medio en broma, «176 escaños».",
       "lectura": "Son declaraciones del candidato en un programa de TVE, recogidas tal cual por los medios. Nivel B (elDiario.es, 20minutos y El Mundo).",
