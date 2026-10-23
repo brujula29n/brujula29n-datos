@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14",
+  "actualizado": "2026-10-23",
   "nota": "Escaños sobre 350; mayoría absoluta 176. null = la casa no publica ese dato. 'tipo': privada | oficial | panel. Las cifras se han contrastado con al menos dos fuentes cuando el medio original bloqueaba la lectura.",
   "partidos_orden": [
     "PP",
@@ -54,21 +54,21 @@
   "media": {
     "nombre": "Media ponderada Brújula 29N",
     "metodo": "Media de las encuestas privadas con campo en los últimos 21 días, ponderada por tamaño muestral (raíz cuadrada) y antigüedad (semivida 10 días). El CIS se muestra aparte por su desviación sistemática documentada; los paneles online autoseleccionados ponderan a la mitad.",
-    "fecha": "2026-10-11",
+    "fecha": "2026-10-16",
     "pct": {
-      "PP": 32.29,
-      "PSOE": 26.38,
-      "VOX": 18.68,
-      "SUMAR": 5.97,
-      "PODEMOS": 3.07,
-      "SALF": 1.7,
+      "PP": 31.85,
+      "PSOE": 26.46,
+      "VOX": 18.85,
+      "SUMAR": 6.3,
+      "PODEMOS": 2.94,
+      "SALF": 1.65,
       "ERC": 2.16,
-      "JUNTS": 1.54,
-      "BILDU": 1.36,
-      "PNV": 0.93,
-      "BNG": 0.91,
-      "CC": 0.46,
-      "UPN": 0.19
+      "JUNTS": 1.48,
+      "BILDU": 1.35,
+      "PNV": 0.94,
+      "BNG": 0.94,
+      "CC": 0.49,
+      "UPN": 0.16
     },
     "casas": [
       "40dB",
@@ -1047,6 +1047,46 @@
       "esc_rango": "PP 135-137 · PSOE 103-105 · Vox 64-66 · Sumar 10 · Podemos 2",
       "nota": "Online; margen de error ±3,1 %. Escaños: punto medio del rango publicado; resto de partidos, sin dato.",
       "url": "https://www.electografica.com/2026/10/encuesta-target-point-261011.html"
+    },
+    {
+      "casa": "IMOP Insights",
+      "medio": "El Confidencial",
+      "tipo": "privada",
+      "campo_ini": "2026-10-13",
+      "campo_fin": "2026-10-16",
+      "n": 1000,
+      "pct": {
+        "PP": 28.5,
+        "PSOE": 27.1,
+        "VOX": 20.0,
+        "SUMAR": 8.9,
+        "PODEMOS": 1.9,
+        "SALF": 1.2,
+        "ERC": 2.2,
+        "JUNTS": 1.2,
+        "BILDU": 1.3,
+        "PNV": 1.0,
+        "BNG": 1.1,
+        "CC": 0.6,
+        "UPN": 0.0
+      },
+      "esc": {
+        "PP": 123,
+        "PSOE": 113,
+        "VOX": 72,
+        "SUMAR": 14,
+        "PODEMOS": 1,
+        "SALF": null,
+        "ERC": 8,
+        "JUNTS": 4,
+        "BILDU": 6,
+        "PNV": 5,
+        "BNG": 2,
+        "CC": 1,
+        "UPN": 0
+      },
+      "nota": "Telefónico + online; margen de error ±3,1 %. Sumar figura como Frente Amplio (Sumar). Escaños además: Adelante Andalucía 1 (no tiene casilla propia). Datos tomados de la ficha de Electográfica.",
+      "url": "https://www.electografica.com/2026/10/encuesta-imop-insights-261023.html"
     }
   ]
 }

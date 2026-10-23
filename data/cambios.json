@@ -1,6 +1,42 @@
 {
- "actualizado": "2026-10-22",
+ "actualizado": "2026-10-23",
  "dias": [
+  {
+   "fecha": "2026-10-23",
+   "items": [
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: IMOP Insights 2026-10-16.",
+     "texto_en": "New poll: IMOP Insights 2026-10-16."
+    },
+    {
+     "tipo": "media",
+     "texto": "PP baja en la media: 32,3 % → 31,9 %.",
+     "delta": -0.4,
+     "partido": "PP",
+     "texto_en": "PP falls in the poll average: 32.3% → 31.9%."
+    },
+    {
+     "tipo": "media",
+     "texto": "Sumar/FA sube en la media: 6,0 % → 6,3 %.",
+     "delta": 0.3,
+     "partido": "SUMAR",
+     "texto_en": "Sumar/FA rises in the poll average: 6.0% → 6.3%."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "PP: proyección de 139 a 137 escaños.",
+     "delta": -2,
+     "partido": "PP",
+     "texto_en": "PP: projection from 139 to 137 seats."
+    },
+    {
+     "tipo": "diario",
+     "texto": "3 movimientos nuevos en el diario. Último: Sánchez, en La Revuelta: pide voto útil, admite que Ceuta «se pudo gestionar mejor» y llama «error» a la corrupción.",
+     "texto_en": "3 new entries in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-10-22",
    "items": [
@@ -721,6 +757,32 @@
     "bloqueo": 1.2
    },
    "n_encuestas": 24
+  },
+  {
+   "fecha": "2026-10-23",
+   "media": {
+    "PP": 31.85,
+    "PSOE": 26.46,
+    "VOX": 18.85,
+    "SUMAR": 6.3,
+    "PODEMOS": 2.94,
+    "SALF": 1.65
+   },
+   "escanos": {
+    "PP": 137,
+    "PSOE": 107,
+    "VOX": 66,
+    "SUMAR": 8,
+    "PODEMOS": 2
+   },
+   "ppvox": 203,
+   "probs": {
+    "pp_vox": 95.9,
+    "pp_solo": 0.3,
+    "psoe_bloque": 2.1,
+    "bloqueo": 1.7
+   },
+   "n_encuestas": 25
   }
  ]
 }
