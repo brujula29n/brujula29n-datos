@@ -4,6 +4,39 @@
   "entradas": [
     {
       "fecha": "2026-10-23",
+      "titulo": "El Supremo da cinco días al Gobierno para entregar la lista de 163.020 afectados por la suspensión del voto de la «ley de nietos»",
+      "que": "Dos autos del Supremo requieren a los ministros Bolaños y Albares que remitan, antes del 28-10, la relación nominal de afectados a la Sala, a la JEC y a la Oficina del Censo Electoral. Avisan de multa coercitiva de 1.000 euros a cada ministro y de posible testimonio para exigir responsabilidad penal si no lo hacen. Ordenan además que el primer envío de documentación electoral del CERA advierta de que la inclusión provisional no garantiza poder votar. Hay voto particular de una magistrada.",
+      "lectura": "Son decisiones judiciales recogidas por los medios; el voto particular de una magistrada consta en elDiario.es. El Gobierno no había respondido en las fuentes leídas. Nivel B (Europa Press y elDiario.es, que citan los autos).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-ts-da-dias-gobierno-darle-lista-afectados-voto-suspender-ley-nietos-avisa-multa-20261023124830.html",
+        "https://www.eldiario.es/politica/supremo-pide-gobierno-lista-160-000-nacionalizados-ley-nietos-advierte-responsabilidad-penal-si-no-entrega_1_13609262.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-23",
+      "titulo": "Pedraz da 15 días al PSOE para entregar la documentación sobre abogados y le pide concretar qué cubre el secreto profesional",
+      "que": "En una providencia, el juez de la Audiencia Nacional rechaza que la consulta del PSOE al Consejo General de la Abogacía suspenda su requerimiento del 6 de octubre. Fija 15 días para entregar, «sin más demora», la relación de abogados y consultores de 2021 a 2025, y pide identificar «de forma precisa e individualizada» los documentos que el partido crea protegidos por secreto profesional.",
+      "lectura": "La providencia es una resolución del instructor sobre un requerimiento documental; no declara responsabilidad de nadie y la causa no tiene sentencia. El PSOE no ha respondido en las fuentes leídas. Nivel B (Europa Press, El Mundo y ABC, que citan la providencia).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-juez-caso-leire-diez-da-15-dias-psoe-entregar-mas-demora-documentacion-abogados-20261023141437.html",
+        "https://www.elmundo.es/espana/2026/10/23/6adb4915fdddff3d6d8b4595.html",
+        "https://www.abc.es/espana/pedraz-acusa-psoe-incumplir-requerimientos-exige-aporte-20261023135826-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-23",
       "titulo": "Feijóo, en la SER: gobernará «la lista más votada», no descarta a Vox en el Gobierno y reduce ministerios; Senado con Vox «no está cerrado»",
       "que": "En Hoy por Hoy, Feijóo se comprometió a que gobierne la lista más votada, aunque a la tercera repregunta según elDiario.es. Dijo que, si los españoles se lo piden, daría estabilidad al Gobierno «con la tercera fuerza»; que no mantendrá 22 ministerios y que Igualdad perderá su rango propio; que derogará la Ley de Memoria Democrática y que estudiará «la viabilidad» de las pensiones y reformará la ley de eutanasia (elDiario.es). Sobre el Senado, dijo que las conversaciones con Vox siguen, que «no hay nada cerrado» y que corresponderá si Vox no se presenta en algunas provincias; el plazo acaba el 26-10 (20minutos).",
       "lectura": "Son compromisos y posiciones expresados por el candidato en una entrevista, no un programa publicado. Nivel B (elDiario.es, ABC y 20minutos, que recogen sus palabras).",
