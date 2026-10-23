@@ -4,6 +4,65 @@
   "entradas": [
     {
       "fecha": "2026-10-23",
+      "titulo": "Sánchez acepta la entrevista de Jordi Wild; las de los cuatro candidatos se emitirán el 13 de noviembre",
+      "que": "Sánchez aceptó la invitación del youtuber Jordi Wild tras el sí de Feijóo, Abascal y Ada Colau. Según elDiario.es, las conversaciones se emitirán el 13 de noviembre con una hora de diferencia, durarán entre 50 y 90 minutos, no se editarán y habrá dos periodistas independientes que verificarán datos fuera de cámara.",
+      "lectura": "Es un formato de pódcast con las mismas reglas para los cuatro candidatos; no sustituye a los debates televisados. Nivel B (elDiario.es, que recoge lo que explicó el entrevistador; Europa Press y 20minutos dan la misma noticia).",
+      "actores": [],
+      "src": [
+        "https://www.eldiario.es/politica/pedro-sanchez-acepta-entrevista-jordi-wild_1_13611264.html",
+        "https://www.europapress.es/nacional/noticia-pedro-sanchez-acepta-entrevista-youtuber-jordi-wild-si-feijoo-abascal-colau-20261023205019.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-23",
+      "titulo": "El Frente Amplio tendrá el 30% de los puestos en las listas conjuntas con el PSOE para el Senado, en 44 circunscripciones",
+      "que": "Según elDiario.es, el PSOE ocupará el 70% de los puestos de las listas del «Senado de Progreso» y el Frente Amplio y aliados (Compromís, Chunta, Més) el 30%, en 44 circunscripciones. La izquierda alternativa no encabezará ninguna lista. El PSOE mantiene los puestos que ya ocupaba, salvo el número dos por Valencia (Compromís) y el segundo de Navarra (Frente Amplio). Un informe interno socialista, citado por el diario, calcula hasta 40 escaños si se mantiene el 100% de los votos de 2023.",
+      "lectura": "El acuerdo reparte los puestos de las listas conjuntas, no los escaños: los del Frente Amplio solo se convierten en actas si la candidatura suma más senadores que en 2023. Nivel B (elDiario.es).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "Frente Amplio",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/frente-amplio-tendra-30-puestos-listas-conjuntas-psoe-senado_1_13611215.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-23",
+      "titulo": "Vox pide al PP grupo propio en el Senado y protagonismo en Cataluña a cambio de no presentarse donde no tiene opciones",
+      "que": "Según fuentes conocedoras de la negociación citadas por El País, las dos condiciones principales de Vox para un acuerdo preelectoral en el Senado son tener grupo propio en la Cámara alta y protagonismo en alguna comunidad donde el PP no logra senadores, como Cataluña. Vox estaría dispuesto a no presentarse donde sus expectativas son nulas. El plazo para presentar listas termina el 26-10.",
+      "lectura": "Es una condición en negociación, no un acuerdo: PP y Vox no han confirmado estos términos en las fuentes leídas. Nivel C (según fuentes conocedoras de la negociación, citadas por El País).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://elpais.com/espana/2026-10-23/vox-exige-al-pp-tener-grupo-propio-en-el-senado-y-protagonismo-en-cataluna.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-23",
+      "titulo": "Solo 91 de 31.390 expedientes revisados de la «ley de nietos» tienen certificado para votar, según un auto del Supremo",
+      "que": "Un auto del Supremo recoge que, hasta el 21-10, el Gobierno ha revisado 31.390 de los 163.020 expedientes afectados por la suspensión cautelar y ha expedido 91 certificados que acreditan los requisitos para votar el 29-N (el 0,29% de los revisados). Los afectados pueden aportar más documentación.",
+      "lectura": "Es un dato provisional del auto: los afectados pueden aportar más documentación. Nivel B (20minutos, que cita el auto del Supremo con datos del Gobierno hasta el 21-10).",
+      "actores": [],
+      "src": [
+        "https://www.20minutos.es/nacional/solo-91-los-31-390-expedientes-revisados-ley-nietos-acreditan-por-ahora-los-requisitos-para-votar-29n_7052777_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-23",
       "titulo": "María José Catalá, alcaldesa de Valencia, encabezará la lista del PP al Congreso por Valencia",
       "que": "Catalá anunció en redes que liderará la lista del PP por la provincia de Valencia; seguirá como alcaldesa y candidata a la reelección en 2027, y deberá dejar su escaño en las Cortes Valencianas para recoger el acta. Dice que la propuesta partió de Feijóo. El PSOE ya había anunciado a la ex delegada del Gobierno Pilar Bernabé como cabeza de lista por Valencia.",
       "lectura": "Es una lista al Congreso; Catalá seguirá de alcaldesa y optará a la reelección en 2027. Nivel B (ABC y El Mundo, que recogen sus declaraciones y las de su partido).",
