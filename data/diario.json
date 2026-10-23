@@ -4,6 +4,37 @@
   "entradas": [
     {
       "fecha": "2026-10-23",
+      "titulo": "María José Catalá, alcaldesa de Valencia, encabezará la lista del PP al Congreso por Valencia",
+      "que": "Catalá anunció en redes que liderará la lista del PP por la provincia de Valencia; seguirá como alcaldesa y candidata a la reelección en 2027, y deberá dejar su escaño en las Cortes Valencianas para recoger el acta. Dice que la propuesta partió de Feijóo. El PSOE ya había anunciado a la ex delegada del Gobierno Pilar Bernabé como cabeza de lista por Valencia.",
+      "lectura": "Es una lista al Congreso; Catalá seguirá de alcaldesa y optará a la reelección en 2027. Nivel B (ABC y El Mundo, que recogen sus declaraciones y las de su partido).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/comunidad-valenciana/maria-jose-catala-encabezara-lista-pp-congreso-20261023142825-nt.html",
+        "https://www.elmundo.es/comunidad-valenciana/2026/10/23/6adb5949e85eceb6048b458b.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-23",
+      "titulo": "Caso Plus Ultra: el juez pide a Patrimonio el acta de los regalos a Presidencia y la Fiscalía solicita añadir malversación a Zapatero",
+      "que": "El juez de la Audiencia Nacional José Luis Calama requiere a Patrimonio del Estado, en dos días, el acta de aceptación de los obsequios institucionales a la Presidencia del Gobierno de 2004 a 2011, antes de decidir sobre la comisión rogatoria a Arabia Saudí que pidió la defensa de Zapatero sobre las joyas intervenidas. La Fiscalía Anticorrupción pide no librarla y que se atribuya además un delito de malversación, que considera no prescrito, a los de contrabando y fiscal ya investigados.",
+      "lectura": "Es una petición de la Fiscalía y una diligencia del juez, no una imputación nueva ni una decisión sobre el fondo; la defensa pide una comisión rogatoria a Arabia Saudí y no hay sentencia. Nivel B (El Mundo, que describe la providencia).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/espana/2026/10/23/6adb4a8c21efa06e428b45aa.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-23",
       "titulo": "El Supremo da cinco días al Gobierno para entregar la lista de 163.020 afectados por la suspensión del voto de la «ley de nietos»",
       "que": "Dos autos del Supremo requieren a los ministros Bolaños y Albares que remitan, antes del 28-10, la relación nominal de afectados a la Sala, a la JEC y a la Oficina del Censo Electoral. Avisan de multa coercitiva de 1.000 euros a cada ministro y de posible testimonio para exigir responsabilidad penal si no lo hacen. Ordenan además que el primer envío de documentación electoral del CERA advierta de que la inclusión provisional no garantiza poder votar. Hay voto particular de una magistrada.",
       "lectura": "Son decisiones judiciales recogidas por los medios; el voto particular de una magistrada consta en elDiario.es. El Gobierno no había respondido en las fuentes leídas. Nivel B (Europa Press y elDiario.es, que citan los autos).",
