@@ -4,6 +4,42 @@
   "entradas": [
     {
       "fecha": "2026-10-24",
+      "titulo": "Sánchez promete en Granada reformar la Constitución para blindar el derecho al aborto",
+      "que": "En un acto de precampaña en el Palacio de Congresos de Granada, junto a María Jesús Montero, Sánchez dijo: «Reformaremos y blindaremos el derecho al aborto en la Constitución Española». Presentó las elecciones como «de amor o de odio», puso en el mismo plano a PP y Vox («lo que proponen Abascal y Feijóo no es una alternancia, proponen una involución») y reivindicó «la España de Lorca».",
+      "lectura": "Es una promesa de campaña del candidato en un acto de precampaña; las fuentes leídas no recogen un texto ni un calendario de reforma. Nivel B (ABC y elDiario.es, que cubren el acto).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/andalucia/granada/pedro-sanchez-granada-elecciones-van-elegir-amor-20261024132537-nts.html",
+        "https://www.eldiario.es/politica/sanchez-reivindica-espana-lorca-frente-tijeras-feijoo-motosierra-abascal_1_13611964.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-24",
+      "titulo": "Sánchez publica un vídeo «No a la guerra» ante el Guernica en el Reina Sofía; Tellado critica que le abrieran el museo",
+      "que": "Sánchez difundió un vídeo grabado en el Museo Reina Sofía, ante el Guernica, en el que defiende que España ha dicho que «ninguna guerra es inevitable» y presume de mantener los mismos principios «sin dobles raseros». El secretario general del PP, Miguel Tellado, escribió en X que «hay que tener cara» y que Sánchez «abusa de los recursos que son de todos» para un spot de precampaña.",
+      "lectura": "Son dos lecturas enfrentadas de un mismo vídeo; Tellado critica el uso del museo, no el contenido. No consta aquí la versión del Ministerio de Cultura. Nivel B (20minutos y El Español, con declaraciones de Sánchez y de Tellado).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/pp-censura-que-sanchez-le-abrieran-reina-sofia-para-su-video-antibelicista-que-se-apropie-guernica_7052934_0.html",
+        "https://www.elespanol.com/espana/20261024/sanchez-vacia-reina-sofia-grabar-anuncio-campana-reivindicar-no-guerra-frente-guernica/1003744433512_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-24",
       "titulo": "Feijóo promete en Valencia bajar el IRPF en 2027 y que quien cobre el salario mínimo no pague impuestos",
       "que": "En un mitin de precampaña en Valencia, junto a Catalá, Pérez Llorca y Mompó, Feijóo dijo: «Vamos a bajar los impuestos y empezaremos por los trabajadores». Prometió una bajada de la tarifa del IRPF en 2027 «para que la inflación no se coma el salario» y que «quien menos gana no pagará impuestos», con la exención para quienes cobran el salario mínimo.",
       "lectura": "Es una promesa del candidato en un mitin, sin cifra ni programa publicado; el PSOE venía advirtiendo de recortes, según El Mundo. Nivel B (El Mundo, que recoge sus palabras).",
