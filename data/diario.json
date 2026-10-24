@@ -4,6 +4,41 @@
   "entradas": [
     {
       "fecha": "2026-10-24",
+      "titulo": "Rufián y Montero hacen en Barcelona su primer acto conjunto: «Someter al PSOE desde su izquierda»",
+      "que": "En un mitin en Nou Barris (Barcelona) con unas 2.000 personas, según El Español, los candidatos de ERC y Podemos pidieron «someter al PSOE desde su izquierda». Rufián dijo «¡el frente somos nosotros!» en alusión al Frente Amplio; Montero propuso expropiar pisos a fondos buitre y criticó que una izquierda parecida al PSOE se presente «en la misma papeleta» en el Senado. Asistieron Junqueras y Belarra.",
+      "lectura": "Son declaraciones de campaña de dos candidatos; no hay aquí respuesta del PSOE ni del Frente Amplio. Nivel B (El Español y 20minutos, que recogen sus palabras).",
+      "actores": [
+        {
+          "id": "Podemos",
+          "impacto": 0
+        },
+        {
+          "id": "ERC",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elespanol.com/espana/20261024/montero-rufian-llaman-someter-psoe-izquierda-primer-acto-frente/1003744433653_0.html",
+        "https://www.20minutos.es/nacional/rufian-montero-llaman-someter-psoe-presumen-alianza-usurpando-nombre-los-colau-frente-somos-nosotros_7052967_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-24",
+      "titulo": "El BNG aprueba sus listas al Congreso: mantiene a Rego, Da Silva y Presas y recupera a Olalla Rodil por Lugo",
+      "que": "El Consello Nacional del BNG aprobó este sábado sus cabezas de lista: Néstor Rego (A Coruña), Carme da Silva (Pontevedra), Noa Presas (Ourense) y Olalla Rodil (Lugo). Ana Pontón dijo que aspira a más «peso político» en Madrid.",
+      "lectura": "Son las listas aprobadas por el partido, no proclamadas aún por la JEC. Nivel B (ABC, que recoge el acuerdo del Consello Nacional).",
+      "actores": [
+        {
+          "id": "BNG",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/galicia/bng-mantiene-tres-cuatro-cabezas-lista-congreso-20261024152844-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-24",
       "titulo": "Sánchez promete en Granada reformar la Constitución para blindar el derecho al aborto",
       "que": "En un acto de precampaña en el Palacio de Congresos de Granada, junto a María Jesús Montero, Sánchez dijo: «Reformaremos y blindaremos el derecho al aborto en la Constitución Española». Presentó las elecciones como «de amor o de odio», puso en el mismo plano a PP y Vox («lo que proponen Abascal y Feijóo no es una alternancia, proponen una involución») y reivindicó «la España de Lorca».",
       "lectura": "Es una promesa de campaña del candidato en un acto de precampaña; las fuentes leídas no recogen un texto ni un calendario de reforma. Nivel B (ABC y elDiario.es, que cubren el acto).",
