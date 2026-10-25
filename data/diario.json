@@ -1,7 +1,33 @@
 {
-  "actualizado": "2026-10-24",
+  "actualizado": "2026-10-25",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-25",
+      "titulo": "Disturbios en Barcelona tras una protesta de jóvenes: un centenar de detenidos, según los Mossos",
+      "que": "Según El Español, que cita a la consellera de Interior, Núria Parlon, los Mossos detuvieron a un centenar de personas, una cuarta parte menores, por los disturbios del sábado en el centro de Barcelona. Unos 600 jóvenes, convocados por redes, tomaron la plaza de Cataluña, quemaron contenedores y, según el diario, saquearon 14 comercios y provocaron 20 incendios. Parlon dijo que fueron grupos «no organizados» que no defendían «ningún derecho»; Illa condenó la violencia y Collboni anunció que habrá consecuencias.",
+      "lectura": "Son hechos de orden público atribuidos a la Generalitat y a los Mossos, sin relación acreditada con la campaña; no se atribuye la protesta a ningún partido. Nivel B (El Español, que cita declaraciones de la consellera de Interior, Illa y Collboni).",
+      "actores": [],
+      "src": [
+        "https://www.elespanol.com/espana/20261024/saqueos-vandalismo-barcelona-concentracion-jovenes-antisistema-acaba-detenidos/1003744433857_0.html",
+        "https://www.elespanol.com/espana/20261025/cientos-personas-quedan-atrapadas-comercios-barcelona-antisistema-saquean-ciudad/1003744433873_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-25",
+      "titulo": "El Tribunal de Cuentas abre diligencias para recuperar más de 400.000 euros pagados al hermano de Sánchez y a su amigo en Badajoz",
+      "que": "Según El Mundo, el Tribunal de Cuentas ha comunicado a las partes el inminente auto de apertura de diligencias sobre más de 400.000 euros cobrados irregularmente por David Sánchez y Luis María Carrero. El diario dice que la Fiscalía del Tribunal no se opone a esta primera fase y que sí lo hace la Diputación de Badajoz, presidida por la socialista Raquel del Puerto; PP, Vox, Iustitia Europa y Hazte Oír se han personado.",
+      "lectura": "Es un trámite de apertura de diligencias del Tribunal de Cuentas, no una resolución sobre la devolución del dinero; la Diputación de Badajoz se opone. Nivel B (El Mundo, una sola fuente: dice haberlo confirmado).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/espana/2026/10/25/6adcd78fe9cf4a40228b4575.html"
+      ]
+    },
     {
       "fecha": "2026-10-24",
       "titulo": "Feijóo incluye a Alma Ezcurra como número cuatro por Madrid; Pedro Rollán encabezará la lista del Senado e Inmaculada Sanz será la dos",
