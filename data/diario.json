@@ -4,6 +4,26 @@
   "entradas": [
     {
       "fecha": "2026-10-25",
+      "titulo": "Feijóo relaciona al Gobierno con los disturbios de Barcelona: «Se resisten a abandonar el poder con violencia»",
+      "que": "En un acto en Salamanca, Feijóo dijo que «lo que estamos viendo es consecuencia de esa irresponsabilidad», que «cargos políticos de la izquierda radical» han justificado «la creciente tensión en las calles» y que Sánchez «juega con el fuego del malestar social». elDiario.es escribe que lo dijo sin aportar pruebas y añade que la protesta fue convocada por una plataforma anónima que borró su cuenta en redes.",
+      "lectura": "Es una atribución política de Feijóo; elDiario.es señala que no aportó pruebas, y la consellera de Interior habló de grupos «no organizados» (turno 25-10 anterior). No consta aquí la réplica del PSOE. Nivel B (Europa Press y elDiario.es, que recogen sus palabras).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-feijoo-relaciona-sanchez-disturbios-barcelona-resisten-abandonar-poder-violencia-20261025133910.html",
+        "https://www.eldiario.es/politica/feijoo-culpa-sanchez-pruebas-disturbios-barcelona-resistiendo-abandonar-violencia_1_13613552.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-25",
       "titulo": "Tres afectados por la suspensión del voto de la «ley de nietos» piden al Supremo anular las cautelares, paso previo a un posible amparo ante el Constitucional",
       "que": "Según 20minutos, tres ciudadanos representados por el despacho de Baltasar Garzón presentaron un incidente de nulidad de actuaciones contra las medidas cautelares que paralizan el voto de 163.020 nacionalizados. Fuentes del despacho estiman que «es probable que la próxima semana el Supremo se haya pronunciado» y que, si lo desestima, acudirán al Constitucional.",
       "lectura": "Es un escrito de tres afectados, no una decisión: el Supremo debe resolver antes y las fechas son estimaciones de su despacho. Nivel B (20minutos, una sola fuente, que cita a fuentes del despacho de Garzón).",
