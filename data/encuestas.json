@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23",
+  "actualizado": "2026-10-26",
   "nota": "Escaños sobre 350; mayoría absoluta 176. null = la casa no publica ese dato. 'tipo': privada | oficial | panel. Las cifras se han contrastado con al menos dos fuentes cuando el medio original bloqueaba la lectura.",
   "partidos_orden": [
     "PP",
@@ -54,21 +54,21 @@
   "media": {
     "nombre": "Media ponderada Brújula 29N",
     "metodo": "Media de las encuestas privadas con campo en los últimos 21 días, ponderada por tamaño muestral (raíz cuadrada) y antigüedad (semivida 10 días). El CIS se muestra aparte por su desviación sistemática documentada; los paneles online autoseleccionados ponderan a la mitad.",
-    "fecha": "2026-10-16",
+    "fecha": "2026-10-22",
     "pct": {
-      "PP": 31.85,
-      "PSOE": 26.46,
-      "VOX": 18.85,
-      "SUMAR": 6.3,
-      "PODEMOS": 2.94,
-      "SALF": 1.65,
-      "ERC": 2.16,
-      "JUNTS": 1.48,
+      "PP": 31.7,
+      "PSOE": 26.61,
+      "VOX": 19.03,
+      "SUMAR": 6.42,
+      "PODEMOS": 2.9,
+      "SALF": 1.62,
+      "ERC": 2.17,
+      "JUNTS": 1.5,
       "BILDU": 1.35,
       "PNV": 0.94,
       "BNG": 0.94,
-      "CC": 0.49,
-      "UPN": 0.16
+      "CC": 0.48,
+      "UPN": 0.15
     },
     "casas": [
       "40dB",
@@ -1087,6 +1087,33 @@
       },
       "nota": "Telefónico + online; margen de error ±3,1 %. Sumar figura como Frente Amplio (Sumar). Escaños además: Adelante Andalucía 1 (no tiene casilla propia). Datos tomados de la ficha de Electográfica.",
       "url": "https://www.electografica.com/2026/10/encuesta-imop-insights-261023.html"
+    },
+    {
+      "casa": "Ateneo del Dato",
+      "medio": "elDiario.es",
+      "tipo": "privada",
+      "campo_ini": "2026-10-20",
+      "campo_fin": "2026-10-22",
+      "n": null,
+      "pct": {
+        "PP": 31.1,
+        "PSOE": 27.6,
+        "VOX": 19.8,
+        "SUMAR": 6.8,
+        "PODEMOS": 2.7,
+        "SALF": null,
+        "ERC": null,
+        "JUNTS": null,
+        "BILDU": null,
+        "PNV": null,
+        "BNG": null,
+        "CC": null,
+        "UPN": null
+      },
+      "esc": null,
+      "esc_rango": "PP 119-134 · PSOE 102-117 · Vox 64-77 · Frente Amplio 11-17 · Podemos 0-3",
+      "nota": "Online; muestra y margen de error no publicados en la ficha de Electográfica. Frente Amplio incluye Compromís-Front Valencià y la Unión del Pueblo Canario. Solo se publican rangos de escaños.",
+      "url": "https://www.electografica.com/2026/10/encuesta-ateneo-del-dato-261025.html"
     }
   ]
 }
