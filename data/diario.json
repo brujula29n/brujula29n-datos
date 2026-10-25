@@ -4,6 +4,42 @@
   "entradas": [
     {
       "fecha": "2026-10-25",
+      "titulo": "Dimite el delegado del Gobierno en Madrid, Francisco Martín, tras quedar fuera de las listas del PSOE",
+      "que": "Francisco Martín, delegado desde marzo de 2023, presentó su dimisión tras no ser incluido en las listas del PSOE al Congreso y al Senado y tras las críticas por la acampada de la Puerta del Sol y la investigación sobre la actuación policial en la huelga de Educación. Fuentes de Moncloa dijeron a 20minutos que el Consejo de Ministros nombrará a su sustituto el martes. Según El Mundo, su entorno cita «palos en las ruedas» a su gestión y Vox ya anunció una querella contra él por permitir la acampada.",
+      "lectura": "Es una dimisión tras quedar fuera de las listas del PSOE y en medio de las críticas por la gestión de la acampada de Sol; los motivos que da su entorno son los que recogen los medios. Vox anunció una querella contra él y el PP estudia acciones, según El Mundo; no hay decisión judicial. Nivel B (El Mundo, El Español y 20minutos, que citan fuentes de su entorno y de Moncloa).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/espana/2026/10/25/6ade316ce4d4d8a4698b458d.html",
+        "https://www.elespanol.com/espana/20261025/dimite-delegado-gobierno-madrid-francisco-martin/1003744434186_0.html",
+        "https://www.20minutos.es/nacional/dimite-delegado-gobierno-madrid-francisco-martin_7053165_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-25",
+      "titulo": "Garriga (Vox) confía en que el PP tenga «un gesto» y dice que «aún hay margen» para el acuerdo del Senado antes del 26-10",
+      "que": "El secretario general de Vox, Ignacio Garriga, dijo en Zaragoza que su partido aporta «responsabilidad» y «altura de miras» en las conversaciones con el PP, que continúan y a las que pide discreción. No confirmó ni desmintió que Huesca y Teruel formen parte del acuerdo y dijo que no es prudente hablar de provincias. El plazo para presentar candidaturas termina el lunes 26 de octubre.",
+      "lectura": "Son declaraciones del secretario general de Vox; no confirma ni desmiente qué provincias entrarían en un acuerdo. Nivel B (20minutos, que recoge sus palabras).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/vox-pide-altura-miras-pp-confia-que-tenga-un-gesto-para-cerrar-listas_7053192_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-25",
       "titulo": "Feijóo relaciona al Gobierno con los disturbios de Barcelona: «Se resisten a abandonar el poder con violencia»",
       "que": "En un acto en Salamanca, Feijóo dijo que «lo que estamos viendo es consecuencia de esa irresponsabilidad», que «cargos políticos de la izquierda radical» han justificado «la creciente tensión en las calles» y que Sánchez «juega con el fuego del malestar social». elDiario.es escribe que lo dijo sin aportar pruebas y añade que la protesta fue convocada por una plataforma anónima que borró su cuenta en redes.",
       "lectura": "Es una atribución política de Feijóo; elDiario.es señala que no aportó pruebas, y la consellera de Interior habló de grupos «no organizados» (turno 25-10 anterior). No consta aquí la réplica del PSOE. Nivel B (Europa Press y elDiario.es, que recogen sus palabras).",
