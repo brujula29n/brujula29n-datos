@@ -4,6 +4,42 @@
   "entradas": [
     {
       "fecha": "2026-10-26",
+      "titulo": "Sánchez habla de «puro vandalismo» en Barcelona y promete «cero tolerancia»; el balance sube a unos 130 detenidos, la mayoría menores",
+      "que": "En un mensaje en X, Sánchez dijo que los disturbios del sábado no son «un acto de democracia», que fueron «instigados desde las redes» y que hay una investigación en marcha. Europa Press y 20minutos cifran los detenidos en unos 130, más de la mitad menores, y los saqueos en una treintena de comercios. La convocatoria circuló en cuentas anónimas de TikTok con la etiqueta «Blocus». La portavoz, Elma Saiz, dijo que «quien sale ganando, en el caos y en el odio, es la extrema derecha».",
+      "lectura": "Las autoridades no han atribuido la convocatoria a ninguna organización o corriente política; el Gobierno pidió esperar a la investigación y señaló a la extrema derecha solo como beneficiaria del «caos y el odio». Nivel B (Europa Press y 20minutos, que citan el mensaje de Sánchez y a la portavoz Elma Saiz).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-sanchez-ve-puro-vandalismo-disturbios-barcelona-promete-cero-tolerancia-violentos-20261026143707.html",
+        "https://www.20minutos.es/nacional/sanchez-ve-vandalismo-instigado-desde-las-redes-las-protestas-barcelona-mientras-desde-su-gobierno-apuntan-ultraderecha_7053532_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-26",
+      "titulo": "Frente Amplio presentará candidatos al Congreso en 51 de las 52 circunscripciones, todas salvo Teruel; Podemos cierra sus pactos",
+      "que": "Según fuentes de la coalición citadas por Europa Press, Frente Amplio tendrá listas en todas las provincias salvo Teruel, donde Chunta retiró la candidatura; IU rechazó esa opción pero asumió la decisión de Chunta. Podemos, según 20minutos, renuncia a cabezas de lista en nueve circunscripciones por sus pactos (Canarias, Comunitat Valenciana, Baleares con Ara Més y Cataluña con ERC) y concurrirá en solitario en el resto.",
+      "lectura": "Las listas se registran ante la Junta Electoral y no son definitivas hasta su proclamación. Las cifras de provincias son las que dan fuentes de la coalición y Podemos. Nivel B (Europa Press y 20minutos).",
+      "actores": [
+        {
+          "id": "Frente Amplio",
+          "impacto": 0
+        },
+        {
+          "id": "Podemos",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-frente-amplio-confirma-tendra-candidatos-todas-circunscripciones-congreso-teruel-20261026165125.html",
+        "https://www.20minutos.es/nacional/podemos-da-por-cerrados-sus-acuerdos-para-29n-tras-sumarse-alianza-baleares-renuncia-cabezas-lista-9-provincias_7053475_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-26",
       "titulo": "PP y Vox cierran un pacto para el Senado: Vox no se presenta en seis provincias y el PP en tres",
       "que": "Según el comunicado de Vox y la rueda de prensa de Miguel Tellado, Vox no presentará candidatura propia al Senado en Las Palmas, Santa Cruz de Tenerife, Cádiz, Valencia, Castellón y Baleares, y el PP se retirará en Gipuzkoa, Girona y Tarragona. En otras 14 provincias Vox presentará un solo candidato en lugar de tres, y en las 23 restantes concurrirá con normalidad. Ambos partidos lo justifican por el pacto del PSOE y Frente Amplio para la Cámara Alta; Garriga insistió en que el acuerdo no afecta al Congreso.",
       "lectura": "Es un acuerdo electoral solo para el Senado, anunciado por los dos partidos; no afecta a las papeletas del Congreso. Los motivos son los que alegan PP y Vox. Nivel B (elDiario.es, 20minutos y Europa Press, que citan el comunicado de Vox y la rueda de prensa de Tellado).",
