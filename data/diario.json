@@ -4,6 +4,26 @@
   "entradas": [
     {
       "fecha": "2026-10-26",
+      "titulo": "PP y Vox cierran un pacto para el Senado: Vox no se presenta en seis provincias y el PP en tres",
+      "que": "Según el comunicado de Vox y la rueda de prensa de Miguel Tellado, Vox no presentará candidatura propia al Senado en Las Palmas, Santa Cruz de Tenerife, Cádiz, Valencia, Castellón y Baleares, y el PP se retirará en Gipuzkoa, Girona y Tarragona. En otras 14 provincias Vox presentará un solo candidato en lugar de tres, y en las 23 restantes concurrirá con normalidad. Ambos partidos lo justifican por el pacto del PSOE y Frente Amplio para la Cámara Alta; Garriga insistió en que el acuerdo no afecta al Congreso.",
+      "lectura": "Es un acuerdo electoral solo para el Senado, anunciado por los dos partidos; no afecta a las papeletas del Congreso. Los motivos son los que alegan PP y Vox. Nivel B (elDiario.es, 20minutos y Europa Press, que citan el comunicado de Vox y la rueda de prensa de Tellado).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/vox-retira-seis-provincias-senado-presenta-candidato-14-favorecer-pp_1_13615577.html",
+        "https://www.20minutos.es/nacional/pp-vox-alcanzan-un-acuerdo-para-frenar-izquierda-senado-los-abascal-no-se-presentaran-seis-provincias_7053481_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-26",
       "titulo": "Sigma Dos y SocioMétrica: el PP gana con 4,5 y 5 puntos sobre el PSOE y la derecha mantiene la mayoría absoluta",
       "que": "Sigma Dos para El Mundo (campo 8-22 oct, 3.122 entrevistas): PP 30,6%, PSOE 26,1%, Vox 19,9% y Frente Amplio 7,4%; PP más Vox entre 191 y 200 escaños según el diario. SocioMétrica para El Español: PP 32% (135 escaños, horquilla 123-141), PSOE 27% (108, 103-116) y Vox 18,6% (63, 56-71); la empresa da un 99% de probabilidad de mayoría absoluta del bloque PP-Vox-UPN y un 88% de que el PP sea primera fuerza.",
       "lectura": "Son encuestas privadas con metodologías distintas y SocioMétrica no publica margen de error al ser un panel online; las probabilidades son estimaciones de la empresa. Nivel B (El Mundo y El Español, que publican los sondeos; ficha de Sigma Dos en Electográfica).",

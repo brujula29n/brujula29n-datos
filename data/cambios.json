@@ -6,6 +6,11 @@
    "items": [
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: NC Report 2026-10-24.",
+     "texto_en": "New poll: NC Report 2026-10-24."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: Sigma Dos 2026-10-22.",
      "texto_en": "New poll: Sigma Dos 2026-10-22."
     },
@@ -23,8 +28,8 @@
     },
     {
      "tipo": "diario",
-     "texto": "2 movimientos nuevos en el diario. Último: Sigma Dos y SocioMétrica: el PP gana con 4,5 y 5 puntos sobre el PSOE y la derecha mantiene la mayoría absoluta.",
-     "texto_en": "2 new entries in the campaign log (in Spanish)."
+     "texto": "3 movimientos nuevos en el diario. Último: PP y Vox cierran un pacto para el Senado: Vox no se presenta en seis provincias y el PP en tres.",
+     "texto_en": "3 new entries in the campaign log (in Spanish)."
     }
    ]
   },
@@ -898,11 +903,11 @@
   {
    "fecha": "2026-10-26",
    "media": {
-    "PP": 31.49,
-    "PSOE": 26.67,
-    "VOX": 19.14,
-    "SUMAR": 6.32,
-    "PODEMOS": 2.49,
+    "PP": 31.67,
+    "PSOE": 26.57,
+    "VOX": 19.12,
+    "SUMAR": 6.35,
+    "PODEMOS": 2.5,
     "SALF": 1.89
    },
    "escanos": {
@@ -914,12 +919,12 @@
    },
    "ppvox": 203,
    "probs": {
-    "pp_vox": 95.9,
-    "pp_solo": 0.0,
-    "psoe_bloque": 2.7,
-    "bloqueo": 1.4
+    "pp_vox": 96.3,
+    "pp_solo": 0.1,
+    "psoe_bloque": 2.4,
+    "bloqueo": 1.1
    },
-   "n_encuestas": 28
+   "n_encuestas": 29
   }
  ]
 }
