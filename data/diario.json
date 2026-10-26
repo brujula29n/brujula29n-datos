@@ -4,6 +4,57 @@
   "entradas": [
     {
       "fecha": "2026-10-26",
+      "titulo": "Sánchez promete en Gijón reformar la Constitución para blindar la revalorización de las pensiones con el IPC",
+      "que": "En un mitin ante unas 6.000 personas, según Europa Press, Sánchez dijo: «La próxima legislatura reformaremos la Constitución para blindar las pensiones y su revalorización conforme al IPC», «ante la amenaza del PP y de Vox», a quienes acusa de querer privatizar y recortar las jubilaciones. También criticó el pacto de PP y Vox en el Senado.",
+      "lectura": "Es una promesa de campaña; El Mundo señala que una reforma así exigiría el apoyo de tres quintas partes del Congreso. Sánchez ya había prometido en Granada reformar la Constitución para blindar el aborto. Nivel B (Europa Press y El Mundo, que recogen sus palabras en el acto de Gijón).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-sanchez-promete-reformara-constitucion-blindar-subida-pensiones-conforme-ipc-20261026195312.html",
+        "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/26/6adf8efffc6c83f0128b4597.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-26",
+      "titulo": "Colau pide por carta a Sánchez, Feijóo y Abascal que se comprometan a no usar la IA de forma vejatoria en campaña",
+      "que": "La candidata de Frente Amplio propone un compromiso «firme» para no usar ni promocionar el uso vejatorio de la IA, en particular contra adversarios políticos, y regular su uso en campaña en el futuro. elDiario.es lo relaciona con los vídeos con IA que publicaron el PP y Vox en los últimos días.",
+      "lectura": "Es una propuesta pública de una candidata; no consta aquí la respuesta de Feijóo, Abascal ni Sánchez. Nivel B (Europa Press y elDiario.es, que citan la carta).",
+      "actores": [
+        {
+          "id": "Frente Amplio",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-colau-pide-carta-feijoo-abascal-sanchez-comprometan-no-usar-ia-contra-adversarios-politicos-20261026185355.html",
+        "https://www.eldiario.es/politica/colau-pide-carta-feijoo-sanchez-abascal-comprometan-no-ia-manera-vejatoria-campana_1_13616697.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-26",
+      "titulo": "El Reina Sofía dice que el vídeo de Sánchez ante el Guernica se grabó un martes, día de cierre al público, y que alquila sus espacios",
+      "que": "Según Newtral, el museo aseguró que el rodaje tuvo lugar un martes, cuando cierra al público general, y que la mayoría de sus espacios están disponibles para alquilar para grabaciones fuera del horario de apertura. El PP (Tellado) había criticado que le abrieran el museo a Sánchez.",
+      "lectura": "Es una verificación de Newtral con respuesta del museo; no aclara quién autorizó el rodaje ni en qué condiciones. Nivel B (Newtral, que cita al Museo Reina Sofía).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.newtral.es/sanchez-cierra-museo-reina-sofia/20261026/"
+      ]
+    },
+    {
+      "fecha": "2026-10-26",
       "titulo": "Sánchez habla de «puro vandalismo» en Barcelona y promete «cero tolerancia»; el balance sube a unos 130 detenidos, la mayoría menores",
       "que": "En un mensaje en X, Sánchez dijo que los disturbios del sábado no son «un acto de democracia», que fueron «instigados desde las redes» y que hay una investigación en marcha. Europa Press y 20minutos cifran los detenidos en unos 130, más de la mitad menores, y los saqueos en una treintena de comercios. La convocatoria circuló en cuentas anónimas de TikTok con la etiqueta «Blocus». La portavoz, Elma Saiz, dijo que «quien sale ganando, en el caos y en el odio, es la extrema derecha».",
       "lectura": "Las autoridades no han atribuido la convocatoria a ninguna organización o corriente política; el Gobierno pidió esperar a la investigación y señaló a la extrema derecha solo como beneficiaria del «caos y el odio». Nivel B (Europa Press y 20minutos, que citan el mensaje de Sánchez y a la portavoz Elma Saiz).",
