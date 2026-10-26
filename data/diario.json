@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-10-25",
+  "actualizado": "2026-10-26",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-26",
+      "titulo": "Sigma Dos y SocioMétrica: el PP gana con 4,5 y 5 puntos sobre el PSOE y la derecha mantiene la mayoría absoluta",
+      "que": "Sigma Dos para El Mundo (campo 8-22 oct, 3.122 entrevistas): PP 30,6%, PSOE 26,1%, Vox 19,9% y Frente Amplio 7,4%; PP más Vox entre 191 y 200 escaños según el diario. SocioMétrica para El Español: PP 32% (135 escaños, horquilla 123-141), PSOE 27% (108, 103-116) y Vox 18,6% (63, 56-71); la empresa da un 99% de probabilidad de mayoría absoluta del bloque PP-Vox-UPN y un 88% de que el PP sea primera fuerza.",
+      "lectura": "Son encuestas privadas con metodologías distintas y SocioMétrica no publica margen de error al ser un panel online; las probabilidades son estimaciones de la empresa. Nivel B (El Mundo y El Español, que publican los sondeos; ficha de Sigma Dos en Electográfica).",
+      "actores": [],
+      "src": [
+        "https://www.elmundo.es/espana/encuestas/2026/10/26/6addf8c4fdddfff23d8b4581.html",
+        "https://www.elespanol.com/espana/politica/20261026/derecha-posibilidades-obtener-mayoria-absoluta-pp-primera-fuerza/1003744434159_0.html",
+        "https://www.elespanol.com/espana/politica/20261026/horquilla-horquilla-peor-escenario-pp-escanos-psoe-mejor-casos-no-pasaria/1003744434367_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-26",
+      "titulo": "Último día para registrar candidaturas: PP y Vox negocian el Senado y Podemos pacta con Ara Més en Baleares",
+      "que": "El plazo para registrar listas termina hoy a las 23:59. Según elDiario.es, PP y Vox negocian que Vox retire candidatos al Senado en algunas provincias, y el PSOE ocupará el 70% de los puestos en las listas conjuntas con Frente Amplio. El mismo diario recoge que fuentes socialistas admiten que hubo conversaciones sobre ajustes en el Congreso, circunscritas a la negociación del Senado, y que Frente Amplio dio una «negativa rotunda». Europa Press cuenta que Podemos no se presentará en Baleares e incluirá a representantes como independientes en la lista de Ara Més-Front Ampli.",
+      "lectura": "El plazo oficial lo fija la normativa electoral; las listas no son definitivas hasta que las proclame la JEC. Las versiones sobre las conversaciones PSOE-Frente Amplio son las de fuentes de cada parte. Nivel B (elDiario.es y Europa Press, con fuentes de los partidos).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "Podemos",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/cuenta-registrar-listas-elecciones-pp-vox-negocian-senado-izquierda-llega-reparto-zanjado_1_13609486.html",
+        "https://www.europapress.es/nacional/noticia-frente-amplio-afronta-lunes-cierre-listas-29n-varias-plazas-electorales-aun-candidatos-designados-20261025201442.html"
+      ]
+    },
     {
       "fecha": "2026-10-25",
       "titulo": "Dimite el delegado del Gobierno en Madrid, Francisco Martín, tras quedar fuera de las listas del PSOE",
