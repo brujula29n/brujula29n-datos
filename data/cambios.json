@@ -10,11 +10,16 @@
      "texto_en": "New poll: Sigma Dos 2026-10-22."
     },
     {
-     "tipo": "escanos",
-     "texto": "PP: proyección de 135 a 133 escaños.",
-     "delta": -2,
-     "partido": "PP",
-     "texto_en": "PP: projection from 135 to 133 seats."
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: SocioMétrica 2026-10-25.",
+     "texto_en": "New poll: SocioMétrica 2026-10-25."
+    },
+    {
+     "tipo": "media",
+     "texto": "Podemos baja en la media: 2,9 % → 2,5 %.",
+     "delta": -0.4,
+     "partido": "PODEMOS",
+     "texto_en": "Podemos falls in the poll average: 2.9% → 2.5%."
     },
     {
      "tipo": "diario",
@@ -893,28 +898,28 @@
   {
    "fecha": "2026-10-26",
    "media": {
-    "PP": 31.47,
-    "PSOE": 26.5,
-    "VOX": 19.21,
-    "SUMAR": 6.62,
-    "PODEMOS": 2.88,
-    "SALF": 1.62
+    "PP": 31.49,
+    "PSOE": 26.67,
+    "VOX": 19.14,
+    "SUMAR": 6.32,
+    "PODEMOS": 2.49,
+    "SALF": 1.89
    },
    "escanos": {
-    "PP": 133,
+    "PP": 135,
     "PSOE": 108,
     "VOX": 68,
-    "SUMAR": 9,
+    "SUMAR": 8,
     "PODEMOS": 2
    },
-   "ppvox": 201,
+   "ppvox": 203,
    "probs": {
-    "pp_vox": 95.8,
-    "pp_solo": 0.1,
-    "psoe_bloque": 2.5,
-    "bloqueo": 1.6
+    "pp_vox": 95.9,
+    "pp_solo": 0.0,
+    "psoe_bloque": 2.7,
+    "bloqueo": 1.4
    },
-   "n_encuestas": 27
+   "n_encuestas": 28
   }
  ]
 }

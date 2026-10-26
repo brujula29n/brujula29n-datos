@@ -2,27 +2,25 @@
  "fecha": "2026-10-26",
  "media": {
   "pct": {
-   "PP": 31.47,
-   "PSOE": 26.5,
-   "VOX": 19.21,
-   "SUMAR": 6.62,
-   "PODEMOS": 2.88,
-   "SALF": 1.62,
-   "ERC": 2.27,
-   "JUNTS": 1.41,
-   "BILDU": 1.3,
-   "PNV": 0.93,
-   "BNG": 0.93,
-   "CC": 0.46,
-   "UPN": 0.17
+   "PP": 31.49,
+   "PSOE": 26.67,
+   "VOX": 19.14,
+   "SUMAR": 6.32,
+   "PODEMOS": 2.49,
+   "SALF": 1.89,
+   "ERC": 2.39,
+   "JUNTS": 1.54,
+   "BILDU": 1.29,
+   "PNV": 0.88,
+   "BNG": 0.91,
+   "CC": 0.44,
+   "UPN": 0.11
   },
-  "ref": "2026-10-22",
+  "ref": "2026-10-25",
   "casas": [
    "40dB",
    "Ateneo del Dato",
    "DYM",
-   "Data10",
-   "Electomanía (ElectoPanel)",
    "GAD3",
    "GESOP",
    "Hamalgama Métrica",
@@ -30,50 +28,49 @@
    "NC Report",
    "Sigma Dos",
    "SocioMétrica",
-   "Target Point",
-   "Winston"
+   "Target Point"
   ],
-  "n_encuestas": 27
+  "n_encuestas": 28
  },
  "escanos": {
-  "PP": 133,
+  "PP": 135,
   "PSOE": 108,
   "VOX": 68,
-  "SUMAR": 9,
+  "SUMAR": 8,
   "PODEMOS": 2,
   "SALF": 0,
-  "ERC": 8,
+  "ERC": 9,
   "JUNTS": 6,
   "BILDU": 7,
-  "PNV": 5,
+  "PNV": 4,
   "BNG": 2,
   "CC": 1,
-  "UPN": 1
+  "UPN": 0
  },
  "rango": {
   "PP": [
-   112,
-   153
+   111,
+   154
   ],
   "PSOE": [
    88,
-   129
+   131
   ],
   "VOX": [
    53,
    87
   ],
   "SUMAR": [
-   5,
-   19
+   4,
+   18
   ],
   "PODEMOS": [
    0,
-   5
+   4
   ],
   "SALF": [
    0,
-   0
+   2
   ],
   "ERC": [
    7,
@@ -85,7 +82,7 @@
   ],
   "BILDU": [
    5,
-   9
+   10
   ],
   "PNV": [
    2,
@@ -105,16 +102,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 95.8,
-  "pp_solo": 0.1,
-  "psoe_bloque": 2.5,
-  "bloqueo": 1.6
+  "pp_vox": 95.9,
+  "pp_solo": 0.0,
+  "psoe_bloque": 2.7,
+  "bloqueo": 1.4
  },
  "probs_extra": {
   "ppvox": 95.9,
-  "bloque": 2.5,
-  "bloque_sin_junts": 1.2,
-  "pp_first": 87.5
+  "bloque": 2.7,
+  "bloque_sin_junts": 1.1,
+  "pp_first": 86.5
  },
  "semaforo_esp": {
   "S1": 1,
@@ -195,6 +192,7 @@
   "SocioMétrica 2026-09-26",
   "SocioMétrica 2026-10-03",
   "SocioMétrica 2026-10-11",
+  "SocioMétrica 2026-10-25",
   "Target Point 2026-09-10",
   "Target Point 2026-10-09",
   "Winston 2026-10-01"
@@ -205,10 +203,14 @@
    "texto": "Nueva encuesta: Sigma Dos 2026-10-22."
   },
   {
-   "tipo": "escanos",
-   "texto": "PP: proyección de 135 a 133 escaños.",
-   "delta": -2,
-   "partido": "PP"
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: SocioMétrica 2026-10-25."
+  },
+  {
+   "tipo": "media",
+   "texto": "Podemos baja en la media: 2,9 % → 2,5 %.",
+   "delta": -0.4,
+   "partido": "PODEMOS"
   },
   {
    "tipo": "diario",
