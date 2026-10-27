@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-10-26",
+  "actualizado": "2026-10-27",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-27",
+      "titulo": "El pacto del Senado queda en el reparto de candidaturas: sin grupo propio para Vox ni cesión de senadores del PP",
+      "que": "Según 20minutos, el acuerdo definitivo se limita al reparto de candidaturas: no habrá grupo parlamentario propio para Vox ni cesión de senadores autonómicos del PP. A cambio de retirarse en seis provincias, Vox propone aspirantes que irán como independientes en el segundo o tercer puesto de las listas del PP. El PP se retira de Gipuzkoa, Girona y Tarragona.",
+      "lectura": "Es el contenido del acuerdo según 20minutos; PP y Vox han hablado de un pacto defensivo. Antes de cerrarse, El País había citado como condición de Vox un grupo propio, que según 20minutos no figura en el pacto. Nivel B (20minutos).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/pp-vox-limitan-su-acuerdo-senado-reparto-electoral-sin-grupo-propio-para-los-abascal-ni-cesion-senadores_7053600_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-27",
+      "titulo": "El Gobierno prevé llevar los decretos de vivienda a la Diputación Permanente el 12 de noviembre",
+      "que": "Según elDiario.es, el Ejecutivo contempla someter los dos decretos de vivienda el 12-11, el día después de la huelga general del 11-N y antes del inicio oficial de la campaña (medianoche del 12 al 13). El plazo de 30 días hábiles para convalidarlos vence el 14 de noviembre.",
+      "lectura": "Es una previsión del Gobierno según fuentes gubernamentales, no una convocatoria oficial. Nivel B (elDiario.es, una sola fuente).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/gobierno-preve-llevar-diputacion-permanente-decretos-vivienda-dia-despues-huelga-general_1_13616839.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-27",
+      "titulo": "El Supremo admite el recurso de Ceuta por la «inacción» del Gobierno y le da 20 días hábiles para entregar el expediente",
+      "que": "Según El Español, que cita el escrito, la Sala Tercera del Supremo admitió a trámite el recurso del Gobierno de Ceuta contra la «inacción» del Ejecutivo central tras la entrada masiva del 30 y 31 de julio y requiere al Ministerio de Presidencia, en 20 días hábiles (hasta el 23-11), el expediente sobre expulsiones, devoluciones y asilo, con apercibimiento de multa coercitiva. Ceuta pide además medidas cautelarísimas y un plan con calendario.",
+      "lectura": "Es una resolución de trámite sobre un recurso de la Ciudad de Ceuta; no decide sobre el fondo ni sobre las medidas cautelarísimas. Nivel B (El Español, que cita el escrito del Supremo; una sola fuente).",
+      "actores": [],
+      "src": [
+        "https://www.elespanol.com/espana/politica/20261027/supremo-da-plazo-dias-gobierno-calendario-expulsiones-ceuta-amenaza-multa/1003744433027_0.html"
+      ]
+    },
     {
       "fecha": "2026-10-26",
       "titulo": "Sánchez promete en Gijón reformar la Constitución para blindar la revalorización de las pensiones con el IPC",

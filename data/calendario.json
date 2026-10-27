@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23",
+  "actualizado": "2026-10-27",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -78,9 +78,9 @@
     {
       "fecha": "2026-10-26",
       "titulo": "Fin del plazo de presentación de candidaturas (21-26 oct)",
-      "detalle": "Días 15.º a 20.º tras la convocatoria (art. 45).",
+      "detalle": "Días 15.º a 20.º tras la convocatoria (art. 45). El plazo terminó a las 23:59 del 26-10 (elDiario.es); las listas definitivas las proclama la JEC.",
       "tipo": "legal",
-      "estado": "previsto",
+      "estado": "hecho",
       "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
     },
     {
@@ -114,6 +114,14 @@
       "tipo": "politico",
       "estado": "previsto",
       "src": "https://www.20minutos.es/nacional/los-sindicatos-inquilinas-proponen-11-noviembre-para-celebrar-huelga-general-por-vivienda_7045934_0.html"
+    },
+    {
+      "fecha": "2026-11-12",
+      "titulo": "Convalidación de los decretos de vivienda (previsión del Gobierno)",
+      "detalle": "Según elDiario.es, con fuentes del Gobierno, el Ejecutivo prevé llevarlos a la Diputación Permanente el 12-11, el día después de la huelga general del 11-N; el plazo de 30 días hábiles vence el 14-11.",
+      "tipo": "politico",
+      "estado": "previsto",
+      "src": "https://www.eldiario.es/politica/gobierno-preve-llevar-diputacion-permanente-decretos-vivienda-dia-despues-huelga-general_1_13616839.html"
     },
     {
       "fecha": "2026-11-13",

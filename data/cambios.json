@@ -1,6 +1,16 @@
 {
- "actualizado": "2026-10-26",
+ "actualizado": "2026-10-27",
  "dias": [
+  {
+   "fecha": "2026-10-27",
+   "items": [
+    {
+     "tipo": "diario",
+     "texto": "3 movimientos nuevos en el diario. Último: El pacto del Senado queda en el reparto de candidaturas: sin grupo propio para Vox ni cesión de senadores del PP.",
+     "texto_en": "3 new entries in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-10-26",
    "items": [
@@ -902,6 +912,32 @@
   },
   {
    "fecha": "2026-10-26",
+   "media": {
+    "PP": 31.67,
+    "PSOE": 26.57,
+    "VOX": 19.12,
+    "SUMAR": 6.35,
+    "PODEMOS": 2.5,
+    "SALF": 1.89
+   },
+   "escanos": {
+    "PP": 135,
+    "PSOE": 108,
+    "VOX": 68,
+    "SUMAR": 8,
+    "PODEMOS": 2
+   },
+   "ppvox": 203,
+   "probs": {
+    "pp_vox": 96.3,
+    "pp_solo": 0.1,
+    "psoe_bloque": 2.4,
+    "bloqueo": 1.1
+   },
+   "n_encuestas": 29
+  },
+  {
+   "fecha": "2026-10-27",
    "media": {
     "PP": 31.67,
     "PSOE": 26.57,
