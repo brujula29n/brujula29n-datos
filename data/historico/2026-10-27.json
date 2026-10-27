@@ -164,8 +164,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 210,
-  "ultimo": "El pacto del Senado queda en el reparto de candidaturas: sin grupo propio para Vox ni cesión de senadores del PP"
+  "n": 212,
+  "ultimo": "Feijóo promete recuperar el agravante de «cara tapada» y endurecer las penas por disturbios convocados en redes"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -201,7 +201,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "3 movimientos nuevos en el diario. Último: El pacto del Senado queda en el reparto de candidaturas: sin grupo propio para Vox ni cesión de senadores del PP."
+   "texto": "5 movimientos nuevos en el diario. Último: Feijóo promete recuperar el agravante de «cara tapada» y endurecer las penas por disturbios convocados en redes."
   }
  ]
 }

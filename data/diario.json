@@ -4,6 +4,32 @@
   "entradas": [
     {
       "fecha": "2026-10-27",
+      "titulo": "Feijóo promete recuperar el agravante de «cara tapada» y endurecer las penas por disturbios convocados en redes",
+      "que": "En Onda Cero, Feijóo prometió «recuperar el agravante de penas cuando se producen disturbios y actos vandálicos con la cara tapada», que dice que PSOE y Podemos eliminaron en 2022, y aumentar las penas cuando se convoquen por redes sociales, tras los incidentes de A Coruña, Barcelona y Bilbao. Criticó que Marlaska esté «desaparecido» y que Sánchez tardara «dos días» en reaccionar. Defendió además su pacto con Vox en el Senado como respuesta a la «coalición de desesperados» del PSOE.",
+      "lectura": "Son promesas del candidato en una entrevista, sin texto articulado; la reforma de 2022 que cita suprimió, según 20minutos, varios supuestos agravados, entre ellos el de ocultar el rostro. Sus críticas a Marlaska y a Sánchez son opiniones del candidato. Nivel B (Europa Press y 20minutos, que recogen sus palabras en Onda Cero).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-feijoo-endurecera-penas-actos-vandalicos-anadira-agravante-cara-tapada-disturbios-barcelona-bilbao-20261027103616.html",
+        "https://www.20minutos.es/nacional/feijoo-promete-endurecer-las-penas-contra-los-autores-disturbios-organizados-redes-con-cara-tapada_7053830_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-27",
+      "titulo": "Iustitia Europa pide al Supremo cautelarísimas para apartar los votos CERA de la «ley de nietos» hasta identificar a los afectados",
+      "que": "Según ABC, que cita el escrito, Iustitia Europa pidió a la Sala Tercera suspender los efectos electorales de los inscritos en el CERA por la instrucción de 2022 hasta que el Gobierno identifique el progenitor del que deriva la nacionalidad. Subsidiariamente pide que los votos se reciban pero queden «separados y bajo custodia», o que se identifique a los hijos de progenitores ya afectados por las cautelares.",
+      "lectura": "Es una petición de un partido, sin decisión del Supremo; quien la formula es una formación que concurre a las elecciones. Nivel B (ABC, una sola fuente, que cita el escrito).",
+      "actores": [],
+      "src": [
+        "https://www.abc.es/espana/piden-supremo-suspenda-voto-cera-gobierno-identifique-20261027103338-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-27",
       "titulo": "El pacto del Senado queda en el reparto de candidaturas: sin grupo propio para Vox ni cesión de senadores del PP",
       "que": "Según 20minutos, el acuerdo definitivo se limita al reparto de candidaturas: no habrá grupo parlamentario propio para Vox ni cesión de senadores autonómicos del PP. A cambio de retirarse en seis provincias, Vox propone aspirantes que irán como independientes en el segundo o tercer puesto de las listas del PP. El PP se retira de Gipuzkoa, Girona y Tarragona.",
       "lectura": "Es el contenido del acuerdo según 20minutos; PP y Vox han hablado de un pacto defensivo. Antes de cerrarse, El País había citado como condición de Vox un grupo propio, que según 20minutos no figura en el pacto. Nivel B (20minutos).",
