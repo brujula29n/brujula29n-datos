@@ -4,6 +4,46 @@
   "entradas": [
     {
       "fecha": "2026-10-27",
+      "titulo": "La Audiencia Nacional inadmite la querella de Leire Díez contra el PP por el vídeo de IA: «Es un tema personal»",
+      "que": "Según elDiario.es, el juez Santiago Pedraz inadmite a trámite la querella porque los delitos atribuidos al PP (calumnias con publicidad, contra la integridad moral y suplantación de identidad digital) no figuran entre los de competencia de la Audiencia Nacional, y porque la controversia es «de carácter personal y mediático» y ajena al objeto de su causa.",
+      "lectura": "Es una decisión sobre competencia, no sobre el fondo: Pedraz dice que los delitos de la querella no son de la Audiencia Nacional y que la controversia es «personal y mediática»; la querellante puede acudir al juzgado competente. Nivel B (elDiario.es, que cita el auto).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/audiencia-nacional-inadmite-querella-leire-diez-pp-incluirle-video-hecho-ia-tema-personal_1_13619533.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-27",
+      "titulo": "El Consejo de Ministros aprueba el manual de las mesas electorales; los sorteos serán del 31 de octubre al 4 de noviembre",
+      "que": "Según Interior, citado por 20minutos, el manual se distribuirá en 900.000 ejemplares con las notificaciones a los seleccionados. Los miembros de las mesas deberán presentarse a las 8:00 del 29-N, una hora antes de abrir las votaciones (9:00); los colegios cierran a las 20:00, momento en que se introducen los votos por correo.",
+      "lectura": "Es el manual y el calendario de sorteos que comunica el Gobierno a través del Ministerio del Interior. Nivel B (20minutos, que cita a Interior).",
+      "actores": [],
+      "src": [
+        "https://www.20minutos.es/nacional/gobierno-aprueba-manual-las-mesas-electorales-29n-los-sorteos-comenzaran-este-sabado_7054188_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-27",
+      "titulo": "Abascal anuncia una querella contra el subdelegado del Gobierno en Zamora por los «actos de intimidación» durante su mitin",
+      "que": "En Zamora, Abascal dijo que pondrá el miércoles una querella contra Ángel Blanco García por «estar detrás de los actos de intimidación» en la plaza de la Marina, donde una treintena de personas con gritos y cacerolas dificultaron oír el mitin. Vox ya había anunciado querellas contra los delegados del Gobierno en Galicia y Baleares.",
+      "lectura": "Es un anuncio de Abascal, sin querella presentada todavía según la fuente; no consta aquí la respuesta de la Subdelegación. Nivel B (ABC, que recoge sus palabras).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/castilla-leon/abascal-anuncia-querella-subdelegado-gobierno-zamora-actos-20261027203458-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-27",
       "titulo": "El Gobierno dice que cumplirá el plazo del Supremo para identificar a los 163.020 afectados por la «ley de nietos»",
       "que": "La portavoz, Elma Saiz, dijo tras el Consejo de Ministros que «los ministerios competentes están comprometidos para que se cumpla el plazo», que vence el miércoles 28-10 a las 15:00, según 20minutos. Albares dijo que todo el servicio exterior está volcado en la tarea; Moncloa señala que es una labor compleja en un margen muy reducido. El Supremo avisó de una multa de 1.000 euros a Albares y Bolaños.",
       "lectura": "Es una declaración de la portavoz y del ministro tras el Consejo de Ministros; el cumplimiento se sabrá cuando venza el plazo. Nivel B (20minutos, que recoge sus palabras).",
