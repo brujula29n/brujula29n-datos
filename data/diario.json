@@ -4,6 +4,36 @@
   "entradas": [
     {
       "fecha": "2026-10-27",
+      "titulo": "El Gobierno dice que cumplirá el plazo del Supremo para identificar a los 163.020 afectados por la «ley de nietos»",
+      "que": "La portavoz, Elma Saiz, dijo tras el Consejo de Ministros que «los ministerios competentes están comprometidos para que se cumpla el plazo», que vence el miércoles 28-10 a las 15:00, según 20minutos. Albares dijo que todo el servicio exterior está volcado en la tarea; Moncloa señala que es una labor compleja en un margen muy reducido. El Supremo avisó de una multa de 1.000 euros a Albares y Bolaños.",
+      "lectura": "Es una declaración de la portavoz y del ministro tras el Consejo de Ministros; el cumplimiento se sabrá cuando venza el plazo. Nivel B (20minutos, que recoge sus palabras).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/gobierno-dice-que-cumplira-plazo-supremo-para-entregar-informacion-sobre-ley-nietos_7054043_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-27",
+      "titulo": "El Consejo de Ministros aprueba 201 millones para que promotores privados construyan 2.500 pisos de alquiler asequible en suelo público",
+      "que": "Según 20minutos, la ministra de Vivienda, Isabel Rodríguez, explicó que la partida de 201 millones, de Casa 47, financiará pisos en suelos públicos de varias provincias; los alquileres no podrán superar el 30% de los ingresos del hogar, con contratos de 14 años prorrogables hasta 75 y revisiones cada siete.",
+      "lectura": "Es una decisión del Consejo de Ministros recogida por la prensa; las cifras son las que da el Gobierno y no se han contrastado con el texto del acuerdo. Nivel B (20minutos, con declaraciones de la ministra de Vivienda).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/gobierno-aprueba-200-millones-para-que-promotores-privados-construyan-2-500-pisos-alquiler-asequible-suelos-publicos_7053982_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-27",
       "titulo": "El Supremo rechaza exigir con urgencia a Gobierno un plan de expulsiones en Ceuta y le da diez días para alegar",
       "que": "La Sala Tercera denegó las medidas cautelarísimas que pidió la Ciudad de Ceuta contra la «inactividad» del Gobierno tras la entrada masiva del 30 y 31 de julio: no aprecia «especial urgencia» porque la inactividad que se imputa dura más de dos meses y medio. Tramitará el incidente cautelar por el procedimiento ordinario, da diez días al Gobierno para presentar alegaciones y mantiene los 20 días para entregar el expediente.",
       "lectura": "Es una decisión sobre medidas cautelarísimas: el Supremo no entra en el fondo del recurso de Ceuta, que sigue su trámite. Nivel B (El País y ABC, que citan el auto).",
