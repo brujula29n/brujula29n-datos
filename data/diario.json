@@ -4,6 +4,18 @@
   "entradas": [
     {
       "fecha": "2026-10-28",
+      "titulo": "Accidente de Urda: el balance sube a al menos 64 fallecidos, según Moncloa y el Gobierno de Castilla-La Mancha; Sánchez viaja al lugar",
+      "que": "Europa Press recoge que fuentes de Moncloa confirman al menos 64 fallecidos; 20minutos cita al Gobierno de Castilla-La Mancha para esa cifra y unos 80 heridos graves. Sánchez habló con el Rey y se desplaza a Urda. 20minutos cuenta que «un error humano de un operador de Adif» tras una «avería del principal sistema de señalización» es la principal hipótesis, sin que esté confirmado. Todos los partidos salvo Vox suspendieron sus actos; Abascal mantuvo los suyos y dijo que «la corrupción mata», una acusación al Gobierno sin pruebas citadas en las fuentes.",
+      "lectura": "Las cifras son provisionales y las dan el Gobierno de Castilla-La Mancha y fuentes de Moncloa; la causa no está establecida y es una hipótesis. Las críticas de Vox son las de su líder. Nivel B (Europa Press, 20minutos, El Mundo; balance del Gobierno de Castilla-La Mancha y de Moncloa citado por ellos).",
+      "actores": [],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-sanchez-traslada-urda-toledo-trasladar-apoyo-afectados-20261028141713.html",
+        "https://www.20minutos.es/nacional/todos-los-partidos-salvo-vox-suspenden-sus-actos-precampana-por-accidente-toledo-gobierno-cancela-su-agenda_7054429_0.html",
+        "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/28/6ae0e5f4e4d4d8dd228b45c3.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-28",
       "titulo": "Choque entre un AVE y un tren de Iryo en Urda (Toledo): el PP, el Gobierno y Frente Amplio cancelan su agenda; Vox la mantiene",
       "que": "Renfe confirmó una colisión entre un AVE Madrid-Sevilla y un tren de Iryo entre Los Yébenes y Urda poco antes de las 9:00, con personas fallecidas y heridas; la circulación Madrid-Andalucía está interrumpida. Las cifras provisionales difieren según la fuente (Europa Press, «al menos 10 fallecidos»; 20minutos recoge 39). El PP canceló toda su agenda de campaña, el Gobierno canceló los actos de los ministros y Sánchez no acudió a un acto previsto, y Frente Amplio suspendió sus actos. Abascal dijo que mantiene su agenda y denunció la «degradación» de la infraestructura ferroviaria.",
       "lectura": "Es un accidente ferroviario, no un hecho de campaña: aquí solo se recoge su efecto en la agenda de los partidos. La causa no está establecida en las fuentes leídas y el balance de víctimas es provisional y distinto según la fuente. Nivel B (Europa Press y 20minutos, con comunicados de Renfe, Moncloa, el PP y Frente Amplio).",

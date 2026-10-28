@@ -164,8 +164,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 224,
-  "ultimo": "Choque entre un AVE y un tren de Iryo en Urda (Toledo): el PP, el Gobierno y Frente Amplio cancelan su agenda; Vox la mantiene"
+  "n": 225,
+  "ultimo": "Accidente de Urda: el balance sube a al menos 64 fallecidos, según Moncloa y el Gobierno de Castilla-La Mancha; Sánchez viaja al lugar"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -201,7 +201,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "4 movimientos nuevos en el diario. Último: Choque entre un AVE y un tren de Iryo en Urda (Toledo): el PP, el Gobierno y Frente Amplio cancelan su agenda; Vox la mantiene."
+   "texto": "5 movimientos nuevos en el diario. Último: Accidente de Urda: el balance sube a al menos 64 fallecidos, según Moncloa y el Gobierno de Castilla-La Mancha; Sánchez viaja al lugar."
   }
  ]
 }
