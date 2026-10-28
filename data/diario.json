@@ -4,6 +4,22 @@
   "entradas": [
     {
       "fecha": "2026-10-28",
+      "titulo": "El BOE publica las candidaturas presentadas; Frente Amplio no concurre al Congreso en Teruel, Ceuta ni Melilla",
+      "que": "El BOE del 28-10 publica las candidaturas presentadas para el Congreso y el Senado (BOE-A-2026-22607). Según El Mundo, tras revisarlo, Frente Amplio no presenta lista al Congreso en Teruel, Ceuta y Melilla, es decir, estará en 49 de las 52 circunscripciones, y no en 51 como habían dicho fuentes de la coalición el 26-10. Fuentes oficiales de Frente Amplio explican que en Ceuta su organización de referencia, Ceuta Ya, pactó con el PSOE compartir listas; sobre Melilla no hay explicación oficial.",
+      "lectura": "El BOE es la fuente oficial de las candidaturas presentadas; la proclamación definitiva es posterior. La cuenta de 49 circunscripciones con lista de Frente Amplio es la que hace El Mundo tras revisar el BOE; la explicación de Ceuta es la de fuentes oficiales de la coalición y sobre Melilla no consta explicación. Nivel A (BOE) y nivel B (El Mundo).",
+      "actores": [
+        {
+          "id": "Frente Amplio",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22607",
+        "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/28/6ae1e959e4d4d821128b45ad.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-28",
       "titulo": "Tres días de luto oficial por el accidente de Urda; Puente explica la secuencia y el balance es de al menos 68 fallecidos",
       "que": "Sánchez anunció tres días de luto oficial, hasta las 24:00 del sábado 31 de octubre, con las banderas a media asta (Moncloa). El ministro Óscar Puente explicó que a las 8:30 el sistema de control LZB «se ha caído» en Urda, que detuvo automáticamente los trenes del tramo y que seis minutos después se dio al AVE autorización para reanudar «cuando no podía hacerlo» según la reglamentación, y que chocó con el Iryo detenido; dijo que no atribuía responsabilidades. El Mundo y elDiario.es cifran el balance en al menos 68 fallecidos.",
       "lectura": "El luto lo decreta el Gobierno (nota de Moncloa); la secuencia del accidente es la que expone el ministro y la investigación está abierta, sin conclusión sobre responsabilidades. Nivel A (Moncloa) y nivel B (El Mundo y elDiario.es, que recogen las explicaciones de Puente y el balance de al menos 68 fallecidos).",

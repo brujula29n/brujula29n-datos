@@ -86,10 +86,10 @@
     {
       "fecha": "2026-10-28",
       "titulo": "Publicación de candidaturas presentadas",
-      "detalle": "BOE.",
+      "detalle": "El BOE del 28-10 publicó las candidaturas presentadas al Congreso y al Senado (BOE-A-2026-22607). Las candidaturas definitivas se proclaman después.",
       "tipo": "legal",
-      "estado": "previsto",
-      "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+      "estado": "hecho",
+      "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22607"
     },
     {
       "fecha": "2026-10-31",
