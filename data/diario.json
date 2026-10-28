@@ -4,6 +4,38 @@
   "entradas": [
     {
       "fecha": "2026-10-28",
+      "titulo": "Choque entre un AVE y un tren de Iryo en Urda (Toledo): el PP, el Gobierno y Frente Amplio cancelan su agenda; Vox la mantiene",
+      "que": "Renfe confirmó una colisión entre un AVE Madrid-Sevilla y un tren de Iryo entre Los Yébenes y Urda poco antes de las 9:00, con personas fallecidas y heridas; la circulación Madrid-Andalucía está interrumpida. Las cifras provisionales difieren según la fuente (Europa Press, «al menos 10 fallecidos»; 20minutos recoge 39). El PP canceló toda su agenda de campaña, el Gobierno canceló los actos de los ministros y Sánchez no acudió a un acto previsto, y Frente Amplio suspendió sus actos. Abascal dijo que mantiene su agenda y denunció la «degradación» de la infraestructura ferroviaria.",
+      "lectura": "Es un accidente ferroviario, no un hecho de campaña: aquí solo se recoge su efecto en la agenda de los partidos. La causa no está establecida en las fuentes leídas y el balance de víctimas es provisional y distinto según la fuente. Nivel B (Europa Press y 20minutos, con comunicados de Renfe, Moncloa, el PP y Frente Amplio).",
+      "actores": [],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-pp-cancela-toda-agenda-campana-accidente-tren-urda-toledo-20261028100251.html",
+        "https://www.20minutos.es/nacional/accidente-tren-urda-directo-accidente-se-ha-producido-entre-los-yebenes-urda-sobre-las-9-horas_7054316_6.html",
+        "https://www.europapress.es/nacional/noticia-abascal-denuncia-insoportable-degradacion-infraestructura-ferroviaria-no-suspendera-agenda-20261028104828.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-28",
+      "titulo": "Sánchez anuncia que Begoña Gómez ha presentado una denuncia por suplantación de imagen por el vídeo de IA del PP",
+      "que": "En el podcast «Keep It Cutre», Sánchez dijo que su mujer ha denunciado la suplantación de su imagen en el vídeo con IA que publicó el PP, y dijo que el PSOE no usa la IA en la campaña. Acusó al PP de usar «las mismas técnicas que los acosadores contra los menores» y de que Feijóo «validó» el vídeo.",
+      "lectura": "Es una denuncia anunciada por Sánchez en un podcast; no consta aquí la admisión ni la respuesta del PP. Nivel B (Europa Press y 20minutos, que citan a Sánchez; elDiario.es y El Español lo recogen).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-sanchez-anuncia-begona-gomez-presentado-denuncia-suplantacion-imagen-video-ia-pp-20261028083502.html",
+        "https://www.20minutos.es/nacional/sanchez-desvela-cuando-decidio-convocar-elecciones-adelantadas-vi-muy-claro_7054285_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-28",
       "titulo": "Policías y guardias civiles abandonan la sede de Interior tras un encierro por la jubilación digna",
       "que": "Según Europa Press, sindicatos de la Policía Nacional (SUP, Jupol, UFP) y asociaciones de la Guardia Civil (AUGC, Jucil, AEGC, ASES-GC, Unión de Cabos) se encerraron el martes en el Ministerio del Interior tras dar por fracasada la negociación con la Secretaría de Estado de Seguridad sobre una «jubilación digna». Lo abandonaron de madrugada, según Jupol, tras pedirles agentes de la UPR que salieran y amenazarles con un delito de desobediencia; su secretario general, Aarón Rivero, dijo que fueron «ninguneados».",
       "lectura": "Es una protesta laboral de sindicatos y asociaciones policiales; las palabras sobre ser «ninguneados» son las del secretario general de Jupol y no consta aquí la versión de Interior. Nivel B (Europa Press, que cita a Jupol).",
