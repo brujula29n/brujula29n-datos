@@ -4,6 +4,52 @@
   "entradas": [
     {
       "fecha": "2026-10-28",
+      "titulo": "Tres días de luto oficial por el accidente de Urda; Puente explica la secuencia y el balance es de al menos 68 fallecidos",
+      "que": "Sánchez anunció tres días de luto oficial, hasta las 24:00 del sábado 31 de octubre, con las banderas a media asta (Moncloa). El ministro Óscar Puente explicó que a las 8:30 el sistema de control LZB «se ha caído» en Urda, que detuvo automáticamente los trenes del tramo y que seis minutos después se dio al AVE autorización para reanudar «cuando no podía hacerlo» según la reglamentación, y que chocó con el Iryo detenido; dijo que no atribuía responsabilidades. El Mundo y elDiario.es cifran el balance en al menos 68 fallecidos.",
+      "lectura": "El luto lo decreta el Gobierno (nota de Moncloa); la secuencia del accidente es la que expone el ministro y la investigación está abierta, sin conclusión sobre responsabilidades. Nivel A (Moncloa) y nivel B (El Mundo y elDiario.es, que recogen las explicaciones de Puente y el balance de al menos 68 fallecidos).",
+      "actores": [],
+      "src": [
+        "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/281026-sanchez-visita-accidente-tren.aspx?qfr=1",
+        "https://www.elmundo.es/espana/2026/10/28/6ae1ea81e4d4d8483e8b456e.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-28",
+      "titulo": "Feijóo pide una revisión independiente de la red ferroviaria y una investigación; Frente Amplio exige «responsabilidades políticas»",
+      "que": "Feijóo pidió una «revisión completa e independiente de toda la red ferroviaria», una investigación gubernamental inmediata y otra judicial, y saber qué medidas se tomaron tras Adamuz; dijo que no reclama «responsabilidades políticas» porque «no es el día». Frente Amplio, en un comunicado sin nombrar a Puente, exige que el Gobierno asuma «responsabilidades políticas» y una auditoría independiente de la red.",
+      "lectura": "Son peticiones de partidos tras el accidente; el Gobierno ya anunció que se aclararán las causas. Las posiciones son las que expone cada partido. Nivel B (elDiario.es, que cita a Feijóo y al comunicado de Frente Amplio).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "Frente Amplio",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/feijoo-exige-revision-completa-independiente-red-ferroviaria-accidente-toledo_1_13622367.html",
+        "https://www.eldiario.es/politica/frente-amplio-exige-gobierno-asuma-responsabilidades-politicas-pide-auditoria-red-ferroviaria_1_13622426.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-28",
+      "titulo": "El Gobierno entrega al Supremo la lista de 163.355 nacionalizados por la «ley de nietos»: 901 han acreditado descender del exilio",
+      "que": "Según fuentes del Gobierno recogidas por El Mundo, se facilitó la relación nominal de 163.355 personas antes del plazo (15:00). La Oficina de Información Diplomática indica que solo 901 han acreditado ser descendientes del exilio y podrán votar. Exteriores coordinó la revisión consular y Presidencia había enviado el 15-10 a la Oficina del Censo Electoral una lista de 76.600 personas inscritas en el DICIREG.",
+      "lectura": "Es un balance del propio Gobierno (fuentes gubernamentales y la Oficina de Información Diplomática); falta la decisión del Supremo sobre quién puede votar. Nivel B (El Mundo, que cita fuentes del Gobierno).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/espana/2026/10/28/6ae21162e9cf4afb618b456d.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-28",
       "titulo": "Accidente de Urda: el balance sube a al menos 64 fallecidos, según Moncloa y el Gobierno de Castilla-La Mancha; Sánchez viaja al lugar",
       "que": "Europa Press recoge que fuentes de Moncloa confirman al menos 64 fallecidos; 20minutos cita al Gobierno de Castilla-La Mancha para esa cifra y unos 80 heridos graves. Sánchez habló con el Rey y se desplaza a Urda. 20minutos cuenta que «un error humano de un operador de Adif» tras una «avería del principal sistema de señalización» es la principal hipótesis, sin que esté confirmado. Todos los partidos salvo Vox suspendieron sus actos; Abascal mantuvo los suyos y dijo que «la corrupción mata», una acusación al Gobierno sin pruebas citadas en las fuentes.",
       "lectura": "Las cifras son provisionales y las dan el Gobierno de Castilla-La Mancha y fuentes de Moncloa; la causa no está establecida y es una hipótesis. Las críticas de Vox son las de su líder. Nivel B (Europa Press, 20minutos, El Mundo; balance del Gobierno de Castilla-La Mancha y de Moncloa citado por ellos).",
