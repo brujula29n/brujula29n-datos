@@ -4,6 +4,23 @@
   "entradas": [
     {
       "fecha": "2026-10-29",
+      "titulo": "Puente pedirá comparecer a petición propia en la Diputación Permanente y ofrecerá una rueda de prensa el viernes",
+      "que": "Según fuentes del Ministerio de Transportes citadas por Europa Press y elDiario.es, Óscar Puente registró la solicitud de comparecer en la Diputación Permanente del Congreso para informar del accidente de Urda, después de que Sumar, ERC y Podemos pidieran su comparecencia. Las mismas fuentes anuncian una nueva rueda de prensa el viernes 30 de octubre.",
+      "lectura": "Es una solicitud de comparecencia a petición propia, anunciada por fuentes del ministerio; la fecha de la sesión no está fijada y la decide la Diputación Permanente. La cifra de fallecidos es la de Europa Press y El País y es provisional. Nivel B (Europa Press, elDiario.es y El País).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/economia/transportes-00343/noticia-oscar-puente-solicitara-comperecer-diputacion-permanente-congreso-accidente-urda-20261029164354.html",
+        "https://www.eldiario.es/politica/oscar-puente-pedira-comparecer-peticion-propia-diputacion-permanente-congreso-explicar-accidente-urda_1_13625198.html",
+        "https://elpais.com/espana/2026-10-29/sanchez-asegura-que-se-reforzara-la-seguridad-ferroviaria-para-evitar-nuevos-accidentes.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-29",
       "titulo": "Feijóo, desde Urda: las responsabilidades políticas «no son opcionales» y critica que Puente culpara a un operador de Atocha",
       "que": "Desde el puesto de mando avanzado, Feijóo dijo que «más de un centenar de muertos en dos accidentes de tren de alta velocidad en ocho meses y en el mismo corredor» obliga a cuestionar el sistema ferroviario y que «las responsabilidades políticas no se pueden asumir una vez finalizada la investigación; no son opcionales». No usó la palabra «dimisión». Calificó de «frivolidad impropia de un ministro» echar la culpa a «un operador de Atocha» y prometió nombramientos con «experiencia, gestión y rigor».",
       "lectura": "Es una posición política del líder del PP, que evitó pedir expresamente la dimisión; no consta aquí la respuesta de Puente a esas palabras. Nivel B (20minutos, Europa Press y ABC, que recogen sus palabras desde el puesto de mando avanzado).",
