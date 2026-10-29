@@ -4,6 +4,64 @@
   "entradas": [
     {
       "fecha": "2026-10-29",
+      "titulo": "La JEC abre un expediente a Sánchez por su vídeo ante el «Guernica» y le pide retirarlo",
+      "que": "Según El País y 20minutos, la Junta Electoral Central estimó la denuncia del PP y declaró que el vídeo grabado el 24-10 en el Museo Reina Sofía «podría haber vulnerado» el artículo 50.2 de la LOREG. Requiere a Sánchez que retire el vídeo de sus perfiles, si no lo ha hecho, y recuerda al presidente y al museo el deber de neutralidad. Según El País, el vídeo ya había sido retirado.",
+      "lectura": "Es la apertura de un expediente por posible infracción, no una sanción ni una resolución sobre el fondo; Sánchez puede alegar. Segundo expediente a Sánchez en dos semanas, tras el del 6 de octubre. Nivel B (El País, 20minutos y elDiario.es, que recogen la decisión de la JEC).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://elpais.com/espana/elecciones-generales/2026-10-29/la-junta-electoral-abre-un-expediente-a-sanchez-por-el-video-en-el-reina-sofia-ante-el-gernika.html",
+        "https://www.20minutos.es/nacional/junta-electoral-abre-otro-expediente-sancionador-sanchez-por-su-video-ante-guernica-denunciado-por-pp_7055194_0.html",
+        "https://www.eldiario.es/politica/junta-electoral-expedienta-pedro-sanchez-video-museo-reina-sofia_1_13625634.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-29",
+      "titulo": "El Congreso fija para el 3 de noviembre a las 17:00 la comparecencia de Puente en la Diputación Permanente",
+      "que": "Según Europa Press, que cita fuentes parlamentarias, Óscar Puente comparecerá el martes 3 de noviembre, a las 17:00, en la Diputación Permanente. El ministro dará además una rueda de prensa el viernes 30. Según 20minutos, el PP ve insuficiente esa comparecencia y pide que Sánchez dé explicaciones en el Congreso.",
+      "lectura": "Es un hecho de calendario parlamentario; no consta aquí qué se dirá en la sesión. La petición del PP es una posición política, no una decisión de la Cámara. Nivel B (Europa Press y 20minutos).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/economia/transportes-00343/noticia-congreso-pone-fecha-comparecencia-puente-accidente-urda-noviembre-20261029180346.html",
+        "https://www.20minutos.es/nacional/pp-ve-insuficiente-comparecencia-puente-por-tragedia-urda-reclama-que-sanchez-explicaciones-congreso_7055183_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-29",
+      "titulo": "Muere en el accidente de Urda la exministra Fátima Báñez; el PP y la CEOE lamentan su fallecimiento",
+      "que": "Según ABC y El Español, Fátima Báñez, ministra de Empleo con Rajoy (2011-2018) y presidenta de la Fundación CEOE, viajaba en uno de los trenes y figura entre los fallecidos. ABC recoge que la CEOE confirmó la noticia y que Feijóo, Tellado y el PP expresaron su pésame. Los medios cifran las víctimas del accidente entre 69 y 74, sin balance oficial consultado.",
+      "lectura": "Es un dato de duelo, sin lectura política. Las cifras de víctimas son provisionales y difieren entre medios. Nivel B (ABC, El Español y El Mundo; confirmación de la CEOE y del PP según ABC).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/pp-despide-fatima-banez-era-mujer-incansable-20261029174546-nt.html",
+        "https://www.elespanol.com/espana/20261029/fatima-banez-ministra-andaluza-mariano-rajoy-transformo-mercado-laboral/1003744439800_12.html",
+        "https://www.elmundo.es/espana/2026/10/29/6ae25d85e9cf4af1528b458d.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-29",
       "titulo": "Puente pedirá comparecer a petición propia en la Diputación Permanente y ofrecerá una rueda de prensa el viernes",
       "que": "Según fuentes del Ministerio de Transportes citadas por Europa Press y elDiario.es, Óscar Puente registró la solicitud de comparecer en la Diputación Permanente del Congreso para informar del accidente de Urda, después de que Sumar, ERC y Podemos pidieran su comparecencia. Las mismas fuentes anuncian una nueva rueda de prensa el viernes 30 de octubre.",
       "lectura": "Es una solicitud de comparecencia a petición propia, anunciada por fuentes del ministerio; la fecha de la sesión no está fijada y la decide la Diputación Permanente. La cifra de fallecidos es la de Europa Press y El País y es provisional. Nivel B (Europa Press, elDiario.es y El País).",

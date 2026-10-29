@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28",
+  "actualizado": "2026-10-29",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -92,6 +92,14 @@
       "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22607"
     },
     {
+      "fecha": "2026-10-29",
+      "titulo": "Instrucción 2/2026 de la JEC sobre espacios gratuitos de propaganda electoral",
+      "detalle": "Publicada en el BOE núm. 269: regula la distribución de espacios gratuitos en medios públicos y delega en las Juntas Provinciales las competencias del art. 65.5 LOREG.",
+      "tipo": "legal",
+      "estado": "hecho",
+      "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22695"
+    },
+    {
       "fecha": "2026-10-31",
       "titulo": "Sorteos de las mesas electorales (31-oct a 4-nov)",
       "detalle": "Según el Ministerio del Interior, citado por 20minutos, los sorteos de presidentes y vocales se celebran entre el 31 de octubre y el 4 de noviembre; las notificaciones incluyen el manual aprobado el 27-10 (900.000 ejemplares). Los miembros de las mesas deben presentarse a las 8:00 del 29-N.",
@@ -106,6 +114,14 @@
       "tipo": "legal",
       "estado": "previsto",
       "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+    },
+    {
+      "fecha": "2026-11-03",
+      "titulo": "Comparecencia de Puente en la Diputación Permanente (17:00)",
+      "detalle": "Según Europa Press (fuentes parlamentarias), el ministro comparece por el accidente de Urda.",
+      "tipo": "politico",
+      "estado": "previsto",
+      "src": "https://www.europapress.es/economia/transportes-00343/noticia-congreso-pone-fecha-comparecencia-puente-accidente-urda-noviembre-20261029180346.html"
     },
     {
       "fecha": "2026-11-09",
