@@ -1,7 +1,38 @@
 {
-  "actualizado": "2026-10-28",
+  "actualizado": "2026-10-29",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-29",
+      "titulo": "Accidente de Urda: al menos 68 muertos y 58 heridos; el Gobierno atribuye el choque a un fallo del sistema LZB seguido de una decisión humana",
+      "que": "Según El País, el Gobierno apunta a un error humano. Sobre las 8:30 cayó el sistema de seguridad LZB en un tramo de 69 kilómetros que afectó a seis trenes; a las 8:36, según audios a los que accedió el diario, un responsable del centro de control de Adif en Atocha permitió continuar al AVE 2080 (397 pasajeros); a las 8:41 supo que el Iryo 6076 (147 pasajeros) estaba detenido a las puertas de Urda; a las 8:48 la conductora avisó de que seguía detenida, y a las 8:53 el AVE chocó con el Iryo. El balance es de al menos 68 muertos y 58 heridos de distinta consideración. Es el segundo accidente mortal en la línea Madrid-Sevilla en 2026, tras el de Adamuz en enero, con 46 fallecidos.",
+      "lectura": "Es el relato del Gobierno y de audios publicados por El País; la investigación sigue abierta y no hay conclusión sobre responsabilidades. Nivel B (El País, que cita la rueda de prensa del ministro Puente y audios a los que tuvo acceso; 20minutos recoge la misma hipótesis).",
+      "actores": [],
+      "src": [
+        "https://elpais.com/espana/2026-10-29/un-error-humano-a-las-836-la-cadena-de-fallos-y-decisiones-con-las-que-el-gobierno-explica-la-nueva-tragedia-en-la-linea-madrid-sevilla.html",
+        "https://www.20minutos.es/nacional/accidente-toledo-da-un-vuelco-campana-un-mes-las-elecciones-generales-29-n_7054665_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-29",
+      "titulo": "Tras Urda, el PP frena su campaña y pide «gestión» sin reclamar dimisiones por ahora; el PSOE se queda sin su guion de campaña",
+      "que": "Según El Mundo, el PP suspendió sus actos, Feijóo emitió un mensaje institucional sin pedir dimisiones y Tellado ordenó a los cuadros del partido no hacer declaraciones más allá del acompañamiento a las familias; el partido valora pedir cuentas tras los tres días de luto y Feijóo visitará el jueves el puesto de mando avanzado. 20minutos describe que la gestión de la crisis y la depuración de responsabilidades pasan al centro de la campaña, con PSOE, PP, Frente Amplio y Podemos suspendiendo actos y Vox manteniéndolos.",
+      "lectura": "Son los planes y mensajes que cada partido atribuye a sus fuentes; la campaña sigue condicionada por el luto oficial hasta el 31-10. Nivel B (El Mundo y 20minutos, con fuentes de Génova y del Gobierno).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/espana/2026/10/29/6ae21f1521efa042438b45ac.html",
+        "https://www.20minutos.es/nacional/accidente-toledo-da-un-vuelco-campana-un-mes-las-elecciones-generales-29-n_7054665_0.html"
+      ]
+    },
     {
       "fecha": "2026-10-28",
       "titulo": "El BOE publica las candidaturas presentadas; Frente Amplio no concurre al Congreso en Teruel, Ceuta ni Melilla",
