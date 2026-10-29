@@ -4,6 +4,26 @@
   "entradas": [
     {
       "fecha": "2026-10-29",
+      "titulo": "Sánchez promete esclarecer «hasta el último detalle» el accidente de Urda; Sumar pide que Puente comparezca en la Diputación Permanente",
+      "que": "Tras participar en el centro de coordinación operativa, Sánchez dijo que se esclarecerá «hasta el último detalle» el accidente, que Europa Press cifra en al menos 69 fallecidos, y que se reforzará la seguridad. Ada Colau anunció que Sumar pide la comparecencia del ministro Óscar Puente en la Diputación Permanente del Congreso, y Antonio Maíllo (IU) reclamó una auditoría independiente de la red. Gabriel Rufián (ERC) dijo que «los únicos nombres y apellidos» de la tragedia son «los recortes en inversión del PP primero y la liberación del mercado del PSOE después».",
+      "lectura": "Son declaraciones de Sánchez y peticiones de partidos; la comparecencia de Puente dependería de que la Diputación Permanente la acuerde y no consta decisión. La cifra de víctimas sigue siendo provisional y varía según la fuente (68 a 70). Nivel B (Europa Press, que cita a Sánchez, a Colau, a Maíllo y a Rufián).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "Frente Amplio",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-sanchez-dice-esclareceran-ultimo-detalle-urda-reforzaran-seguridad-no-pase-nuevo-20261029105640.html",
+        "https://www.europapress.es/nacional/noticia-sumar-pide-puente-comparezca-diputacion-permanente-congreso-rendir-cuentas-accidente-ferroviario-20261029104113.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-29",
       "titulo": "Accidente de Urda: al menos 68 muertos y 58 heridos; el Gobierno atribuye el choque a un fallo del sistema LZB seguido de una decisión humana",
       "que": "Según El País, el Gobierno apunta a un error humano. Sobre las 8:30 cayó el sistema de seguridad LZB en un tramo de 69 kilómetros que afectó a seis trenes; a las 8:36, según audios a los que accedió el diario, un responsable del centro de control de Adif en Atocha permitió continuar al AVE 2080 (397 pasajeros); a las 8:41 supo que el Iryo 6076 (147 pasajeros) estaba detenido a las puertas de Urda; a las 8:48 la conductora avisó de que seguía detenida, y a las 8:53 el AVE chocó con el Iryo. El balance es de al menos 68 muertos y 58 heridos de distinta consideración. Es el segundo accidente mortal en la línea Madrid-Sevilla en 2026, tras el de Adamuz en enero, con 46 fallecidos.",
       "lectura": "Es el relato del Gobierno y de audios publicados por El País; la investigación sigue abierta y no hay conclusión sobre responsabilidades. Nivel B (El País, que cita la rueda de prensa del ministro Puente y audios a los que tuvo acceso; 20minutos recoge la misma hipótesis).",
