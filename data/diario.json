@@ -4,6 +4,57 @@
   "entradas": [
     {
       "fecha": "2026-10-29",
+      "titulo": "Feijóo, desde Urda: las responsabilidades políticas «no son opcionales» y critica que Puente culpara a un operador de Atocha",
+      "que": "Desde el puesto de mando avanzado, Feijóo dijo que «más de un centenar de muertos en dos accidentes de tren de alta velocidad en ocho meses y en el mismo corredor» obliga a cuestionar el sistema ferroviario y que «las responsabilidades políticas no se pueden asumir una vez finalizada la investigación; no son opcionales». No usó la palabra «dimisión». Calificó de «frivolidad impropia de un ministro» echar la culpa a «un operador de Atocha» y prometió nombramientos con «experiencia, gestión y rigor».",
+      "lectura": "Es una posición política del líder del PP, que evitó pedir expresamente la dimisión; no consta aquí la respuesta de Puente a esas palabras. Nivel B (20minutos, Europa Press y ABC, que recogen sus palabras desde el puesto de mando avanzado).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/feijoo-exige-responsabilidades-politicas-por-tragedia-urda-promete-devolver-confianza-sistema-ferroviario_7054983_0.html",
+        "https://www.abc.es/espana/castilla-la-mancha/feijoo-puente-dia-despues-accidente-responsabilidades-politicas-20261029134255-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-29",
+      "titulo": "Vox presenta en el Supremo una querella contra el ministro Puente por presunto homicidio por imprudencia grave y lesiones",
+      "que": "Según el escrito citado por Europa Press, la querella imputa a Puente «la omisión de sus deberes personales de garantía» en la seguridad ferroviaria y en la supervisión de los entes adscritos, con «reserva de ampliación» contra otros responsables. Vox sostiene que es competente el Supremo por el aforamiento del ministro y no el juzgado de Orgaz, que investiga el accidente.",
+      "lectura": "Es una querella de un partido, sin decisión del Supremo sobre su admisión; Puente no está imputado ni hay conclusión de la investigación, y se presume su inocencia. Nivel B (Europa Press y 20minutos, que citan el escrito de Vox).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-vox-querella-contra-oscar-puente-supremo-presunto-homicidio-imprudente-lesiones-20261029115454.html",
+        "https://www.20minutos.es/nacional/vox-presenta-una-querella-contra-oscar-puente-por-homicidio-imprudente-tras-accidente-ferroviario-urda_7054927_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-29",
+      "titulo": "ERC y Podemos registran, como Sumar, una petición para que Puente comparezca en la Diputación Permanente",
+      "que": "Según Europa Press, ERC y Podemos registraron en el Congreso la solicitud para que el ministro explique en la Diputación Permanente, el único órgano activo tras la disolución de las Cortes, los datos del Gobierno sobre el accidente, que cifra en 69 fallecidos. Rufián dijo que «los únicos nombres y apellidos» son «los recortes del PP primero y la liberalización del PSOE después»; Montero criticó que se señale el «error humano» de un trabajador.",
+      "lectura": "Es el registro de una solicitud, no una convocatoria: la Diputación Permanente decide si se celebra. La cifra de fallecidos es la de Europa Press y es provisional. Nivel B (Europa Press).",
+      "actores": [
+        {
+          "id": "Podemos",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-erc-podemos-piden-comparecencia-puente-diputacion-permanente-rendir-cuentas-acciedente-20261029112536.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-29",
       "titulo": "Sánchez promete esclarecer «hasta el último detalle» el accidente de Urda; Sumar pide que Puente comparezca en la Diputación Permanente",
       "que": "Tras participar en el centro de coordinación operativa, Sánchez dijo que se esclarecerá «hasta el último detalle» el accidente, que Europa Press cifra en al menos 69 fallecidos, y que se reforzará la seguridad. Ada Colau anunció que Sumar pide la comparecencia del ministro Óscar Puente en la Diputación Permanente del Congreso, y Antonio Maíllo (IU) reclamó una auditoría independiente de la red. Gabriel Rufián (ERC) dijo que «los únicos nombres y apellidos» de la tragedia son «los recortes en inversión del PP primero y la liberación del mercado del PSOE después».",
       "lectura": "Son declaraciones de Sánchez y peticiones de partidos; la comparecencia de Puente dependería de que la Diputación Permanente la acuerde y no consta decisión. La cifra de víctimas sigue siendo provisional y varía según la fuente (68 a 70). Nivel B (Europa Press, que cita a Sánchez, a Colau, a Maíllo y a Rufián).",
