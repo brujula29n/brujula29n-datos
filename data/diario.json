@@ -4,6 +4,43 @@
   "entradas": [
     {
       "fecha": "2026-10-30",
+      "titulo": "El PP pide por primera vez la dimisión o el cese de Puente: «No debería llegar al martes»",
+      "que": "Según Europa Press y elDiario.es, la portavoz de campaña del PP, Ester Muñoz, dijo en RNE que Puente «tiene que dimitir» y que, si no lo hace, «debería ser cesado», antes de su comparecencia del martes. elDiario.es señala que hasta ahora Feijóo y otros miembros del PP lo habían insinuado sin decirlo expresamente. Muñoz pidió también que Sánchez comparezca en la Diputación Permanente.",
+      "lectura": "Es una petición política de un partido; no hay decisión del Gobierno ni informe oficial sobre las causas del accidente, que sigue en investigación. Nivel B (Europa Press, elDiario.es y 20minutos, que recogen sus declaraciones en RNE).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-pp-pide-cese-dimision-puente-antes-comparecencia-parlamentaria-accidente-urda-20261030093859.html",
+        "https://www.eldiario.es/politica/pp-pide-dimision-oscar-puente-primera-vez-accidente-urda_1_13626233.html",
+        "https://www.20minutos.es/nacional/pp-exige-abiertamente-dimision-cese-puente-no-deberia-llegar-martes_7055357_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-30",
+      "titulo": "Sánchez admite una «confianza quebrada» en la alta velocidad y promete «soluciones»",
+      "que": "Según Europa Press, tras visitar el Cecopi de Toledo junto a Page, Sánchez dijo, en una declaración sin preguntas, que «hay una confianza quebrada en el sistema de alta velocidad» y que el Gobierno no solo investigará las causas, sino que ofrecerá soluciones. Repitió que «no es asumible» tener dos accidentes de esta magnitud en un año; Europa Press recuerda que el de Adamuz, en enero, causó 46 muertos.",
+      "lectura": "Son declaraciones del presidente, sin medidas concretas anunciadas; las causas de Urda siguen en investigación y la cifra de fallecidos (al menos 69 según Europa Press) es provisional. Nivel B (Europa Press, que recoge sus palabras; también El Español).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-sanchez-admite-confianza-alta-velocidad-quebrada-promete-soluciones-20261030111144.html",
+        "https://elpais.com/espana/2026-10-30/sanchez-hay-una-confianza-quebrada-en-el-sistema-de-alta-velocidad.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-30",
       "titulo": "Sánchez mantiene a Puente, según fuentes de Moncloa, y CCOO pide su cese",
       "que": "Según El País, elDiario.es y El Español, Moncloa y el entorno del ministro descartan su dimisión y mantienen la tesis del «fallo humano» del operario del centro de control. Según El País, CCOO pidió el cese de Puente por «culpabilizar a los trabajadores», y PNV y Frente Amplio rechazan que se explique el accidente solo por error humano. Puente comparece el martes 3 en la Diputación Permanente. El País estima que la petición de dimisión será uno de los ejes de la campaña de PP y Vox tras el luto; es su valoración, no un anuncio de esos partidos.",
       "lectura": "La decisión de Sánchez se conoce por fuentes sin identificar y no por una declaración oficial; la causa del accidente sigue en investigación y no consta un informe oficial que atribuya responsabilidades. Nivel C para el respaldo de Sánchez (fuentes sin identificar citadas por El País y elDiario.es); nivel B para la petición de CCOO (El País).",
