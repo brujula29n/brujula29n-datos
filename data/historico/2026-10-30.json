@@ -164,8 +164,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 243,
-  "ultimo": "El PP pide por primera vez la dimisión o el cese de Puente: «No debería llegar al martes»"
+  "n": 245,
+  "ultimo": "Puente rechaza dimitir en rueda de prensa y dice que puso su cargo a disposición de Sánchez, que le pidió seguir"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -201,7 +201,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "4 movimientos nuevos en el diario. Último: El PP pide por primera vez la dimisión o el cese de Puente: «No debería llegar al martes»."
+   "texto": "6 movimientos nuevos en el diario. Último: Puente rechaza dimitir en rueda de prensa y dice que puso su cargo a disposición de Sánchez, que le pidió seguir."
   }
  ]
 }
