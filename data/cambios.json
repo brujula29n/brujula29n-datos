@@ -1,6 +1,16 @@
 {
- "actualizado": "2026-10-29",
+ "actualizado": "2026-10-30",
  "dias": [
+  {
+   "fecha": "2026-10-30",
+   "items": [
+    {
+     "tipo": "diario",
+     "texto": "2 movimientos nuevos en el diario. Último: Sánchez mantiene a Puente, según fuentes de Moncloa, y CCOO pide su cese.",
+     "texto_en": "2 new entries in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-10-29",
    "items": [
@@ -1010,6 +1020,32 @@
   },
   {
    "fecha": "2026-10-29",
+   "media": {
+    "PP": 31.67,
+    "PSOE": 26.57,
+    "VOX": 19.12,
+    "SUMAR": 6.35,
+    "PODEMOS": 2.5,
+    "SALF": 1.89
+   },
+   "escanos": {
+    "PP": 135,
+    "PSOE": 108,
+    "VOX": 68,
+    "SUMAR": 8,
+    "PODEMOS": 2
+   },
+   "ppvox": 203,
+   "probs": {
+    "pp_vox": 96.3,
+    "pp_solo": 0.1,
+    "psoe_bloque": 2.4,
+    "bloqueo": 1.1
+   },
+   "n_encuestas": 29
+  },
+  {
+   "fecha": "2026-10-30",
    "media": {
     "PP": 31.67,
     "PSOE": 26.57,

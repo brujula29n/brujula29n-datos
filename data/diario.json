@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-10-29",
+  "actualizado": "2026-10-30",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-10-30",
+      "titulo": "Sánchez mantiene a Puente, según fuentes de Moncloa, y CCOO pide su cese",
+      "que": "Según El País, elDiario.es y El Español, Moncloa y el entorno del ministro descartan su dimisión y mantienen la tesis del «fallo humano» del operario del centro de control. Según El País, CCOO pidió el cese de Puente por «culpabilizar a los trabajadores», y PNV y Frente Amplio rechazan que se explique el accidente solo por error humano. Puente comparece el martes 3 en la Diputación Permanente. El País estima que la petición de dimisión será uno de los ejes de la campaña de PP y Vox tras el luto; es su valoración, no un anuncio de esos partidos.",
+      "lectura": "La decisión de Sánchez se conoce por fuentes sin identificar y no por una declaración oficial; la causa del accidente sigue en investigación y no consta un informe oficial que atribuya responsabilidades. Nivel C para el respaldo de Sánchez (fuentes sin identificar citadas por El País y elDiario.es); nivel B para la petición de CCOO (El País).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://elpais.com/espana/2026-10-30/sanchez-mantiene-el-apoyo-a-puente-pese-a-la-creciente-presion-contra-el.html",
+        "https://www.eldiario.es/politica/gobierno-enfria-salida-oscar-puente-pesar-presion-socios-oposicion-dimita_1_13625446.html",
+        "https://www.elespanol.com/espana/politica/20261030/sanchez-decidido-llegar-elecciones-puente-ministro-pese-tragedia-urda-criticas-socios/1003744439442_0"
+      ]
+    },
+    {
+      "fecha": "2026-10-29",
+      "titulo": "El Supremo deja sin efecto los apercibimientos a Bolaños y Albares tras recibir el listado de la «ley de nietos»",
+      "que": "Según El Mundo, que cita una providencia de la Sala Tercera, el Supremo alzó los apercibimientos de responsabilidad penal que dirigió el 23-10 a los ministros Bolaños y Albares, después de que la Abogacía del Estado aportara la relación nominal de 163.355 personas. Según la Oficina de Información Diplomática, que cita el diario, solo 901 han acreditado ser descendientes del exilio y podrán votar el 29-N.",
+      "lectura": "Cierra el choque entre el Supremo y el Gobierno por el plazo de entrega del listado; el recurso de fondo sigue abierto. Las cifras son las ya anotadas, sin cambio. Nivel B (El Mundo, que cita la providencia).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/29/6ae37c90e9cf4a127a8b4591.html"
+      ]
+    },
     {
       "fecha": "2026-10-29",
       "titulo": "La JEC abre un expediente a Sánchez por su vídeo ante el «Guernica» y le pide retirarlo",
