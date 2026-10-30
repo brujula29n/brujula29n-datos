@@ -4,6 +4,25 @@
   "entradas": [
     {
       "fecha": "2026-10-30",
+      "titulo": "Colau, candidata del Frente Amplio, pide a Moncloa la dimisión «lo antes posible» de Puente",
+      "que": "Según El Mundo, que recoge sus declaraciones a periodistas en Barcelona, Ada Colau dijo que el Frente Amplio ha trasladado «a Moncloa» la petición de dimisión del ministro de Transportes porque, «más allá de los fallos técnicos y de las auditorías», tiene «una responsabilidad política». Añadió que no entran en si debe ser «hoy, mañana o pasado», pero «lo antes posible». No explicó cómo hizo llegar la petición.",
+      "lectura": "Es una petición política de un socio del PSOE; no consta aquí respuesta de Moncloa a esa petición y la causa del accidente sigue en investigación. Nivel B (El Mundo, que recoge sus declaraciones).",
+      "actores": [
+        {
+          "id": "Frente Amplio",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/espana/2026/10/30/6ae496e7e4d4d828278b458e.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-30",
       "titulo": "Puente rechaza dimitir en rueda de prensa y dice que puso su cargo a disposición de Sánchez, que le pidió seguir",
       "que": "En una rueda de prensa, Puente dijo: «Si yo creyera que mi continuidad perjudica al proyecto, habría dado un paso a un lado», y que «dar la cara» es su manera de asumir responsabilidad. En una conversación informal con periodistas, según El Mundo, elDiario.es y ABC, contó que puso su cargo a disposición de Sánchez y que este le respondió que «sería injusto» que dimitiera; ABC y elDiario.es lo recogen también de su entorno.",
       "lectura": "Es la versión del propio ministro y de su entorno, no una decisión del Gobierno ni un dato verificado de forma independiente; las causas del accidente siguen en investigación. Nivel B (declaraciones de Puente recogidas por El Mundo, elDiario.es y ABC).",
