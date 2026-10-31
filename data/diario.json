@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-10-30",
+  "actualizado": "2026-10-31",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
     {
       "fecha": "2026-10-30",
       "titulo": "Colau, candidata del Frente Amplio, pide a Moncloa la dimisión «lo antes posible» de Puente",
-      "que": "Según El Mundo, que recoge sus declaraciones a periodistas en Barcelona, Ada Colau dijo que el Frente Amplio ha trasladado «a Moncloa» la petición de dimisión del ministro de Transportes porque, «más allá de los fallos técnicos y de las auditorías», tiene «una responsabilidad política». Añadió que no entran en si debe ser «hoy, mañana o pasado», pero «lo antes posible». No explicó cómo hizo llegar la petición.",
-      "lectura": "Es una petición política de un socio del PSOE; no consta aquí respuesta de Moncloa a esa petición y la causa del accidente sigue en investigación. Nivel B (El Mundo, que recoge sus declaraciones).",
+      "que": "Según El Mundo, que recoge sus declaraciones a periodistas en Barcelona, Ada Colau dijo que el Frente Amplio ha trasladado «a Moncloa» la petición de dimisión del ministro de Transportes porque, «más allá de los fallos técnicos y de las auditorías», tiene «una responsabilidad política». Añadió que no entran en si debe ser «hoy, mañana o pasado», pero «lo antes posible». No explicó cómo hizo llegar la petición. Según elDiario.es, el PSOE ha ignorado de momento la petición y Sánchez mantiene su confianza en Puente.",
+      "lectura": "Es una petición política de un socio del PSOE; no consta aquí respuesta de Moncloa a esa petición y la causa del accidente sigue en investigación. Nivel B (El Mundo y elDiario.es).",
       "actores": [
         {
           "id": "Frente Amplio",
@@ -18,7 +18,8 @@
         }
       ],
       "src": [
-        "https://www.elmundo.es/espana/2026/10/30/6ae496e7e4d4d828278b458e.html"
+        "https://www.elmundo.es/espana/2026/10/30/6ae496e7e4d4d828278b458e.html",
+        "https://www.eldiario.es/politica/frente-amplio-eleva-presion-puente-tensa-relacion-psoe-semanas-campana_1_13627803.html"
       ]
     },
     {
