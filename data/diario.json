@@ -4,6 +4,29 @@
   "entradas": [
     {
       "fecha": "2026-10-31",
+      "titulo": "Frente Amplio, PNV y BNG piden «responsabilidades» por Urda; el PNV espera a la comparecencia de Puente del martes",
+      "que": "Según 20minutos, el cabeza de lista del Frente Amplio por Madrid, Emilio Delgado, dijo que no se trata solo de la dimisión de Puente sino de más inversión en la red ferroviaria. La portavoz del PNV en el Congreso, Maribel Vaquero, dijo que deben asumirse responsabilidades técnicas y políticas, pero que el PNV esperará a las explicaciones del ministro el martes. El mismo medio recoge críticas del BNG y de UGT.",
+      "lectura": "Son posiciones políticas y sindicales; la investigación sigue abierta y el PNV no ha pedido expresamente la dimisión según lo recogido. Nivel B (20minutos, que recoge declaraciones públicas).",
+      "actores": [
+        {
+          "id": "Frente Amplio",
+          "impacto": 0
+        },
+        {
+          "id": "PNV",
+          "impacto": 0
+        },
+        {
+          "id": "BNG",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/socios-sanchez-ugt-exigen-que-puente-responda-por-tragedia-frente-amplio-pnv-bng-piden-responsabilidades_7055807_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-10-31",
       "titulo": "El Supremo da tres días a las partes sobre extender la suspensión del voto a los hijos de nacionalizados por la «ley de nietos»; Vox lo respalda",
       "que": "Según ABC y Europa Press, que cita providencias, el Supremo rechazó adoptar sin oír a las partes las medidas cautelarísimas que pidió el partido Iustitia Europa y abrió un trámite de audiencia de tres días, que según fuentes jurídicas acaba el miércoles 4-11. Iustitia Europa pide identificar a los hijos de los nacionalizados incluidos en el CERA y suspender sus efectos electorales. Vox presentó alegaciones en ese sentido, salvo cuando el progenitor tenga certificación consular.",
       "lectura": "Es una petición de partidos y un trámite de audiencia; el Supremo no ha decidido extender la suspensión. Nivel B (ABC y Europa Press, que citan las providencias y el comunicado de Vox).",
