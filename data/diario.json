@@ -3,6 +3,21 @@
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
     {
+      "fecha": "2026-10-31",
+      "titulo": "El Supremo da tres días a las partes sobre extender la suspensión del voto a los hijos de nacionalizados por la «ley de nietos»; Vox lo respalda",
+      "que": "Según ABC y Europa Press, que cita providencias, el Supremo rechazó adoptar sin oír a las partes las medidas cautelarísimas que pidió el partido Iustitia Europa y abrió un trámite de audiencia de tres días, que según fuentes jurídicas acaba el miércoles 4-11. Iustitia Europa pide identificar a los hijos de los nacionalizados incluidos en el CERA y suspender sus efectos electorales. Vox presentó alegaciones en ese sentido, salvo cuando el progenitor tenga certificación consular.",
+      "lectura": "Es una petición de partidos y un trámite de audiencia; el Supremo no ha decidido extender la suspensión. Nivel B (ABC y Europa Press, que citan las providencias y el comunicado de Vox).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/vox-pide-suspender-voto-hijos-nacionalizados-ley-20261031151940-nt.html"
+      ]
+    },
+    {
       "fecha": "2026-10-30",
       "titulo": "Colau, candidata del Frente Amplio, pide a Moncloa la dimisión «lo antes posible» de Puente",
       "que": "Según El Mundo, que recoge sus declaraciones a periodistas en Barcelona, Ada Colau dijo que el Frente Amplio ha trasladado «a Moncloa» la petición de dimisión del ministro de Transportes porque, «más allá de los fallos técnicos y de las auditorías», tiene «una responsabilidad política». Añadió que no entran en si debe ser «hoy, mañana o pasado», pero «lo antes posible». No explicó cómo hizo llegar la petición. Según elDiario.es, el PSOE ha ignorado de momento la petición y Sánchez mantiene su confianza en Puente.",
