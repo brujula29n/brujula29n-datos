@@ -4,6 +4,26 @@
   "entradas": [
     {
       "fecha": "2026-11-01",
+      "titulo": "Feijóo: la dimisión de Puente es «imprescindible pero insuficiente» porque la mayor responsabilidad es de Sánchez",
+      "que": "Según 20minutos, que cita una entrevista de Feijóo en La Vanguardia, el líder del PP considera «imprescindible, pero insuficiente» que Puente dimita porque «España está en fallo sistémico». Dijo que los trenes chocan «por la misma razón» que las carreteras tienen socavones o se produjo el apagón. El mismo medio recoge que el PP reanuda el lunes 2 la campaña con un Comité Ejecutivo Nacional.",
+      "lectura": "Es una valoración política del líder del PP; no hay conclusión técnica ni judicial que atribuya el accidente a esas causas, y la investigación sigue abierta. Nivel B (20minutos, que cita la entrevista en La Vanguardia).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/feijoo-ve-imprescindible-pero-insuficiente-que-puente-dimita-porque-mayor-responsabilidad-es-sanchez_7055947_0.html",
+        "https://www.20minutos.es/nacional/feijoo-reune-este-lunes-cupula-pp-reanuda-campana-tras-luto-por-urda_7056035_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-01",
       "titulo": "Frente Amplio y Podemos pugnan en la JEC por la herencia de Sumar en el reparto de tiempos en RTVE",
       "que": "Según Europa Press, RTVE pidió a la JEC cómo repartir los derechos electorales de la coalición Sumar de 2023, hoy dividida entre Frente Amplio, Podemos y otras formaciones. La primera atribución de RTVE da 10 diputados a Movimiento Sumar, 5 a IU, 5 a Podemos y 4 a Catalunya en Comú; Podemos sostiene que solo cuentan 23 de los 33 diputados de 2023. La comisión de partidos de la JEC se reúne por primera vez el 4 de noviembre.",
       "lectura": "Es un conflicto sobre el reparto de tiempos aún sin resolver: la propuesta de RTVE y la decisión de la comisión son posteriores. Nivel B (Europa Press y 20minutos).",
