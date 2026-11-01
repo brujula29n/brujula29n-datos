@@ -6,27 +6,50 @@
    "items": [
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: Sigma Dos 2026-10-30.",
+     "texto_en": "New poll: Sigma Dos 2026-10-30."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: SocioMétrica 2026-10-31.",
+     "texto_en": "New poll: SocioMétrica 2026-10-31."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: Sondaxe 2026-10-28.",
      "texto_en": "New poll: Sondaxe 2026-10-28."
     },
     {
      "tipo": "media",
-     "texto": "PP baja en la media: 31,7 % → 31,2 %.",
+     "texto": "Podemos baja en la media: 2,5 % → 2,1 %.",
      "delta": -0.4,
-     "partido": "PP",
-     "texto_en": "PP falls in the poll average: 31.7% → 31.2%."
+     "partido": "PODEMOS",
+     "texto_en": "Podemos falls in the poll average: 2.5% → 2.1%."
+    },
+    {
+     "tipo": "media",
+     "texto": "SALF sube en la media: 1,9 % → 2,3 %.",
+     "delta": 0.4,
+     "partido": "SALF",
+     "texto_en": "SALF rises in the poll average: 1.9% → 2.3%."
     },
     {
      "tipo": "escanos",
-     "texto": "PP: proyección de 135 a 133 escaños.",
+     "texto": "Podemos: proyección de 2 a 0 escaños.",
      "delta": -2,
-     "partido": "PP",
-     "texto_en": "PP: projection from 135 to 133 seats."
+     "partido": "PODEMOS",
+     "texto_en": "Podemos: projection from 2 to 0 seats."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "PP+Vox pasa de 203 a 205 escaños proyectados (mayoría: 176).",
+     "delta": 2,
+     "texto_en": "PP+Vox moves from 203 to 205 projected seats (majority: 176)."
     },
     {
      "tipo": "diario",
-     "texto": "5 movimientos nuevos en el diario. Último: Feijóo: la dimisión de Puente es «imprescindible pero insuficiente» porque la mayor responsabilidad es de Sánchez.",
-     "texto_en": "5 new entries in the campaign log (in Spanish)."
+     "texto": "6 movimientos nuevos en el diario. Último: Primeras encuestas con campo tras Urda: Sigma Dos y SocioMétrica ven al PP primero y al PSOE por debajo de su media previa.",
+     "texto_en": "6 new entries in the campaign log (in Spanish)."
     }
    ]
   },
@@ -1138,28 +1161,28 @@
   {
    "fecha": "2026-11-01",
    "media": {
-    "PP": 31.24,
-    "PSOE": 26.66,
-    "VOX": 19.16,
-    "SUMAR": 6.51,
-    "PODEMOS": 2.39,
-    "SALF": 2.0
+    "PP": 31.53,
+    "PSOE": 26.3,
+    "VOX": 19.23,
+    "SUMAR": 6.22,
+    "PODEMOS": 2.07,
+    "SALF": 2.34
    },
    "escanos": {
-    "PP": 133,
-    "PSOE": 109,
+    "PP": 136,
+    "PSOE": 107,
     "VOX": 69,
-    "SUMAR": 9,
-    "PODEMOS": 1
+    "SUMAR": 8,
+    "PODEMOS": 0
    },
-   "ppvox": 202,
+   "ppvox": 205,
    "probs": {
-    "pp_vox": 95.5,
-    "pp_solo": 0.0,
-    "psoe_bloque": 2.8,
-    "bloqueo": 1.7
+    "pp_vox": 96.9,
+    "pp_solo": 0.1,
+    "psoe_bloque": 2.3,
+    "bloqueo": 0.7
    },
-   "n_encuestas": 30
+   "n_encuestas": 32
   }
  ]
 }

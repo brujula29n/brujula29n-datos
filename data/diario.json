@@ -1,7 +1,32 @@
 {
-  "actualizado": "2026-11-01",
+  "actualizado": "2026-11-02",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-02",
+      "titulo": "Primeras encuestas con campo tras Urda: Sigma Dos y SocioMétrica ven al PP primero y al PSOE por debajo de su media previa",
+      "que": "Sigma Dos para El Mundo (29-30 oct, 2.505 entrevistas) da PP 31,1 %, PSOE 24,6 % y Vox 19,3 %. SocioMétrica para El Español (panel acumulado hasta el 31-10, 4.893 entrevistas) da PP 32,7 %, PSOE 26,6 % y Vox 19,1 %. Los medios las presentan como las primeras tras el accidente; el campo de SocioMétrica incluye semanas anteriores. Las fichas proceden de Electográfica.",
+      "lectura": "Son dos encuestas con metodologías distintas, no un cambio confirmado de tendencia: el campo de SocioMétrica es en su mayor parte anterior al accidente y la media ponderada sigue en PP 31,5 · PSOE 26,3 · Vox 19,2. Nivel B (El Mundo y El Español, que publican sus encuestas; fichas de Electográfica).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.electografica.com/2026/11/encuesta-sigmados-261101.html",
+        "https://www.electografica.com/2026/11/encuesta-sociometrica-261101.html",
+        "https://www.elmundo.es/espana/encuestas/2026/11/01/6ae77446e4d4d8f3698b458a.html"
+      ]
+    },
     {
       "fecha": "2026-11-01",
       "titulo": "Feijóo: la dimisión de Puente es «imprescindible pero insuficiente» porque la mayor responsabilidad es de Sánchez",

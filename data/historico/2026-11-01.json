@@ -2,46 +2,40 @@
  "fecha": "2026-11-01",
  "media": {
   "pct": {
-   "PP": 31.24,
-   "PSOE": 26.66,
-   "VOX": 19.16,
-   "SUMAR": 6.51,
-   "PODEMOS": 2.39,
-   "SALF": 2.0,
-   "ERC": 2.4,
-   "JUNTS": 1.48,
-   "BILDU": 1.32,
-   "PNV": 0.88,
-   "BNG": 0.91,
-   "CC": 0.41,
+   "PP": 31.53,
+   "PSOE": 26.3,
+   "VOX": 19.23,
+   "SUMAR": 6.22,
+   "PODEMOS": 2.07,
+   "SALF": 2.34,
+   "ERC": 2.55,
+   "JUNTS": 1.38,
+   "BILDU": 1.33,
+   "PNV": 0.86,
+   "BNG": 0.92,
+   "CC": 0.43,
    "UPN": 0.07
   },
-  "ref": "2026-10-28",
+  "ref": "2026-10-31",
   "casas": [
-   "40dB",
    "Ateneo del Dato",
-   "DYM",
-   "GAD3",
-   "GESOP",
-   "Hamalgama Métrica",
    "IMOP Insights",
    "NC Report",
    "Sigma Dos",
    "SocioMétrica",
-   "Sondaxe",
-   "Target Point"
+   "Sondaxe"
   ],
-  "n_encuestas": 30
+  "n_encuestas": 32
  },
  "escanos": {
-  "PP": 133,
-  "PSOE": 109,
+  "PP": 136,
+  "PSOE": 107,
   "VOX": 69,
-  "SUMAR": 9,
-  "PODEMOS": 1,
+  "SUMAR": 8,
+  "PODEMOS": 0,
   "SALF": 0,
-  "ERC": 9,
-  "JUNTS": 6,
+  "ERC": 11,
+  "JUNTS": 5,
   "BILDU": 7,
   "PNV": 4,
   "BNG": 2,
@@ -50,32 +44,32 @@
  },
  "rango": {
   "PP": [
-   111,
-   153
+   113,
+   154
   ],
   "PSOE": [
-   89,
-   131
+   87,
+   129
   ],
   "VOX": [
    53,
-   87
+   88
   ],
   "SUMAR": [
-   5,
-   19
+   4,
+   17
   ],
   "PODEMOS": [
    0,
-   4
+   2
   ],
   "SALF": [
    0,
    2
   ],
   "ERC": [
-   7,
-   13
+   8,
+   14
   ],
   "JUNTS": [
    3,
@@ -103,16 +97,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 95.5,
-  "pp_solo": 0.0,
-  "psoe_bloque": 2.8,
-  "bloqueo": 1.7
+  "pp_vox": 96.9,
+  "pp_solo": 0.1,
+  "psoe_bloque": 2.3,
+  "bloqueo": 0.7
  },
  "probs_extra": {
-  "ppvox": 95.5,
-  "bloque": 2.8,
-  "bloque_sin_junts": 1.4,
-  "pp_first": 85.9
+  "ppvox": 97.1,
+  "bloque": 2.3,
+  "bloque_sin_junts": 1.0,
+  "pp_first": 88.5
  },
  "semaforo_esp": {
   "S1": 1,
@@ -165,8 +159,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 253,
-  "ultimo": "Feijóo: la dimisión de Puente es «imprescindible pero insuficiente» porque la mayor responsabilidad es de Sánchez"
+  "n": 254,
+  "ultimo": "Primeras encuestas con campo tras Urda: Sigma Dos y SocioMétrica ven al PP primero y al PSOE por debajo de su media previa"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -191,10 +185,12 @@
   "NC Report 2026-10-24",
   "Sigma Dos 2026-10-01",
   "Sigma Dos 2026-10-22",
+  "Sigma Dos 2026-10-30",
   "SocioMétrica 2026-09-26",
   "SocioMétrica 2026-10-03",
   "SocioMétrica 2026-10-11",
   "SocioMétrica 2026-10-25",
+  "SocioMétrica 2026-10-31",
   "Sondaxe 2026-10-28",
   "Target Point 2026-09-10",
   "Target Point 2026-10-09",
@@ -203,23 +199,42 @@
  "cambios": [
   {
    "tipo": "encuesta",
+   "texto": "Nueva encuesta: Sigma Dos 2026-10-30."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: SocioMétrica 2026-10-31."
+  },
+  {
+   "tipo": "encuesta",
    "texto": "Nueva encuesta: Sondaxe 2026-10-28."
   },
   {
    "tipo": "media",
-   "texto": "PP baja en la media: 31,7 % → 31,2 %.",
+   "texto": "Podemos baja en la media: 2,5 % → 2,1 %.",
    "delta": -0.4,
-   "partido": "PP"
+   "partido": "PODEMOS"
+  },
+  {
+   "tipo": "media",
+   "texto": "SALF sube en la media: 1,9 % → 2,3 %.",
+   "delta": 0.4,
+   "partido": "SALF"
   },
   {
    "tipo": "escanos",
-   "texto": "PP: proyección de 135 a 133 escaños.",
+   "texto": "Podemos: proyección de 2 a 0 escaños.",
    "delta": -2,
-   "partido": "PP"
+   "partido": "PODEMOS"
+  },
+  {
+   "tipo": "escanos",
+   "texto": "PP+Vox pasa de 203 a 205 escaños proyectados (mayoría: 176).",
+   "delta": 2
   },
   {
    "tipo": "diario",
-   "texto": "5 movimientos nuevos en el diario. Último: Feijóo: la dimisión de Puente es «imprescindible pero insuficiente» porque la mayor responsabilidad es de Sánchez."
+   "texto": "6 movimientos nuevos en el diario. Último: Primeras encuestas con campo tras Urda: Sigma Dos y SocioMétrica ven al PP primero y al PSOE por debajo de su media previa."
   }
  ]
 }
