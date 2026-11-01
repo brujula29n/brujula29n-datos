@@ -1,7 +1,22 @@
 {
-  "actualizado": "2026-10-31",
+  "actualizado": "2026-11-01",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-01",
+      "titulo": "Una encuesta de SocioMétrica para El Español: el 73,6% cree que Puente debe dimitir o ser cesado",
+      "que": "Según El Español, que publica su propia encuesta de SocioMétrica, el 73,6% de los encuestados cree que Puente debe dimitir o ser cesado tras Urda y el 16,3% prefiere que siga. Por electorado, lo piensa el 59% de los votantes del PSOE y el 62% de Frente Amplio, según el medio. No se ha consultado la ficha técnica (tamaño de muestra y fechas de campo).",
+      "lectura": "Es una encuesta de opinión sobre una persona, no de intención de voto y sin ficha técnica leída; no consta decisión del Gobierno ni conclusión de la investigación. Nivel B (El Español, que cita su encuesta de SocioMétrica).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elespanol.com/espana/politica/20261101/espanoles-incluido-votantes-psoe-piden-oscar-puente-dimita-sanchez-cese/1003744442400_0.html"
+      ]
+    },
     {
       "fecha": "2026-10-31",
       "titulo": "Frente Amplio, PNV y BNG piden «responsabilidades» por Urda; el PNV espera a la comparecencia de Puente del martes",

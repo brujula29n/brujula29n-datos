@@ -1,6 +1,16 @@
 {
- "actualizado": "2026-10-31",
+ "actualizado": "2026-11-01",
  "dias": [
+  {
+   "fecha": "2026-11-01",
+   "items": [
+    {
+     "tipo": "diario",
+     "texto": "1 movimiento nuevo en el diario. Último: Una encuesta de SocioMétrica para El Español: el 73,6% cree que Puente debe dimitir o ser cesado.",
+     "texto_en": "1 new entry in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-10-31",
    "items": [
@@ -1082,6 +1092,32 @@
   },
   {
    "fecha": "2026-10-31",
+   "media": {
+    "PP": 31.67,
+    "PSOE": 26.57,
+    "VOX": 19.12,
+    "SUMAR": 6.35,
+    "PODEMOS": 2.5,
+    "SALF": 1.89
+   },
+   "escanos": {
+    "PP": 135,
+    "PSOE": 108,
+    "VOX": 68,
+    "SUMAR": 8,
+    "PODEMOS": 2
+   },
+   "ppvox": 203,
+   "probs": {
+    "pp_vox": 96.3,
+    "pp_solo": 0.1,
+    "psoe_bloque": 2.4,
+    "bloqueo": 1.1
+   },
+   "n_encuestas": 29
+  },
+  {
+   "fecha": "2026-11-01",
    "media": {
     "PP": 31.67,
     "PSOE": 26.57,
