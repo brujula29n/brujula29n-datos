@@ -165,8 +165,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 249,
-  "ultimo": "Una encuesta de SocioMétrica para El Español: el 73,6% cree que Puente debe dimitir o ser cesado"
+  "n": 252,
+  "ultimo": "Frente Amplio y Podemos pugnan en la JEC por la herencia de Sumar en el reparto de tiempos en RTVE"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -219,7 +219,7 @@
   },
   {
    "tipo": "diario",
-   "texto": "1 movimiento nuevo en el diario. Último: Una encuesta de SocioMétrica para El Español: el 73,6% cree que Puente debe dimitir o ser cesado."
+   "texto": "4 movimientos nuevos en el diario. Último: Frente Amplio y Podemos pugnan en la JEC por la herencia de Sumar en el reparto de tiempos en RTVE."
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29",
+  "actualizado": "2026-11-01",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -122,6 +122,14 @@
       "tipo": "politico",
       "estado": "previsto",
       "src": "https://www.europapress.es/economia/transportes-00343/noticia-congreso-pone-fecha-comparecencia-puente-accidente-urda-noviembre-20261029180346.html"
+    },
+    {
+      "fecha": "2026-11-04",
+      "titulo": "Primera reunión de la comisión de partidos de la JEC (tiempos en RTVE)",
+      "detalle": "Según Europa Press, se espera la propuesta de RTVE para repartir tiempos informativos y espacios gratuitos de propaganda.",
+      "tipo": "campana",
+      "estado": "previsto",
+      "src": "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-pugnan-jec-herencia-sumar-reparto-tiempos-rtve-20261101105956.html"
     },
     {
       "fecha": "2026-11-09",

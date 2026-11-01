@@ -4,6 +4,62 @@
   "entradas": [
     {
       "fecha": "2026-11-01",
+      "titulo": "Frente Amplio y Podemos pugnan en la JEC por la herencia de Sumar en el reparto de tiempos en RTVE",
+      "que": "Según Europa Press, RTVE pidió a la JEC cómo repartir los derechos electorales de la coalición Sumar de 2023, hoy dividida entre Frente Amplio, Podemos y otras formaciones. La primera atribución de RTVE da 10 diputados a Movimiento Sumar, 5 a IU, 5 a Podemos y 4 a Catalunya en Comú; Podemos sostiene que solo cuentan 23 de los 33 diputados de 2023. La comisión de partidos de la JEC se reúne por primera vez el 4 de noviembre.",
+      "lectura": "Es un conflicto sobre el reparto de tiempos aún sin resolver: la propuesta de RTVE y la decisión de la comisión son posteriores. Nivel B (Europa Press y 20minutos).",
+      "actores": [
+        {
+          "id": "Frente Amplio",
+          "impacto": 0
+        },
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-pugnan-jec-herencia-sumar-reparto-tiempos-rtve-20261101105956.html",
+        "https://www.20minutos.es/nacional/frente-amplio-podemos-pugnan-ante-jec-reparto-tiempos-rtve_7055973_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-01",
+      "titulo": "El Gobierno aprobará el martes un real decreto de ayudas a los afectados de Urda y Puente presentará un informe en el Consejo de Ministros",
+      "que": "Según elDiario.es, que cita a fuentes del Gobierno a través de EFE, el Consejo de Ministros del martes 3 aprobará un real decreto con ayudas para los afectados por Urda y recibirá un informe de Puente. 20minutos añade que Puente comparecerá después en rueda de prensa y por la tarde en la Diputación Permanente.",
+      "lectura": "Es una previsión del Gobierno, no una aprobación; el contenido y la cuantía de las ayudas no se conocen hasta que se publique el decreto. Nivel B (elDiario.es y 20minutos, con fuentes del Gobierno).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/gobierno-aprobara-martes-ayudas-economicas-victimas-accidente-urda_1_13630405.html",
+        "https://www.20minutos.es/nacional/oscar-puente-comparecera-martes-tras-consejo-ministros-que-aprobara-un-real-decreto-para-afectados-tr"
+      ]
+    },
+    {
+      "fecha": "2026-11-01",
+      "titulo": "PP y Vox anuncian que se personarán en la causa judicial por el accidente de Urda",
+      "que": "Según Europa Press y 20minutos, la vicesecretaria del PP Alma Ezcurra y Santiago Abascal anunciaron este domingo que sus partidos se personarán en la causa por el accidente de Urda, Vox como acusación popular. Ezcurra dijo que quieren que «nadie eluda las responsabilidades» y Abascal, que lo conozcan «en sede judicial». Ninguna fuente consultada informa de personas investigadas por el accidente.",
+      "lectura": "Es el anuncio de que dos partidos pedirán ser parte; la admisión depende del juzgado y no hay imputados ni conclusiones de la investigación, de modo que nadie es responsable sin sentencia. Nivel B (Europa Press y 20minutos, que recogen sus declaraciones).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-pp-personara-causa-accidente-urda-exige-gobierno-asuma-responsabilidades-20261101131641.html",
+        "https://www.20minutos.es/nacional/abascal-anuncia-que-vox-se-personara-como-acusacion-popular-accidente-urda_7055950_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-01",
       "titulo": "Una encuesta de SocioMétrica para El Español: el 73,6% cree que Puente debe dimitir o ser cesado",
       "que": "Según El Español, que publica su propia encuesta de SocioMétrica, el 73,6% de los encuestados cree que Puente debe dimitir o ser cesado tras Urda y el 16,3% prefiere que siga. Por electorado, lo piensa el 59% de los votantes del PSOE y el 62% de Frente Amplio, según el medio. No se ha consultado la ficha técnica (tamaño de muestra y fechas de campo).",
       "lectura": "Es una encuesta de opinión sobre una persona, no de intención de voto y sin ficha técnica leída; no consta decisión del Gobierno ni conclusión de la investigación. Nivel B (El Español, que cita su encuesta de SocioMétrica).",
