@@ -4,6 +4,37 @@
   "entradas": [
     {
       "fecha": "2026-11-02",
+      "titulo": "La Diputación Permanente reúne a PP, Vox, PNV y Junts con 35 de 69 puestos, partidos que según El País exigirán la dimisión de Puente el martes",
+      "que": "Según El País, PP, Vox, PNV y Junts suman 35 de los 69 puestos de la Diputación Permanente del Congreso y todos ellos exigirán la dimisión de Puente en su comparecencia del martes 3. El diario recuerda que el ministro ha sido reprobado siete veces por el Congreso y el Senado y que dispone, según él, del apoyo de Sánchez.",
+      "lectura": "Es el cálculo y la previsión de un diario sobre las posiciones de los grupos; la comparecencia aún no se ha celebrado y no consta qué postura adoptarán finalmente. Nivel B (El País).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "PNV",
+          "impacto": 0
+        },
+        {
+          "id": "JUNTS",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://elpais.com/espana/2026-11-02/la-mayoria-de-la-diputacion-permanente-del-congreso-exige-la-dimision-de-puente-por-el-accidente-de-urda.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-02",
       "titulo": "Primeras encuestas con campo tras Urda: Sigma Dos y SocioMétrica ven al PP primero y al PSOE por debajo de su media previa",
       "que": "Sigma Dos para El Mundo (29-30 oct, 2.505 entrevistas) da PP 31,1 %, PSOE 24,6 % y Vox 19,3 %. SocioMétrica para El Español (panel acumulado hasta el 31-10, 4.893 entrevistas) da PP 32,7 %, PSOE 26,6 % y Vox 19,1 %. Los medios las presentan como las primeras tras el accidente; el campo de SocioMétrica incluye semanas anteriores. Las fichas proceden de Electográfica.",
       "lectura": "Son dos encuestas con metodologías distintas, no un cambio confirmado de tendencia: el campo de SocioMétrica es en su mayor parte anterior al accidente y la media ponderada sigue en PP 31,5 · PSOE 26,3 · Vox 19,2. Nivel B (El Mundo y El Español, que publican sus encuestas; fichas de Electográfica).",

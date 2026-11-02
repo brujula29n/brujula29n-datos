@@ -1,6 +1,39 @@
 {
- "actualizado": "2026-11-01",
+ "actualizado": "2026-11-02",
  "dias": [
+  {
+   "fecha": "2026-11-02",
+   "items": [
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: NC Report 2026-10-29.",
+     "texto_en": "New poll: NC Report 2026-10-29."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Target Point 2026-10-30.",
+     "texto_en": "New poll: Target Point 2026-10-30."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "PP: proyección de 136 a 138 escaños.",
+     "delta": 2,
+     "partido": "PP",
+     "texto_en": "PP: projection from 136 to 138 seats."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "PP+Vox pasa de 205 a 207 escaños proyectados (mayoría: 176).",
+     "delta": 2,
+     "texto_en": "PP+Vox moves from 205 to 207 projected seats (majority: 176)."
+    },
+    {
+     "tipo": "diario",
+     "texto": "1 movimiento nuevo en el diario. Último: La Diputación Permanente reúne a PP, Vox, PNV y Junts con 35 de 69 puestos, partidos que según El País exigirán la dimisión de Puente el martes.",
+     "texto_en": "1 new entry in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-01",
    "items": [
@@ -1183,6 +1216,32 @@
     "bloqueo": 0.7
    },
    "n_encuestas": 32
+  },
+  {
+   "fecha": "2026-11-02",
+   "media": {
+    "PP": 31.68,
+    "PSOE": 26.16,
+    "VOX": 19.3,
+    "SUMAR": 6.31,
+    "PODEMOS": 2.13,
+    "SALF": 2.38
+   },
+   "escanos": {
+    "PP": 138,
+    "PSOE": 106,
+    "VOX": 69,
+    "SUMAR": 8,
+    "PODEMOS": 0
+   },
+   "ppvox": 207,
+   "probs": {
+    "pp_vox": 97.2,
+    "pp_solo": 0.2,
+    "psoe_bloque": 1.9,
+    "bloqueo": 0.7
+   },
+   "n_encuestas": 34
   }
  ]
 }

@@ -56,19 +56,19 @@
     "metodo": "Media de las encuestas privadas con campo en los últimos 21 días, ponderada por tamaño muestral (raíz cuadrada) y antigüedad (semivida 10 días). El CIS se muestra aparte por su desviación sistemática documentada; los paneles online autoseleccionados ponderan a la mitad.",
     "fecha": "2026-10-31",
     "pct": {
-      "PP": 31.53,
-      "PSOE": 26.3,
-      "VOX": 19.23,
-      "SUMAR": 6.22,
-      "PODEMOS": 2.07,
-      "SALF": 2.34,
-      "ERC": 2.55,
-      "JUNTS": 1.38,
-      "BILDU": 1.33,
+      "PP": 31.68,
+      "PSOE": 26.16,
+      "VOX": 19.3,
+      "SUMAR": 6.31,
+      "PODEMOS": 2.13,
+      "SALF": 2.38,
+      "ERC": 2.5,
+      "JUNTS": 1.42,
+      "BILDU": 1.34,
       "PNV": 0.86,
-      "BNG": 0.92,
+      "BNG": 0.91,
       "CC": 0.43,
-      "UPN": 0.07
+      "UPN": 0.06
     },
     "casas": [
       "Ateneo del Dato",
@@ -76,7 +76,8 @@
       "NC Report",
       "Sigma Dos",
       "SocioMétrica",
-      "Sondaxe"
+      "Sondaxe",
+      "Target Point"
     ]
   },
   "otras_medias": [
@@ -114,6 +115,88 @@
     }
   ],
   "encuestas": [
+    {
+      "casa": "NC Report",
+      "medio": "La Razón",
+      "tipo": "privada",
+      "campo_ini": "2026-10-26",
+      "campo_fin": "2026-10-29",
+      "n": 1000,
+      "pct": {
+        "PP": 33.0,
+        "PSOE": 25.6,
+        "VOX": 19.3,
+        "SUMAR": 6.9,
+        "PODEMOS": 2.4,
+        "SALF": null,
+        "ERC": 2.0,
+        "JUNTS": 1.8,
+        "BILDU": 1.4,
+        "PNV": 0.9,
+        "BNG": 0.8,
+        "CC": 0.4,
+        "UPN": 0.0
+      },
+      "esc": {
+        "PP": null,
+        "PSOE": null,
+        "VOX": null,
+        "SUMAR": null,
+        "PODEMOS": null,
+        "SALF": null,
+        "ERC": null,
+        "JUNTS": null,
+        "BILDU": null,
+        "PNV": null,
+        "BNG": 2,
+        "CC": 1,
+        "UPN": null
+      },
+      "esc_rango": "PP 140-142 · PSOE 100-102 · Vox 66-68 · Frente Amplio 9-10 · Podemos 0-1 · ERC 7-8 · Junts 8-9 · Bildu 6-7 · PNV 4-5 · Adelante Andalucía 2-3",
+      "nota": "Telefónico + online; margen ±3,1 % según la ficha de Electográfica. PP incluye UPN. SALF figura sin dato publicado (null). Campo en parte posterior al accidente de Urda (accidente el 28-10).",
+      "url": "https://www.electografica.com/2026/11/encuesta-nc-report-261102.html"
+    },
+    {
+      "casa": "Target Point",
+      "medio": "El Debate",
+      "tipo": "privada",
+      "campo_ini": "2026-10-28",
+      "campo_fin": "2026-10-30",
+      "n": 1024,
+      "pct": {
+        "PP": 31.8,
+        "PSOE": 25.5,
+        "VOX": 19.9,
+        "SUMAR": 6.6,
+        "PODEMOS": 2.4,
+        "SALF": 2.6,
+        "ERC": null,
+        "JUNTS": null,
+        "BILDU": null,
+        "PNV": null,
+        "BNG": null,
+        "CC": null,
+        "UPN": null
+      },
+      "esc": {
+        "PP": null,
+        "PSOE": null,
+        "VOX": null,
+        "SUMAR": null,
+        "PODEMOS": 1,
+        "SALF": null,
+        "ERC": null,
+        "JUNTS": null,
+        "BILDU": null,
+        "PNV": null,
+        "BNG": null,
+        "CC": null,
+        "UPN": null
+      },
+      "esc_rango": "PP 131-135 · PSOE 99-103 · Vox 68-72 · Frente Amplio 9-11",
+      "nota": "Online; margen ±3,1 % según la ficha de Electográfica (cliente y método tomados de esa ficha). PP incluye UPN; Frente Amplio con Compromís-FV y UPC (6,6 %). No publica el resto de partidos. Campo posterior al accidente de Urda.",
+      "url": "https://www.electografica.com/2026/11/encuesta-target-point-261102.html"
+    },
     {
       "casa": "Sigma Dos",
       "medio": "El Mundo",
