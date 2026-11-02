@@ -2,23 +2,24 @@
  "fecha": "2026-11-02",
  "media": {
   "pct": {
-   "PP": 31.68,
-   "PSOE": 26.16,
-   "VOX": 19.3,
-   "SUMAR": 6.31,
-   "PODEMOS": 2.13,
-   "SALF": 2.38,
-   "ERC": 2.5,
-   "JUNTS": 1.42,
+   "PP": 31.73,
+   "PSOE": 26.18,
+   "VOX": 19.34,
+   "SUMAR": 6.24,
+   "PODEMOS": 2.14,
+   "SALF": 2.31,
+   "ERC": 2.45,
+   "JUNTS": 1.44,
    "BILDU": 1.34,
-   "PNV": 0.86,
-   "BNG": 0.91,
+   "PNV": 0.87,
+   "BNG": 0.9,
    "CC": 0.43,
    "UPN": 0.06
   },
   "ref": "2026-10-31",
   "casas": [
    "Ateneo del Dato",
+   "Hamalgama Métrica",
    "IMOP Insights",
    "NC Report",
    "Sigma Dos",
@@ -26,7 +27,7 @@
    "Sondaxe",
    "Target Point"
   ],
-  "n_encuestas": 34
+  "n_encuestas": 35
  },
  "escanos": {
   "PP": 138,
@@ -98,16 +99,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 97.2,
+  "pp_vox": 97.4,
   "pp_solo": 0.2,
   "psoe_bloque": 1.9,
-  "bloqueo": 0.7
+  "bloqueo": 0.5
  },
  "probs_extra": {
-  "ppvox": 97.4,
+  "ppvox": 97.6,
   "bloque": 1.9,
-  "bloque_sin_junts": 0.9,
-  "pp_first": 89.7
+  "bloque_sin_junts": 0.7,
+  "pp_first": 89.5
  },
  "semaforo_esp": {
   "S1": 1,
@@ -179,6 +180,7 @@
   "GESOP 2026-10-08",
   "Hamalgama Métrica 2026-09-08",
   "Hamalgama Métrica 2026-10-08",
+  "Hamalgama Métrica 2026-10-28",
   "IMOP Insights 2026-10-07",
   "IMOP Insights 2026-10-16",
   "NC Report 2026-09-03",
@@ -200,6 +202,10 @@
   "Winston 2026-10-01"
  ],
  "cambios": [
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: Hamalgama Métrica 2026-10-28."
+  },
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: NC Report 2026-10-29."

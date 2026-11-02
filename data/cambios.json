@@ -6,6 +6,11 @@
    "items": [
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: Hamalgama Métrica 2026-10-28.",
+     "texto_en": "New poll: Hamalgama Métrica 2026-10-28."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: NC Report 2026-10-29.",
      "texto_en": "New poll: NC Report 2026-10-29."
     },
@@ -1220,12 +1225,12 @@
   {
    "fecha": "2026-11-02",
    "media": {
-    "PP": 31.68,
-    "PSOE": 26.16,
-    "VOX": 19.3,
-    "SUMAR": 6.31,
-    "PODEMOS": 2.13,
-    "SALF": 2.38
+    "PP": 31.73,
+    "PSOE": 26.18,
+    "VOX": 19.34,
+    "SUMAR": 6.24,
+    "PODEMOS": 2.14,
+    "SALF": 2.31
    },
    "escanos": {
     "PP": 138,
@@ -1236,12 +1241,12 @@
    },
    "ppvox": 207,
    "probs": {
-    "pp_vox": 97.2,
+    "pp_vox": 97.4,
     "pp_solo": 0.2,
     "psoe_bloque": 1.9,
-    "bloqueo": 0.7
+    "bloqueo": 0.5
    },
-   "n_encuestas": 34
+   "n_encuestas": 35
   }
  ]
 }
