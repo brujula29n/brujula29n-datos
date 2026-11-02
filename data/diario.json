@@ -4,6 +4,41 @@
   "entradas": [
     {
       "fecha": "2026-11-02",
+      "titulo": "Feijóo, ante el Comité Ejecutivo del PP, acusa a Sánchez de mirar los sondeos para decidir el cese de Puente y se ofrece como gestor",
+      "que": "Según Europa Press, Feijóo dijo ante el Comité Ejecutivo Nacional que el Gobierno está «con sondeos para ver si les perjudica o no el cese» del ministro, y que eso muestra su «nivel moral». También dijo: «yo sí sé hacerlo», y propuso «la reconstrucción nacional». No aportó pruebas de que el Gobierno haya encargado sondeos.",
+      "lectura": "Son acusaciones y promesas del líder del PP en un acto de partido; no hay constancia de que el Gobierno haya encargado esos sondeos ni respuesta del Ejecutivo recogida aquí. Nivel B (Europa Press, que recoge sus declaraciones).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-feijoo-acusa-sanchez-estar-pendiente-encuestas-tragedia-urda-ofrece-gestion-yo-si-hacerlo-20261102130655.html",
+        "https://www.20minutos.es/nacional/sigue-directo-intervencion-feijoo-comite-ejecutivo-nacional-pp_7056154_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-02",
+      "titulo": "Sánchez anuncia que el decreto de ayudas por Urda doblará el seguro obligatorio y anticipará indemnizaciones",
+      "que": "Según 20minutos, que recoge su intervención en el foro World in Progress de Prisa en Barcelona, Sánchez dijo que el Consejo de Ministros del martes aprobará un decreto con ayudas de cuantía que «doblará» el seguro obligatorio de pasajeros, un mecanismo de anticipo de indemnizaciones, un procedimiento específico de incapacidad temporal y oficinas de atención en las comunidades de los afectados. Se basa en el esquema aplicado tras el accidente de Adamuz.",
+      "lectura": "Es un anuncio del presidente, no el texto del decreto: las cuantías y condiciones se conocerán cuando se apruebe y publique. Nivel B (20minutos, que recoge sus palabras).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/sanchez-anuncia-que-decreto-ayudas-para-las-victimas-urda-preve-bajas-especificas-indemnizaciones-anticipadas_7056166_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-02",
       "titulo": "La Diputación Permanente reúne a PP, Vox, PNV y Junts con 35 de 69 puestos, partidos que según El País exigirán la dimisión de Puente el martes",
       "que": "Según El País, PP, Vox, PNV y Junts suman 35 de los 69 puestos de la Diputación Permanente del Congreso y todos ellos exigirán la dimisión de Puente en su comparecencia del martes 3. El diario recuerda que el ministro ha sido reprobado siete veces por el Congreso y el Senado y que dispone, según él, del apoyo de Sánchez.",
       "lectura": "Es el cálculo y la previsión de un diario sobre las posiciones de los grupos; la comparecencia aún no se ha celebrado y no consta qué postura adoptarán finalmente. Nivel B (El País).",
