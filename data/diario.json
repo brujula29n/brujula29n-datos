@@ -4,6 +4,25 @@
   "entradas": [
     {
       "fecha": "2026-11-03",
+      "titulo": "Tellado pide el voto para Vox al Senado en Gipuzkoa, Tarragona y Girona, donde el PP no se presenta",
+      "que": "Según elDiario.es, que recoge sus declaraciones en TVE, el secretario general del PP, Miguel Tellado, dijo que en esas tres provincias del Senado, donde el PP se ha retirado por el acuerdo con Vox, «pedimos a la gente que no vote al PSOE. Pedimos a la gente que vote a Vox, por supuesto que sí». Explicó que, si el voto del cambio se concentra en la papeleta con más opciones, «se puede garantizar una mayoría del cambio en el Senado». El mismo medio recuerda que Vox se retiró de seis provincias, donde se integra en las listas del PP con un candidato «independiente».",
+      "lectura": "Es una petición de voto de un dirigente del PP en el marco del pacto con Vox para el Senado; no hay datos de que ese reparto asegure la mayoría que busca. Nivel B (elDiario.es, que cita sus declaraciones en TVE).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/miguel-tellado-numero-pp-pide-voto-vox-tres-provincias-29n-supuesto-si_1_13634268.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-03",
       "titulo": "El Consejo de Ministros aprueba un decreto con 30 millones en ayudas por Urda y un tope a los precios de transportes alternativos",
       "que": "Según 20minutos, el Consejo de Ministros aprobó el decreto con 30 millones (15 de ayudas urgentes y 15 de anticipos de indemnizaciones): 72.121 euros de ayuda directa por fallecido más otra cantidad igual de anticipo, e importes de 2.101 a 84.141 euros por lesiones. Fija además un tope temporal a los precios del transporte y el alojamiento alternativos mientras la línea Madrid-Andalucía siga cortada. Tras el Consejo, Puente anunció que Adif exigirá una doble validación de las decisiones de los controladores cuando fallen los sistemas de señalización.",
       "lectura": "Son medidas anunciadas tras el Consejo de Ministros, según un medio; el texto del decreto en el BOE puede diferir y las causas del accidente siguen en investigación. Nivel B (20minutos; se comprobará con el BOE).",

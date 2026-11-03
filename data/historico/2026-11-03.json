@@ -161,8 +161,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 262,
-  "ultimo": "El Consejo de Ministros aprueba un decreto con 30 millones en ayudas por Urda y un tope a los precios de transportes alternativos"
+  "n": 263,
+  "ultimo": "Tellado pide el voto para Vox al Senado en Gipuzkoa, Tarragona y Girona, donde el PP no se presenta"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -204,7 +204,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "4 movimientos nuevos en el diario. Último: El Consejo de Ministros aprueba un decreto con 30 millones en ayudas por Urda y un tope a los precios de transportes alternativos."
+   "texto": "5 movimientos nuevos en el diario. Último: Tellado pide el voto para Vox al Senado en Gipuzkoa, Tarragona y Girona, donde el PP no se presenta."
   }
  ]
 }
