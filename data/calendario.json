@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01",
+  "actualizado": "2026-11-03",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -110,10 +110,10 @@
     {
       "fecha": "2026-11-02",
       "titulo": "Proclamación de candidaturas",
-      "detalle": "Publicación el 3 de noviembre. Sorteo de mesas electorales entre el 31 de octubre y el 4 de noviembre.",
+      "detalle": "Las Juntas Electorales Provinciales proclamaron las candidaturas el 2-11 y se publicaron en el BOE núm. 273 del 3-11 (BOE-A-2026-23103, 225 páginas). Sorteo de mesas electorales entre el 31 de octubre y el 4 de noviembre.",
       "tipo": "legal",
-      "estado": "previsto",
-      "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+      "estado": "hecho",
+      "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103"
     },
     {
       "fecha": "2026-11-03",

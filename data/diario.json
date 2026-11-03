@@ -1,7 +1,32 @@
 {
-  "actualizado": "2026-11-02",
+  "actualizado": "2026-11-03",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-03",
+      "titulo": "El BOE publica las candidaturas proclamadas por las Juntas Electorales Provinciales para el 29N",
+      "que": "El BOE núm. 273 del 3-11 publica, en 225 páginas, las candidaturas al Congreso y al Senado proclamadas por las Juntas Electorales Provinciales, con las listas de cada provincia (por ejemplo, la de Albacete, proclamada el 2-11).",
+      "lectura": "Es la proclamación oficial de las listas, con la que concluye ese trámite del calendario electoral; los recursos que pudieran presentarse contra proclamaciones concretas no figuran en esta publicación. Nivel A (BOE-A-2026-23103).",
+      "actores": [],
+      "src": [
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103"
+      ]
+    },
+    {
+      "fecha": "2026-11-02",
+      "titulo": "Podemos, con Montero, pide la dimisión de Puente y propone «renacionalizar» el sistema ferroviario",
+      "que": "Según 20minutos, que recoge sus declaraciones a periodistas tras reunirse con la CGT, Irene Montero dijo que la dimisión de Puente es «un consenso social», pero que lo urgente es «recuperar el control público» y «renacionalizar» el sistema ferroviario aplicando el artículo 128 de la Constitución. También pidió dejar de culpar a un trabajador del accidente.",
+      "lectura": "Es una petición y una propuesta electoral de un partido; no es una medida del Gobierno ni una conclusión de la investigación sobre las causas, que sigue abierta. Nivel B (20minutos, que recoge sus declaraciones).",
+      "actores": [
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/podemos-reclama-dimision-oscar-puente-aboga-por-renacionalizar-sistema-ferroviario_7056294_0.html"
+      ]
+    },
     {
       "fecha": "2026-11-02",
       "titulo": "Feijóo, ante el Comité Ejecutivo del PP, acusa a Sánchez de mirar los sondeos para decidir el cese de Puente y se ofrece como gestor",
