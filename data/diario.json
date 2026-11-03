@@ -4,6 +4,27 @@
   "entradas": [
     {
       "fecha": "2026-11-03",
+      "titulo": "Puente anuncia en la Diputación Permanente su dimisión como ministro de Transportes y renuncia a ir en las listas del PSOE",
+      "que": "Según Europa Press, 20minutos y El Mundo, Óscar Puente anunció al final de su comparecencia en la Diputación Permanente su dimisión como ministro y su renuncia a ser número 1 del PSOE por Valladolid. Dijo que un ministro de Transportes «no puede continuar en su cargo con dos accidentes de esta gravedad en menos de un año» y que, «tenga o no responsabilidad directa en ellos», es «una cuestión de dignidad política, de coherencia y de empatía con las víctimas». Según los medios, todos los portavoces menos los del PSOE y EH Bildu habían pedido su dimisión.",
+      "lectura": "Es una decisión del propio ministro; no hay conclusión de la investigación sobre las causas del accidente ni se atribuye responsabilidad a nadie sin sentencia. Está pendiente conocer quién le sustituye, su sucesor en la lista y la fecha del cese formal en el BOE. Nivel B (Europa Press, 20minutos y El Mundo).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/economia/transportes-00343/noticia-puente-avanza-dimision-tragedia-urda-decision-empatia-victimas-20261103211310.html",
+        "https://www.20minutos.es/nacional/puente-anuncia-congreso-su-dimision-una-semana-despues-accidente-urda_7056706_0.html",
+        "https://www.elmundo.es/espana/2026/11/03/6aea169221efa078728b45b5.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-03",
       "titulo": "Tellado pide el voto para Vox al Senado en Gipuzkoa, Tarragona y Girona, donde el PP no se presenta",
       "que": "Según elDiario.es, que recoge sus declaraciones en TVE, el secretario general del PP, Miguel Tellado, dijo que en esas tres provincias del Senado, donde el PP se ha retirado por el acuerdo con Vox, «pedimos a la gente que no vote al PSOE. Pedimos a la gente que vote a Vox, por supuesto que sí». Explicó que, si el voto del cambio se concentra en la papeleta con más opciones, «se puede garantizar una mayoría del cambio en el Senado». El mismo medio recuerda que Vox se retiró de seis provincias, donde se integra en las listas del PP con un candidato «independiente».",
       "lectura": "Es una petición de voto de un dirigente del PP en el marco del pacto con Vox para el Senado; no hay datos de que ese reparto asegure la mayoría que busca. Nivel B (elDiario.es, que cita sus declaraciones en TVE).",

@@ -2,12 +2,12 @@
  "fecha": "2026-11-03",
  "media": {
   "pct": {
-   "PP": 31.73,
-   "PSOE": 26.18,
-   "VOX": 19.34,
-   "SUMAR": 6.24,
-   "PODEMOS": 2.14,
-   "SALF": 2.31,
+   "PP": 31.45,
+   "PSOE": 26.3,
+   "VOX": 19.46,
+   "SUMAR": 6.37,
+   "PODEMOS": 2.17,
+   "SALF": 2.32,
    "ERC": 2.45,
    "JUNTS": 1.44,
    "BILDU": 1.34,
@@ -21,17 +21,18 @@
    "Ateneo del Dato",
    "Hamalgama Métrica",
    "IMOP Insights",
+   "More in Common",
    "NC Report",
    "Sigma Dos",
    "SocioMétrica",
    "Sondaxe",
    "Target Point"
   ],
-  "n_encuestas": 35
+  "n_encuestas": 36
  },
  "escanos": {
-  "PP": 138,
-  "PSOE": 106,
+  "PP": 137,
+  "PSOE": 107,
   "VOX": 69,
   "SUMAR": 8,
   "PODEMOS": 0,
@@ -46,15 +47,15 @@
  },
  "rango": {
   "PP": [
-   114,
-   155
+   112,
+   153
   ],
   "PSOE": [
-   86,
-   128
+   87,
+   129
   ],
   "VOX": [
-   54,
+   55,
    88
   ],
   "SUMAR": [
@@ -99,16 +100,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 97.4,
-  "pp_solo": 0.2,
-  "psoe_bloque": 1.9,
-  "bloqueo": 0.5
+  "pp_vox": 97.0,
+  "pp_solo": 0.1,
+  "psoe_bloque": 2.0,
+  "bloqueo": 0.9
  },
  "probs_extra": {
-  "ppvox": 97.6,
-  "bloque": 1.9,
-  "bloque_sin_junts": 0.7,
-  "pp_first": 89.5
+  "ppvox": 97.1,
+  "bloque": 2.0,
+  "bloque_sin_junts": 1.0,
+  "pp_first": 88.2
  },
  "semaforo_esp": {
   "S1": 1,
@@ -161,8 +162,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 263,
-  "ultimo": "Tellado pide el voto para Vox al Senado en Gipuzkoa, Tarragona y Girona, donde el PP no se presenta"
+  "n": 264,
+  "ultimo": "Puente anuncia en la Diputación Permanente su dimisión como ministro de Transportes y renuncia a ir en las listas del PSOE"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -183,6 +184,7 @@
   "Hamalgama Métrica 2026-10-28",
   "IMOP Insights 2026-10-07",
   "IMOP Insights 2026-10-16",
+  "More in Common 2026-10-25",
   "NC Report 2026-09-03",
   "NC Report 2026-10-06",
   "NC Report 2026-10-24",
@@ -203,8 +205,12 @@
  ],
  "cambios": [
   {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: More in Common 2026-10-25."
+  },
+  {
    "tipo": "diario",
-   "texto": "5 movimientos nuevos en el diario. Último: Tellado pide el voto para Vox al Senado en Gipuzkoa, Tarragona y Girona, donde el PP no se presenta."
+   "texto": "6 movimientos nuevos en el diario. Último: Puente anuncia en la Diputación Permanente su dimisión como ministro de Transportes y renuncia a ir en las listas del PSOE."
   }
  ]
 }
