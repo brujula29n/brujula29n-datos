@@ -4,6 +4,42 @@
   "entradas": [
     {
       "fecha": "2026-11-03",
+      "titulo": "Feijóo pide a los sindicatos que reconsideren la huelga general del 11 de noviembre tras el accidente de Urda",
+      "que": "Según Europa Press, en un desayuno informativo, Feijóo dijo que no cuestiona el derecho de huelga sino su oportunidad: si la huelga convocada para el 11 de noviembre «antes era incomprensible», tras el accidente de Urda es «un grave error». Advirtió a los sindicatos de que, si la mantienen, «ligarán su imagen a Pedro Sánchez para siempre». ABC, elDiario.es, El Español y 20minutos recogen las mismas declaraciones.",
+      "lectura": "Es una petición política de un candidato a un convocante de huelga; no consta respuesta de los sindicatos recogida aquí y la convocatoria sigue en pie. Nivel B (Europa Press, ABC, elDiario.es, El Español y 20minutos).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-feijoo-pide-sindicatos-reconsiderar-huelga-general-porque-tragedia-urda-grave-error-20261103093804.html",
+        "https://www.eldiario.es/politica/feijoo-reclama-sindicatos-desconvoquen-huelga-11n-accidente-urda-grave-error_1_13632870.html",
+        "https://www.20minutos.es/nacional/feijoo-pide-los-sindicatos-que-reconsideren-huelga-11n-tras-accidente-ferroviario-urda_7056415_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-03",
+      "titulo": "La Abogacía del Estado se opone a suspender el voto de otros 190.000 descendientes de nacionalizados por las leyes de memoria",
+      "que": "Según elDiario.es, que cita los escritos, la Abogacía del Estado se opone a la petición de Iustitia Europa y Vox de sacar del censo a las 189.578 personas del Anexo III de la Instrucción de 2022 (hijos de quienes obtuvieron la nacionalidad por las leyes de memoria de 2007 o 2022). Sostiene que la única pretensión es «sembrar la duda sobre la legitimidad del voto» de estas personas y que alcanzaría a expedientes «completamente desvinculados» de la controversia.",
+      "lectura": "Es la posición de la Abogacía del Estado en el trámite de audiencia; el Supremo no ha decidido sobre la petición. Nivel B (elDiario.es, que cita los escritos).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/gobierno-opone-impida-voto-190-000-descendientes-represaliados-franquismo_1_13632649.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-03",
       "titulo": "El BOE publica las candidaturas proclamadas por las Juntas Electorales Provinciales para el 29N",
       "que": "El BOE núm. 273 del 3-11 publica, en 225 páginas, las candidaturas al Congreso y al Senado proclamadas por las Juntas Electorales Provinciales, con las listas de cada provincia (por ejemplo, la de Albacete, proclamada el 2-11).",
       "lectura": "Es la proclamación oficial de las listas, con la que concluye ese trámite del calendario electoral; los recursos que pudieran presentarse contra proclamaciones concretas no figuran en esta publicación. Nivel A (BOE-A-2026-23103).",
