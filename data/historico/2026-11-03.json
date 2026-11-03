@@ -161,8 +161,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 261,
-  "ultimo": "Feijóo pide a los sindicatos que reconsideren la huelga general del 11 de noviembre tras el accidente de Urda"
+  "n": 262,
+  "ultimo": "El Consejo de Ministros aprueba un decreto con 30 millones en ayudas por Urda y un tope a los precios de transportes alternativos"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -204,7 +204,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "3 movimientos nuevos en el diario. Último: Feijóo pide a los sindicatos que reconsideren la huelga general del 11 de noviembre tras el accidente de Urda."
+   "texto": "4 movimientos nuevos en el diario. Último: El Consejo de Ministros aprueba un decreto con 30 millones en ayudas por Urda y un tope a los precios de transportes alternativos."
   }
  ]
 }

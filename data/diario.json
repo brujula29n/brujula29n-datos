@@ -4,6 +4,22 @@
   "entradas": [
     {
       "fecha": "2026-11-03",
+      "titulo": "El Consejo de Ministros aprueba un decreto con 30 millones en ayudas por Urda y un tope a los precios de transportes alternativos",
+      "que": "Según 20minutos, el Consejo de Ministros aprobó el decreto con 30 millones (15 de ayudas urgentes y 15 de anticipos de indemnizaciones): 72.121 euros de ayuda directa por fallecido más otra cantidad igual de anticipo, e importes de 2.101 a 84.141 euros por lesiones. Fija además un tope temporal a los precios del transporte y el alojamiento alternativos mientras la línea Madrid-Andalucía siga cortada. Tras el Consejo, Puente anunció que Adif exigirá una doble validación de las decisiones de los controladores cuando fallen los sistemas de señalización.",
+      "lectura": "Son medidas anunciadas tras el Consejo de Ministros, según un medio; el texto del decreto en el BOE puede diferir y las causas del accidente siguen en investigación. Nivel B (20minutos; se comprobará con el BOE).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/gobierno-aprueba-30-millones-euros-ayudas-para-las-victimas-urda-limita-los-precios-los-transportes-alternativos_7056592_0.html",
+        "https://www.20minutos.es/nacional/doble-validacion-alertas-automaticas-refuerzo-mas-descanso-para-controladores-medidas-gobierno-despues-urda_7056577_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-03",
       "titulo": "Feijóo pide a los sindicatos que reconsideren la huelga general del 11 de noviembre tras el accidente de Urda",
       "que": "Según Europa Press, en un desayuno informativo, Feijóo dijo que no cuestiona el derecho de huelga sino su oportunidad: si la huelga convocada para el 11 de noviembre «antes era incomprensible», tras el accidente de Urda es «un grave error». Advirtió a los sindicatos de que, si la mantienen, «ligarán su imagen a Pedro Sánchez para siempre». ABC, elDiario.es, El Español y 20minutos recogen las mismas declaraciones.",
       "lectura": "Es una petición política de un candidato a un convocante de huelga; no consta respuesta de los sindicatos recogida aquí y la convocatoria sigue en pie. Nivel B (Europa Press, ABC, elDiario.es, El Español y 20minutos).",
@@ -22,8 +38,8 @@
     {
       "fecha": "2026-11-03",
       "titulo": "La Abogacía del Estado se opone a suspender el voto de otros 190.000 descendientes de nacionalizados por las leyes de memoria",
-      "que": "Según elDiario.es, que cita los escritos, la Abogacía del Estado se opone a la petición de Iustitia Europa y Vox de sacar del censo a las 189.578 personas del Anexo III de la Instrucción de 2022 (hijos de quienes obtuvieron la nacionalidad por las leyes de memoria de 2007 o 2022). Sostiene que la única pretensión es «sembrar la duda sobre la legitimidad del voto» de estas personas y que alcanzaría a expedientes «completamente desvinculados» de la controversia.",
-      "lectura": "Es la posición de la Abogacía del Estado en el trámite de audiencia; el Supremo no ha decidido sobre la petición. Nivel B (elDiario.es, que cita los escritos).",
+      "que": "Según elDiario.es, que cita los escritos, la Abogacía del Estado se opone a la petición de Iustitia Europa y Vox de sacar del censo a las 189.578 personas del Anexo III de la Instrucción de 2022 (hijos de quienes obtuvieron la nacionalidad por las leyes de memoria de 2007 o 2022). Sostiene que la única pretensión es «sembrar la duda sobre la legitimidad del voto» de estas personas y que alcanzaría a expedientes «completamente desvinculados» de la controversia. Europa Press, que cita su escrito, añade que advierte de «inseguridad» para los afectados y para el escrutinio y pide al Supremo que emplace antes a los terceros afectados.",
+      "lectura": "Es la posición de la Abogacía del Estado en el trámite de audiencia; el Supremo no ha decidido sobre la petición. Nivel B (elDiario.es y Europa Press, que citan los escritos).",
       "actores": [
         {
           "id": "VOX",
@@ -35,7 +51,8 @@
         }
       ],
       "src": [
-        "https://www.eldiario.es/politica/gobierno-opone-impida-voto-190-000-descendientes-represaliados-franquismo_1_13632649.html"
+        "https://www.eldiario.es/politica/gobierno-opone-impida-voto-190-000-descendientes-represaliados-franquismo_1_13632649.html",
+        "https://www.europapress.es/nacional/noticia-gobierno-respalda-hijos-nacionalizados-puedan-votar-advierte-inseguridad-si-impide-20261103113539.html"
       ]
     },
     {
