@@ -1,12 +1,71 @@
 {
-  "actualizado": "2026-11-03",
+  "actualizado": "2026-11-04",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-04",
+      "titulo": "Sánchez agradece a Puente que «dé la cara» y el PP afirma que le «dimitirán en las urnas»",
+      "que": "Según Europa Press y 20minutos, Sánchez dijo de Puente: «Ha dado la cara. Por voluntad propia. Gracias por tanto, compañero». El Mundo, elDiario.es y El País recogen que el PP y Vox consideran insuficiente la dimisión y apuntan a Sánchez («le dimitiremos en las urnas»), mientras Frente Amplio y otros socios la agradecen.",
+      "lectura": "Son reacciones políticas a una dimisión; ninguna prejuzga la responsabilidad por el accidente, que sigue en investigación. Nivel B (Europa Press, 20minutos, El Mundo, elDiario.es y El País).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "Frente Amplio",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-sanchez-respalda-puente-dar-cara-dimitir-victimas-dignifica-pais-20261103224132.html",
+        "https://www.20minutos.es/nacional/pedro-sanchez-sobre-dimision-oscar-puente-ha-dado-cara-por-voluntad-propia-gracias-por-tanto-compa-ero_7056790_0.html",
+        "https://www.elmundo.es/espana/2026/11/03/6aea4473fdddff213b8b45b6.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-04",
+      "titulo": "Puente seguirá figurando como número uno del PSOE por Valladolid en la papeleta aunque haya renunciado",
+      "que": "Según 20minutos, que cita a fuentes parlamentarias a través de Efe, las candidaturas proclamadas y publicadas en el BOE no pueden modificarse, de modo que el nombre de Puente seguirá en la papeleta del 29-N. Si fuese elegido y no recogiera el acta, su escaño correspondería a la siguiente de la lista, la ministra de Igualdad, Ana Redondo. El artículo 48 de la LOREG limita las modificaciones de candidaturas a la subsanación de irregularidades y a los casos de fallecimiento o renuncia del titular.",
+      "lectura": "Es una consecuencia del procedimiento legal de listas, sin decisión nueva de ningún partido; falta ver cómo lo aplican la JEC y el PSOE. Nivel B (20minutos, que cita a Efe y la LOREG).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/puente-figurara-como-numero-uno-papeleta-psoe-por-valladolid-pese-su-dimision_7056854_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-04",
+      "titulo": "El BOE publica el real decreto-ley 32/2026 de ayudas a las víctimas de Urda, con 72.121,46 euros por persona fallecida",
+      "que": "El BOE del 4-11 publica el Real Decreto-ley 32/2026, de 3 de noviembre, que fija una ayuda de 72.121,46 euros por persona fallecida y, por lesiones, importes por categorías del baremo del seguro obligatorio de viajeros (de 84.141,7 euros en la categoría 1 a 18.030,36 en la 9 y siguientes). Incluye un mecanismo para garantizar la accesibilidad equitativa a bienes y servicios en situaciones de emergencia y entra en vigor el día de su publicación.",
+      "lectura": "Es una norma publicada, de efectos inmediatos; como todo real decreto-ley, deberá ser convalidado por el Congreso. Las cifras confirman las que anunció el Gobierno el martes. Nivel A (BOE-A-2026-23104).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23104"
+      ]
+    },
     {
       "fecha": "2026-11-03",
       "titulo": "Puente anuncia en la Diputación Permanente su dimisión como ministro de Transportes y renuncia a ir en las listas del PSOE",
       "que": "Según Europa Press, 20minutos y El Mundo, Óscar Puente anunció al final de su comparecencia en la Diputación Permanente su dimisión como ministro y su renuncia a ser número 1 del PSOE por Valladolid. Dijo que un ministro de Transportes «no puede continuar en su cargo con dos accidentes de esta gravedad en menos de un año» y que, «tenga o no responsabilidad directa en ellos», es «una cuestión de dignidad política, de coherencia y de empatía con las víctimas». Según los medios, todos los portavoces menos los del PSOE y EH Bildu habían pedido su dimisión.",
-      "lectura": "Es una decisión del propio ministro; no hay conclusión de la investigación sobre las causas del accidente ni se atribuye responsabilidad a nadie sin sentencia. Está pendiente conocer quién le sustituye, su sucesor en la lista y la fecha del cese formal en el BOE. Nivel B (Europa Press, 20minutos y El Mundo).",
+      "lectura": "Es una decisión del propio ministro; no hay conclusión de la investigación sobre las causas del accidente ni se atribuye responsabilidad a nadie sin sentencia. Queda pendiente conocer quién le sustituye y la fecha del cese formal en el BOE. Nivel B (Europa Press, 20minutos y El Mundo).",
       "actores": [
         {
           "id": "PSOE",

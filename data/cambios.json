@@ -1,6 +1,16 @@
 {
- "actualizado": "2026-11-03",
+ "actualizado": "2026-11-04",
  "dias": [
+  {
+   "fecha": "2026-11-04",
+   "items": [
+    {
+     "tipo": "diario",
+     "texto": "3 movimientos nuevos en el diario. Último: Sánchez agradece a Puente que «dé la cara» y el PP afirma que le «dimitirán en las urnas».",
+     "texto_en": "3 new entries in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-03",
    "items": [
@@ -494,16 +504,6 @@
      "tipo": "diario",
      "texto": "12 movimientos nuevos en el diario. Último: El Supremo aplaza hasta el jueves su decisión sobre el voto de los 'nietos'.",
      "texto_en": "12 new entries in the campaign log (in Spanish)."
-    }
-   ]
-  },
-  {
-   "fecha": "2026-10-05",
-   "items": [
-    {
-     "tipo": "inicio",
-     "texto": "Primer día de seguimiento: desde hoy se guarda el histórico y se señalan los cambios.",
-     "texto_en": "First day of tracking: from today the history is saved and changes are flagged."
     }
    ]
   }
@@ -1265,6 +1265,32 @@
   },
   {
    "fecha": "2026-11-03",
+   "media": {
+    "PP": 31.45,
+    "PSOE": 26.3,
+    "VOX": 19.46,
+    "SUMAR": 6.37,
+    "PODEMOS": 2.17,
+    "SALF": 2.32
+   },
+   "escanos": {
+    "PP": 137,
+    "PSOE": 107,
+    "VOX": 69,
+    "SUMAR": 8,
+    "PODEMOS": 0
+   },
+   "ppvox": 206,
+   "probs": {
+    "pp_vox": 97.0,
+    "pp_solo": 0.1,
+    "psoe_bloque": 2.0,
+    "bloqueo": 0.9
+   },
+   "n_encuestas": 36
+  },
+  {
+   "fecha": "2026-11-04",
    "media": {
     "PP": 31.45,
     "PSOE": 26.3,
