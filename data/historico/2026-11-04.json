@@ -162,8 +162,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 267,
-  "ultimo": "Sánchez agradece a Puente que «dé la cara» y el PP afirma que le «dimitirán en las urnas»"
+  "n": 271,
+  "ultimo": "El Supremo archiva la querella de Vox y varias denuncias contra Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -206,7 +206,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "3 movimientos nuevos en el diario. Último: Sánchez agradece a Puente que «dé la cara» y el PP afirma que le «dimitirán en las urnas»."
+   "texto": "7 movimientos nuevos en el diario. Último: El Supremo archiva la querella de Vox y varias denuncias contra Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta."
   }
  ]
 }

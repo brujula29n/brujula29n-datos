@@ -4,6 +4,75 @@
   "entradas": [
     {
       "fecha": "2026-11-04",
+      "titulo": "El Supremo archiva la querella de Vox y varias denuncias contra Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta",
+      "que": "Según Europa Press y elDiario.es, que citan el auto, la Sala de lo Penal del Supremo archiva la querella de Vox y tres denuncias de Manos Limpias y dos de particulares contra Sánchez y el Consejo de Ministros por prevaricación y dejación de funciones, porque no concretan la intervención de cada aforado. El tribunal precisa que la decisión «no implica una declaración definitiva» de inexistencia de responsabilidad penal y que, si la investigación de la Audiencia Nacional aporta datos objetivos, la jueza instructora podrá elevar una exposición razonada.",
+      "lectura": "Es una decisión sobre la admisión de querellas, no un pronunciamiento sobre el fondo: nadie ha sido imputado ni se declara que no haya responsabilidad. La Audiencia Nacional sigue investigando los hechos. Nivel B (Europa Press y elDiario.es, que citan el auto).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-supremo-archiva-querella-vox-contra-pedro-sanchez-consejo-ministros-entrada-masiva-ceuta-20261104145600.html",
+        "https://www.eldiario.es/politica/supremo-rechaza-imputar-pedro-sanchez-crisis-ceuta-peticion-vox-manos-limpias_1_13637976.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-04",
+      "titulo": "El BOE publica el cese de Puente como ministro de Transportes y que Cuerpo asuma el despacho ordinario del Ministerio",
+      "que": "El BOE del 4-11 publica el Real Decreto 974/2026, de 4 de noviembre, por el que se dispone el cese de Óscar Puente Santiago como ministro de Transportes y Movilidad Sostenible, y el Real Decreto 975/2026, por el que el vicepresidente primero y ministro de Economía, Comercio y Empresa asume el despacho ordinario de los asuntos del Ministerio de Transportes.",
+      "lectura": "Es el acto formal que oficializa lo anunciado el martes y ayer; la asunción es del despacho ordinario, no un nombramiento de nuevo ministro. Nivel A (BOE-A-2026-23171 y BOE-A-2026-23172).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23171",
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23172"
+      ]
+    },
+    {
+      "fecha": "2026-11-04",
+      "titulo": "Feijóo promete presentar el primer Presupuesto en la primavera de 2027 y el de 2028 a finales de ese año",
+      "que": "Según Europa Press, en una entrevista en Antena 3, Feijóo dijo que, si gobierna, presentará los Presupuestos de 2027 en la primavera de ese año y los de 2028 en el último trimestre de 2027. Añadió que «a lo mejor» con Presupuesto no habría habido «los 115 muertos» de los accidentes de Adamuz y Urda. El Español recoge el mismo compromiso.",
+      "lectura": "Es una promesa electoral, no una medida; la relación que Feijóo sugiere entre la falta de Presupuestos y los accidentes no se apoya en ninguna conclusión de la investigación. Nivel B (Europa Press y El Español, que recogen sus declaraciones).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-feijoo-avanza-si-gobierna-presentara-primer-presupuesto-primavera-2027-finales-ano-2028-20261104104107.html",
+        "https://www.elespanol.com/espana/politica/20261104/feijoo-compromete-llevar-presupuestos-congreso-primer-ano-primavera-septiembre/1003744445505_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-04",
+      "titulo": "Sánchez encarga a Cuerpo la cartera de Transportes de forma transitoria tras la dimisión de Puente",
+      "que": "Según Europa Press, elDiario.es y 20minutos, Sánchez anunció en una declaración institucional que el vicepresidente primero y ministro de Economía, Carlos Cuerpo, asumirá la cartera de Transportes y Movilidad Sostenible de forma transitoria, hasta la formación del Gobierno tras el 29-N. Europa Press añade que el real decreto que lo oficializa se publicará en una edición extraordinaria del BOE, que no se ha consultado aún. Sánchez dijo aceptar la dimisión «con gratitud y respeto».",
+      "lectura": "Es una designación transitoria anunciada por el presidente; falta la publicación oficial del real decreto. La dimisión no implica atribuir responsabilidad por el accidente, que sigue en investigación. Nivel B (Europa Press, elDiario.es y 20minutos; pendiente del BOE).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/economia/transportes-00343/noticia-cuerpo-asumira-cartera-transportes-nombramiento-nuevo-gobierno-29n-20261104095935.html",
+        "https://www.eldiario.es/politica/sanchez-anuncia-carlos-cuerpo-asume-cartera-transportes-dimision-oscar-puente_1_13636399.html",
+        "https://www.20minutos.es/nacional/comparecencia-pedro-sanchez-directo-sanchez-comparece-moncloa-tras-dimision-oscar-puente_7056939_6.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-04",
       "titulo": "Sánchez agradece a Puente que «dé la cara» y el PP afirma que le «dimitirán en las urnas»",
       "que": "Según Europa Press y 20minutos, Sánchez dijo de Puente: «Ha dado la cara. Por voluntad propia. Gracias por tanto, compañero». El Mundo, elDiario.es y El País recogen que el PP y Vox consideran insuficiente la dimisión y apuntan a Sánchez («le dimitiremos en las urnas»), mientras Frente Amplio y otros socios la agradecen.",
       "lectura": "Son reacciones políticas a una dimisión; ninguna prejuzga la responsabilidad por el accidente, que sigue en investigación. Nivel B (Europa Press, 20minutos, El Mundo, elDiario.es y El País).",
