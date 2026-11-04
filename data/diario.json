@@ -4,6 +4,31 @@
   "entradas": [
     {
       "fecha": "2026-11-04",
+      "titulo": "La Junta Electoral de Valladolid aún no ha recibido la renuncia formal de Puente a la lista del PSOE",
+      "que": "Según ABC, que cita al secretario de la Junta Electoral Provincial de Valladolid, el letrado Juan Jesús Martín, hasta este miércoles no había recibido ningún escrito de renuncia de Óscar Puente como cabeza de lista, por lo que la candidatura sigue como fue proclamada: Puente, seguido de la ministra Ana Redondo. La Junta solo se reunirá si recibe el escrito. Según el mismo medio, el exministro haría efectiva su decisión no recogiendo el acta tras las elecciones.",
+      "lectura": "Matiza la entrada del 3-11: Puente anunció su renuncia, pero no consta aún su formalización ante la Junta; la ley electoral (art. 48) limita las modificaciones de las candidaturas. Nivel B (ABC, que cita al secretario de la Junta Provincial).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/castilla-leon/papeleta-congreso-valladolid-incluira-puente-presentado-renuncia-20261104192812-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-04",
+      "titulo": "La Comisión Europea califica de «muy preocupantes» los accidentes ferroviarios en España y pide acelerar el sistema ERTMS",
+      "que": "Según 20minutos, el comisario europeo de Transporte, Apostolos Tzitzikostas, dijo en rueda de prensa que dos accidentes en un mismo año «no es algo que queramos ver», que la Agencia Ferroviaria de la UE prestará apoyo sobre el terreno en Urda y que la clave pasa por la rápida implantación del sistema de seguridad europeo ERTMS. El medio recuerda que el sistema LZB, que aún se usa en la línea Madrid-Sevilla, se considera uno de los factores posibles en el accidente.",
+      "lectura": "Son declaraciones de la Comisión y una referencia periodística al LZB como posible factor; la investigación sigue abierta y no hay conclusión oficial sobre las causas. Nivel B (20minutos, que recoge la rueda de prensa del comisario).",
+      "actores": [],
+      "src": [
+        "https://www.20minutos.es/internacional/bruselas-califica-muy-preocupantes-los-accidentes-ferroviarios-espana-pide-gobierno-acelerar-implantacion-emrts_7057128_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-04",
       "titulo": "El Supremo archiva la querella de Vox y varias denuncias contra Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta",
       "que": "Según Europa Press y elDiario.es, que citan el auto, la Sala de lo Penal del Supremo archiva la querella de Vox y tres denuncias de Manos Limpias y dos de particulares contra Sánchez y el Consejo de Ministros por prevaricación y dejación de funciones, porque no concretan la intervención de cada aforado. El tribunal precisa que la decisión «no implica una declaración definitiva» de inexistencia de responsabilidad penal y que, si la investigación de la Audiencia Nacional aporta datos objetivos, la jueza instructora podrá elevar una exposición razonada.",
       "lectura": "Es una decisión sobre la admisión de querellas, no un pronunciamiento sobre el fondo: nadie ha sido imputado ni se declara que no haya responsabilidad. La Audiencia Nacional sigue investigando los hechos. Nivel B (Europa Press y elDiario.es, que citan el auto).",

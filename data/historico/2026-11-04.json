@@ -162,8 +162,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 271,
-  "ultimo": "El Supremo archiva la querella de Vox y varias denuncias contra Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta"
+  "n": 273,
+  "ultimo": "La Junta Electoral de Valladolid aún no ha recibido la renuncia formal de Puente a la lista del PSOE"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -206,7 +206,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "7 movimientos nuevos en el diario. Último: El Supremo archiva la querella de Vox y varias denuncias contra Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta."
+   "texto": "9 movimientos nuevos en el diario. Último: La Junta Electoral de Valladolid aún no ha recibido la renuncia formal de Puente a la lista del PSOE."
   }
  ]
 }
