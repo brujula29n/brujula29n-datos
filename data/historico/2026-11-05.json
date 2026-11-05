@@ -162,8 +162,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 274,
-  "ultimo": "La JEC acuerda la distribución de los espacios gratuitos de propaganda en los medios públicos y abre plazo de recursos hasta el 6-11"
+  "n": 276,
+  "ultimo": "Koldo García asegura a la SER que el abogado del PP le ofreció pagar su defensa y un millón de euros; el abogado lo niega y el PSOE exige explicaciones"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -206,7 +206,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "1 movimiento nuevo en el diario. Último: La JEC acuerda la distribución de los espacios gratuitos de propaganda en los medios públicos y abre plazo de recursos hasta el 6-11."
+   "texto": "3 movimientos nuevos en el diario. Último: Koldo García asegura a la SER que el abogado del PP le ofreció pagar su defensa y un millón de euros; el abogado lo niega y el PSOE exige explicaciones."
   }
  ]
 }

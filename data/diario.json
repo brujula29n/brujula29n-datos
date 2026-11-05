@@ -4,6 +4,44 @@
   "entradas": [
     {
       "fecha": "2026-11-05",
+      "titulo": "Koldo García asegura a la SER que el abogado del PP le ofreció pagar su defensa y un millón de euros; el abogado lo niega y el PSOE exige explicaciones",
+      "que": "Según El País y elDiario.es, que recogen un audio emitido por la Cadena SER, Koldo García, condenado por el Supremo, afirma desde prisión que Alberto Durán, abogado del PP en casos de corrupción hasta hace unos meses, acordó con él pagar su defensa y un millón de euros a través de la editora de Okdiario a cambio de información contra el Gobierno. Según elDiario.es, Durán lo ha negado al ser consultado, y la única prueba aportada son dos facturas de la editora de Okdiario por 242.000 euros por su defensa. Europa Press recoge que el PSOE pide a Feijóo explicaciones.",
+      "lectura": "Es la versión de un condenado, negada por el abogado señalado; no hay verificación independiente de la oferta ni respuesta del PP recogida aquí. El PSOE condiciona su acusación a que «se confirme». Nivel B (El País, elDiario.es y Europa Press).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/koldo-garcia-afirma-abogado-pp-le-ofrecio-millon-informacion-gobierno-sanchez_1_13639592.html",
+        "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hac",
+        "https://www.europapress.es/nacional/noticia-psoe-acusa-guerra-sucia-pp-derribar-gobierno-legitimo-intentar-comprar-testimonio-koldo-20261105105421.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-05",
+      "titulo": "La UCO detiene al exchófer de Sánchez, Cristian Corvillo, y registra la casa de Ábalos en una pieza secreta del «caso Koldo»",
+      "que": "Según El Español, ABC y El Mundo, la UCO de la Guardia Civil realiza desde primera hora de este jueves registros en varias ciudades por orden del juez de la Audiencia Nacional que instruye el «caso Koldo»: detuvo a Cristian Corvillo, que fue chófer de Sánchez, y registró la casa de Ábalos en Valencia, donde tomó declaración a su pareja. ABC cita fuentes jurídicas: la pieza está bajo secreto y se refiere a presuntos amaños de obra pública, con delitos de estafa y blanqueo en investigación. Hay requerimientos de información en Adif.",
+      "lectura": "Es una operación judicial en una pieza secreta: hay detenidos e investigados, no condenados ni acusación formal; Ábalos cumple una pena aparte, ya recogida. Los hechos concretos aún no son públicos. Nivel B (El Español, ABC y El Mundo; fuentes jurídicas citadas por ABC).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elespanol.com/espana/tribunales/20261105/audiencia-nacional-ordena-uco-registrar-casa-abalos-valencia-nueva-operacion-caso-koldo/1003744446921_0.html",
+        "https://www.abc.es/espana/uco-registra-casa-abalos-valencia-orden-juez-20261105102127-nt.html",
+        "https://www.elmundo.es/espana/2026/11/05/6aec4851e9cf4ac94c8b459e.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-05",
       "titulo": "La JEC acuerda la distribución de los espacios gratuitos de propaganda en los medios públicos y abre plazo de recursos hasta el 6-11",
       "que": "El BOE del 5-11 publica la Resolución de 4-11 de la Presidencia de la JEC que acuerda la distribución de espacios gratuitos de propaganda electoral en los medios de titularidad pública de ámbito nacional, en los términos de la propuesta de la Comisión de Radio y Televisión, y otra que toma conocimiento del Plan de cobertura informativa de RTVE. Los recursos deben presentarse antes de las 14:00 del viernes 6-11; las alegaciones, hasta las 10:00 del martes 10-11.",
       "lectura": "Es un acuerdo de la JEC aún recurrible: la distribución puede cambiar si se estiman recursos, por ejemplo por el reparto entre Frente Amplio y Podemos. La distribución está publicada en la web de la JEC. Nivel A (BOE-A-2026-23258 y BOE-A-2026-23259).",
