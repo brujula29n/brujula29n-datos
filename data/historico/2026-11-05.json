@@ -162,8 +162,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 276,
-  "ultimo": "Koldo García asegura a la SER que el abogado del PP le ofreció pagar su defensa y un millón de euros; el abogado lo niega y el PSOE exige explicaciones"
+  "n": 277,
+  "ultimo": "Armengol convoca la Diputación Permanente el 12-11 a las 9:00 para votar los dos decretos de vivienda"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -206,7 +206,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "3 movimientos nuevos en el diario. Último: Koldo García asegura a la SER que el abogado del PP le ofreció pagar su defensa y un millón de euros; el abogado lo niega y el PSOE exige explicaciones."
+   "texto": "4 movimientos nuevos en el diario. Último: Armengol convoca la Diputación Permanente el 12-11 a las 9:00 para votar los dos decretos de vivienda."
   }
  ]
 }

@@ -4,6 +4,30 @@
   "entradas": [
     {
       "fecha": "2026-11-05",
+      "titulo": "Armengol convoca la Diputación Permanente el 12-11 a las 9:00 para votar los dos decretos de vivienda",
+      "que": "Según El Español, que cita a fuentes oficiales de la Presidencia del Congreso, y ABC, la Diputación Permanente se reunirá el jueves 12 de noviembre a las 9:00 para debatir la convalidación o derogación de los dos reales decretos-ley de vivienda que el Pleno rechazó en octubre con los votos de PP, Vox y Junts. El Español añade que la composición del órgano permitiría al Gobierno sacar adelante el primero sin Junts, y que el PNV apoya el primero pero rechaza el segundo.",
+      "lectura": "Es la convocatoria de una sesión, no su resultado; el orden del día restante no está cerrado y la convalidación no está garantizada. Nivel B (El Español, con fuentes de la Presidencia del Congreso, y ABC).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PNV",
+          "impacto": 0
+        },
+        {
+          "id": "JUNTS",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elespanol.com/espana/politica/20261105/armengol-programa-vispera-campana-electoral-votacion-decretos-vivienda-congreso/1003744447047_0.html",
+        "https://www.abc.es/espana/congreso-debatira-decretos-leyes-vivienda-vispera-campana-20261105114013-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-05",
       "titulo": "Koldo García asegura a la SER que el abogado del PP le ofreció pagar su defensa y un millón de euros; el abogado lo niega y el PSOE exige explicaciones",
       "que": "Según El País y elDiario.es, que recogen un audio emitido por la Cadena SER, Koldo García, condenado por el Supremo, afirma desde prisión que Alberto Durán, abogado del PP en casos de corrupción hasta hace unos meses, acordó con él pagar su defensa y un millón de euros a través de la editora de Okdiario a cambio de información contra el Gobierno. Según elDiario.es, Durán lo ha negado al ser consultado, y la única prueba aportada son dos facturas de la editora de Okdiario por 242.000 euros por su defensa. Europa Press recoge que el PSOE pide a Feijóo explicaciones.",
       "lectura": "Es la versión de un condenado, negada por el abogado señalado; el PP (Génova) la califica de «falsa» según Europa Press y no hay verificación independiente de la oferta. El PSOE condiciona su acusación a que «se confirme». Nivel B (El País, elDiario.es y Europa Press).",
