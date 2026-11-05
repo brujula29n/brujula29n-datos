@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04",
+  "actualizado": "2026-11-05",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -125,11 +125,11 @@
     },
     {
       "fecha": "2026-11-04",
-      "titulo": "Primera reunión de la comisión de partidos de la JEC (tiempos en RTVE)",
-      "detalle": "Según Europa Press, se espera la propuesta de RTVE para repartir tiempos informativos y espacios gratuitos de propaganda. La JEC designó la Comisión de Radio y Televisión (BOE-A-2026-23112, 4-11).",
+      "titulo": "Comisión de Radio y Televisión de la JEC: reparto de espacios gratuitos acordado",
+      "detalle": "La JEC acordó el 4-11 la distribución de espacios gratuitos de propaganda en medios públicos (BOE-A-2026-23258, 5-11). Recursos hasta las 14:00 del 6-11; alegaciones hasta las 10:00 del 10-11.",
       "tipo": "campana",
-      "estado": "previsto",
-      "src": "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-pugnan-jec-herencia-sumar-reparto-tiempos-rtve-20261101105956.html"
+      "estado": "hecho",
+      "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23258"
     },
     {
       "fecha": "2026-11-09",

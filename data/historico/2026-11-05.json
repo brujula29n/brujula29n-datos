@@ -1,0 +1,212 @@
+{
+ "fecha": "2026-11-05",
+ "media": {
+  "pct": {
+   "PP": 31.45,
+   "PSOE": 26.3,
+   "VOX": 19.46,
+   "SUMAR": 6.37,
+   "PODEMOS": 2.17,
+   "SALF": 2.32,
+   "ERC": 2.45,
+   "JUNTS": 1.44,
+   "BILDU": 1.34,
+   "PNV": 0.87,
+   "BNG": 0.9,
+   "CC": 0.43,
+   "UPN": 0.06
+  },
+  "ref": "2026-10-31",
+  "casas": [
+   "Ateneo del Dato",
+   "Hamalgama Métrica",
+   "IMOP Insights",
+   "More in Common",
+   "NC Report",
+   "Sigma Dos",
+   "SocioMétrica",
+   "Sondaxe",
+   "Target Point"
+  ],
+  "n_encuestas": 36
+ },
+ "escanos": {
+  "PP": 137,
+  "PSOE": 107,
+  "VOX": 69,
+  "SUMAR": 8,
+  "PODEMOS": 0,
+  "SALF": 0,
+  "ERC": 10,
+  "JUNTS": 5,
+  "BILDU": 7,
+  "PNV": 4,
+  "BNG": 2,
+  "CC": 1,
+  "UPN": 0
+ },
+ "rango": {
+  "PP": [
+   112,
+   153
+  ],
+  "PSOE": [
+   87,
+   129
+  ],
+  "VOX": [
+   55,
+   88
+  ],
+  "SUMAR": [
+   4,
+   18
+  ],
+  "PODEMOS": [
+   0,
+   2
+  ],
+  "SALF": [
+   0,
+   2
+  ],
+  "ERC": [
+   7,
+   13
+  ],
+  "JUNTS": [
+   3,
+   8
+  ],
+  "BILDU": [
+   5,
+   10
+  ],
+  "PNV": [
+   2,
+   6
+  ],
+  "BNG": [
+   1,
+   5
+  ],
+  "CC": [
+   0,
+   3
+  ],
+  "UPN": [
+   0,
+   1
+  ]
+ },
+ "probs": {
+  "pp_vox": 97.0,
+  "pp_solo": 0.1,
+  "psoe_bloque": 2.0,
+  "bloqueo": 0.9
+ },
+ "probs_extra": {
+  "ppvox": 97.1,
+  "bloque": 2.0,
+  "bloque_sin_junts": 1.0,
+  "pp_first": 88.2
+ },
+ "semaforo_esp": {
+  "S1": 1,
+  "S2": 1,
+  "S3": 1,
+  "S4": 2,
+  "S5": 2,
+  "S6": 2,
+  "S7": 2,
+  "S8": 1,
+  "S9": 2,
+  "S10": 1,
+  "S11": 2,
+  "S12": 0,
+  "S13": 0
+ },
+ "problemas": {
+  "vivienda": "+12,2 %",
+  "empleo_salarios": "9,87 %",
+  "coste_vida": "4,9 %",
+  "inmigracion_seguridad": "14,9 %",
+  "sanidad_dependencia": "853.509",
+  "deuda_fiscalidad_pensiones": "101,4 %",
+  "instituciones_corrupcion": "0",
+  "territorial": "6-4 y Gran Sala",
+  "educacion_juventud": "12,8 %"
+ },
+ "programas": {
+  "PP": null,
+  "PSOE": null,
+  "VOX": null,
+  "SUMAR": null,
+  "PODEMOS": null,
+  "SALF": null,
+  "JUNTS": null,
+  "ERC": null,
+  "BILDU": null,
+  "PNV": null
+ },
+ "lideres": {
+  "PSOE": "Pedro Sánchez",
+  "PP": "Alberto Núñez Feijóo",
+  "VOX": "Santiago Abascal",
+  "SUMAR": "Sin decidir (17 de octubre)",
+  "PODEMOS": "Irene Montero",
+  "SALF": "Alvise Pérez",
+  "JUNTS": "Míriam Nogueras",
+  "ERC": "Gabriel Rufián",
+  "BILDU": "Por designar",
+  "PNV": "Sin candidato (Esteban no repite)"
+ },
+ "diario": {
+  "n": 274,
+  "ultimo": "La JEC acuerda la distribución de los espacios gratuitos de propaganda en los medios públicos y abre plazo de recursos hasta el 6-11"
+ },
+ "casas": [
+  "40dB 2026-09-02",
+  "40dB 2026-09-28",
+  "40dB 2026-10-08",
+  "Ateneo del Dato 2026-10-01",
+  "Ateneo del Dato 2026-10-22",
+  "DYM 2026-09-21",
+  "DYM 2026-10-07",
+  "Data10 2026-10-02",
+  "Electomanía (ElectoPanel) 2026-10-03",
+  "GAD3 2026-09-03",
+  "GAD3 2026-10-08",
+  "GESOP 2026-07-09",
+  "GESOP 2026-10-08",
+  "Hamalgama Métrica 2026-09-08",
+  "Hamalgama Métrica 2026-10-08",
+  "Hamalgama Métrica 2026-10-28",
+  "IMOP Insights 2026-10-07",
+  "IMOP Insights 2026-10-16",
+  "More in Common 2026-10-25",
+  "NC Report 2026-09-03",
+  "NC Report 2026-10-06",
+  "NC Report 2026-10-24",
+  "NC Report 2026-10-29",
+  "Sigma Dos 2026-10-01",
+  "Sigma Dos 2026-10-22",
+  "Sigma Dos 2026-10-30",
+  "SocioMétrica 2026-09-26",
+  "SocioMétrica 2026-10-03",
+  "SocioMétrica 2026-10-11",
+  "SocioMétrica 2026-10-25",
+  "SocioMétrica 2026-10-31",
+  "Sondaxe 2026-10-28",
+  "Target Point 2026-09-10",
+  "Target Point 2026-10-09",
+  "Target Point 2026-10-30",
+  "Winston 2026-10-01"
+ ],
+ "cambios": [
+  {
+   "tipo": "diario",
+   "texto": "1 movimiento nuevo en el diario. Último: La JEC acuerda la distribución de los espacios gratuitos de propaganda en los medios públicos y abre plazo de recursos hasta el 6-11."
+  }
+ ]
+}

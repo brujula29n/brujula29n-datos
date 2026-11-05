@@ -1,6 +1,16 @@
 {
- "actualizado": "2026-11-04",
+ "actualizado": "2026-11-05",
  "dias": [
+  {
+   "fecha": "2026-11-05",
+   "items": [
+    {
+     "tipo": "diario",
+     "texto": "1 movimiento nuevo en el diario. Último: La JEC acuerda la distribución de los espacios gratuitos de propaganda en los medios públicos y abre plazo de recursos hasta el 6-11.",
+     "texto_en": "1 new entry in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-04",
    "items": [
@@ -494,16 +504,6 @@
      "tipo": "diario",
      "texto": "13 movimientos nuevos en el diario. Último: Muere Maricarmen, la mujer de 87 años desahuciada en Madrid.",
      "texto_en": "13 new entries in the campaign log (in Spanish)."
-    }
-   ]
-  },
-  {
-   "fecha": "2026-10-06",
-   "items": [
-    {
-     "tipo": "diario",
-     "texto": "12 movimientos nuevos en el diario. Último: El Supremo aplaza hasta el jueves su decisión sobre el voto de los 'nietos'.",
-     "texto_en": "12 new entries in the campaign log (in Spanish)."
     }
    ]
   }
@@ -1291,6 +1291,32 @@
   },
   {
    "fecha": "2026-11-04",
+   "media": {
+    "PP": 31.45,
+    "PSOE": 26.3,
+    "VOX": 19.46,
+    "SUMAR": 6.37,
+    "PODEMOS": 2.17,
+    "SALF": 2.32
+   },
+   "escanos": {
+    "PP": 137,
+    "PSOE": 107,
+    "VOX": 69,
+    "SUMAR": 8,
+    "PODEMOS": 0
+   },
+   "ppvox": 206,
+   "probs": {
+    "pp_vox": 97.0,
+    "pp_solo": 0.1,
+    "psoe_bloque": 2.0,
+    "bloqueo": 0.9
+   },
+   "n_encuestas": 36
+  },
+  {
+   "fecha": "2026-11-05",
    "media": {
     "PP": 31.45,
     "PSOE": 26.3,

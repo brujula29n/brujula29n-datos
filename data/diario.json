@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-04",
+  "actualizado": "2026-11-05",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-05",
+      "titulo": "La JEC acuerda la distribución de los espacios gratuitos de propaganda en los medios públicos y abre plazo de recursos hasta el 6-11",
+      "que": "El BOE del 5-11 publica la Resolución de 4-11 de la Presidencia de la JEC que acuerda la distribución de espacios gratuitos de propaganda electoral en los medios de titularidad pública de ámbito nacional, en los términos de la propuesta de la Comisión de Radio y Televisión, y otra que toma conocimiento del Plan de cobertura informativa de RTVE. Los recursos deben presentarse antes de las 14:00 del viernes 6-11; las alegaciones, hasta las 10:00 del martes 10-11.",
+      "lectura": "Es un acuerdo de la JEC aún recurrible: la distribución puede cambiar si se estiman recursos, por ejemplo por el reparto entre Frente Amplio y Podemos. La distribución está publicada en la web de la JEC. Nivel A (BOE-A-2026-23258 y BOE-A-2026-23259).",
+      "actores": [],
+      "src": [
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23258",
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23259"
+      ]
+    },
     {
       "fecha": "2026-11-04",
       "titulo": "La Junta Electoral de Valladolid aún no ha recibido la renuncia formal de Puente a la lista del PSOE",
