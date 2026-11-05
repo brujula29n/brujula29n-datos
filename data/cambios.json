@@ -5,9 +5,55 @@
    "fecha": "2026-11-05",
    "items": [
     {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: SW Demoscopia 2026-11-04.",
+     "texto_en": "New poll: SW Demoscopia 2026-11-04."
+    },
+    {
+     "tipo": "media",
+     "texto": "PP baja en la media: 31,4 % → 31,0 %.",
+     "delta": -0.4,
+     "partido": "PP",
+     "texto_en": "PP falls in the poll average: 31.4% → 31.0%."
+    },
+    {
+     "tipo": "media",
+     "texto": "PSOE sube en la media: 26,3 % → 26,9 %.",
+     "delta": 0.6,
+     "partido": "PSOE",
+     "texto_en": "PSOE rises in the poll average: 26.3% → 26.9%."
+    },
+    {
+     "tipo": "media",
+     "texto": "Vox baja en la media: 19,5 % → 18,9 %.",
+     "delta": -0.6,
+     "partido": "VOX",
+     "texto_en": "Vox falls in the poll average: 19.5% → 18.9%."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "PP: proyección de 137 a 135 escaños.",
+     "delta": -2,
+     "partido": "PP",
+     "texto_en": "PP: projection from 137 to 135 seats."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "PSOE: proyección de 107 a 110 escaños.",
+     "delta": 3,
+     "partido": "PSOE",
+     "texto_en": "PSOE: projection from 107 to 110 seats."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "PP+Vox pasa de 206 a 203 escaños proyectados (mayoría: 176).",
+     "delta": -3,
+     "texto_en": "PP+Vox moves from 206 to 203 projected seats (majority: 176)."
+    },
+    {
      "tipo": "diario",
-     "texto": "4 movimientos nuevos en el diario. Último: Armengol convoca la Diputación Permanente el 12-11 a las 9:00 para votar los dos decretos de vivienda.",
-     "texto_en": "4 new entries in the campaign log (in Spanish)."
+     "texto": "7 movimientos nuevos en el diario. Último: Sánchez no asistirá al funeral de Estado del 10-11 en Toledo; Cuerpo y Tolón representarán al Gobierno.",
+     "texto_en": "7 new entries in the campaign log (in Spanish)."
     }
    ]
   },
@@ -1318,28 +1364,28 @@
   {
    "fecha": "2026-11-05",
    "media": {
-    "PP": 31.45,
-    "PSOE": 26.3,
-    "VOX": 19.46,
-    "SUMAR": 6.37,
-    "PODEMOS": 2.17,
-    "SALF": 2.32
+    "PP": 31.02,
+    "PSOE": 26.9,
+    "VOX": 18.87,
+    "SUMAR": 6.16,
+    "PODEMOS": 2.01,
+    "SALF": 2.33
    },
    "escanos": {
-    "PP": 137,
-    "PSOE": 107,
-    "VOX": 69,
+    "PP": 135,
+    "PSOE": 110,
+    "VOX": 68,
     "SUMAR": 8,
     "PODEMOS": 0
    },
-   "ppvox": 206,
+   "ppvox": 203,
    "probs": {
-    "pp_vox": 97.0,
-    "pp_solo": 0.1,
-    "psoe_bloque": 2.0,
-    "bloqueo": 0.9
+    "pp_vox": 95.1,
+    "pp_solo": 0.0,
+    "psoe_bloque": 3.2,
+    "bloqueo": 1.7
    },
-   "n_encuestas": 36
+   "n_encuestas": 37
   }
  ]
 }

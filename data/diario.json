@@ -4,6 +4,54 @@
   "entradas": [
     {
       "fecha": "2026-11-05",
+      "titulo": "Sánchez no asistirá al funeral de Estado del 10-11 en Toledo; Cuerpo y Tolón representarán al Gobierno",
+      "que": "Según 20minutos, ABC y El Español, que citan fuentes del Ejecutivo, el funeral de Estado por las víctimas de Urda, presidido por los Reyes en la catedral de Toledo el martes 10 de noviembre, contará con el vicepresidente primero Carlos Cuerpo y la ministra de Educación, Milagros Tolón, en representación del Gobierno; Sánchez no acudirá. 20minutos recuerda que tampoco asistió a los de Adamuz y la DANA, y que asistirán Feijóo y Page.",
+      "lectura": "Es una decisión de agenda comunicada por el Gobierno; no consta explicación oficial adicional. Nivel B (20minutos, ABC y El Español, con fuentes del Ejecutivo).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/cuerpo-tolon-representaran-gobierno-funeral-las-victimas-accidente-ferroviario-urda_7057893_0.html",
+        "https://www.abc.es/espana/sanchez-acudira-funeral-victimas-urda-delega-cuerpo-20261105202201-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-05",
+      "titulo": "La Junta Electoral de Valladolid da por comunicada la renuncia de Puente pero no reimprimirá la papeleta: se podrá tachar su nombre",
+      "que": "Según El País, la Junta Electoral Provincial de Valladolid comunicó al PSOE que da por comunicada la renuncia de Óscar Puente como número uno, pero rechaza imprimir nuevas papeletas sin su nombre y considerará válido que los votantes tachen esa opción. Se apoya en su doctrina de inmodificabilidad de las candidaturas desde 1977. La lista pasa a encabezarla, según el diario, la ministra de Igualdad, Ana Redondo.",
+      "lectura": "Es una resolución de una Junta Provincial, probablemente recurrible; actualiza lo anotado el 3 y el 4-11. Nivel B (El País, que recoge la comunicación de la Junta al PSOE).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://elpais.com/espana/2026-11-05/la-junta-electoral-permite-tachar-el-nombre-de-puente-de-la-papeleta-del-psoe-en-valladolid-para-el-29-n.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-05",
+      "titulo": "La JEC vuelve a permitir votar con el DNI digital (MiDNI) el 29-N tras la garantía de Interior de lectores QR en todas las mesas",
+      "que": "Según 20minutos, ABC y elDiario.es, la Junta Electoral Central decidió permitir la aplicación MiDNI para identificarse el 29 de noviembre al garantizar el Ministerio del Interior que habrá lectores de códigos QR en todas las mesas. La JEC había revocado ese criterio tras la insistencia del PP, que exigía abrir la aplicación y verificar un código QR único; desde las elecciones andaluzas el DNI digital no se admitía mientras no hubiera una verificación «suficientemente segura».",
+      "lectura": "Es una decisión de la JEC condicionada a la garantía de Interior; falta ver su despliegue en las mesas. Nivel B (20minutos, ABC y elDiario.es, que recogen el acuerdo de la JEC).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/junta-electoral-vuelve-permitir-uso-dni-digital-para-votar-las-elecciones-generales-29-noviembre_7057881_0.html",
+        "https://www.eldiario.es/politica/junta-electoral-avala-dni-electronico-votar_1_13642287.html",
+        "https://www.abc.es/espana/junta-electoral-permitira-votar-dni-electronico-29n-20261105185049-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-05",
       "titulo": "Armengol convoca la Diputación Permanente el 12-11 a las 9:00 para votar los dos decretos de vivienda",
       "que": "Según El Español, que cita a fuentes oficiales de la Presidencia del Congreso, y ABC, la Diputación Permanente se reunirá el jueves 12 de noviembre a las 9:00 para debatir la convalidación o derogación de los dos reales decretos-ley de vivienda que el Pleno rechazó en octubre con los votos de PP, Vox y Junts. El Español añade que la composición del órgano permitiría al Gobierno sacar adelante el primero sin Junts, y que el PNV apoya el primero pero rechaza el segundo.",
       "lectura": "Es la convocatoria de una sesión, no su resultado; el orden del día restante no está cerrado y la convalidación no está garantizada. Nivel B (El Español, con fuentes de la Presidencia del Congreso, y ABC).",
@@ -29,7 +77,7 @@
     {
       "fecha": "2026-11-05",
       "titulo": "Koldo García asegura a la SER que el abogado del PP le ofreció pagar su defensa y un millón de euros; el abogado lo niega y el PSOE exige explicaciones",
-      "que": "Según El País y elDiario.es, que recogen un audio emitido por la Cadena SER, Koldo García, condenado por el Supremo, afirma desde prisión que Alberto Durán, abogado del PP en casos de corrupción hasta hace unos meses, acordó con él pagar su defensa y un millón de euros a través de la editora de Okdiario a cambio de información contra el Gobierno. Según elDiario.es, Durán lo ha negado al ser consultado, y la única prueba aportada son dos facturas de la editora de Okdiario por 242.000 euros por su defensa. Europa Press recoge que el PSOE pide a Feijóo explicaciones.",
+      "que": "Según El País y elDiario.es, que recogen un audio emitido por la Cadena SER, Koldo García, condenado por el Supremo, afirma desde prisión que Alberto Durán, abogado del PP en casos de corrupción hasta hace unos meses, acordó con él pagar su defensa y un millón de euros a través de la editora de Okdiario a cambio de información contra el Gobierno. Según elDiario.es, Durán lo ha negado al ser consultado, y la única prueba aportada son dos facturas de la editora de Okdiario por 242.000 euros por su defensa. Europa Press recoge que el PSOE pide a Feijóo explicaciones. Sánchez pidió explicaciones a Feijóo sobre el supuesto pago (El País, elDiario.es).",
       "lectura": "Es la versión de un condenado, negada por el abogado señalado; el PP (Génova) la califica de «falsa» según Europa Press y no hay verificación independiente de la oferta. El PSOE condiciona su acusación a que «se confirme». Nivel B (El País, elDiario.es y Europa Press).",
       "actores": [
         {
@@ -44,13 +92,14 @@
       "src": [
         "https://www.eldiario.es/politica/koldo-garcia-afirma-abogado-pp-le-ofrecio-millon-informacion-gobierno-sanchez_1_13639592.html",
         "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hac",
-        "https://www.europapress.es/nacional/noticia-psoe-acusa-guerra-sucia-pp-derribar-gobierno-legitimo-intentar-comprar-testimonio-koldo-20261105105421.html"
+        "https://www.europapress.es/nacional/noticia-psoe-acusa-guerra-sucia-pp-derribar-gobierno-legitimo-intentar-comprar-testimonio-koldo-20261105105421.html",
+        "https://elpais.com/espana/2026-11-05/sanchez-pide-explicaciones-a-feijoo-sobre-el-supuesto-pago-de-un-millon-de-euros-del-pp-a-koldo.html"
       ]
     },
     {
       "fecha": "2026-11-05",
       "titulo": "La UCO detiene al exchófer de Sánchez, Cristian Corvillo, y registra la casa de Ábalos en una pieza secreta del «caso Koldo»",
-      "que": "Según El Español, ABC y El Mundo, la UCO de la Guardia Civil realiza desde primera hora de este jueves registros en varias ciudades por orden del juez de la Audiencia Nacional que instruye el «caso Koldo»: detuvo a Cristian Corvillo, que fue chófer de Sánchez, y registró la casa de Ábalos en Valencia, donde tomó declaración a su pareja. ABC cita fuentes jurídicas: la pieza está bajo secreto y se refiere a presuntos amaños de obra pública, con delitos de estafa y blanqueo en investigación. Hay requerimientos de información en Adif. Según 20minutos y ABC, hay seis personas detenidas, entre ellas la pareja de Ábalos; las detenciones no suponen acusación formal.",
+      "que": "Según El Español, ABC y El Mundo, la UCO de la Guardia Civil realiza desde primera hora de este jueves registros en varias ciudades por orden del juez de la Audiencia Nacional que instruye el «caso Koldo»: detuvo a Cristian Corvillo, que fue chófer de Sánchez, y registró la casa de Ábalos en Valencia, donde tomó declaración a su pareja. ABC cita fuentes jurídicas: la pieza está bajo secreto y se refiere a presuntos amaños de obra pública, con delitos de estafa y blanqueo en investigación. Hay requerimientos de información en Adif. Según 20minutos y ABC, hay seis personas detenidas, entre ellas la pareja de Ábalos; las detenciones no suponen acusación formal. Según El Español y Europa Press, los seis detenidos quedaron en libertad horas después. Sánchez dijo en rueda de prensa que «ninguna de estas personas tiene nada que ver conmigo» y fuentes de Moncloa niegan que Corvillo fuese su chófer en ningún momento (Europa Press).",
       "lectura": "Es una operación judicial en una pieza secreta: hay detenidos e investigados, no condenados ni acusación formal; Ábalos cumple una pena aparte, ya recogida. Los hechos concretos aún no son públicos. Nivel B (El Español, ABC y El Mundo; fuentes jurídicas citadas por ABC).",
       "actores": [
         {
@@ -61,7 +110,8 @@
       "src": [
         "https://www.elespanol.com/espana/tribunales/20261105/audiencia-nacional-ordena-uco-registrar-casa-abalos-valencia-nueva-operacion-caso-koldo/1003744446921_0.html",
         "https://www.abc.es/espana/uco-registra-casa-abalos-valencia-orden-juez-20261105102127-nt.html",
-        "https://www.elmundo.es/espana/2026/11/05/6aec4851e9cf4ac94c8b459e.html"
+        "https://www.elmundo.es/espana/2026/11/05/6aec4851e9cf4ac94c8b459e.html",
+        "https://www.europapress.es/nacional/noticia-sanchez-desvincula-detenciones-caso-koldo-ninguna-personas-tiene-nada-ver-conmigo-20261105181439.html"
       ]
     },
     {
