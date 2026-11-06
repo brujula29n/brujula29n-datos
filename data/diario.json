@@ -4,6 +4,50 @@
   "entradas": [
     {
       "fecha": "2026-11-06",
+      "titulo": "Sánchez retoma la precampaña en Valencia: defiende la dimisión de Puente y pide movilizar el voto el 29-N",
+      "que": "Según Europa Press y elDiario.es, Pedro Sánchez ofreció en Valencia (polideportivo de El Cabanyal, unas 5.000 personas según Europa Press) el primer mitin socialista tras el accidente de Urda (69 fallecidos). Dijo que PP y Vox criticaron primero que Puente no dimitiera y después que lo hiciera, afirmó que «los servicios públicos importan» y llamó a movilizarse el 29 de noviembre, citando los casos de EEUU y Brasil: «la victoria de la derecha y la ultraderecha no es inevitable».",
+      "lectura": "Son declaraciones del presidente en un acto de partido; la comparación con PP y Vox es su valoración, no un hecho comprobado. Lo verificable es el acto, la asistencia declarada y el mensaje de movilización. Nivel B (Europa Press, elDiario.es)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-sanchez-defiende-ejemplo-dimision-puente-frente-pp-no-asume-responsabilidades-tragedias-20261106205246.html",
+        "https://www.eldiario.es/politica/sanchez-ejemplaridad-ejercido-oscar-puente-practican-pp-vox_1_13645643.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-06",
+      "titulo": "El Gobierno pide a Feijóo «explicaciones inmediatas» por la presunta oferta a Koldo García; el PP la niega",
+      "que": "Según Europa Press, la portavoz del Gobierno, Elma Saiz, dijo en La Séptima que, «si es verdad», la presunta oferta de un millón de euros del PP a Koldo García a cambio de información contra el Ejecutivo sería «el mayor ataque a la democracia» reciente, y exigió explicaciones a Feijóo, como ya hizo Sánchez el jueves. El PP responde que es «absolutamente falso» y, por boca de Ester Muñoz, que «nunca» ofreció dinero. Koldo García cumple 19 años y 8 meses de prisión por el caso mascarillas, sentencia que recurre ante el Constitucional.",
+      "lectura": "Es un cruce de declaraciones políticas sobre una acusación no verificada judicialmente; el Gobierno la condiciona a que se demuestre y el PP y Durán se presumen inocentes. Nivel B (Europa Press)",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-gobierno-ve-presunta-oferta-millon-pp-koldo-garcia-mayor-ataque-reciente-democracia-20261106143229.html",
+        "https://www.europapress.es/nacional/noticia-ester-munoz-dice-pp-nunca-ofrecio-dinero-koldo-garcia-derrocar-sanc"
+      ]
+    },
+    {
+      "fecha": "2026-11-06",
       "titulo": "El PP lanza la campaña «El cambio necesario»: arranque en Badalona el 12-11 y programa electoral el martes 10",
       "que": "Según Europa Press y El Español, que recogen lo comunicado por el PP, Feijóo usará el lema «El cambio necesario». La campaña arrancará la noche del jueves 12 con la pegada de carteles en Badalona junto a Xavier García Albiol, y tendrá grandes actos en Santiago de Compostela (sábado 14) y en Valencia (sábado 21). El partido presentará su programa electoral para las generales el martes 10 de noviembre en Madrid, coordinado por Alma Ezcurra, y quiere centrar el debate en la gestión y marcar distancias con Vox.",
       "lectura": "Son anuncios de agenda y de estrategia del propio PP, no hechos verificados; el programa solo contará como publicado cuando se presente. Nivel B (Europa Press, El Español, que citan al partido)",

@@ -2,23 +2,24 @@
  "fecha": "2026-11-06",
  "media": {
   "pct": {
-   "PP": 31.02,
-   "PSOE": 26.9,
-   "VOX": 18.87,
-   "SUMAR": 6.16,
-   "PODEMOS": 2.01,
-   "SALF": 2.33,
-   "ERC": 2.46,
-   "JUNTS": 1.44,
-   "BILDU": 1.34,
+   "PP": 30.71,
+   "PSOE": 27.41,
+   "VOX": 18.65,
+   "SUMAR": 6.41,
+   "PODEMOS": 1.89,
+   "SALF": 2.22,
+   "ERC": 2.43,
+   "JUNTS": 1.45,
+   "BILDU": 1.35,
    "PNV": 0.87,
-   "BNG": 0.9,
-   "CC": 0.42,
+   "BNG": 0.89,
+   "CC": 0.43,
    "UPN": 0.06
   },
-  "ref": "2026-11-04",
+  "ref": "2026-11-05",
   "casas": [
    "Ateneo del Dato",
+   "Celeste-Tel",
    "Hamalgama Métrica",
    "IMOP Insights",
    "More in Common",
@@ -29,16 +30,16 @@
    "Sondaxe",
    "Target Point"
   ],
-  "n_encuestas": 37
+  "n_encuestas": 39
  },
  "escanos": {
-  "PP": 135,
-  "PSOE": 110,
-  "VOX": 68,
-  "SUMAR": 8,
+  "PP": 134,
+  "PSOE": 112,
+  "VOX": 67,
+  "SUMAR": 9,
   "PODEMOS": 0,
   "SALF": 0,
-  "ERC": 10,
+  "ERC": 9,
   "JUNTS": 5,
   "BILDU": 7,
   "PNV": 4,
@@ -48,20 +49,20 @@
  },
  "rango": {
   "PP": [
-   110,
-   153
+   109,
+   151
   ],
   "PSOE": [
-   91,
-   133
+   93,
+   136
   ],
   "VOX": [
-   52,
-   86
+   50,
+   85
   ],
   "SUMAR": [
-   4,
-   17
+   5,
+   18
   ],
   "PODEMOS": [
    0,
@@ -101,16 +102,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 95.1,
+  "pp_vox": 92.9,
   "pp_solo": 0.0,
-  "psoe_bloque": 3.2,
-  "bloqueo": 1.7
+  "psoe_bloque": 5.0,
+  "bloqueo": 2.1
  },
  "probs_extra": {
-  "ppvox": 95.1,
-  "bloque": 3.2,
-  "bloque_sin_junts": 1.4,
-  "pp_first": 83.7
+  "ppvox": 92.9,
+  "bloque": 5.0,
+  "bloque_sin_junts": 2.5,
+  "pp_first": 78.0
  },
  "semaforo_esp": {
   "S1": 1,
@@ -163,8 +164,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 283,
-  "ultimo": "El PP lanza la campaña «El cambio necesario»: arranque en Badalona el 12-11 y programa electoral el martes 10"
+  "n": 285,
+  "ultimo": "Sánchez retoma la precampaña en Valencia: defiende la dimisión de Puente y pide movilizar el voto el 29-N"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -172,6 +173,7 @@
   "40dB 2026-10-08",
   "Ateneo del Dato 2026-10-01",
   "Ateneo del Dato 2026-10-22",
+  "Celeste-Tel 2026-11-03",
   "DYM 2026-09-21",
   "DYM 2026-10-07",
   "Data10 2026-10-02",
@@ -191,6 +193,7 @@
   "NC Report 2026-10-24",
   "NC Report 2026-10-29",
   "SW Demoscopia 2026-11-04",
+  "SW Demoscopia 2026-11-05",
   "Sigma Dos 2026-10-01",
   "Sigma Dos 2026-10-22",
   "Sigma Dos 2026-10-30",
@@ -207,8 +210,39 @@
  ],
  "cambios": [
   {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: Celeste-Tel 2026-11-03."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: SW Demoscopia 2026-11-05."
+  },
+  {
+   "tipo": "media",
+   "texto": "PP baja en la media: 31,0 % → 30,7 %.",
+   "delta": -0.3,
+   "partido": "PP"
+  },
+  {
+   "tipo": "media",
+   "texto": "PSOE sube en la media: 26,9 % → 27,4 %.",
+   "delta": 0.5,
+   "partido": "PSOE"
+  },
+  {
+   "tipo": "escanos",
+   "texto": "PSOE: proyección de 110 a 112 escaños.",
+   "delta": 2,
+   "partido": "PSOE"
+  },
+  {
+   "tipo": "escanos",
+   "texto": "PP+Vox pasa de 203 a 201 escaños proyectados (mayoría: 176).",
+   "delta": -2
+  },
+  {
    "tipo": "diario",
-   "texto": "3 movimientos nuevos en el diario. Último: El PP lanza la campaña «El cambio necesario»: arranque en Badalona el 12-11 y programa electoral el martes 10."
+   "texto": "5 movimientos nuevos en el diario. Último: Sánchez retoma la precampaña en Valencia: defiende la dimisión de Puente y pide movilizar el voto el 29-N."
   }
  ]
 }

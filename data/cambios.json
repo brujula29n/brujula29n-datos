@@ -5,9 +5,46 @@
    "fecha": "2026-11-06",
    "items": [
     {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Celeste-Tel 2026-11-03.",
+     "texto_en": "New poll: Celeste-Tel 2026-11-03."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: SW Demoscopia 2026-11-05.",
+     "texto_en": "New poll: SW Demoscopia 2026-11-05."
+    },
+    {
+     "tipo": "media",
+     "texto": "PP baja en la media: 31,0 % → 30,7 %.",
+     "delta": -0.3,
+     "partido": "PP",
+     "texto_en": "PP falls in the poll average: 31.0% → 30.7%."
+    },
+    {
+     "tipo": "media",
+     "texto": "PSOE sube en la media: 26,9 % → 27,4 %.",
+     "delta": 0.5,
+     "partido": "PSOE",
+     "texto_en": "PSOE rises in the poll average: 26.9% → 27.4%."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "PSOE: proyección de 110 a 112 escaños.",
+     "delta": 2,
+     "partido": "PSOE",
+     "texto_en": "PSOE: projection from 110 to 112 seats."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "PP+Vox pasa de 203 a 201 escaños proyectados (mayoría: 176).",
+     "delta": -2,
+     "texto_en": "PP+Vox moves from 203 to 201 projected seats (majority: 176)."
+    },
+    {
      "tipo": "diario",
-     "texto": "3 movimientos nuevos en el diario. Último: El PP lanza la campaña «El cambio necesario»: arranque en Badalona el 12-11 y programa electoral el martes 10.",
-     "texto_en": "3 new entries in the campaign log (in Spanish)."
+     "texto": "5 movimientos nuevos en el diario. Último: Sánchez retoma la precampaña en Valencia: defiende la dimisión de Puente y pide movilizar el voto el 29-N.",
+     "texto_en": "5 new entries in the campaign log (in Spanish)."
     }
    ]
   },
@@ -1390,28 +1427,28 @@
   {
    "fecha": "2026-11-06",
    "media": {
-    "PP": 31.02,
-    "PSOE": 26.9,
-    "VOX": 18.87,
-    "SUMAR": 6.16,
-    "PODEMOS": 2.01,
-    "SALF": 2.33
+    "PP": 30.71,
+    "PSOE": 27.41,
+    "VOX": 18.65,
+    "SUMAR": 6.41,
+    "PODEMOS": 1.89,
+    "SALF": 2.22
    },
    "escanos": {
-    "PP": 135,
-    "PSOE": 110,
-    "VOX": 68,
-    "SUMAR": 8,
+    "PP": 134,
+    "PSOE": 112,
+    "VOX": 67,
+    "SUMAR": 9,
     "PODEMOS": 0
    },
-   "ppvox": 203,
+   "ppvox": 201,
    "probs": {
-    "pp_vox": 95.1,
+    "pp_vox": 92.9,
     "pp_solo": 0.0,
-    "psoe_bloque": 3.2,
-    "bloqueo": 1.7
+    "psoe_bloque": 5.0,
+    "bloqueo": 2.1
    },
-   "n_encuestas": 37
+   "n_encuestas": 39
   }
  ]
 }
