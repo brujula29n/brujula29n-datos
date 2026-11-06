@@ -1,7 +1,46 @@
 {
-  "actualizado": "2026-11-05",
+  "actualizado": "2026-11-06",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-06",
+      "titulo": "Koldo García acusa desde prisión al PP de ofrecerle un millón de euros por declarar contra Sánchez; el PP y su abogado lo niegan",
+      "que": "Según elDiario.es y El Español, que recogen audios enviados por Koldo García a la Cadena SER, el condenado sostiene que en mayo de 2025 el abogado Alberto Durán, entonces acusación popular del PP en la causa de las mascarillas, le ofreció pagar su defensa, un millón de euros y una reducción de pena a cambio de declarar contra Pedro Sánchez y su entorno, y señala a Eduardo Inda (OKDiario) como canal del dinero. El PP y Durán niegan las acusaciones; OKDiario sostiene que sus pagos (242.000 euros a un despacho, según facturas entregadas al juez Pedraz) responden a derechos para proyectos audiovisuales. Sánchez pidió explicaciones a Feijóo.",
+      "lectura": "Es la versión de un condenado (24 años y 3 meses, no firme: él y Ábalos piden amparo al Constitucional) y no consta verificación judicial; los acusados la niegan y se presumen inocentes. Lo comprobable es la entrega de las facturas al juez y la reacción política. Nivel B (elDiario.es, El Español)",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/sanchez-exige-explicaciones-feijoo-supuesto-soborno-koldo-garcia_1_13642109.html",
+        "https://www.elespanol.com/espana/20261106/koldo-abalos-entran-campana-acusando-pp-intentar-sobornarles-piden-amparo-constitucional/1003744447903_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-06",
+      "titulo": "Sánchez y Feijóo retoman la campaña tras el duelo por Urda: Valencia el viernes 6 y Valladolid el sábado 7",
+      "que": "Según 20minutos, Sánchez reaparecerá en un mitin en Valencia el viernes y Feijóo estará el sábado en Valladolid, tras suspenderse los actos por el accidente de Urda. El diario indica que ambos centrarán el mensaje en la gestión: el PSOE contrapondrá la dimisión de Puente a la actitud del PP con Mazón en la dana, y el PP apuntará a la gestión socialista.",
+      "lectura": "Son agendas anunciadas por los partidos y su interpretación es la del medio; los contenidos de los mítines no están aún verificados. Nivel B (20minutos)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/sanchez-feijoo-retoman-campana-valencia-valladolid-para-contraponer-sus-modelos-gestion_7057790_0.html"
+      ]
+    },
     {
       "fecha": "2026-11-05",
       "titulo": "Sánchez no asistirá al funeral de Estado del 10-11 en Toledo; Cuerpo y Tolón representarán al Gobierno",

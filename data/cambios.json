@@ -1,6 +1,16 @@
 {
- "actualizado": "2026-11-05",
+ "actualizado": "2026-11-06",
  "dias": [
+  {
+   "fecha": "2026-11-06",
+   "items": [
+    {
+     "tipo": "diario",
+     "texto": "2 movimientos nuevos en el diario. Último: Koldo García acusa desde prisión al PP de ofrecerle un millón de euros por declarar contra Sánchez; el PP y su abogado lo niegan.",
+     "texto_en": "2 new entries in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-05",
    "items": [
@@ -540,16 +550,6 @@
      "tipo": "diario",
      "texto": "15 movimientos nuevos en el diario. Último: La Abogacía del Estado pide al Supremo que levante la suspensión del voto de la 'ley de nietos'.",
      "texto_en": "15 new entries in the campaign log (in Spanish)."
-    }
-   ]
-  },
-  {
-   "fecha": "2026-10-07",
-   "items": [
-    {
-     "tipo": "diario",
-     "texto": "13 movimientos nuevos en el diario. Último: Muere Maricarmen, la mujer de 87 años desahuciada en Madrid.",
-     "texto_en": "13 new entries in the campaign log (in Spanish)."
     }
    ]
   }
@@ -1363,6 +1363,32 @@
   },
   {
    "fecha": "2026-11-05",
+   "media": {
+    "PP": 31.02,
+    "PSOE": 26.9,
+    "VOX": 18.87,
+    "SUMAR": 6.16,
+    "PODEMOS": 2.01,
+    "SALF": 2.33
+   },
+   "escanos": {
+    "PP": 135,
+    "PSOE": 110,
+    "VOX": 68,
+    "SUMAR": 8,
+    "PODEMOS": 0
+   },
+   "ppvox": 203,
+   "probs": {
+    "pp_vox": 95.1,
+    "pp_solo": 0.0,
+    "psoe_bloque": 3.2,
+    "bloqueo": 1.7
+   },
+   "n_encuestas": 37
+  },
+  {
+   "fecha": "2026-11-06",
    "media": {
     "PP": 31.02,
     "PSOE": 26.9,
