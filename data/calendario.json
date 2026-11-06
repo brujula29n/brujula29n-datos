@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05",
+  "actualizado": "2026-11-06",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -138,6 +138,16 @@
       "tipo": "voto",
       "estado": "previsto",
       "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+    },
+    {
+      "fecha": "2026-11-10",
+      "titulo": "El PP presenta su programa electoral para las generales",
+      "detalle": "Acto en Madrid con Feijóo y Alma Ezcurra, según Europa Press (anunciado por el PP).",
+      "tipo": "campana",
+      "estado": "previsto",
+      "src": [
+        "https://www.europapress.es/nacional/noticia-feijoo-elige-cambio-necesario-lema-campana-generales-arrancara-jueves-12-badalona-20261106130929.html"
+      ]
     },
     {
       "fecha": "2026-11-11",

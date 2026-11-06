@@ -4,6 +4,22 @@
   "entradas": [
     {
       "fecha": "2026-11-06",
+      "titulo": "El PP lanza la campaña «El cambio necesario»: arranque en Badalona el 12-11 y programa electoral el martes 10",
+      "que": "Según Europa Press y El Español, que recogen lo comunicado por el PP, Feijóo usará el lema «El cambio necesario». La campaña arrancará la noche del jueves 12 con la pegada de carteles en Badalona junto a Xavier García Albiol, y tendrá grandes actos en Santiago de Compostela (sábado 14) y en Valencia (sábado 21). El partido presentará su programa electoral para las generales el martes 10 de noviembre en Madrid, coordinado por Alma Ezcurra, y quiere centrar el debate en la gestión y marcar distancias con Vox.",
+      "lectura": "Son anuncios de agenda y de estrategia del propio PP, no hechos verificados; el programa solo contará como publicado cuando se presente. Nivel B (Europa Press, El Español, que citan al partido)",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-feijoo-elige-cambio-necesario-lema-campana-generales-arrancara-jueves-12-badalona-20261106130929.html",
+        "https://www.elespanol.com/espana/politica/20261106/feijoo-arrancara-badalona-albiol-campana-centrada-gestion-lema-cambio-necesario/1003744448966_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-06",
       "titulo": "Koldo García acusa desde prisión al PP de ofrecerle un millón de euros por declarar contra Sánchez; el PP y su abogado lo niegan",
       "que": "Según elDiario.es y El Español, que recogen audios enviados por Koldo García a la Cadena SER, el condenado sostiene que en mayo de 2025 el abogado Alberto Durán, entonces acusación popular del PP en la causa de las mascarillas, le ofreció pagar su defensa, un millón de euros y una reducción de pena a cambio de declarar contra Pedro Sánchez y su entorno, y señala a Eduardo Inda (OKDiario) como canal del dinero. El PP y Durán niegan las acusaciones; OKDiario sostiene que sus pagos (242.000 euros a un despacho, según facturas entregadas al juez Pedraz) responden a derechos para proyectos audiovisuales. Sánchez pidió explicaciones a Feijóo.",
       "lectura": "Es la versión de un condenado (24 años y 3 meses, no firme: él y Ábalos piden amparo al Constitucional) y no consta verificación judicial; los acusados la niegan y se presumen inocentes. Lo comprobable es la entrega de las facturas al juez y la reacción política. Nivel B (elDiario.es, El Español)",

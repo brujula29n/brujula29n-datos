@@ -163,8 +163,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 282,
-  "ultimo": "Koldo García acusa desde prisión al PP de ofrecerle un millón de euros por declarar contra Sánchez; el PP y su abogado lo niegan"
+  "n": 283,
+  "ultimo": "El PP lanza la campaña «El cambio necesario»: arranque en Badalona el 12-11 y programa electoral el martes 10"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -208,7 +208,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "2 movimientos nuevos en el diario. Último: Koldo García acusa desde prisión al PP de ofrecerle un millón de euros por declarar contra Sánchez; el PP y su abogado lo niegan."
+   "texto": "3 movimientos nuevos en el diario. Último: El PP lanza la campaña «El cambio necesario»: arranque en Badalona el 12-11 y programa electoral el martes 10."
   }
  ]
 }
