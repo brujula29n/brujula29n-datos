@@ -1,7 +1,41 @@
 {
-  "actualizado": "2026-11-06",
+  "actualizado": "2026-11-07",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-07",
+      "titulo": "Los debates siguen sin cerrarse: PP y PSOE discrepan sobre canal y formato del cara a cara y del debate a cuatro",
+      "que": "Según El Español, a una semana del inicio de la campaña no está cerrado el calendario de debates. El PP propone un debate a cuatro en Atresmedia el 26 de noviembre, abierto a modificarlo; el PSOE pide que se celebre en la televisión pública para que haya dos (uno en Antena 3 y otro en RTVE) y, según el diario, no ha respondido aún al cara a cara del lunes 16 en Mediaset, que Génova dice haber hablado con Telecinco. El diario cita al entorno de Sánchez, que prefiere negociarlo en privado y en bloque.",
+      "lectura": "Es una negociación en curso y el relato lo aporta un solo medio con fuentes de ambos partidos; matiza lo anotado el 22-10 (el PSOE aceptó entonces un cara a cara en privadas). No hay anuncio oficial de fechas. Nivel C (según El Español, que cita a Génova y al entorno de Sánchez)",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elespanol.com/espana/politica/20261107/sanchez-trata-eludir-cara-feijoo-telecinco-buscando-solo-debates-participe-abascal/1003744449829_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-07",
+      "titulo": "Un sondeo de SocioMétrica para El Español: el 62,8% cree que Puente dimitió por cálculo partidista y el 59,4% ve responsabilidad también en Sánchez",
+      "que": "Según el último sondeo de SocioMétrica para El Español, el 89,1% de los encuestados está de acuerdo con la dimisión de Óscar Puente (también el 71,3% de los votantes del PSOE), pero solo el 25,4% cree que dimitió para asumir su responsabilidad política; el 62,8% cree que lo hizo para no perjudicar al PSOE en las elecciones y el 59,4% opina que las responsabilidades por Urda «deberían afectar también» a Pedro Sánchez.",
+      "lectura": "Es una encuesta de opinión (no de intención de voto) encargada por el propio medio; no hemos consultado la ficha técnica, y las preguntas pueden condicionar el resultado. No equivale a una investigación de responsabilidades por el accidente, que sigue abierta. Nivel B (El Español/SocioMétrica)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elespanol.com/espana/politica/20261107/cree-oscar-puente-dimite-no-perjudicar-psoe-urnas-ve-sanchez-responsable/1003744449354_0.html"
+      ]
+    },
     {
       "fecha": "2026-11-06",
       "titulo": "Sánchez retoma la precampaña en Valencia: defiende la dimisión de Puente y pide movilizar el voto el 29-N",

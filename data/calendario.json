@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06",
+  "actualizado": "2026-11-07",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -110,10 +110,13 @@
     {
       "fecha": "2026-11-02",
       "titulo": "Proclamación de candidaturas",
-      "detalle": "Las Juntas Electorales Provinciales proclamaron las candidaturas el 2-11 y se publicaron en el BOE núm. 273 del 3-11 (BOE-A-2026-23103, 225 páginas). Sorteo de mesas electorales entre el 31 de octubre y el 4 de noviembre.",
+      "detalle": "Las Juntas Electorales Provinciales proclamaron las candidaturas el 2-11 y se publicaron en el BOE núm. 273 del 3-11 (BOE-A-2026-23103, 225 páginas). Sorteo de mesas electorales entre el 31 de octubre y el 4 de noviembre. El BOE del 7-11 publica una corrección de errores de las candidaturas (BOE-A-2026-23383), que afecta a la candidatura de EH Bildu-ERC y a la de Frente Amplio-Fronte Zabala.",
       "tipo": "legal",
       "estado": "hecho",
-      "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103"
+      "src": [
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103",
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23383"
+      ]
     },
     {
       "fecha": "2026-11-03",
@@ -152,10 +155,13 @@
     {
       "fecha": "2026-11-11",
       "titulo": "Huelga general por la vivienda",
-      "detalle": "Fecha confirmada por UGT (Pepe Álvarez) y propuesta por la Confederación de Sindicatos de Inquilinas; dos días antes del inicio de la campaña.",
+      "detalle": "Fecha confirmada por UGT (Pepe Álvarez) y propuesta por la Confederación de Sindicatos de Inquilinas; dos días antes del inicio de la campaña. El BOE del 7-11 publica la Orden TED/1180/2026 de servicios mínimos para el suministro eléctrico ante la huelga general del 11-11 convocada por CGT, Intersindical, CCOO y UGT (de 0:00 a 24:00).",
       "tipo": "politico",
       "estado": "previsto",
-      "src": "https://www.20minutos.es/nacional/los-sindicatos-inquilinas-proponen-11-noviembre-para-celebrar-huelga-general-por-vivienda_7045934_0.html"
+      "src": [
+        "https://www.20minutos.es/nacional/los-sindicatos-inquilinas-proponen-11-noviembre-para-celebrar-huelga-general-por-vivienda_7045934_0.html",
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23371"
+      ]
     },
     {
       "fecha": "2026-11-12",

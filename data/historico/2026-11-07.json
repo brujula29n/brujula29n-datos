@@ -1,0 +1,217 @@
+{
+ "fecha": "2026-11-07",
+ "media": {
+  "pct": {
+   "PP": 30.71,
+   "PSOE": 27.41,
+   "VOX": 18.65,
+   "SUMAR": 6.41,
+   "PODEMOS": 1.89,
+   "SALF": 2.22,
+   "ERC": 2.43,
+   "JUNTS": 1.45,
+   "BILDU": 1.35,
+   "PNV": 0.87,
+   "BNG": 0.89,
+   "CC": 0.43,
+   "UPN": 0.06
+  },
+  "ref": "2026-11-05",
+  "casas": [
+   "Ateneo del Dato",
+   "Celeste-Tel",
+   "Hamalgama Métrica",
+   "IMOP Insights",
+   "More in Common",
+   "NC Report",
+   "SW Demoscopia",
+   "Sigma Dos",
+   "SocioMétrica",
+   "Sondaxe",
+   "Target Point"
+  ],
+  "n_encuestas": 39
+ },
+ "escanos": {
+  "PP": 134,
+  "PSOE": 112,
+  "VOX": 67,
+  "SUMAR": 9,
+  "PODEMOS": 0,
+  "SALF": 0,
+  "ERC": 9,
+  "JUNTS": 5,
+  "BILDU": 7,
+  "PNV": 4,
+  "BNG": 2,
+  "CC": 1,
+  "UPN": 0
+ },
+ "rango": {
+  "PP": [
+   109,
+   151
+  ],
+  "PSOE": [
+   93,
+   136
+  ],
+  "VOX": [
+   50,
+   85
+  ],
+  "SUMAR": [
+   5,
+   18
+  ],
+  "PODEMOS": [
+   0,
+   2
+  ],
+  "SALF": [
+   0,
+   2
+  ],
+  "ERC": [
+   7,
+   13
+  ],
+  "JUNTS": [
+   3,
+   8
+  ],
+  "BILDU": [
+   5,
+   10
+  ],
+  "PNV": [
+   2,
+   6
+  ],
+  "BNG": [
+   1,
+   5
+  ],
+  "CC": [
+   0,
+   3
+  ],
+  "UPN": [
+   0,
+   1
+  ]
+ },
+ "probs": {
+  "pp_vox": 92.9,
+  "pp_solo": 0.0,
+  "psoe_bloque": 5.0,
+  "bloqueo": 2.1
+ },
+ "probs_extra": {
+  "ppvox": 92.9,
+  "bloque": 5.0,
+  "bloque_sin_junts": 2.5,
+  "pp_first": 78.0
+ },
+ "semaforo_esp": {
+  "S1": 1,
+  "S2": 1,
+  "S3": 1,
+  "S4": 2,
+  "S5": 2,
+  "S6": 2,
+  "S7": 2,
+  "S8": 1,
+  "S9": 2,
+  "S10": 1,
+  "S11": 2,
+  "S12": 0,
+  "S13": 0
+ },
+ "problemas": {
+  "vivienda": "+12,2 %",
+  "empleo_salarios": "9,87 %",
+  "coste_vida": "4,9 %",
+  "inmigracion_seguridad": "14,9 %",
+  "sanidad_dependencia": "853.509",
+  "deuda_fiscalidad_pensiones": "101,4 %",
+  "instituciones_corrupcion": "0",
+  "territorial": "6-4 y Gran Sala",
+  "educacion_juventud": "12,8 %"
+ },
+ "programas": {
+  "PP": null,
+  "PSOE": null,
+  "VOX": null,
+  "SUMAR": null,
+  "PODEMOS": null,
+  "SALF": null,
+  "JUNTS": null,
+  "ERC": null,
+  "BILDU": null,
+  "PNV": null
+ },
+ "lideres": {
+  "PSOE": "Pedro Sánchez",
+  "PP": "Alberto Núñez Feijóo",
+  "VOX": "Santiago Abascal",
+  "SUMAR": "Sin decidir (17 de octubre)",
+  "PODEMOS": "Irene Montero",
+  "SALF": "Alvise Pérez",
+  "JUNTS": "Míriam Nogueras",
+  "ERC": "Gabriel Rufián",
+  "BILDU": "Por designar",
+  "PNV": "Sin candidato (Esteban no repite)"
+ },
+ "diario": {
+  "n": 287,
+  "ultimo": "Los debates siguen sin cerrarse: PP y PSOE discrepan sobre canal y formato del cara a cara y del debate a cuatro"
+ },
+ "casas": [
+  "40dB 2026-09-02",
+  "40dB 2026-09-28",
+  "40dB 2026-10-08",
+  "Ateneo del Dato 2026-10-01",
+  "Ateneo del Dato 2026-10-22",
+  "Celeste-Tel 2026-11-03",
+  "DYM 2026-09-21",
+  "DYM 2026-10-07",
+  "Data10 2026-10-02",
+  "Electomanía (ElectoPanel) 2026-10-03",
+  "GAD3 2026-09-03",
+  "GAD3 2026-10-08",
+  "GESOP 2026-07-09",
+  "GESOP 2026-10-08",
+  "Hamalgama Métrica 2026-09-08",
+  "Hamalgama Métrica 2026-10-08",
+  "Hamalgama Métrica 2026-10-28",
+  "IMOP Insights 2026-10-07",
+  "IMOP Insights 2026-10-16",
+  "More in Common 2026-10-25",
+  "NC Report 2026-09-03",
+  "NC Report 2026-10-06",
+  "NC Report 2026-10-24",
+  "NC Report 2026-10-29",
+  "SW Demoscopia 2026-11-04",
+  "SW Demoscopia 2026-11-05",
+  "Sigma Dos 2026-10-01",
+  "Sigma Dos 2026-10-22",
+  "Sigma Dos 2026-10-30",
+  "SocioMétrica 2026-09-26",
+  "SocioMétrica 2026-10-03",
+  "SocioMétrica 2026-10-11",
+  "SocioMétrica 2026-10-25",
+  "SocioMétrica 2026-10-31",
+  "Sondaxe 2026-10-28",
+  "Target Point 2026-09-10",
+  "Target Point 2026-10-09",
+  "Target Point 2026-10-30",
+  "Winston 2026-10-01"
+ ],
+ "cambios": [
+  {
+   "tipo": "diario",
+   "texto": "2 movimientos nuevos en el diario. Último: Los debates siguen sin cerrarse: PP y PSOE discrepan sobre canal y formato del cara a cara y del debate a cuatro."
+  }
+ ]
+}

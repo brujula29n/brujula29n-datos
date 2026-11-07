@@ -1,6 +1,16 @@
 {
- "actualizado": "2026-11-06",
+ "actualizado": "2026-11-07",
  "dias": [
+  {
+   "fecha": "2026-11-07",
+   "items": [
+    {
+     "tipo": "diario",
+     "texto": "2 movimientos nuevos en el diario. Último: Los debates siguen sin cerrarse: PP y PSOE discrepan sobre canal y formato del cara a cara y del debate a cuatro.",
+     "texto_en": "2 new entries in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-06",
    "items": [
@@ -572,21 +582,6 @@
      "tipo": "diario",
      "texto": "7 movimientos nuevos en el diario. Último: El voto en el exterior crece en 444.335 electores, ligado a la 'ley de nietos'.",
      "texto_en": "7 new entries in the campaign log (in Spanish)."
-    }
-   ]
-  },
-  {
-   "fecha": "2026-10-08",
-   "items": [
-    {
-     "tipo": "encuesta",
-     "texto": "Nueva encuesta: NC Report 2026-10-06.",
-     "texto_en": "New poll: NC Report 2026-10-06."
-    },
-    {
-     "tipo": "diario",
-     "texto": "15 movimientos nuevos en el diario. Último: La Abogacía del Estado pide al Supremo que levante la suspensión del voto de la 'ley de nietos'.",
-     "texto_en": "15 new entries in the campaign log (in Spanish)."
     }
    ]
   }
@@ -1426,6 +1421,32 @@
   },
   {
    "fecha": "2026-11-06",
+   "media": {
+    "PP": 30.71,
+    "PSOE": 27.41,
+    "VOX": 18.65,
+    "SUMAR": 6.41,
+    "PODEMOS": 1.89,
+    "SALF": 2.22
+   },
+   "escanos": {
+    "PP": 134,
+    "PSOE": 112,
+    "VOX": 67,
+    "SUMAR": 9,
+    "PODEMOS": 0
+   },
+   "ppvox": 201,
+   "probs": {
+    "pp_vox": 92.9,
+    "pp_solo": 0.0,
+    "psoe_bloque": 5.0,
+    "bloqueo": 2.1
+   },
+   "n_encuestas": 39
+  },
+  {
+   "fecha": "2026-11-07",
    "media": {
     "PP": 30.71,
     "PSOE": 27.41,
