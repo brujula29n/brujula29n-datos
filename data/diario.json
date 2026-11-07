@@ -4,6 +4,41 @@
   "entradas": [
     {
       "fecha": "2026-11-07",
+      "titulo": "El Gobierno convoca el martes 10 la Comisión Interministerial de Inmigración por la llegada de cayucos a Canarias",
+      "que": "Según El Español, que cita fuentes del Ministerio de Política Territorial, el ministro Ángel Víctor Torres presidirá el martes 10 en Moncloa, antes del Consejo de Ministros, la Comisión Interministerial de Inmigración, con asistencia extraordinaria del presidente canario, Fernando Clavijo, y del presidente del Cabildo de El Hierro, Alpidio Armas. El Gobierno de Canarias calcula que entre el 1 y el 6 de noviembre llegaron al archipiélago 49 embarcaciones con 4.587 personas, 35 de ellas a El Hierro.",
+      "lectura": "La convocatoria es una decisión de agenda del Gobierno; las cifras de llegadas son del Ejecutivo canario, no de Interior, y no hemos contrastado el recuento oficial. No consta aún qué medidas se tratarán. Nivel B (El Español, con fuentes del Ministerio de Política Territorial y datos del Gobierno de Canarias)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elespanol.com/espana/politica/20261107/sanchez-reune-comision-inmigracion-abordar-crisis-migratoria-canarias-llegada-migrantes/1003744450211_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-07",
+      "titulo": "Sánchez, en Tarragona: atribuye al «recorte» de inversión ferroviaria de la etapa de Rajoy parte de la lección de Urda y pide movilizar el voto",
+      "que": "Según 20minutos y elDiario.es, Pedro Sánchez dijo en un acto en Tarragona (unas 2.000 personas, junto a Salvador Illa y Jordi Hereu) que «hemos tardado 15 años en revertir los recortes en inversión en infraestructuras ferroviarias» tras la «respuesta equivocada neoliberal» a la crisis de 2010, defendió que su Gobierno «dio la cara» tras el accidente de Urda y pidió una mayoría «amplia y progresista» y movilización el 29 de noviembre.",
+      "lectura": "Es la valoración del presidente en un acto de partido; no consta en las fuentes un dato técnico que vincule el accidente de Urda con esa inversión, y la investigación sobre sus causas sigue abierta. Nivel B (20minutos, elDiario.es)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/sanchez-culpa-los-accidentes-trenes-los-recortes-rajoy-pide-votar-como-eeuu-tenemos-papa-punki_7058507_0.html",
+        "https://www.eldiario.es/politica/sanchez-pide-mayoria-amplia-progresista-desmoronamiento-ola-ultraderechista_1_13646333.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-07",
       "titulo": "Los debates siguen sin cerrarse: PP y PSOE discrepan sobre canal y formato del cara a cara y del debate a cuatro",
       "que": "Según El Español, a una semana del inicio de la campaña no está cerrado el calendario de debates. El PP propone un debate a cuatro en Atresmedia el 26 de noviembre, abierto a modificarlo; el PSOE pide que se celebre en la televisión pública para que haya dos (uno en Antena 3 y otro en RTVE) y, según el diario, no ha respondido aún al cara a cara del lunes 16 en Mediaset, que Génova dice haber hablado con Telecinco. El diario cita al entorno de Sánchez, que prefiere negociarlo en privado y en bloque.",
       "lectura": "Es una negociación en curso y el relato lo aporta un solo medio con fuentes de ambos partidos; matiza lo anotado el 22-10 (el PSOE aceptó entonces un cara a cara en privadas). No hay anuncio oficial de fechas. Nivel C (según El Español, que cita a Génova y al entorno de Sánchez)",
