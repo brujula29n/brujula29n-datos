@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-11-07",
+ "actualizado": "2026-11-08",
  "dias": [
+  {
+   "fecha": "2026-11-08",
+   "items": [
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: SW Demoscopia 2026-11-06.",
+     "texto_en": "New poll: SW Demoscopia 2026-11-06."
+    },
+    {
+     "tipo": "media",
+     "texto": "PSOE sube en la media: 27,4 % → 27,9 %.",
+     "delta": 0.5,
+     "partido": "PSOE",
+     "texto_en": "PSOE rises in the poll average: 27.4% → 27.9%."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "PP: proyección de 134 a 132 escaños.",
+     "delta": -2,
+     "partido": "PP",
+     "texto_en": "PP: projection from 134 to 132 seats."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "PSOE: proyección de 112 a 114 escaños.",
+     "delta": 2,
+     "partido": "PSOE",
+     "texto_en": "PSOE: projection from 112 to 114 seats."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "PP+Vox pasa de 201 a 198 escaños proyectados (mayoría: 176).",
+     "delta": -3,
+     "texto_en": "PP+Vox moves from 201 to 198 projected seats (majority: 176)."
+    },
+    {
+     "tipo": "diario",
+     "texto": "1 movimiento nuevo en el diario. Último: Feijóo, en El País: una coalición con Vox «no depende de mí»; descarta pedir la abstención del PSOE.",
+     "texto_en": "1 new entry in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-07",
    "items": [
@@ -543,45 +585,6 @@
      "tipo": "diario",
      "texto": "8 movimientos nuevos en el diario. Último: Senado: el 29-N se eligen 208 de 266 escaños; el PP parte con 23 designados y el PSOE con 19.",
      "texto_en": "8 new entries in the campaign log (in Spanish)."
-    }
-   ]
-  },
-  {
-   "fecha": "2026-10-09",
-   "items": [
-    {
-     "tipo": "encuesta",
-     "texto": "Nueva encuesta: 40dB 2026-10-08.",
-     "texto_en": "New poll: 40dB 2026-10-08."
-    },
-    {
-     "tipo": "encuesta",
-     "texto": "Nueva encuesta: DYM 2026-10-07.",
-     "texto_en": "New poll: DYM 2026-10-07."
-    },
-    {
-     "tipo": "encuesta",
-     "texto": "Nueva encuesta: IMOP Insights 2026-10-07.",
-     "texto_en": "New poll: IMOP Insights 2026-10-07."
-    },
-    {
-     "tipo": "media",
-     "texto": "PSOE sube en la media: 26,2 % → 26,6 %.",
-     "delta": 0.4,
-     "partido": "PSOE",
-     "texto_en": "PSOE rises in the poll average: 26.2% → 26.6%."
-    },
-    {
-     "tipo": "escanos",
-     "texto": "PSOE: proyección de 106 a 108 escaños.",
-     "delta": 2,
-     "partido": "PSOE",
-     "texto_en": "PSOE: projection from 106 to 108 seats."
-    },
-    {
-     "tipo": "diario",
-     "texto": "7 movimientos nuevos en el diario. Último: El voto en el exterior crece en 444.335 electores, ligado a la 'ley de nietos'.",
-     "texto_en": "7 new entries in the campaign log (in Spanish)."
     }
    ]
   }
@@ -1470,6 +1473,32 @@
     "bloqueo": 2.1
    },
    "n_encuestas": 39
+  },
+  {
+   "fecha": "2026-11-08",
+   "media": {
+    "PP": 30.43,
+    "PSOE": 27.92,
+    "VOX": 18.44,
+    "SUMAR": 6.61,
+    "PODEMOS": 1.87,
+    "SALF": 2.19
+   },
+   "escanos": {
+    "PP": 132,
+    "PSOE": 114,
+    "VOX": 66,
+    "SUMAR": 9,
+    "PODEMOS": 0
+   },
+   "ppvox": 198,
+   "probs": {
+    "pp_vox": 90.4,
+    "pp_solo": 0.0,
+    "psoe_bloque": 7.2,
+    "bloqueo": 2.4
+   },
+   "n_encuestas": 40
   }
  ]
 }

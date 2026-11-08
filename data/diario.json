@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-11-07",
+  "actualizado": "2026-11-08",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-08",
+      "titulo": "Feijóo, en El País: una coalición con Vox «no depende de mí»; descarta pedir la abstención del PSOE",
+      "que": "En una entrevista publicada por El País, Alberto Núñez Feijóo afirma que «hacer una coalición de Gobierno con Vox no depende de mí», dice que antepone lograr una mayoría suficiente en las urnas y evitar socios en el Consejo de Ministros, y descarta pedir la abstención del PSOE para gobernar sin Vox: «¿Al PSOE de Sánchez? Sí, hombre. Mi grado de ingenuidad, a mi edad y con mi experiencia, no me lo permiten». El diario señala que las encuestas lo sitúan como primera fuerza pero con necesidad de apoyo de Vox para gobernar.",
+      "lectura": "Son declaraciones del candidato en una entrevista, no un compromiso formal ni un pacto; el diario añade que detalla líneas rojas, que no hemos podido leer completas por estar tras acceso de pago. Nivel B (entrevista en El País, lectura parcial)",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://elpais.com/espana/2026-11-08/alberto-nunez-feijoo-hacer-una-coalicion-de-gobierno-con-vox-no-depende-de-mi.html"
+      ]
+    },
     {
       "fecha": "2026-11-07",
       "titulo": "El Gobierno convoca el martes 10 la Comisión Interministerial de Inmigración por la llegada de cayucos a Canarias",
