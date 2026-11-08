@@ -2,21 +2,21 @@
  "fecha": "2026-11-08",
  "media": {
   "pct": {
-   "PP": 30.34,
-   "PSOE": 27.76,
-   "VOX": 18.54,
-   "SUMAR": 6.73,
-   "PODEMOS": 1.85,
-   "SALF": 2.08,
-   "ERC": 2.5,
-   "JUNTS": 1.38,
-   "BILDU": 1.37,
+   "PP": 30.73,
+   "PSOE": 27.57,
+   "VOX": 18.65,
+   "SUMAR": 6.69,
+   "PODEMOS": 1.73,
+   "SALF": 2.12,
+   "ERC": 2.54,
+   "JUNTS": 1.36,
+   "BILDU": 1.4,
    "PNV": 0.83,
-   "BNG": 0.93,
+   "BNG": 0.95,
    "CC": 0.44,
    "UPN": 0.06
   },
-  "ref": "2026-11-06",
+  "ref": "2026-11-08",
   "casas": [
    "Ateneo del Dato",
    "Celeste-Tel",
@@ -30,13 +30,13 @@
    "Sondaxe",
    "Target Point"
   ],
-  "n_encuestas": 42
+  "n_encuestas": 45
  },
  "escanos": {
-  "PP": 130,
-  "PSOE": 114,
+  "PP": 133,
+  "PSOE": 112,
   "VOX": 67,
-  "SUMAR": 10,
+  "SUMAR": 9,
   "PODEMOS": 0,
   "SALF": 0,
   "ERC": 10,
@@ -49,15 +49,15 @@
  },
  "rango": {
   "PP": [
-   107,
-   149
+   108,
+   150
   ],
   "PSOE": [
-   95,
-   137
+   93,
+   136
   ],
   "VOX": [
-   49,
+   50,
    84
   ],
   "SUMAR": [
@@ -73,7 +73,7 @@
    2
   ],
   "ERC": [
-   7,
+   8,
    13
   ],
   "JUNTS": [
@@ -81,16 +81,16 @@
    8
   ],
   "BILDU": [
-   5,
-   10
+   6,
+   11
   ],
   "PNV": [
    1,
    6
   ],
   "BNG": [
-   1,
-   5
+   2,
+   6
   ],
   "CC": [
    1,
@@ -102,16 +102,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 90.7,
+  "pp_vox": 92.3,
   "pp_solo": 0.0,
-  "psoe_bloque": 7.1,
-  "bloqueo": 2.3
+  "psoe_bloque": 5.3,
+  "bloqueo": 2.4
  },
  "probs_extra": {
-  "ppvox": 90.7,
-  "bloque": 7.1,
-  "bloque_sin_junts": 3.6,
-  "pp_first": 72.5
+  "ppvox": 92.3,
+  "bloque": 5.3,
+  "bloque_sin_junts": 3.0,
+  "pp_first": 76.9
  },
  "semaforo_esp": {
   "S1": 1,
@@ -173,6 +173,7 @@
   "40dB 2026-10-08",
   "Ateneo del Dato 2026-10-01",
   "Ateneo del Dato 2026-10-22",
+  "Ateneo del Dato 2026-11-05",
   "Celeste-Tel 2026-11-03",
   "DYM 2026-09-21",
   "DYM 2026-10-07",
@@ -199,11 +200,13 @@
   "Sigma Dos 2026-10-01",
   "Sigma Dos 2026-10-22",
   "Sigma Dos 2026-10-30",
+  "Sigma Dos 2026-11-06",
   "SocioMétrica 2026-09-26",
   "SocioMétrica 2026-10-03",
   "SocioMétrica 2026-10-11",
   "SocioMétrica 2026-10-25",
   "SocioMétrica 2026-10-31",
+  "SocioMétrica 2026-11-08",
   "Sondaxe 2026-10-28",
   "Sondaxe 2026-11-04",
   "Target Point 2026-09-10",
@@ -214,6 +217,10 @@
  "cambios": [
   {
    "tipo": "encuesta",
+   "texto": "Nueva encuesta: Ateneo del Dato 2026-11-05."
+  },
+  {
+   "tipo": "encuesta",
    "texto": "Nueva encuesta: IMOP Insights 2026-11-06."
   },
   {
@@ -222,42 +229,15 @@
   },
   {
    "tipo": "encuesta",
+   "texto": "Nueva encuesta: Sigma Dos 2026-11-06."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: SocioMétrica 2026-11-08."
+  },
+  {
+   "tipo": "encuesta",
    "texto": "Nueva encuesta: Sondaxe 2026-11-04."
-  },
-  {
-   "tipo": "media",
-   "texto": "PP baja en la media: 30,7 % → 30,3 %.",
-   "delta": -0.4,
-   "partido": "PP"
-  },
-  {
-   "tipo": "media",
-   "texto": "PSOE sube en la media: 27,4 % → 27,8 %.",
-   "delta": 0.4,
-   "partido": "PSOE"
-  },
-  {
-   "tipo": "media",
-   "texto": "Sumar/FA sube en la media: 6,4 % → 6,7 %.",
-   "delta": 0.3,
-   "partido": "SUMAR"
-  },
-  {
-   "tipo": "escanos",
-   "texto": "PP: proyección de 134 a 130 escaños.",
-   "delta": -4,
-   "partido": "PP"
-  },
-  {
-   "tipo": "escanos",
-   "texto": "PSOE: proyección de 112 a 114 escaños.",
-   "delta": 2,
-   "partido": "PSOE"
-  },
-  {
-   "tipo": "escanos",
-   "texto": "PP+Vox pasa de 201 a 197 escaños proyectados (mayoría: 176).",
-   "delta": -4
   },
   {
    "tipo": "diario",
