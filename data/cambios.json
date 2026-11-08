@@ -6,22 +6,46 @@
    "items": [
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: IMOP Insights 2026-11-06.",
+     "texto_en": "New poll: IMOP Insights 2026-11-06."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: SW Demoscopia 2026-11-06.",
      "texto_en": "New poll: SW Demoscopia 2026-11-06."
     },
     {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Sondaxe 2026-11-04.",
+     "texto_en": "New poll: Sondaxe 2026-11-04."
+    },
+    {
      "tipo": "media",
-     "texto": "PSOE sube en la media: 27,4 % → 27,9 %.",
-     "delta": 0.5,
+     "texto": "PP baja en la media: 30,7 % → 30,3 %.",
+     "delta": -0.4,
+     "partido": "PP",
+     "texto_en": "PP falls in the poll average: 30.7% → 30.3%."
+    },
+    {
+     "tipo": "media",
+     "texto": "PSOE sube en la media: 27,4 % → 27,8 %.",
+     "delta": 0.4,
      "partido": "PSOE",
-     "texto_en": "PSOE rises in the poll average: 27.4% → 27.9%."
+     "texto_en": "PSOE rises in the poll average: 27.4% → 27.8%."
+    },
+    {
+     "tipo": "media",
+     "texto": "Sumar/FA sube en la media: 6,4 % → 6,7 %.",
+     "delta": 0.3,
+     "partido": "SUMAR",
+     "texto_en": "Sumar/FA rises in the poll average: 6.4% → 6.7%."
     },
     {
      "tipo": "escanos",
-     "texto": "PP: proyección de 134 a 132 escaños.",
-     "delta": -2,
+     "texto": "PP: proyección de 134 a 130 escaños.",
+     "delta": -4,
      "partido": "PP",
-     "texto_en": "PP: projection from 134 to 132 seats."
+     "texto_en": "PP: projection from 134 to 130 seats."
     },
     {
      "tipo": "escanos",
@@ -32,9 +56,9 @@
     },
     {
      "tipo": "escanos",
-     "texto": "PP+Vox pasa de 201 a 198 escaños proyectados (mayoría: 176).",
-     "delta": -3,
-     "texto_en": "PP+Vox moves from 201 to 198 projected seats (majority: 176)."
+     "texto": "PP+Vox pasa de 201 a 197 escaños proyectados (mayoría: 176).",
+     "delta": -4,
+     "texto_en": "PP+Vox moves from 201 to 197 projected seats (majority: 176)."
     },
     {
      "tipo": "diario",
@@ -1477,28 +1501,28 @@
   {
    "fecha": "2026-11-08",
    "media": {
-    "PP": 30.43,
-    "PSOE": 27.92,
-    "VOX": 18.44,
-    "SUMAR": 6.61,
-    "PODEMOS": 1.87,
-    "SALF": 2.19
+    "PP": 30.34,
+    "PSOE": 27.76,
+    "VOX": 18.54,
+    "SUMAR": 6.73,
+    "PODEMOS": 1.85,
+    "SALF": 2.08
    },
    "escanos": {
-    "PP": 132,
+    "PP": 130,
     "PSOE": 114,
-    "VOX": 66,
-    "SUMAR": 9,
+    "VOX": 67,
+    "SUMAR": 10,
     "PODEMOS": 0
    },
-   "ppvox": 198,
+   "ppvox": 197,
    "probs": {
-    "pp_vox": 90.4,
+    "pp_vox": 90.7,
     "pp_solo": 0.0,
-    "psoe_bloque": 7.2,
-    "bloqueo": 2.4
+    "psoe_bloque": 7.1,
+    "bloqueo": 2.3
    },
-   "n_encuestas": 40
+   "n_encuestas": 42
   }
  ]
 }
