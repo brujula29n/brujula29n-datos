@@ -56,17 +56,17 @@
     "metodo": "Media de las encuestas privadas con campo en los últimos 21 días, ponderada por tamaño muestral (raíz cuadrada) y antigüedad (semivida 10 días). El CIS se muestra aparte por su desviación sistemática documentada; los paneles online autoseleccionados ponderan a la mitad.",
     "fecha": "2026-11-08",
     "pct": {
-      "PP": 30.73,
-      "PSOE": 27.57,
-      "VOX": 18.65,
-      "SUMAR": 6.69,
-      "PODEMOS": 1.73,
+      "PP": 30.83,
+      "PSOE": 27.49,
+      "VOX": 18.68,
+      "SUMAR": 6.7,
+      "PODEMOS": 1.75,
       "SALF": 2.12,
-      "ERC": 2.54,
-      "JUNTS": 1.36,
+      "ERC": 2.51,
+      "JUNTS": 1.38,
       "BILDU": 1.4,
       "PNV": 0.83,
-      "BNG": 0.95,
+      "BNG": 0.94,
       "CC": 0.44,
       "UPN": 0.06
     },
@@ -119,6 +119,32 @@
     }
   ],
   "encuestas": [
+    {
+      "casa": "NC Report",
+      "medio": "La Razón",
+      "tipo": "privada",
+      "campo_ini": "2026-11-02",
+      "campo_fin": "2026-11-05",
+      "n": 1000,
+      "pct": {
+        "PP": 33.0,
+        "PSOE": 25.6,
+        "VOX": 19.3,
+        "SUMAR": 6.9,
+        "PODEMOS": 2.4,
+        "SALF": null,
+        "ERC": 2.0,
+        "JUNTS": 1.8,
+        "BILDU": 1.4,
+        "PNV": 0.9,
+        "BNG": 0.8,
+        "CC": 0.4,
+        "UPN": null
+      },
+      "esc": null,
+      "nota": "Telefónico + online; margen ±3,1 % según la ficha de Electográfica (verificar). No se anotan escaños: el gráfico da horquillas (PP 138/140, PSOE 99/101, VOX 67/69, FA 9/10) y el texto da PP 136-138, sin cuadrar entre sí. PP incluye UPN; FA con Compromís-FV y UPC. Además Adelante Andalucía 1,2 %. SALF figura con 0 y no se anota. Participación estimada 64,3 %.",
+      "url": "https://www.electografica.com/2026/11/encuesta-nc-report-261109.html"
+    },
     {
       "casa": "SocioMétrica",
       "medio": "El Español",

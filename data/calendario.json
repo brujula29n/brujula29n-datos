@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08",
+  "actualizado": "2026-11-09",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -141,6 +141,16 @@
       "tipo": "voto",
       "estado": "previsto",
       "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+    },
+    {
+      "fecha": "2026-11-09",
+      "titulo": "Entrevista a Abascal en «La Revuelta» (TVE, 21:45)",
+      "detalle": "Emisión prevista el lunes 9-11, según 20minutos; el público no será el habitual del programa, según Vertele citado por ese diario.",
+      "tipo": "politico",
+      "estado": "previsto",
+      "src": [
+        "https://www.20minutos.es/nacional/broncano-recibe-abascal-revuelta-todo-sabe-entrevista-gobierno-lleva-dias-calentando_7058750_0.html"
+      ]
     },
     {
       "fecha": "2026-11-10",
