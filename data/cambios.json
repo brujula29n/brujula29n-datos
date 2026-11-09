@@ -6,6 +6,21 @@
    "items": [
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: 40dB 2026-11-04.",
+     "texto_en": "New poll: 40dB 2026-11-04."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Data10 2026-11-03.",
+     "texto_en": "New poll: Data10 2026-11-03."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: GAD3 2026-11-05.",
+     "texto_en": "New poll: GAD3 2026-11-05."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: NC Report 2026-11-05.",
      "texto_en": "New poll: NC Report 2026-11-05."
     }
@@ -1501,28 +1516,28 @@
   {
    "fecha": "2026-11-09",
    "media": {
-    "PP": 30.83,
-    "PSOE": 27.49,
+    "PP": 30.99,
+    "PSOE": 27.43,
     "VOX": 18.68,
-    "SUMAR": 6.7,
-    "PODEMOS": 1.75,
-    "SALF": 2.12
+    "SUMAR": 6.64,
+    "PODEMOS": 1.76,
+    "SALF": 2.01
    },
    "escanos": {
-    "PP": 133,
+    "PP": 134,
     "PSOE": 112,
-    "VOX": 67,
+    "VOX": 66,
     "SUMAR": 9,
     "PODEMOS": 0
    },
    "ppvox": 200,
    "probs": {
-    "pp_vox": 92.8,
+    "pp_vox": 93.5,
     "pp_solo": 0.0,
-    "psoe_bloque": 5.1,
-    "bloqueo": 2.1
+    "psoe_bloque": 4.7,
+    "bloqueo": 1.9
    },
-   "n_encuestas": 46
+   "n_encuestas": 49
   }
  ]
 }
