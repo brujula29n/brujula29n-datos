@@ -167,8 +167,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 292,
-  "ultimo": "Sánchez se compromete en Bilbao a subir el SMI cada año y a blindar en la Constitución las pensiones y el aborto"
+  "n": 294,
+  "ultimo": "Gamarra (PP) reconoce la reunión entre el abogado del PP y Koldo García, pero niega que hubiera oferta de dinero"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -237,6 +237,10 @@
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: NC Report 2026-11-05."
+  },
+  {
+   "tipo": "diario",
+   "texto": "2 movimientos nuevos en el diario. Último: Gamarra (PP) reconoce la reunión entre el abogado del PP y Koldo García, pero niega que hubiera oferta de dinero."
   }
  ]
 }

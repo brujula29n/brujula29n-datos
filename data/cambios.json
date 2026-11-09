@@ -23,6 +23,11 @@
      "tipo": "encuesta",
      "texto": "Nueva encuesta: NC Report 2026-11-05.",
      "texto_en": "New poll: NC Report 2026-11-05."
+    },
+    {
+     "tipo": "diario",
+     "texto": "2 movimientos nuevos en el diario. Último: Gamarra (PP) reconoce la reunión entre el abogado del PP y Koldo García, pero niega que hubiera oferta de dinero.",
+     "texto_en": "2 new entries in the campaign log (in Spanish)."
     }
    ]
   },

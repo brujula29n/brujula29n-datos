@@ -1,7 +1,38 @@
 {
-  "actualizado": "2026-11-08",
+  "actualizado": "2026-11-09",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-09",
+      "titulo": "Gamarra (PP) reconoce la reunión entre el abogado del PP y Koldo García, pero niega que hubiera oferta de dinero",
+      "que": "Según elDiario.es, la vicesecretaria del PP Cuca Gamarra reconoció el lunes 9 que existió una reunión entre el abogado Alberto Durán y Koldo García, algo que había negado antes la portavoz de campaña, Ester Muñoz («no ha habido ninguna reunión»), aunque la dirección del PP matiza que Muñoz negó la reunión en la que, según Koldo, se ofrecía un millón de euros. Gamarra insiste en que es «mentira» que se ofreciera dinero y recuerda que el PP pidió 30 años de cárcel para Koldo García.",
+      "lectura": "Cambia lo anotado el 6-11: el PP ya admite el contacto entre su abogado y Koldo García, pero sigue negando la oferta, que solo consta en la versión del condenado y no está verificada judicialmente. Las personas citadas se presumen inocentes. Nivel B (elDiario.es; declaraciones de Gamarra)",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/gamarra-reconoce-reunion-abogado-pp-koldo-garcia-dice-mentira-le-ofrecieran-dinero_1_13649435.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-09",
+      "titulo": "El Gobierno pide a la Fiscalía actuar contra TikTok tras una investigación de Maldita.es y plantea la posibilidad de paralizarla",
+      "que": "Según 20minutos y El Mundo, el Ministerio de Juventud e Infancia, que dirige Sira Rego, remitió a la Fiscalía General del Estado un escrito para que actúe ante la investigación publicada por Maldita.es sobre presuntos casos de abuso sexual infantil en TikTok (más de mil vídeos con material explícito de menores, según la investigación) y por la «falta de mecanismos eficaces» de la red para impedir su difusión. El Ministerio plantea «la posibilidad de paralizar los servicios de la plataforma en España, si así se considerase oportuno» y pidió una reunión urgente a TikTok.",
+      "lectura": "Es una petición del Gobierno a la Fiscalía, no una decisión: la paralización sería competencia judicial o administrativa y El Mundo recoge fuentes jurídicas que la consideran muy difícil. Las cifras proceden de la investigación de Maldita.es, no verificadas por nosotros, y en las fuentes leídas no consta respuesta de TikTok. Nivel B (20minutos, El Mundo, con fuentes del Ministerio)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/gobierno-pide-fiscalia-cerrar-tiktok-para-investigar-presuntos-casos-abuso-sexual-infantil-plataforma_7058845_0.html",
+        "https://www.elmundo.es/espana/2026/11/09/6af1a1d1e9cf4a0d5f8b4583.html"
+      ]
+    },
     {
       "fecha": "2026-11-08",
       "titulo": "Sánchez se compromete en Bilbao a subir el SMI cada año y a blindar en la Constitución las pensiones y el aborto",
