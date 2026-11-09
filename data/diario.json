@@ -4,6 +4,30 @@
   "entradas": [
     {
       "fecha": "2026-11-09",
+      "titulo": "El PP acepta que la Academia de la Televisión organice los debates; propone cara a cara el 16-N y debate a cuatro o cinco el 26-N",
+      "que": "Según Europa Press, que cita fuentes del PP, el secretario general Miguel Tellado llamó a la portavoz de campaña socialista, Rebeca Torró, y el PP aceptó que la Academia de Televisión organice los debates, con participación de las direcciones de campaña en su diseño, ante la negativa del PSOE a que los grupos privados lo hagan. El PP plantea un cara a cara Feijóo-Sánchez el 16 de noviembre y otro entre cuatro o cinco candidatos el 26; según esas fuentes, Torró rechazó la participación de los grupos privados y no se mostró partidaria de que esté Podemos en el segundo. El PP ya ha pedido a la presidenta de la Academia, María Casado, una reunión «cuanto antes». El Mundo, ABC, elDiario.es y El Español recogen la aceptación.",
+      "lectura": "Es el relato de una de las partes tras una llamada entre dirigentes; no hay aún acuerdo sobre fechas, formato ni participantes (el PSOE había propuesto el 23 para el debate de Atresmedia). Nivel B (Europa Press, con fuentes del PP; la aceptación la recogen varios medios)",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-pp-acepta-academia-television-organice-debates-critica-veto-psoe-grupos-privados-20261109194934.html",
+        "https://www.eldiario.es/politica/psoe-propone-academia-television-organice-debates-electorales-si-pp-man"
+      ]
+    },
+    {
+      "fecha": "2026-11-09",
       "titulo": "El Supremo rechaza ampliar a sus hijos la suspensión del voto de nacionalizados por la ley de nietos",
       "que": "Según elDiario.es, que cita la resolución, el Tribunal Supremo rechazó la petición de Vox e Iustitia Europa de suspender también el voto de unas 190.000 personas (los hijos de los nacionalizados), alegando «serias dudas sobre la viabilidad de la ejecución efectiva» a tres semanas de las elecciones y los principios de seguridad jurídica y estabilidad electoral. Se mantiene la suspensión cautelar ya acordada para más de 163.000 nacionalizados que no acrediten su ascendencia exiliada; a 28 de octubre solo 901 lo habían hecho, según datos de la Abogacía del Estado recogidos por el Supremo. Un magistrado, Antonio Jesús Fonseca Herrero, defendía suspender también ese voto.",
       "lectura": "Es una decisión judicial cautelar sobre quién puede votar el 29-N; no resuelve el fondo del recurso. La cifra de 163.000 y la de 901 proceden del Supremo y la Abogacía del Estado según el diario, y no las hemos contrastado con la resolución. Nivel B (elDiario.es, que cita la resolución del Supremo)",
