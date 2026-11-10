@@ -155,19 +155,20 @@
     {
       "fecha": "2026-11-10",
       "titulo": "El PP presenta su programa electoral para las generales",
-      "detalle": "Acto en Madrid con Feijóo y Alma Ezcurra, según Europa Press (anunciado por el PP).",
+      "detalle": "Feijóo y Alma Ezcurra presentaron en Madrid un programa de 249 medidas, según ABC y 20minutos. El documento oficial no está localizado aún.",
       "tipo": "campana",
-      "estado": "previsto",
+      "estado": "hecho",
       "src": [
-        "https://www.europapress.es/nacional/noticia-feijoo-elige-cambio-necesario-lema-campana-generales-arrancara-jueves-12-badalona-20261106130929.html"
+        "https://www.europapress.es/nacional/noticia-feijoo-elige-cambio-necesario-lema-campana-generales-arrancara-jueves-12-badalona-20261106130929.html",
+        "https://www.abc.es/espana/feijoo-presenta-programa-pp-hare-sanchismo-derechas-20261110140530-nt.html"
       ]
     },
     {
       "fecha": "2026-11-10",
       "titulo": "Comisión Interministerial de Inmigración (Moncloa)",
-      "detalle": "Convocada para antes del Consejo de Ministros, con el presidente de Canarias y el del Cabildo de El Hierro, según El Español (fuentes del Ministerio de Política Territorial).",
+      "detalle": "Reunida con el presidente de Canarias y el del Cabildo de El Hierro: acordó declarar la emergencia migratoria (unos 15 millones de euros), según 20minutos y El Español.",
       "tipo": "politico",
-      "estado": "previsto",
+      "estado": "hecho",
       "src": [
         "https://www.elespanol.com/espana/politica/20261107/sanchez-reune-comision-inmigracion-abordar-crisis-migratoria-canarias-llegada-migrantes/1003744450211_0.html"
       ]

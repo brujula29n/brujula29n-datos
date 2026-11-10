@@ -168,8 +168,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 300,
-  "ultimo": "El Gobierno lleva al Consejo de Ministros un decreto-ley que crea el título de familia monomarental y amplía ayudas a familias numerosas"
+  "n": 302,
+  "ultimo": "El PP presenta su programa electoral: 249 medidas, con «prioridad nacional», una Renta de Activación y una promesa de convocar elecciones si pierde la confianza del Congreso"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -241,7 +241,7 @@
   },
   {
    "tipo": "diario",
-   "texto": "3 movimientos nuevos en el diario. Último: El Gobierno lleva al Consejo de Ministros un decreto-ley que crea el título de familia monomarental y amplía ayudas a familias numerosas."
+   "texto": "5 movimientos nuevos en el diario. Último: El PP presenta su programa electoral: 249 medidas, con «prioridad nacional», una Renta de Activación y una promesa de convocar elecciones si pierde la confianza del Congreso."
   }
  ]
 }

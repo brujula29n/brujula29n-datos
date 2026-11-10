@@ -4,6 +4,43 @@
   "entradas": [
     {
       "fecha": "2026-11-10",
+      "titulo": "El PP presenta su programa electoral: 249 medidas, con «prioridad nacional», una Renta de Activación y una promesa de convocar elecciones si pierde la confianza del Congreso",
+      "que": "Según ABC, 20minutos, elDiario.es y El Español, Feijóo presentó el martes 10 en Madrid el programa del PP: 249 medidas (ocho aún sin desvelar, según ABC) en cuatro pilares (reparar el Estado, regenerar la democracia, reunir a la nación y recuperar la ambición). Entre ellas, según esos medios: criterios de «prioridad nacional» en el acceso a ayudas basados en el arraigo y no solo en la nacionalidad; una Renta de Activación que reúna el Ingreso Mínimo Vital y los subsidios y retire gradualmente las ayudas a quien rechace sin causa empleos adecuados; una auditoría de las infraestructuras de transporte y energía; facilitar un millón de viviendas; y que el CGPJ lo elijan los jueces. Feijóo prometió convocar elecciones si pierde la confianza del Congreso o no logra aprobar Presupuestos tras una prórroga, y dijo que no hará «un sanchismo de derechas».",
+      "lectura": "Son las medidas que la prensa recoge de la presentación, no el documento: no hemos localizado el PDF oficial, por lo que el apartado Programas no se actualiza hasta tenerlo. Las valoraciones sobre su alcance son de cada medio. Nivel B (ABC, 20minutos, elDiario.es, El Español)",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/feijoo-presenta-programa-pp-hare-sanchismo-derechas-20261110140530-nt.html",
+        "https://www.20minutos.es/nacional/pp-ligara-imv-los-subsidios-empleo-retirara-gradualmente-las-ayudas-quienes-rechacen-trabajos-sin-justificacion_7059295_0.html",
+        "https://www.eldiario.es/politica/pp-asume-programa-electoral-prioridad-nacional-vox-modificar-imv-atajar-absentismo-injustificado_1_13652361.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-10",
+      "titulo": "El Gobierno declara la emergencia migratoria en Canarias tras la Comisión Interministerial de Inmigración y destina unos 15 millones de euros",
+      "que": "Según 20minutos y El Español, la Comisión Interministerial de Inmigración, reunida el martes 10 con el presidente canario, Fernando Clavijo, y el del Cabildo de El Hierro, acordó declarar la emergencia migratoria en Canarias, con 15,18 millones de euros según 20minutos (15,8 según El Español) para plazas en centros estatales y traslados, un millón para Cruz Roja en El Hierro, más embarcaciones de salvamento y refuerzo de personal en la Delegación del Gobierno. Clavijo cifra en casi 7.500 los llegados en diez días. El Mundo añade traslados a la Península.",
+      "lectura": "Son acuerdos anunciados por el Gobierno y recogidos por la prensa; la diferencia en la cifra (15,18 o 15,8 millones) está pendiente de confirmar con la referencia oficial, y el dato de 7.500 llegadas es del Gobierno canario. Nivel B (20minutos, El Español, El Mundo)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/clavijo-cifra-7-500-los-inmigrantes-llegados-canarias-noviembre-gobierno-anuncia-ayudas-economicas-para-hierro_7059290_0.html",
+        "https://www.elespanol.com/espana/politica/20261110/gobierno-declara-emergencia-migratoria-canarias-aprobara-decreto/1003744452217_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-10",
       "titulo": "El Gobierno lleva al Consejo de Ministros un decreto-ley que crea el título de familia monomarental y amplía ayudas a familias numerosas",
       "que": "Según 20minutos y El Mundo, el Consejo de Ministros aprobará este martes 10 un decreto-ley que crea un título oficial para las familias monomarentales y amplía la protección a las familias numerosas con pocos recursos y a las que tienen un progenitor con discapacidad y más de un hijo. Incluye medidas de la ley de familias, bloqueada en el Congreso. Según cálculos del Ministerio de Derechos Sociales, beneficiaría a más de 760.000 familias (cerca de tres millones de personas) y costaría más de 820 millones de euros al año. Deberá convalidarlo la Diputación Permanente del Congreso.",
       "lectura": "Es una medida anunciada por Sánchez y todavía pendiente de aprobación y publicación en el BOE cuando se escribe; las cifras de beneficiarios y coste son estimaciones del propio Ministerio. Llega a dos semanas de las elecciones. Nivel B (20minutos, El Mundo; la rueda de prensa del Consejo está convocada en La Moncloa a las 12:30)",
