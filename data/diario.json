@@ -45,7 +45,7 @@
       "fecha": "2026-11-10",
       "titulo": "El PP presenta su programa electoral: 249 medidas, con «prioridad nacional», una Renta de Activación y una promesa de convocar elecciones si pierde la confianza del Congreso",
       "que": "Según ABC, 20minutos, elDiario.es y El Español, Feijóo presentó el martes 10 en Madrid el programa del PP: 249 medidas (ocho aún sin desvelar, según ABC) en cuatro pilares (reparar el Estado, regenerar la democracia, reunir a la nación y recuperar la ambición). Entre ellas, según esos medios: criterios de «prioridad nacional» en el acceso a ayudas basados en el arraigo y no solo en la nacionalidad; una Renta de Activación que reúna el Ingreso Mínimo Vital y los subsidios y retire gradualmente las ayudas a quien rechace sin causa empleos adecuados; una auditoría de las infraestructuras de transporte y energía; facilitar un millón de viviendas; y que el CGPJ lo elijan los jueces. Feijóo prometió convocar elecciones si pierde la confianza del Congreso o no logra aprobar Presupuestos tras una prórroga, y dijo que no hará «un sanchismo de derechas».",
-      "lectura": "Son las medidas que la prensa recoge de la presentación, no el documento: no hemos localizado el PDF oficial, por lo que el apartado Programas no se actualiza hasta tenerlo. Las valoraciones sobre su alcance son de cada medio. Nivel B (ABC, 20minutos, elDiario.es, El Español)",
+      "lectura": "Son medidas del documento «La reconstrucción nacional» (PDF oficial en pp.es) tal como las recogen los medios; el apartado Programas ya refleja el texto del PDF. La «Renta de Activación» que citan los medios no aparece en el texto leído, y ocho medidas están reservadas para la campaña. Nivel A (documento del PP) y B (ABC, 20minutos, elDiario.es, El Español)",
       "actores": [
         {
           "id": "PP",
@@ -59,7 +59,8 @@
       "src": [
         "https://www.abc.es/espana/feijoo-presenta-programa-pp-hare-sanchismo-derechas-20261110140530-nt.html",
         "https://www.20minutos.es/nacional/pp-ligara-imv-los-subsidios-empleo-retirara-gradualmente-las-ayudas-quienes-rechacen-trabajos-sin-justificacion_7059295_0.html",
-        "https://www.eldiario.es/politica/pp-asume-programa-electoral-prioridad-nacional-vox-modificar-imv-atajar-absentismo-injustificado_1_13652361.html"
+        "https://www.eldiario.es/politica/pp-asume-programa-electoral-prioridad-nacional-vox-modificar-imv-atajar-absentismo-injustificado_1_13652361.html",
+        "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
       ]
     },
     {
@@ -81,8 +82,8 @@
     {
       "fecha": "2026-11-10",
       "titulo": "El Gobierno lleva al Consejo de Ministros un decreto-ley que crea el título de familia monomarental y amplía ayudas a familias numerosas",
-      "que": "Según 20minutos y El Mundo, el Consejo de Ministros aprobó el martes 10 un decreto-ley (ABC confirma la aprobación) que crea un título oficial para las familias monomarentales y amplía la protección a las familias numerosas con pocos recursos y a las que tienen un progenitor con discapacidad y más de un hijo. Incluye medidas de la ley de familias, bloqueada en el Congreso. Según cálculos del Ministerio de Derechos Sociales, beneficiaría a más de 760.000 familias (cerca de tres millones de personas) y costaría más de 820 millones de euros al año. Debe convalidarlo la Diputación Permanente del Congreso.",
-      "lectura": "Es una medida anunciada por Sánchez y aprobada el 10-11 según ABC; falta su publicación en el BOE y la referencia oficial de La Moncloa, que no hemos podido leer. Las cifras de beneficiarios y coste son estimaciones del propio Ministerio. Llega a dos semanas de las elecciones. Nivel B (20minutos, El Mundo, ABC)",
+      "que": "Según 20minutos y El Mundo, el Consejo de Ministros aprobó el martes 10 un decreto-ley (ABC confirma la aprobación) que crea un título oficial para las familias monomarentales y amplía la protección a las familias numerosas con pocos recursos y a las que tienen un progenitor con discapacidad y más de un hijo. Incluye medidas de la ley de familias, bloqueada en el Congreso. Según La Moncloa, la norma supone 824 millones de euros y beneficiará a más de 760.000 familias (más de tres millones de personas); la categoría monomarental dará un título comparable al de las numerosas y equipara en derechos a las de dos o más hijos. Debe convalidarlo la Diputación Permanente del Congreso.",
+      "lectura": "Es una medida aprobada el 10-11 según La Moncloa (referencia del Consejo de Ministros); falta su publicación en el BOE y la convalidación de la Diputación Permanente. Las cifras de beneficiarios y coste son del Gobierno. Llega a dos semanas de las elecciones. Nivel A (La Moncloa) y B (20minutos, El Mundo, ABC)",
       "actores": [
         {
           "id": "PSOE",
@@ -97,7 +98,8 @@
         "https://www.20minutos.es/nacional/gobierno-crea-un-titulo-para-familias-monomarentales-amplia-proteccion-las-numerosas-padres-con-discapacidad_7059116_0.html",
         "https://www.elmundo.es/espana/2026/11/10/6af2d25621efa04a508b45a5.html",
         "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/101126-rueda-prensa-ministros.aspx",
-        "https://www.abc.es/espana/sanchez-pisa-acelerador-multiplica-consejos-ministros-sociales-20261110160032-nt.html"
+        "https://www.abc.es/espana/sanchez-pisa-acelerador-multiplica-consejos-ministros-sociales-20261110160032-nt.html",
+        "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/101126-rueda-prensa-ministros.aspx"
       ]
     },
     {

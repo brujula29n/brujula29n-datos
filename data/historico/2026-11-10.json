@@ -2,21 +2,21 @@
  "fecha": "2026-11-10",
  "media": {
   "pct": {
-   "PP": 30.84,
-   "PSOE": 27.75,
-   "VOX": 18.56,
-   "SUMAR": 6.69,
+   "PP": 30.63,
+   "PSOE": 28.07,
+   "VOX": 18.46,
+   "SUMAR": 6.76,
    "PODEMOS": 1.76,
-   "SALF": 1.93,
-   "ERC": 2.52,
-   "JUNTS": 1.38,
+   "SALF": 1.94,
+   "ERC": 2.53,
+   "JUNTS": 1.37,
    "BILDU": 1.4,
-   "PNV": 0.83,
+   "PNV": 0.82,
    "BNG": 0.95,
    "CC": 0.43,
    "UPN": 0.06
   },
-  "ref": "2026-11-08",
+  "ref": "2026-11-09",
   "casas": [
    "40dB",
    "Ateneo del Dato",
@@ -34,11 +34,11 @@
    "Sondaxe",
    "Target Point"
   ],
-  "n_encuestas": 51
+  "n_encuestas": 52
  },
  "escanos": {
   "PP": 133,
-  "PSOE": 113,
+  "PSOE": 114,
   "VOX": 66,
   "SUMAR": 9,
   "PODEMOS": 0,
@@ -46,7 +46,7 @@
   "ERC": 10,
   "JUNTS": 5,
   "BILDU": 7,
-  "PNV": 4,
+  "PNV": 3,
   "BNG": 2,
   "CC": 1,
   "UPN": 0
@@ -54,19 +54,19 @@
  "rango": {
   "PP": [
    108,
-   150
+   149
   ],
   "PSOE": [
-   94,
-   136
+   95,
+   137
   ],
   "VOX": [
-   49,
-   84
+   48,
+   83
   ],
   "SUMAR": [
    5,
-   19
+   20
   ],
   "PODEMOS": [
    0,
@@ -106,16 +106,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 92.1,
+  "pp_vox": 90.4,
   "pp_solo": 0.0,
-  "psoe_bloque": 5.7,
+  "psoe_bloque": 7.4,
   "bloqueo": 2.2
  },
  "probs_extra": {
-  "ppvox": 92.1,
-  "bloque": 5.7,
-  "bloque_sin_junts": 3.3,
-  "pp_first": 76.5
+  "ppvox": 90.4,
+  "bloque": 7.4,
+  "bloque_sin_junts": 3.9,
+  "pp_first": 72.3
  },
  "semaforo_esp": {
   "S1": 1,
@@ -144,7 +144,7 @@
   "educacion_juventud": "12,8 %"
  },
  "programas": {
-  "PP": null,
+  "PP": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
   "PSOE": null,
   "VOX": null,
   "SUMAR": null,
@@ -207,6 +207,7 @@
   "SW Demoscopia 2026-11-05",
   "SW Demoscopia 2026-11-06",
   "SW Demoscopia 2026-11-08",
+  "SW Demoscopia 2026-11-09",
   "Sigma Dos 2026-10-01",
   "Sigma Dos 2026-10-22",
   "Sigma Dos 2026-10-30",
@@ -234,10 +235,35 @@
    "texto": "Nueva encuesta: SW Demoscopia 2026-11-08."
   },
   {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: SW Demoscopia 2026-11-09."
+  },
+  {
    "tipo": "media",
-   "texto": "PSOE sube en la media: 27,4 % → 27,8 %.",
-   "delta": 0.3,
+   "texto": "PP baja en la media: 31,0 % → 30,6 %.",
+   "delta": -0.4,
+   "partido": "PP"
+  },
+  {
+   "tipo": "media",
+   "texto": "PSOE sube en la media: 27,4 % → 28,1 %.",
+   "delta": 0.6,
    "partido": "PSOE"
+  },
+  {
+   "tipo": "escanos",
+   "texto": "PSOE: proyección de 112 a 114 escaños.",
+   "delta": 2,
+   "partido": "PSOE"
+  },
+  {
+   "tipo": "prob",
+   "texto": "Probabilidad de \"PP + Vox\": 94 % → 90 %.",
+   "delta": -3
+  },
+  {
+   "tipo": "programa",
+   "texto": "PP publica su programa electoral."
   },
   {
    "tipo": "diario",
