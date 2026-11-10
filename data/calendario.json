@@ -214,12 +214,32 @@
       "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
     },
     {
+      "fecha": "2026-11-13",
+      "titulo": "Consejo de Ministros extraordinario",
+      "detalle": "Convocado para aprobar medidas sociales pendientes, según ABC (fuentes gubernamentales); sin contenido adelantado.",
+      "tipo": "politico",
+      "estado": "previsto",
+      "src": [
+        "https://www.abc.es/espana/sanchez-pisa-acelerador-multiplica-consejos-ministros-sociales-20261110160032-nt.html"
+      ]
+    },
+    {
       "fecha": "2026-11-19",
       "titulo": "Último día para SOLICITAR el voto por correo",
       "detalle": "Décimo día anterior a la votación (art. 72). En Correos o por internet con certificado/Cl@ve.",
       "tipo": "voto",
       "estado": "previsto",
       "src": "https://www.vozpopuli.com/actualidad/voto-por-correo-en-las-elecciones-generales-del-29n-fechas-y-plazos-que-es-el-voto-cera-y-como-afecta-la-ley-de-nietos-al-voto-desde-el-exterior.html"
+    },
+    {
+      "fecha": "2026-11-20",
+      "titulo": "Consejo de Ministros extraordinario",
+      "detalle": "Convocado para aprobar medidas sociales pendientes, según ABC (fuentes gubernamentales); sin contenido adelantado.",
+      "tipo": "politico",
+      "estado": "previsto",
+      "src": [
+        "https://www.abc.es/espana/sanchez-pisa-acelerador-multiplica-consejos-ministros-sociales-20261110160032-nt.html"
+      ]
     },
     {
       "fecha": "2026-11-23",

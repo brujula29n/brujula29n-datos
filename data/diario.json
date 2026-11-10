@@ -4,6 +4,45 @@
   "entradas": [
     {
       "fecha": "2026-11-10",
+      "titulo": "El Gobierno recurrirá al Constitucional 20 artículos de la ley valenciana pactada por el PP y Vox, incluida la «prioridad nacional»",
+      "que": "Según El País, que cita fuentes del Ministerio de Política Territorial, el Consejo de Ministros aprobó el martes 10 pedir al presidente que interponga un recurso de inconstitucionalidad contra 20 de los 200 artículos de la ley de medidas fiscales y de organización de la Generalitat Valenciana pactada por el PP y Vox. Entre ellos, la «prioridad nacional» en el acceso a vivienda protegida y prestaciones, y la obligación de llevar el rostro descubierto en espacios públicos. El Gobierno argumentará que vulneran sobre todo el artículo 14 de la Constitución o invaden competencias estatales.",
+      "lectura": "Es la decisión del Gobierno de recurrir; decidirá el Tribunal Constitucional y la argumentación es la del Ejecutivo. Coincide con la inclusión de la «prioridad nacional» en el programa del PP a nivel estatal. Nivel B (El País, con fuentes del Ministerio)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://elpais.com/espana/comunidad-valenciana/2026-11-10/el-gobierno-recurria-al-constitucional-la-prioridad-nacional-y-20-articulos-de-una-ley-valenciana-pactada-por-el-pp-y-vox.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-10",
+      "titulo": "El Gobierno convoca Consejos de Ministros extraordinarios el 13 y el 20 de noviembre, además de los ordinarios del 17 y el 24",
+      "que": "Según ABC, que cita fuentes gubernamentales, habrá dos Consejos de Ministros extraordinarios, el viernes 13 y el viernes 20 de noviembre, que se suman a los ordinarios del 17 y el 24, para aprobar medidas sociales pendientes antes de las elecciones; Moncloa no adelanta el contenido y argumenta que «van muchas cosas» y que es «legal». Europa Press titula que el Gobierno celebrará cuatro reuniones del Consejo antes del 29-N.",
+      "lectura": "Es un calendario de agenda confirmado por el propio Gobierno; el diario lo interpreta como activo electoral, lectura que no compartimos como hecho. Los decretos que se aprueben deberán ser convalidados por la Diputación Permanente. Nivel B (ABC, con fuentes gubernamentales; Europa Press)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/sanchez-pisa-acelerador-multiplica-consejos-ministros-sociales-20261110160032-nt.html",
+        "https://www.europapress.es/nacional/noticia-gobierno-celebrara-cuatro-reuniones-consejo-ministros-antes-29n-aprobar-medidas-sociales-20261110124228.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-10",
       "titulo": "El PP presenta su programa electoral: 249 medidas, con «prioridad nacional», una Renta de Activación y una promesa de convocar elecciones si pierde la confianza del Congreso",
       "que": "Según ABC, 20minutos, elDiario.es y El Español, Feijóo presentó el martes 10 en Madrid el programa del PP: 249 medidas (ocho aún sin desvelar, según ABC) en cuatro pilares (reparar el Estado, regenerar la democracia, reunir a la nación y recuperar la ambición). Entre ellas, según esos medios: criterios de «prioridad nacional» en el acceso a ayudas basados en el arraigo y no solo en la nacionalidad; una Renta de Activación que reúna el Ingreso Mínimo Vital y los subsidios y retire gradualmente las ayudas a quien rechace sin causa empleos adecuados; una auditoría de las infraestructuras de transporte y energía; facilitar un millón de viviendas; y que el CGPJ lo elijan los jueces. Feijóo prometió convocar elecciones si pierde la confianza del Congreso o no logra aprobar Presupuestos tras una prórroga, y dijo que no hará «un sanchismo de derechas».",
       "lectura": "Son las medidas que la prensa recoge de la presentación, no el documento: no hemos localizado el PDF oficial, por lo que el apartado Programas no se actualiza hasta tenerlo. Las valoraciones sobre su alcance son de cada medio. Nivel B (ABC, 20minutos, elDiario.es, El Español)",
@@ -42,8 +81,8 @@
     {
       "fecha": "2026-11-10",
       "titulo": "El Gobierno lleva al Consejo de Ministros un decreto-ley que crea el título de familia monomarental y amplía ayudas a familias numerosas",
-      "que": "Según 20minutos y El Mundo, el Consejo de Ministros aprobará este martes 10 un decreto-ley que crea un título oficial para las familias monomarentales y amplía la protección a las familias numerosas con pocos recursos y a las que tienen un progenitor con discapacidad y más de un hijo. Incluye medidas de la ley de familias, bloqueada en el Congreso. Según cálculos del Ministerio de Derechos Sociales, beneficiaría a más de 760.000 familias (cerca de tres millones de personas) y costaría más de 820 millones de euros al año. Deberá convalidarlo la Diputación Permanente del Congreso.",
-      "lectura": "Es una medida anunciada por Sánchez y todavía pendiente de aprobación y publicación en el BOE cuando se escribe; las cifras de beneficiarios y coste son estimaciones del propio Ministerio. Llega a dos semanas de las elecciones. Nivel B (20minutos, El Mundo; la rueda de prensa del Consejo está convocada en La Moncloa a las 12:30)",
+      "que": "Según 20minutos y El Mundo, el Consejo de Ministros aprobó el martes 10 un decreto-ley (ABC confirma la aprobación) que crea un título oficial para las familias monomarentales y amplía la protección a las familias numerosas con pocos recursos y a las que tienen un progenitor con discapacidad y más de un hijo. Incluye medidas de la ley de familias, bloqueada en el Congreso. Según cálculos del Ministerio de Derechos Sociales, beneficiaría a más de 760.000 familias (cerca de tres millones de personas) y costaría más de 820 millones de euros al año. Debe convalidarlo la Diputación Permanente del Congreso.",
+      "lectura": "Es una medida anunciada por Sánchez y aprobada el 10-11 según ABC; falta su publicación en el BOE y la referencia oficial de La Moncloa, que no hemos podido leer. Las cifras de beneficiarios y coste son estimaciones del propio Ministerio. Llega a dos semanas de las elecciones. Nivel B (20minutos, El Mundo, ABC)",
       "actores": [
         {
           "id": "PSOE",
@@ -57,7 +96,8 @@
       "src": [
         "https://www.20minutos.es/nacional/gobierno-crea-un-titulo-para-familias-monomarentales-amplia-proteccion-las-numerosas-padres-con-discapacidad_7059116_0.html",
         "https://www.elmundo.es/espana/2026/11/10/6af2d25621efa04a508b45a5.html",
-        "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/101126-rueda-prensa-ministros.aspx"
+        "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/101126-rueda-prensa-ministros.aspx",
+        "https://www.abc.es/espana/sanchez-pisa-acelerador-multiplica-consejos-ministros-sociales-20261110160032-nt.html"
       ]
     },
     {
