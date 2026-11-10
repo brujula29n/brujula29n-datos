@@ -4,6 +4,27 @@
   "entradas": [
     {
       "fecha": "2026-11-10",
+      "titulo": "El Gobierno lleva al Consejo de Ministros un decreto-ley que crea el título de familia monomarental y amplía ayudas a familias numerosas",
+      "que": "Según 20minutos y El Mundo, el Consejo de Ministros aprobará este martes 10 un decreto-ley que crea un título oficial para las familias monomarentales y amplía la protección a las familias numerosas con pocos recursos y a las que tienen un progenitor con discapacidad y más de un hijo. Incluye medidas de la ley de familias, bloqueada en el Congreso. Según cálculos del Ministerio de Derechos Sociales, beneficiaría a más de 760.000 familias (cerca de tres millones de personas) y costaría más de 820 millones de euros al año. Deberá convalidarlo la Diputación Permanente del Congreso.",
+      "lectura": "Es una medida anunciada por Sánchez y todavía pendiente de aprobación y publicación en el BOE cuando se escribe; las cifras de beneficiarios y coste son estimaciones del propio Ministerio. Llega a dos semanas de las elecciones. Nivel B (20minutos, El Mundo; la rueda de prensa del Consejo está convocada en La Moncloa a las 12:30)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/gobierno-crea-un-titulo-para-familias-monomarentales-amplia-proteccion-las-numerosas-padres-con-discapacidad_7059116_0.html",
+        "https://www.elmundo.es/espana/2026/11/10/6af2d25621efa04a508b45a5.html",
+        "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/101126-rueda-prensa-ministros.aspx"
+      ]
+    },
+    {
+      "fecha": "2026-11-10",
       "titulo": "Sánchez anuncia Consejos de Ministros extraordinarios antes del 29-N para aprobar medidas sociales pendientes",
       "que": "Según Europa Press, que cita la entrevista de Pedro Sánchez en La Séptima, el presidente adelantó que antes de las elecciones habrá algún Consejo de Ministros extraordinario para aprobar «medidas sociales» de temas «que se han quedado pendientes», sin dar detalles de las iniciativas. Reiteró además que la intención del Gobierno es aprobar el indulto al exfiscal general Álvaro García Ortiz, sin aclarar si lo llevará a uno de esos consejos.",
       "lectura": "Es un anuncio de intenciones del presidente en una entrevista, sin medidas concretas ni fechas; con las Cortes disueltas, el Gobierno puede aprobar decretos pero su convalidación corresponde a la Diputación Permanente. Nivel B (Europa Press, que recoge la entrevista; también lo recogen El País y El Español)",
