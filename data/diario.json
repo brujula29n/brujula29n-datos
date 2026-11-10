@@ -1,7 +1,42 @@
 {
-  "actualizado": "2026-11-09",
+  "actualizado": "2026-11-10",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-10",
+      "titulo": "Sánchez anuncia Consejos de Ministros extraordinarios antes del 29-N para aprobar medidas sociales pendientes",
+      "que": "Según Europa Press, que cita la entrevista de Pedro Sánchez en La Séptima, el presidente adelantó que antes de las elecciones habrá algún Consejo de Ministros extraordinario para aprobar «medidas sociales» de temas «que se han quedado pendientes», sin dar detalles de las iniciativas. Reiteró además que la intención del Gobierno es aprobar el indulto al exfiscal general Álvaro García Ortiz, sin aclarar si lo llevará a uno de esos consejos.",
+      "lectura": "Es un anuncio de intenciones del presidente en una entrevista, sin medidas concretas ni fechas; con las Cortes disueltas, el Gobierno puede aprobar decretos pero su convalidación corresponde a la Diputación Permanente. Nivel B (Europa Press, que recoge la entrevista; también lo recogen El País y El Español)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-sanchez-avanza-habra-consejos-ministros-extraordinarios-aprobar-medidas-sociales-antes-generales-20261110001609.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-10",
+      "titulo": "Sánchez pide a la Justicia que investigue los pagos a Koldo García; el PP niega haber ofrecido dinero",
+      "que": "Según elDiario.es y Europa Press, Pedro Sánchez dijo en La Séptima que «hay pruebas de que puede haber evidencias para iniciar una investigación» sobre el presunto pago a Koldo García para que difundiera falsedades contra el Gobierno, y citó una factura de un medio digital al despacho que lo defiende; también dijo que el PP ha reconocido la reunión de su abogado con García. El PP lo niega: Feijóo afirmó que «en nombre del PP no se ha ofrecido un euro a nadie».",
+      "lectura": "Es la petición de un presidente en campaña sobre un hecho no verificado judicialmente: el pago de la factura y la reunión constan según las partes, pero no una oferta a cambio de declarar, que niegan el PP, su abogado y el medio. Las personas citadas se presumen inocentes. Nivel B (elDiario.es, Europa Press, con declaraciones de Sánchez y Feijóo)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/sanchez-pide-justicia-investigue-pagos-koldo-garcia-mintiera-gobierno_1_13650855.html",
+        "https://www.20minutos.es/nacional/feijoo-niega-haber-ofrecido-dinero-koldo-pa"
+      ]
+    },
     {
       "fecha": "2026-11-09",
       "titulo": "El PP acepta que la Academia de la Televisión organice los debates; propone cara a cara el 16-N y debate a cuatro o cinco el 26-N",

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09",
+  "actualizado": "2026-11-10",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -170,6 +170,16 @@
       "estado": "previsto",
       "src": [
         "https://www.elespanol.com/espana/politica/20261107/sanchez-reune-comision-inmigracion-abordar-crisis-migratoria-canarias-llegada-migrantes/1003744450211_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-10",
+      "titulo": "Funeral por las 69 víctimas de Urda en la catedral de Toledo (19:00)",
+      "detalle": "Presidido por el arzobispo de Toledo, con los Reyes, Page, el Gobierno representado por Carlos Cuerpo y Milagros Tolón y Feijóo; Sánchez no asiste, según 20minutos.",
+      "tipo": "politico",
+      "estado": "previsto",
+      "src": [
+        "https://www.20minutos.es/nacional/los-reyes-asisten-hoy-misa-funeral-toledo-por-las-69-victimas-accidente-urda-sin-presencia-sanchez_7058805_0.html"
       ]
     },
     {
