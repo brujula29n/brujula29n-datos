@@ -4,6 +4,31 @@
   "entradas": [
     {
       "fecha": "2026-11-11",
+      "titulo": "Huelga general del 11-N: el Gobierno vacía su agenda pública y el PP la califica de «huelga electoral»",
+      "que": "Según Europa Press y ABC, el Gobierno vació su agenda pública durante la jornada de huelga general del 11 de noviembre, con la excepción de los ministros Albares y Planas. El PP, por boca de Tellado y otros dirigentes, acusa al Gobierno de «alentar» una «huelga electoral» y de «hacer campaña» con los Consejos de Ministros extraordinarios; Podemos denuncia «violencia policial» contra piquetes informativos. ABC recoge incidencias como un detenido en un piquete en Mercamadrid por lanzar una valla a un policía y un piquete que interrumpió un programa de TVE.",
+      "lectura": "Son valoraciones de partidos y hechos aislados recogidos por los medios; aún no hay datos oficiales de seguimiento ni balance de Interior, y los convocantes (CGT, Intersindical, CCOO, UGT y otros) y el Gobierno darán cifras distintas. Nivel B (Europa Press, ABC; declaraciones de partido)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.europapress.es/nacional/noticia-gobierno-vacia-agenda-institucional-excepcion-albares-planas-jo",
+        "https://www.abc.es/espana/limpia-agenda-publica-ministros-huelga-general-respeto-20261111102222-nt.html",
+        "https://www.europapress.es/nacional/noticia-pp-acusa-gobierno-alentar-huelga-electoral-avisa-danara-cre"
+      ]
+    },
+    {
+      "fecha": "2026-11-11",
       "titulo": "El BOE publica cuatro decretos-ley del Consejo de Ministros del 10-11 y el cese del presidente de Adif",
       "que": "Según el BOE del 11-11, el Gobierno publica el Real Decreto-ley 33/2026 (medidas ante los daños de la DANA «Adam» del 17 al 19 de octubre en Valencia, Alicante y Murcia), el 34/2026 (seguridad operacional ferroviaria y protección social del personal ferroviario), el 35/2026 (familias monoparentales y otras medidas de apoyo a familias) y el 36/2026 (reforma del sistema de dependencia). También publica el Real Decreto 992/2026 que dispone el cese de Luis Pedro Marco de la Peña como presidente de Adif y el 991/2026 que cesa a la directora del gabinete del ministro de Transportes, Encarnación Sandonis.",
       "lectura": "Es publicación oficial; el BOE no indica el motivo de los ceses y no los vinculamos con otras informaciones. Los decretos-ley están en vigor desde hoy y deberán ser convalidados por la Diputación Permanente del Congreso, ya que las Cortes están disueltas. Nivel A (BOE)",

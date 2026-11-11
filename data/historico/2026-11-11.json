@@ -168,8 +168,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 305,
-  "ultimo": "El BOE publica cuatro decretos-ley del Consejo de Ministros del 10-11 y el cese del presidente de Adif"
+  "n": 306,
+  "ultimo": "Huelga general del 11-N: el Gobierno vacía su agenda pública y el PP la califica de «huelga electoral»"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -228,7 +228,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "1 movimiento nuevo en el diario. Último: El BOE publica cuatro decretos-ley del Consejo de Ministros del 10-11 y el cese del presidente de Adif."
+   "texto": "2 movimientos nuevos en el diario. Último: Huelga general del 11-N: el Gobierno vacía su agenda pública y el PP la califica de «huelga electoral»."
   }
  ]
 }
