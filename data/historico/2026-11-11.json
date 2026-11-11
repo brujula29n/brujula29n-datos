@@ -168,8 +168,8 @@
   "PNV": "Sin candidato (Esteban no repite)"
  },
  "diario": {
-  "n": 308,
-  "ultimo": "Primer balance de Renfe: la huelga general suprime el 24 % de los trenes AVE y de larga distancia y el 10,7 % de Cercanías y Media Distancia"
+  "n": 309,
+  "ultimo": "El juez Pedraz pide a un abogado investigado en el caso de la «fontanera» que explique un pago de 105.122 € a otro letrado"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -228,7 +228,7 @@
  "cambios": [
   {
    "tipo": "diario",
-   "texto": "4 movimientos nuevos en el diario. Último: Primer balance de Renfe: la huelga general suprime el 24 % de los trenes AVE y de larga distancia y el 10,7 % de Cercanías y Media Distancia."
+   "texto": "5 movimientos nuevos en el diario. Último: El juez Pedraz pide a un abogado investigado en el caso de la «fontanera» que explique un pago de 105.122 € a otro letrado."
   }
  ]
 }

@@ -4,6 +4,22 @@
   "entradas": [
     {
       "fecha": "2026-11-11",
+      "titulo": "El juez Pedraz pide a un abogado investigado en el caso de la «fontanera» que explique un pago de 105.122 € a otro letrado",
+      "que": "Según El Mundo y El Español, que citan una providencia del juez de la Audiencia Nacional Santiago Pedraz fechada el 11 de noviembre, el magistrado requiere a Ismael Oliver, investigado en el caso de Leire Díez y que fue abogado de Koldo García en el caso mascarillas, que explique los servicios que justificaron un pago de 105.122,76 euros de su despacho a Gonzalo Martínez Fresneda, abogado de Gaspar Zarrías. Los medios señalan que el dato consta en documentación de la Agencia Tributaria y que Martínez Fresneda no está investigado en la causa. El juez recuerda a Oliver su derecho a no aportar información que pueda incriminarle.",
+      "lectura": "Es un requerimiento de aclaración dentro de una instrucción abierta, no una imputación del receptor ni una conclusión sobre el pago; las personas citadas se presumen inocentes. Las dos fuentes citan la providencia pero no la hemos leído directamente. Nivel B (El Mundo, El Español, que citan la resolución judicial)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/espana/2026/11/11/6af462a5e9cf4a0e668b4575.html",
+        "https://www.elespanol.com/espana/tribunales/20261111/juez-caso-leire-investiga-pago-euros-exabogado-koldo-garcia-letrado-historico-psoe/1003744453979_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-11",
       "titulo": "Primer balance de Renfe: la huelga general suprime el 24 % de los trenes AVE y de larga distancia y el 10,7 % de Cercanías y Media Distancia",
       "que": "Según 20minutos, que cita el primer balance de Renfe actualizado a las 11:00, la huelga general del 11-N había suprimido el 24 % de los trenes de Alta Velocidad y Larga Distancia y el 10,7 % de Cercanías y Media Distancia, sobre todo en Madrid y Rodalies, con 713 viajeros afectados en servicios comerciales y un seguimiento del 6,83 % entre los trabajadores de Renfe (17,18 % en talleres). El paro de maquinistas del martes 10 acabó con un seguimiento del 33,2 % de los conductores, según la misma operadora.",
       "lectura": "Son datos parciales de la propia operadora a las 11:00, no un balance final ni del conjunto de la huelga; los sindicatos y otras administraciones darán otras cifras. Nivel B (20minutos, que cita a Renfe)",
