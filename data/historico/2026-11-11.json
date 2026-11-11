@@ -134,7 +134,7 @@
  },
  "problemas": {
   "vivienda": "+12,2 %",
-  "empleo_salarios": "9,87 %",
+  "empleo_salarios": "10,18 %",
   "coste_vida": "4,9 %",
   "inmigracion_seguridad": "14,9 %",
   "sanidad_dependencia": "853.509",
@@ -159,17 +159,17 @@
   "PSOE": "Pedro Sánchez",
   "PP": "Alberto Núñez Feijóo",
   "VOX": "Santiago Abascal",
-  "SUMAR": "Sin decidir (17 de octubre)",
+  "SUMAR": "Ada Colau (Barcelona)",
   "PODEMOS": "Irene Montero",
   "SALF": "Alvise Pérez",
   "JUNTS": "Míriam Nogueras",
   "ERC": "Gabriel Rufián",
-  "BILDU": "Por designar",
-  "PNV": "Sin candidato (Esteban no repite)"
+  "BILDU": "Oskar Matute (Bizkaia) y Oihana Etxebarrieta (Gipuzkoa)",
+  "PNV": "Idoia Sagastizabal (Bizkaia) y Maribel Vaquero (Gipuzkoa)"
  },
  "diario": {
-  "n": 309,
-  "ultimo": "El juez Pedraz pide a un abogado investigado en el caso de la «fontanera» que explique un pago de 105.122 € a otro letrado"
+  "n": 313,
+  "ultimo": "Dos miembros de Nuevas Generaciones del PP, heridos en Barakaldo durante una marcha de la huelga general; el PP lo denuncia"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -227,8 +227,24 @@
  ],
  "cambios": [
   {
+   "tipo": "problema",
+   "texto": "Cifra clave de \"empleo salarios\" actualizada: 9,87 % → 10,18 %."
+  },
+  {
+   "tipo": "partido",
+   "texto": "Sumar/FA: cabeza de lista Ada Colau (Barcelona) (antes Sin decidir (17 de octubre))."
+  },
+  {
+   "tipo": "partido",
+   "texto": "Bildu: cabeza de lista Oskar Matute (Bizkaia) y Oihana Etxebarrieta (Gipuzkoa) (antes Por designar)."
+  },
+  {
+   "tipo": "partido",
+   "texto": "PNV: cabeza de lista Idoia Sagastizabal (Bizkaia) y Maribel Vaquero (Gipuzkoa) (antes Sin candidato (Esteban no repite))."
+  },
+  {
    "tipo": "diario",
-   "texto": "5 movimientos nuevos en el diario. Último: El juez Pedraz pide a un abogado investigado en el caso de la «fontanera» que explique un pago de 105.122 € a otro letrado."
+   "texto": "9 movimientos nuevos en el diario. Último: Dos miembros de Nuevas Generaciones del PP, heridos en Barakaldo durante una marcha de la huelga general; el PP lo denuncia."
   }
  ]
 }

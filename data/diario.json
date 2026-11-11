@@ -4,6 +4,68 @@
   "entradas": [
     {
       "fecha": "2026-11-11",
+      "titulo": "Dos miembros de Nuevas Generaciones del PP, heridos en Barakaldo durante una marcha de la huelga general; el PP lo denuncia",
+      "que": "Según ABC y 20minutos, dos jóvenes de Nuevas Generaciones del PP fueron atendidos en el hospital tras ser agredidos por varios encapuchados en la sede del PP de Barakaldo (Bizkaia), que resultó dañada, al paso de una manifestación convocada por la huelga general. La versión de los hechos es la del PP; los jóvenes presentaron denuncia ante la Ertzaintza. El Departamento de Seguridad vasco informó de 16 detenciones en la jornada por hechos no relacionados con este suceso, según ABC. Feijóo condenó la agresión y pidió a partidos y sindicatos que hagan lo mismo.",
+      "lectura": "Los autores no están identificados y la descripción procede del PP denunciante; no consta en las fuentes una valoración de la Ertzaintza sobre el suceso ni condena de los convocantes. Nivel B (ABC, 20minutos; versión del PP)",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/pais-vasco/agreden-dos-miembros-pp-vasco-barakaldo-huelga-20261111211258-nt.html",
+        "https://www.20minutos.es/nacional/pp-condena-agresion-miguel-daniel-dos-miembros-nuevas-generaciones-29-n-ni-un-paso-atras-ante-los-violentos_7059970_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-11",
+      "titulo": "Balance de la huelga general: Renfe cancela el 15,7 % de los trenes AVE y de larga distancia; Podemos y Frente Amplio piden el cese de Marlaska",
+      "que": "Según 20minutos, que cita a Renfe, la huelga general del 11-N cerró con el 15,7 % de los trenes AVE y de larga distancia cancelados, el 10,5 % de Cercanías (22,4 % en Madrid) y el 6,4 % de los vuelos programados suprimidos; el seguimiento entre los trabajadores de Renfe subió al 9 % y esta vez se respetaron los servicios mínimos. El mismo diario recoge que dirigentes de Frente Amplio y Podemos pidieron por la tarde el cese del ministro del Interior, Fernando Grande-Marlaska, por las cargas policiales en las protestas, con «más de 50 detenciones» según el medio, y que Podemos exige que Sánchez lo retire de las listas del PSOE.",
+      "lectura": "Son cifras de la operadora y de aeropuertos según el medio, no un balance global del seguimiento, que sindicatos y Gobierno valoran distinto; la petición de cese es de partidos y no hay respuesta del Ministerio del Interior en las fuentes leídas. Nivel B (20minutos, que cita a Renfe y recoge declaraciones de Frente Amplio y Podemos)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/huelga-general-cancela-15-7-trenes-ave-larga-distancia-10-5-cercanias-suprime-6-4-los-vuelos-previstos_7059925_0.html",
+        "https://www.20minutos.es/nacional/frente-amplio-podemos-reclaman-sanchez-cese-marlaska-por-las-cargas-policiales-durante-huelga_7059953_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-11",
+      "titulo": "La Fiscalía abre una investigación sobre los presuntos casos de abuso sexual infantil en TikTok tras la denuncia de Maldita.es",
+      "que": "Según 20minutos, que cita al Ministerio Fiscal, la fiscal general del Estado, Teresa Peramato, firmó el 11 de noviembre un decreto que designa a la fiscal de Sala coordinadora contra la Criminalidad Informática, Elvira Tejada, para investigar posibles delitos de difusión de contenidos de abuso sexual infantil y corrupción de menores en TikTok. La investigación nace de la denuncia de Maldita.es, cuyos responsables ratificaron ese día la denuncia y aportaron material probatorio que se analizará. Es la respuesta a la petición del Ministerio de Juventud e Infancia de actuar contra la plataforma.",
+      "lectura": "Es la apertura de una investigación, no una conclusión: los hechos son presuntos y la plataforma no ha sido declarada responsable; no consta en la fuente respuesta de TikTok. Nivel B (20minutos, con comunicado del Ministerio Fiscal)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/fiscalia-investigara-los-presuntos-casos-abuso-sexual-infantil-tiktok_7059854_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-11",
+      "titulo": "La Junta Electoral avala que Canal Sur deje fuera del debate del 24-N a Adelante Andalucía",
+      "que": "Según El Español y ABC, la Junta Electoral Provincial de Sevilla avaló el plan de cobertura de las elecciones generales de la RTVA y rechazó la pretensión de Adelante Andalucía de participar en el debate a cinco previsto por Canal Sur para el 24 de noviembre y en las entrevistas electorales, al no tener representación en el Congreso. La RTVA destaca que la resolución respalda la doctrina consolidada de que solo participen los grupos con representación. El partido había criticado la decisión.",
+      "lectura": "Es una resolución de una Junta Provincial sobre una cadena autonómica, recurrible, que aplica el criterio de representación en el Congreso; las encuestas sitúan a Adelante Andalucía con entre 3 y 4 escaños, pero eso no cambia el criterio. Nivel B (El Español, ABC, que citan la resolución de la Junta)",
+      "actores": [],
+      "src": [
+        "https://www.elespanol.com/espana/andalucia/20261111/junta-electoral-avala-canal-sur-deje-debate-electoral-adelante-andalucia/1003744454569_0.html",
+        "https://www.abc.es/espana/andalucia/junta-electoral-avala-plan-cobertura-canal-sur-20261111161818-nts.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-11",
       "titulo": "El juez Pedraz pide a un abogado investigado en el caso de la «fontanera» que explique un pago de 105.122 € a otro letrado",
       "que": "Según El Mundo y El Español, que citan una providencia del juez de la Audiencia Nacional Santiago Pedraz fechada el 11 de noviembre, el magistrado requiere a Ismael Oliver, investigado en el caso de Leire Díez y que fue abogado de Koldo García en el caso mascarillas, que explique los servicios que justificaron un pago de 105.122,76 euros de su despacho a Gonzalo Martínez Fresneda, abogado de Gaspar Zarrías. Los medios señalan que el dato consta en documentación de la Agencia Tributaria y que Martínez Fresneda no está investigado en la causa. El juez recuerda a Oliver su derecho a no aportar información que pueda incriminarle.",
       "lectura": "Es un requerimiento de aclaración dentro de una instrucción abierta, no una imputación del receptor ni una conclusión sobre el pago; las personas citadas se presumen inocentes. Las dos fuentes citan la providencia pero no la hemos leído directamente. Nivel B (El Mundo, El Español, que citan la resolución judicial)",
@@ -774,7 +836,6 @@
       ],
       "src": [
         "https://www.europapress.es/nacional/noticia-sanchez-respalda-puente-dar-cara-dimitir-victimas-dignifica-pais-20261103224132.html",
-        "https://www.20minutos.es/nacional/pedro-sanchez-sobre-dimision-oscar-puente-ha-dado-cara-por-voluntad-propia-gracias-por-tanto-compa-ero_7056790_0.html",
         "https://www.elmundo.es/espana/2026/11/03/6aea4473fdddff213b8b45b6.html"
       ]
     },

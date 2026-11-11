@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10",
+  "actualizado": "2026-11-11",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -40,7 +40,7 @@
       "titulo": "Primarias abiertas de Podemos (14-15 oct; resultados el 16 a las 12.00)",
       "detalle": "En curso: votación del 14-10 (08.00) al 15-10 (24.00) con Irene Montero como aspirante; el ganador encabezaría Madrid. Resultados el 16-10 a las 12.00. Sumar/Frente Amplio no las aceptó como método.",
       "tipo": "politico",
-      "estado": "previsto",
+      "estado": "hecho",
       "src": "https://www.europapress.es/nacional/noticia-arranca-votaciones-primarias-impulsadas-podemos-irene-montero-aspirante-candidata-20261014102702.html"
     },
     {
@@ -56,7 +56,7 @@
       "titulo": "Primera reunión de la Diputación Permanente",
       "detalle": "Según El Mundo, el orden del día no incluye la convalidación de los decretos de vivienda; el plazo para convalidarlos termina el 14 de noviembre.",
       "tipo": "politico",
-      "estado": "previsto",
+      "estado": "hecho",
       "src": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/07/6ac633b421efa0b7728b4593.html"
     },
     {
@@ -64,7 +64,7 @@
       "titulo": "Frente Amplio elige cabeza de lista; primarias de ERC",
       "detalle": "Yolanda Díaz no repite. El Frente Amplio (IU, Comuns, Más Madrid, Movimiento Sumar) propone a Ada Colau (12-10), que agradece la propuesta sin aceptar expresamente (13-10) y pide candidatura única; Emilio Delgado encabeza Madrid. ERC: Rufián encabeza la lista y pacta con Podemos (12-10). Pendiente: acuerdo con Podemos/ERC antes del cierre del registro (16-10).",
       "tipo": "politico",
-      "estado": "previsto",
+      "estado": "hecho",
       "src": "https://www.infobae.com/espana/2026/10/04/el-nuevo-sumar-elegira-a-su-lider-el-17-de-octubre-ante-el-posible-adelanto-electoral-estos-son-los-candidatos-en-las-quinielas/"
     },
     {
@@ -72,7 +72,7 @@
       "titulo": "Fin de consulta y reclamaciones al censo (12-19 oct)",
       "detalle": "Art. 39 LOREG. Se vota con el censo cerrado el 1 de agosto.",
       "tipo": "legal",
-      "estado": "previsto",
+      "estado": "hecho",
       "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
     },
     {
@@ -104,7 +104,7 @@
       "titulo": "Sorteos de las mesas electorales (31-oct a 4-nov)",
       "detalle": "Según el Ministerio del Interior, citado por 20minutos, los sorteos de presidentes y vocales se celebran entre el 31 de octubre y el 4 de noviembre; las notificaciones incluyen el manual aprobado el 27-10 (900.000 ejemplares). Los miembros de las mesas deben presentarse a las 8:00 del 29-N.",
       "tipo": "legal",
-      "estado": "previsto",
+      "estado": "hecho",
       "src": "https://www.20minutos.es/nacional/gobierno-aprueba-manual-las-mesas-electorales-29n-los-sorteos-comenzaran-este-sabado_7054188_0.html"
     },
     {
@@ -123,7 +123,7 @@
       "titulo": "Comparecencia de Puente en la Diputación Permanente (17:00)",
       "detalle": "Según Europa Press (fuentes parlamentarias), el ministro comparece por el accidente de Urda.",
       "tipo": "politico",
-      "estado": "previsto",
+      "estado": "hecho",
       "src": "https://www.europapress.es/economia/transportes-00343/noticia-congreso-pone-fecha-comparecencia-puente-accidente-urda-noviembre-20261029180346.html"
     },
     {
@@ -147,7 +147,7 @@
       "titulo": "Entrevista a Abascal en «La Revuelta» (TVE, 21:45)",
       "detalle": "Emisión prevista el lunes 9-11, según 20minutos; el público no será el habitual del programa, según Vertele citado por ese diario.",
       "tipo": "politico",
-      "estado": "previsto",
+      "estado": "hecho",
       "src": [
         "https://www.20minutos.es/nacional/broncano-recibe-abascal-revuelta-todo-sabe-entrevista-gobierno-lleva-dias-calentando_7058750_0.html"
       ]
@@ -178,7 +178,7 @@
       "titulo": "Funeral por las 69 víctimas de Urda en la catedral de Toledo (19:00)",
       "detalle": "Presidido por el arzobispo de Toledo, con los Reyes, Page, el Gobierno representado por Carlos Cuerpo y Milagros Tolón y Feijóo; Sánchez no asiste, según 20minutos.",
       "tipo": "politico",
-      "estado": "previsto",
+      "estado": "hecho",
       "src": [
         "https://www.20minutos.es/nacional/los-reyes-asisten-hoy-misa-funeral-toledo-por-las-69-victimas-accidente-urda-sin-presencia-sanchez_7058805_0.html"
       ]
@@ -188,7 +188,7 @@
       "titulo": "Huelga general por la vivienda",
       "detalle": "Fecha confirmada por UGT (Pepe Álvarez) y propuesta por la Confederación de Sindicatos de Inquilinas; dos días antes del inicio de la campaña. El BOE del 7-11 publica la Orden TED/1180/2026 de servicios mínimos para el suministro eléctrico ante la huelga general del 11-11 convocada por CGT, Intersindical, CCOO y UGT (de 0:00 a 24:00).",
       "tipo": "politico",
-      "estado": "previsto",
+      "estado": "hecho",
       "src": [
         "https://www.20minutos.es/nacional/los-sindicatos-inquilinas-proponen-11-noviembre-para-celebrar-huelga-general-por-vivienda_7045934_0.html",
         "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23371"
