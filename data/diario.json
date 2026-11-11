@@ -4,6 +4,37 @@
   "entradas": [
     {
       "fecha": "2026-11-11",
+      "titulo": "Primer balance de Renfe: la huelga general suprime el 24 % de los trenes AVE y de larga distancia y el 10,7 % de Cercanías y Media Distancia",
+      "que": "Según 20minutos, que cita el primer balance de Renfe actualizado a las 11:00, la huelga general del 11-N había suprimido el 24 % de los trenes de Alta Velocidad y Larga Distancia y el 10,7 % de Cercanías y Media Distancia, sobre todo en Madrid y Rodalies, con 713 viajeros afectados en servicios comerciales y un seguimiento del 6,83 % entre los trabajadores de Renfe (17,18 % en talleres). El paro de maquinistas del martes 10 acabó con un seguimiento del 33,2 % de los conductores, según la misma operadora.",
+      "lectura": "Son datos parciales de la propia operadora a las 11:00, no un balance final ni del conjunto de la huelga; los sindicatos y otras administraciones darán otras cifras. Nivel B (20minutos, que cita a Renfe)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/huelga-provoca-supresion-24-trenes-ave-alvia-renfe-10-cercanias-sobre-todo-madrid-barcelona_7059739_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-11",
+      "titulo": "Vox suspende la grabación de Abascal con Jordi Wild y exige a RTVE emitir la entrevista completa de La Revuelta",
+      "que": "Según ABC y 20minutos, Vox anunció el miércoles 11 que Abascal no acudirá al podcast de Jordi Wild, previsto para ese día, tras denunciar que RTVE y la productora El Terrat se niegan a publicar los cuarenta minutos que, según el partido, quedaron sin emitir de la entrevista de Broncano. Vox dice que suspende toda grabación en la que no se asegure su «autonomía plena», reconoce que Wild no incumplió lo pactado y exige la emisión íntegra. El podcast preveía entrevistar a los candidatos de PP, PSOE, Vox y Frente Amplio; Sánchez había aceptado la invitación.",
+      "lectura": "Es la versión de Vox sobre lo ocurrido; no consta en las fuentes leídas respuesta de RTVE ni de El Terrat sobre los cuarenta minutos. Los plazos y condiciones de las entrevistas en televisión pública pueden afectar a la JEC. Nivel B (ABC, 20minutos; comunicado de Vox)",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/vox-denuncia-rtve-cumplido-acordado-entrevista-broncano-20261111111831-nt.html",
+        "https://www.20minutos.es/nacional/vox-acusa-tve-revuelta-secuestrar-40-minutos-programa-con-abascal-exige-emision-entrevista-completa_7059703_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-11",
       "titulo": "Huelga general del 11-N: el Gobierno vacía su agenda pública y el PP la califica de «huelga electoral»",
       "que": "Según Europa Press y ABC, el Gobierno vació su agenda pública durante la jornada de huelga general del 11 de noviembre, con la excepción de los ministros Albares y Planas. El PP, por boca de Tellado y otros dirigentes, acusa al Gobierno de «alentar» una «huelga electoral» y de «hacer campaña» con los Consejos de Ministros extraordinarios; Podemos denuncia «violencia policial» contra piquetes informativos. ABC recoge incidencias como un detenido en un piquete en Mercamadrid por lanzar una valla a un policía y un piquete que interrumpió un programa de TVE.",
       "lectura": "Son valoraciones de partidos y hechos aislados recogidos por los medios; aún no hay datos oficiales de seguimiento ni balance de Interior, y los convocantes (CGT, Intersindical, CCOO, UGT y otros) y el Gobierno darán cifras distintas. Nivel B (Europa Press, ABC; declaraciones de partido)",
@@ -22,9 +53,9 @@
         }
       ],
       "src": [
-        "https://www.europapress.es/nacional/noticia-gobierno-vacia-agenda-institucional-excepcion-albares-planas-jo",
+        "https://www.europapress.es/nacional/noticia-gobierno-vacia-agenda-institucional-excepcion-albares-planas-jornada-huelga-general-20261111081226.html",
         "https://www.abc.es/espana/limpia-agenda-publica-ministros-huelga-general-respeto-20261111102222-nt.html",
-        "https://www.europapress.es/nacional/noticia-pp-acusa-gobierno-alentar-huelga-electoral-avisa-danara-cre"
+        "https://www.europapress.es/nacional/noticia-pp-acusa-gobierno-alentar-huelga-electoral-avisa-danara-credibilidad-sindicatos-20261111111607.html"
       ]
     },
     {
@@ -175,8 +206,7 @@
         }
       ],
       "src": [
-        "https://www.eldiario.es/politica/sanchez-pide-justicia-investigue-pagos-koldo-garcia-mintiera-gobierno_1_13650855.html",
-        "https://www.20minutos.es/nacional/feijoo-niega-haber-ofrecido-dinero-koldo-pa"
+        "https://www.eldiario.es/politica/sanchez-pide-justicia-investigue-pagos-koldo-garcia-mintiera-gobierno_1_13650855.html"
       ]
     },
     {
@@ -199,8 +229,7 @@
         }
       ],
       "src": [
-        "https://www.europapress.es/nacional/noticia-pp-acepta-academia-television-organice-debates-critica-veto-psoe-grupos-privados-20261109194934.html",
-        "https://www.eldiario.es/politica/psoe-propone-academia-television-organice-debates-electorales-si-pp-man"
+        "https://www.europapress.es/nacional/noticia-pp-acepta-academia-television-organice-debates-critica-veto-psoe-grupos-privados-20261109194934.html"
       ]
     },
     {
@@ -430,8 +459,7 @@
         }
       ],
       "src": [
-        "https://www.europapress.es/nacional/noticia-gobierno-ve-presunta-oferta-millon-pp-koldo-garcia-mayor-ataque-reciente-democracia-20261106143229.html",
-        "https://www.europapress.es/nacional/noticia-ester-munoz-dice-pp-nunca-ofrecio-dinero-koldo-garcia-derrocar-sanc"
+        "https://www.europapress.es/nacional/noticia-gobierno-ve-presunta-oferta-millon-pp-koldo-garcia-mayor-ataque-reciente-democracia-20261106143229.html"
       ]
     },
     {
@@ -578,7 +606,6 @@
       ],
       "src": [
         "https://www.eldiario.es/politica/koldo-garcia-afirma-abogado-pp-le-ofrecio-millon-informacion-gobierno-sanchez_1_13639592.html",
-        "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hac",
         "https://www.europapress.es/nacional/noticia-psoe-acusa-guerra-sucia-pp-derribar-gobierno-legitimo-intentar-comprar-testimonio-koldo-20261105105421.html",
         "https://elpais.com/espana/2026-11-05/sanchez-pide-explicaciones-a-feijoo-sobre-el-supuesto-pago-de-un-millon-de-euros-del-pp-a-koldo.html"
       ]
@@ -1026,8 +1053,7 @@
         }
       ],
       "src": [
-        "https://www.eldiario.es/politica/gobierno-aprobara-martes-ayudas-economicas-victimas-accidente-urda_1_13630405.html",
-        "https://www.20minutos.es/nacional/oscar-puente-comparecera-martes-tras-consejo-ministros-que-aprobara-un-real-decreto-para-afectados-tr"
+        "https://www.eldiario.es/politica/gobierno-aprobara-martes-ayudas-economicas-victimas-accidente-urda_1_13630405.html"
       ]
     },
     {
