@@ -1,6 +1,16 @@
 {
- "actualizado": "2026-11-10",
+ "actualizado": "2026-11-11",
  "dias": [
+  {
+   "fecha": "2026-11-11",
+   "items": [
+    {
+     "tipo": "diario",
+     "texto": "1 movimiento nuevo en el diario. Último: El BOE publica cuatro decretos-ley del Consejo de Ministros del 10-11 y el cese del presidente de Adif.",
+     "texto_en": "1 new entry in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-10",
    "items": [
@@ -603,38 +613,6 @@
      "tipo": "diario",
      "texto": "8 movimientos nuevos en el diario. Último: Pedraz cita como investigado a un exjuez por contactar con un clan narco para atacar a la jueza del caso David Sánchez.",
      "texto_en": "8 new entries in the campaign log (in Spanish)."
-    }
-   ]
-  },
-  {
-   "fecha": "2026-10-12",
-   "items": [
-    {
-     "tipo": "encuesta",
-     "texto": "Nueva encuesta: GAD3 2026-10-08.",
-     "texto_en": "New poll: GAD3 2026-10-08."
-    },
-    {
-     "tipo": "encuesta",
-     "texto": "Nueva encuesta: GESOP 2026-10-08.",
-     "texto_en": "New poll: GESOP 2026-10-08."
-    },
-    {
-     "tipo": "encuesta",
-     "texto": "Nueva encuesta: SocioMétrica 2026-10-11.",
-     "texto_en": "New poll: SocioMétrica 2026-10-11."
-    },
-    {
-     "tipo": "media",
-     "texto": "PP baja en la media: 32,6 % → 32,3 %.",
-     "delta": -0.4,
-     "partido": "PP",
-     "texto_en": "PP falls in the poll average: 32.6% → 32.3%."
-    },
-    {
-     "tipo": "diario",
-     "texto": "6 movimientos nuevos en el diario. Último: El Frente Amplio propone a Ada Colau como candidata y llama a Podemos a sumarse.",
-     "texto_en": "6 new entries in the campaign log (in Spanish)."
     }
    ]
   }
@@ -1578,6 +1556,32 @@
   },
   {
    "fecha": "2026-11-10",
+   "media": {
+    "PP": 30.63,
+    "PSOE": 28.07,
+    "VOX": 18.46,
+    "SUMAR": 6.76,
+    "PODEMOS": 1.76,
+    "SALF": 1.94
+   },
+   "escanos": {
+    "PP": 133,
+    "PSOE": 114,
+    "VOX": 66,
+    "SUMAR": 9,
+    "PODEMOS": 0
+   },
+   "ppvox": 199,
+   "probs": {
+    "pp_vox": 90.4,
+    "pp_solo": 0.0,
+    "psoe_bloque": 7.4,
+    "bloqueo": 2.2
+   },
+   "n_encuestas": 52
+  },
+  {
+   "fecha": "2026-11-11",
    "media": {
     "PP": 30.63,
     "PSOE": 28.07,

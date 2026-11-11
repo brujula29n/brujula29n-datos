@@ -1,7 +1,24 @@
 {
-  "actualizado": "2026-11-10",
+  "actualizado": "2026-11-11",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-11",
+      "titulo": "El BOE publica cuatro decretos-ley del Consejo de Ministros del 10-11 y el cese del presidente de Adif",
+      "que": "Según el BOE del 11-11, el Gobierno publica el Real Decreto-ley 33/2026 (medidas ante los daños de la DANA «Adam» del 17 al 19 de octubre en Valencia, Alicante y Murcia), el 34/2026 (seguridad operacional ferroviaria y protección social del personal ferroviario), el 35/2026 (familias monoparentales y otras medidas de apoyo a familias) y el 36/2026 (reforma del sistema de dependencia). También publica el Real Decreto 992/2026 que dispone el cese de Luis Pedro Marco de la Peña como presidente de Adif y el 991/2026 que cesa a la directora del gabinete del ministro de Transportes, Encarnación Sandonis.",
+      "lectura": "Es publicación oficial; el BOE no indica el motivo de los ceses y no los vinculamos con otras informaciones. Los decretos-ley están en vigor desde hoy y deberán ser convalidados por la Diputación Permanente del Congreso, ya que las Cortes están disueltas. Nivel A (BOE)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23603",
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23604",
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23609"
+      ]
+    },
     {
       "fecha": "2026-11-10",
       "titulo": "El Gobierno recurrirá al Constitucional 20 artículos de la ley valenciana pactada por el PP y Vox, incluida la «prioridad nacional»",
