@@ -4,6 +4,30 @@
   "entradas": [
     {
       "fecha": "2026-11-12",
+      "titulo": "El CIS preelectoral da ganador al PSOE (33,3 %) y deja a PP y Vox lejos de la mayoría, a diferencia del resto de encuestas",
+      "que": "Según elDiario.es y Europa Press, la macroencuesta preelectoral del CIS (campo del 7 al 30 de octubre, más de 45.000 entrevistas) estima PSOE 33,3 %, PP 25,5 %, Vox 18,4 % y Frente Amplio 4,7 %, con horquillas de 134-143 escaños para el PSOE, 98-106 para el PP y 57-65 para Vox. Con las horquillas bajas, PP y Vox sumarían 155 y el bloque de investidura, 166.",
+      "lectura": "El CIS no pondera por recuerdo de voto y su estimación se aleja de la media de encuestas privadas (PP 30,4 · PSOE 28,4); el campo es en gran parte anterior a Urda. Por eso no entra en nuestra media. Nivel B (elDiario.es, Europa Press; pendiente la ficha del CIS)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/cis-preelectoral-aleja-resto-encuestas-situa-suma-pp-vox-lejos-mayoria-absoluta_1_13658236.html",
+        "https://www.europapress.es/nacional/noticia-cis-da-victoria-psoe-33-niega-mayoria-pacto-psoe-vox-20261112171530.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-12",
       "titulo": "La Diputación Permanente convalida el decreto antidesahucios y de prórroga de alquileres, pero vuelve a tumbar el de contratos indefinidos",
       "que": "Según 20minutos, la Diputación Permanente convalidó el 12-11 el decreto que suspende desahucios y prorroga los contratos de alquiler, gracias a la menor representación de PP, Vox y Junts en ese órgano, aunque ningún partido cambió su voto respecto a octubre. El decreto de contratos de alquiler indefinidos volvió a decaer por el rechazo del PNV. Europa Press contabiliza 14 decretos-ley perdidos por el Gobierno en la legislatura.",
       "lectura": "Es un resultado parlamentario: una norma queda en vigor y la otra se deroga. El PP ha prometido derogar los decretos si gobierna y la Comunidad de Madrid anuncia que no lo aplicará en sus competencias (ABC). Nivel B (20minutos, Europa Press, elDiario.es)",

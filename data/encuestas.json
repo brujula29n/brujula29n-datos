@@ -124,6 +124,32 @@
   ],
   "encuestas": [
     {
+      "casa": "CIS (preelectoral)",
+      "medio": "CIS",
+      "tipo": "oficial",
+      "campo_ini": "2026-10-07",
+      "campo_fin": "2026-10-30",
+      "n": null,
+      "pct": {
+        "PP": 25.5,
+        "PSOE": 33.3,
+        "VOX": 18.4,
+        "SUMAR": 6.9,
+        "PODEMOS": 1.1,
+        "SALF": null,
+        "ERC": 3.1,
+        "JUNTS": 1.2,
+        "BILDU": 1.8,
+        "PNV": 0.7,
+        "BNG": 1.0,
+        "CC": null,
+        "UPN": null
+      },
+      "esc": null,
+      "nota": "Macroencuesta preelectoral del CIS (más de 45.000 entrevistas según elDiario.es; n exacto pendiente de la ficha del CIS). Datos tomados de elDiario.es, no de la publicación del CIS: verificar. SUMAR = Frente Amplio 4,7 + Compromís-Front Valencià 1,6 + Unidad del Pueblo Canario 0,4 + Ara Més-Front Ampli 0,2. Escaños en horquilla (no se anotan): PSOE 134-143, PP 98-106, VOX 57-65, FA 7-11, ERC 10-14, Bildu 7-10, PNV 2-4, BNG 2-3, Junts 2-4, Compromís 4-6, Adelante Andalucía 3-4. Campo en gran parte anterior al accidente de Urda (28-10). Como el resto de estudios del CIS, se muestra pero no entra en la media.",
+      "url": "https://www.eldiario.es/politica/cis-preelectoral-aleja-resto-encuestas-situa-suma-pp-vox-lejos-mayoria-absoluta_1_13658236.html"
+    },
+    {
       "casa": "SW Demoscopia",
       "medio": "La Séptima",
       "tipo": "privada",
