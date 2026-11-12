@@ -4,6 +4,70 @@
   "entradas": [
     {
       "fecha": "2026-11-12",
+      "titulo": "La Diputación Permanente convalida el decreto antidesahucios y de prórroga de alquileres, pero vuelve a tumbar el de contratos indefinidos",
+      "que": "Según 20minutos, la Diputación Permanente convalidó el 12-11 el decreto que suspende desahucios y prorroga los contratos de alquiler, gracias a la menor representación de PP, Vox y Junts en ese órgano, aunque ningún partido cambió su voto respecto a octubre. El decreto de contratos de alquiler indefinidos volvió a decaer por el rechazo del PNV. Europa Press contabiliza 14 decretos-ley perdidos por el Gobierno en la legislatura.",
+      "lectura": "Es un resultado parlamentario: una norma queda en vigor y la otra se deroga. El PP ha prometido derogar los decretos si gobierna y la Comunidad de Madrid anuncia que no lo aplicará en sus competencias (ABC). Nivel B (20minutos, Europa Press, elDiario.es)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "JUNTS",
+          "impacto": 0
+        },
+        {
+          "id": "PNV",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/diputacion-permanente-salva-decreto-antidesahucios-prorroga-alquileres-vuelve-tumbar-los-contratos-indefinidos_7060053_0.html",
+        "https://www.europapress.es/nacional/noticia-gobierno-pierde-congreso-decimocuarto-decreto-ley-psoe-suma-ya-42-derrotas-leyes-legislatura-20261112132812.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-12",
+      "titulo": "La jueza de la Audiencia Nacional cita como investigado al exdelegado del Gobierno en Ceuta por la entrada masiva de julio",
+      "que": "Según 20minutos y El País, la magistrada María Tardón citó para el 18 de noviembre como investigado a Miguel Ángel Pérez Triano, exdelegado del Gobierno en Ceuta, en la causa sobre la entrada de más de 80.000 migrantes a finales de julio. Su exjefe de gabinete declaró como testigo que le había trasladado las alertas del CNI, algo que Pérez Triano negó; ambos dimitieron en septiembre.",
+      "lectura": "Ser investigado no supone culpabilidad: Pérez Triano se presume inocente y declarará el 18-11. Lo verificable es la citación; los hechos los determinará la instrucción. Nivel B (20minutos, El País, con fuentes de la investigación)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/jueza-cita-como-investigado-ex-delegado-gobierno-ceuta-18-noviembre_7060257_0.html",
+        "https://elpais.com/espana/2026-11-12/la-jueza-imputa-al-exdelegado-del-gobierno-en-ceuta-por-la-entrada-masiva.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-12",
+      "titulo": "La UCO pide al Tribunal de Cuentas información sobre las cuentas del PSOE en la causa de los pagos en efectivo",
+      "que": "Según elDiario.es y El País, agentes de la UCO acudieron el 12-11 al Tribunal de Cuentas para requerir información sobre las cuentas del PSOE, dentro de la pieza secreta de la Audiencia Nacional sobre los pagos en metálico del partido en la etapa de Ábalos y Cerdán en la Secretaría de Organización. El Tribunal de Cuentas indica que facilita la información de sus fiscalizaciones que le piden los órganos judiciales.",
+      "lectura": "Es una diligencia de investigación en una causa secreta, no una acusación nueva ni una conclusión sobre las cuentas; el PSOE remitió su documentación al juez en 2025. Las personas mencionadas se presumen inocentes. Nivel B (elDiario.es, El País, con fuentes del caso)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/uco-requiere-informacion-tribunal-cuentas-cuentas-psoe_1_13658082.html",
+        "https://elpais.com/espana/2026-11-12/la-uco-acude-al-tribunal-de-cuentas-por-la-investigacion-sobre-los-pagos-en-efectivo-en-el-psoe.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-12",
       "titulo": "Marlaska ordena investigar las cargas policiales de la huelga general y pide prescindir del gas lacrimógeno",
       "que": "Según El Español, que cita fuentes del Ministerio del Interior, Fernando Grande-Marlaska pidió al director general de la Policía, Francisco Pardo Piqueras, abrir «investigaciones específicas» sobre las actuaciones policiales del 11-N, al margen de la inspección interna habitual, y que se prescinda del gas lacrimógeno en el control de manifestaciones. Sumar, Podemos, Frente Amplio y ERC habían pedido su dimisión.",
       "lectura": "Es una decisión administrativa anunciada por el propio Ministerio; no hay aún resultados ni valoración judicial de las cargas. Nivel B (El Español, con fuentes de Interior)",
