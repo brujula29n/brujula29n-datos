@@ -4,6 +4,33 @@
   "entradas": [
     {
       "fecha": "2026-11-12",
+      "titulo": "Marlaska ordena investigar las cargas policiales de la huelga general y pide prescindir del gas lacrimógeno",
+      "que": "Según El Español, que cita fuentes del Ministerio del Interior, Fernando Grande-Marlaska pidió al director general de la Policía, Francisco Pardo Piqueras, abrir «investigaciones específicas» sobre las actuaciones policiales del 11-N, al margen de la inspección interna habitual, y que se prescinda del gas lacrimógeno en el control de manifestaciones. Sumar, Podemos, Frente Amplio y ERC habían pedido su dimisión.",
+      "lectura": "Es una decisión administrativa anunciada por el propio Ministerio; no hay aún resultados ni valoración judicial de las cargas. Nivel B (El Español, con fuentes de Interior)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        },
+        {
+          "id": "PODEMOS",
+          "impacto": 0
+        },
+        {
+          "id": "ERC",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elespanol.com/espana/politica/20261112/marlaska-ordena-investigar-cargas-policiales-huelga-general-socios-gobierno-piden-dimision/1003744455203_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-12",
       "titulo": "Arranca la campaña: Sánchez abre en Sevilla y Feijóo en Badalona esta medianoche",
       "que": "Según ABC y Europa Press, la campaña electoral comienza a las 0:00 del viernes 13: Pedro Sánchez la abre en Sevilla y Alberto Núñez Feijóo en Badalona, junto a Xavier García Albiol; Europa Press añade que Abascal y Colau la abren en Madrid. ABC indica que Feijóo centrará parte de su campaña en inmigración y en una ley antiokupa.",
       "lectura": "Son agendas anunciadas por los partidos; la campaña dura hasta las 0:00 del 28-11, con jornada de reflexión ese día. Nivel B (ABC, Europa Press)",
