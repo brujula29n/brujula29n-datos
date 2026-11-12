@@ -1,6 +1,48 @@
 {
- "actualizado": "2026-11-11",
+ "actualizado": "2026-11-12",
  "dias": [
+  {
+   "fecha": "2026-11-12",
+   "items": [
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: SW Demoscopia 2026-11-10.",
+     "texto_en": "New poll: SW Demoscopia 2026-11-10."
+    },
+    {
+     "tipo": "media",
+     "texto": "PSOE sube en la media: 28,1 % → 28,4 %.",
+     "delta": 0.3,
+     "partido": "PSOE",
+     "texto_en": "PSOE rises in the poll average: 28.1% → 28.4%."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "PP: proyección de 133 a 131 escaños.",
+     "delta": -2,
+     "partido": "PP",
+     "texto_en": "PP: projection from 133 to 131 seats."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "PSOE: proyección de 114 a 116 escaños.",
+     "delta": 2,
+     "partido": "PSOE",
+     "texto_en": "PSOE: projection from 114 to 116 seats."
+    },
+    {
+     "tipo": "escanos",
+     "texto": "PP+Vox pasa de 199 a 196 escaños proyectados (mayoría: 176).",
+     "delta": -3,
+     "texto_en": "PP+Vox moves from 199 to 196 projected seats (majority: 176)."
+    },
+    {
+     "tipo": "diario",
+     "texto": "1 movimiento nuevo en el diario. Último: Arranca la campaña: Sánchez abre en Sevilla y Feijóo en Badalona esta medianoche.",
+     "texto_en": "1 new entry in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-11",
    "items": [
@@ -623,16 +665,6 @@
      "tipo": "diario",
      "texto": "12 movimientos nuevos en el diario. Último: PP y Vox firman la moción de censura contra el alcalde de Algeciras.",
      "texto_en": "12 new entries in the campaign log (in Spanish)."
-    }
-   ]
-  },
-  {
-   "fecha": "2026-10-13",
-   "items": [
-    {
-     "tipo": "diario",
-     "texto": "8 movimientos nuevos en el diario. Último: Pedraz cita como investigado a un exjuez por contactar con un clan narco para atacar a la jueza del caso David Sánchez.",
-     "texto_en": "8 new entries in the campaign log (in Spanish)."
     }
    ]
   }
@@ -1625,6 +1657,32 @@
     "bloqueo": 2.2
    },
    "n_encuestas": 52
+  },
+  {
+   "fecha": "2026-11-12",
+   "media": {
+    "PP": 30.41,
+    "PSOE": 28.38,
+    "VOX": 18.37,
+    "SUMAR": 6.82,
+    "PODEMOS": 1.75,
+    "SALF": 1.95
+   },
+   "escanos": {
+    "PP": 131,
+    "PSOE": 116,
+    "VOX": 65,
+    "SUMAR": 10,
+    "PODEMOS": 0
+   },
+   "ppvox": 196,
+   "probs": {
+    "pp_vox": 88.4,
+    "pp_solo": 0.0,
+    "psoe_bloque": 8.8,
+    "bloqueo": 2.8
+   },
+   "n_encuestas": 53
   }
  ]
 }

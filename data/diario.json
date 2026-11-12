@@ -1,7 +1,36 @@
 {
-  "actualizado": "2026-11-11",
+  "actualizado": "2026-11-12",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-12",
+      "titulo": "Arranca la campaña: Sánchez abre en Sevilla y Feijóo en Badalona esta medianoche",
+      "que": "Según ABC y Europa Press, la campaña electoral comienza a las 0:00 del viernes 13: Pedro Sánchez la abre en Sevilla y Alberto Núñez Feijóo en Badalona, junto a Xavier García Albiol; Europa Press añade que Abascal y Colau la abren en Madrid. ABC indica que Feijóo centrará parte de su campaña en inmigración y en una ley antiokupa.",
+      "lectura": "Son agendas anunciadas por los partidos; la campaña dura hasta las 0:00 del 28-11, con jornada de reflexión ese día. Nivel B (ABC, Europa Press)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/sanchez-abre-campana-sevilla-ante-peligro-perder-20261112013554-nt.html",
+        "https://www.abc.es/espana/cataluna/feijoo-abre-campana-cataluna-centrado-inmigracion-okupacion-20261111020522-nt.html",
+        "https://www.europapress.es/nacional/noticia-sanchez-abre-campana-hoy-sevilla-feijoo-hara-badalona-mientras-abascal-colau-eligen-madrid-20261112072933.html"
+      ]
+    },
     {
       "fecha": "2026-11-11",
       "titulo": "Dos miembros de Nuevas Generaciones del PP, heridos en Barakaldo durante una marcha de la huelga general; el PP lo denuncia",

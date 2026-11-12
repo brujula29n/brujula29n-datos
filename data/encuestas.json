@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10",
+  "actualizado": "2026-11-12",
   "nota": "Escaños sobre 350; mayoría absoluta 176. null = la casa no publica ese dato. 'tipo': privada | oficial | panel. Las cifras se han contrastado con al menos dos fuentes cuando el medio original bloqueaba la lectura.",
   "partidos_orden": [
     "PP",
@@ -54,20 +54,20 @@
   "media": {
     "nombre": "Media ponderada Brújula 29N",
     "metodo": "Media de las encuestas privadas con campo en los últimos 21 días, ponderada por tamaño muestral (raíz cuadrada) y antigüedad (semivida 10 días). El CIS se muestra aparte por su desviación sistemática documentada; los paneles online autoseleccionados ponderan a la mitad.",
-    "fecha": "2026-11-09",
+    "fecha": "2026-11-10",
     "pct": {
-      "PP": 30.63,
-      "PSOE": 28.07,
-      "VOX": 18.46,
-      "SUMAR": 6.76,
-      "PODEMOS": 1.76,
-      "SALF": 1.94,
-      "ERC": 2.53,
-      "JUNTS": 1.37,
+      "PP": 30.41,
+      "PSOE": 28.38,
+      "VOX": 18.37,
+      "SUMAR": 6.82,
+      "PODEMOS": 1.75,
+      "SALF": 1.95,
+      "ERC": 2.55,
+      "JUNTS": 1.35,
       "BILDU": 1.4,
       "PNV": 0.82,
-      "BNG": 0.95,
-      "CC": 0.43,
+      "BNG": 0.96,
+      "CC": 0.42,
       "UPN": 0.06
     },
     "casas": [
@@ -123,6 +123,46 @@
     }
   ],
   "encuestas": [
+    {
+      "casa": "SW Demoscopia",
+      "medio": "La Séptima",
+      "tipo": "privada",
+      "campo_ini": "2026-10-26",
+      "campo_fin": "2026-11-10",
+      "n": 6500,
+      "pct": {
+        "PP": 28.3,
+        "PSOE": 31.4,
+        "VOX": 17.5,
+        "SUMAR": 7.4,
+        "PODEMOS": 1.7,
+        "SALF": 2.0,
+        "ERC": 2.7,
+        "JUNTS": 1.2,
+        "BILDU": 1.4,
+        "PNV": 0.8,
+        "BNG": 1.0,
+        "CC": 0.4,
+        "UPN": null
+      },
+      "esc": {
+        "PP": 113,
+        "PSOE": 132,
+        "VOX": 63,
+        "SUMAR": 10,
+        "PODEMOS": 0,
+        "SALF": 0,
+        "ERC": 12,
+        "JUNTS": 4,
+        "BILDU": 7,
+        "PNV": 3,
+        "BNG": 2,
+        "CC": 1,
+        "UPN": null
+      },
+      "nota": "Séptimo tracking de SW Demoscopia; telefónico, margen ±1,2 % según la ficha de Electográfica (verificar). El campo se solapa con los trackings anteriores (la media cuenta seis veces datos en parte comunes: pendiente de revisión humana). PP 28,1 + UPN-PP 0,2 = 28,3 y 111 + 2 = 113 escaños. SUMAR = FA con Compromís-FV y UPC (7 + 2 + 1 = 10 escaños). Además Adelante Andalucía 1,4 % y 3 escaños. Escaños suman 350; PP + Vox (con UPN) = 176.",
+      "url": "https://www.electografica.com/2026/11/encuesta-sw-demoscopia-261111.html"
+    },
     {
       "casa": "SW Demoscopia",
       "medio": "La Séptima",
