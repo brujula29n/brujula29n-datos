@@ -4,6 +4,48 @@
   "entradas": [
     {
       "fecha": "2026-11-12",
+      "titulo": "Vox presenta su programa para el 29N: «prioridad nacional», «remigración» y militarizar la frontera de Ceuta",
+      "que": "Vox difundió su programa a horas de la campaña, en trece bloques: prioridad nacional en servicios públicos, repatriaciones, gravar remesas, rebajas fiscales, EVAU y tarjeta sanitaria únicas.",
+      "lectura": "Programa recogido por tres medios; el documento oficial no fue accesible desde aquí y no se incorpora aún a la comparativa. Nivel B (20minutos, elDiario.es, El País).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/vox-propone-para-29n-rebajas-fiscales-evau-tarjeta-sanitaria-unicas-repatriar-inmigrantes-ilegales-que-no-contribuyan_7060426_0.html",
+        "https://www.eldiario.es/politica/vox-pide-limitar-aula-numero-alumnos-culturas-programa-electoral_1_13659842.html",
+        "https://elpais.com/espana/elecciones-generales/2026-11-12/vox-derogar-tres-normas-por-cada-una-que-se-apruebe-y-militarizar-la-frontera-de-ceuta.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-12",
+      "titulo": "Begoña Gómez interviene por primera vez en un mitin del PSOE, en la apertura de campaña de Sánchez en Sevilla",
+      "que": "Gómez habló antes que Sánchez como «una militante más», con un discurso feminista; Abascal criticó su presencia. Feijóo abrió en Badalona prometiendo una «auditoría».",
+      "lectura": "Gómez está investigada en un juzgado, sin sentencia; rige la presunción de inocencia. Nivel A (ABC, Europa Press, El Español).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/andalucia/pedro-sanchez-saca-begona-gomez-mitin-sevilla-20261112210128-nts.html",
+        "https://www.europapress.es/nacional/noticia-begona-gomez-entra-lleno-campana-interviene-primera-vez-mitin-psoe-20261112200930.html",
+        "https://www.elespanol.com/espana/politica/20261112/feijoo-promete-auditoria-saqueo-arranque-campana-badalona-cambio-viene-imparable/1003744456480_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-12",
       "titulo": "El CIS preelectoral da ganador al PSOE (33,3 %) y deja a PP y Vox lejos de la mayoría, a diferencia del resto de encuestas",
       "que": "Según elDiario.es y Europa Press, la macroencuesta preelectoral del CIS (campo del 7 al 30 de octubre, más de 45.000 entrevistas) estima PSOE 33,3 %, PP 25,5 %, Vox 18,4 % y Frente Amplio 4,7 %, con horquillas de 134-143 escaños para el PSOE, 98-106 para el PP y 57-65 para Vox. Con las horquillas bajas, PP y Vox sumarían 155 y el bloque de investidura, 166.",
       "lectura": "El CIS no pondera por recuerdo de voto y su estimación se aleja de la media de encuestas privadas (PP 30,4 · PSOE 28,4); el campo es en gran parte anterior a Urda. Por eso no entra en nuestra media. Nivel B (elDiario.es, Europa Press; pendiente la ficha del CIS)",
