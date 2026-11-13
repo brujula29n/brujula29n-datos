@@ -4,6 +4,22 @@
   "entradas": [
     {
       "fecha": "2026-11-13",
+      "titulo": "El Tribunal de Cuentas abre una investigación contable sobre la compra de un ático por 6,3 millones del Gobierno de Ayuso",
+      "que": "Una consejera rechazó archivar las denuncias del PSOE, Más Madrid y particulares y propone nombrar un instructor; ve indicios de una salida de fondos sin justificación legal. La Comunidad defiende que la operación fue lícita.",
+      "lectura": "Investigación contable, no penal, que puede acabar en reintegro económico; sin resolución. Nivel A (ABC, elDiario.es).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/madrid/tribunal-cuentas-ordena-investigar-atico-detectar-indicios-20261113125828-nt.html",
+        "https://www.eldiario.es/politica/tribunal-cuentas-ve-indicios-atico-gobierno-ayuso-supuso-gasto-6-3-millones-justificacion-legal_1_13661572.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-13",
       "titulo": "El cara a cara Sánchez-Feijóo será el jueves 19 de noviembre, organizado por la Academia de Televisión",
       "que": "Lo moderará María Casado en Tres Cantos, con cinco bloques: vivienda; economía y fiscalidad; política social; corrupción y regeneración; migración y política exterior. Abrirá Feijóo, por sorteo.",
       "lectura": "Primero de los dos debates pactados por PSOE y PP; el segundo sigue sin fecha anunciada. Nivel A (20minutos, El Español, ABC).",
