@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-11-12",
+  "actualizado": "2026-11-13",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-13",
+      "titulo": "El juez del caso de financiación del PSOE da diez días al Tribunal de Cuentas para aclarar un desfase en las donaciones",
+      "que": "Según fuentes de la investigación, la UCO detectó diferencias entre los datos de donaciones del Tribunal de Cuentas y los bancarios; el juez Ismael Moreno pide un informe aclaratorio.",
+      "lectura": "Causa secreta en instrucción, sin acusación formal ni sentencia; rige la presunción de inocencia. Nivel B (El Mundo, ABC, fuentes de la investigación).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/espana/2026/11/12/6af62498e85ece93128b45a9.html",
+        "https://www.abc.es/espana/uco-detecta-descuadre-contable-documentacion-tribunal-cuentas-20261112214453-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-12",
+      "titulo": "Sánchez respalda a Marlaska tras las cargas de la huelga, pero se abre a revisar los protocolos policiales",
+      "que": "En TVE, Sánchez dijo desconocer quién ordenó las cargas, defendió al ministro frente a las peticiones de dimisión y aceptó revisar si hay que «redimensionar» la respuesta policial.",
+      "lectura": "Mantiene al ministro en campaña y traslada la respuesta a la investigación interna anunciada. Nivel A (20minutos, Europa Press).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/sanchez-respalda-marlaska-pero-se-abre-revisar-los-protocolos-las-cargas-policiales-tras-las-actuaciones-durante-huelga-general_7060528_0.html",
+        "https://www.europapress.es/nacional/noticia-sanchez-respalda-marlaska-mejor-ministro-interior-ojito-izquierdo-derecho-20261113081407.html"
+      ]
+    },
     {
       "fecha": "2026-11-12",
       "titulo": "Vox presenta su programa para el 29N: «prioridad nacional», «remigración» y militarizar la frontera de Ceuta",

@@ -1,6 +1,21 @@
 {
- "actualizado": "2026-11-12",
+ "actualizado": "2026-11-13",
  "dias": [
+  {
+   "fecha": "2026-11-13",
+   "items": [
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Sigma Dos 2026-11-11.",
+     "texto_en": "New poll: Sigma Dos 2026-11-11."
+    },
+    {
+     "tipo": "diario",
+     "texto": "2 movimientos nuevos en el diario. Último: El juez del caso de financiación del PSOE da diez días al Tribunal de Cuentas para aclarar un desfase en las donaciones.",
+     "texto_en": "2 new entries in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-12",
    "items": [
@@ -655,16 +670,6 @@
      "tipo": "diario",
      "texto": "13 movimientos nuevos en el diario. Último: Primera lista unitaria de la izquierda: NC-BC, Podemos, IU y Sumar irán juntos en Canarias.",
      "texto_en": "13 new entries in the campaign log (in Spanish)."
-    }
-   ]
-  },
-  {
-   "fecha": "2026-10-14",
-   "items": [
-    {
-     "tipo": "diario",
-     "texto": "12 movimientos nuevos en el diario. Último: PP y Vox firman la moción de censura contra el alcalde de Algeciras.",
-     "texto_en": "12 new entries in the campaign log (in Spanish)."
     }
    ]
   }
@@ -1683,6 +1688,32 @@
     "bloqueo": 2.8
    },
    "n_encuestas": 53
+  },
+  {
+   "fecha": "2026-11-13",
+   "media": {
+    "PP": 30.44,
+    "PSOE": 28.18,
+    "VOX": 18.45,
+    "SUMAR": 6.76,
+    "PODEMOS": 1.73,
+    "SALF": 1.95
+   },
+   "escanos": {
+    "PP": 130,
+    "PSOE": 115,
+    "VOX": 66,
+    "SUMAR": 9,
+    "PODEMOS": 0
+   },
+   "ppvox": 196,
+   "probs": {
+    "pp_vox": 89.5,
+    "pp_solo": 0.0,
+    "psoe_bloque": 7.8,
+    "bloqueo": 2.7
+   },
+   "n_encuestas": 54
   }
  ]
 }
