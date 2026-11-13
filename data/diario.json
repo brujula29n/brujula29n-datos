@@ -4,9 +4,57 @@
   "entradas": [
     {
       "fecha": "2026-11-13",
+      "titulo": "Bolaños pide a jueces y fiscales frenar las decisiones en causas con incidencia política durante la campaña",
+      "que": "Tras el Consejo de Ministros extraordinario, el ministro de Justicia defendió una «norma no escrita» de no adoptar decisiones judiciales en periodo electoral, después de las últimas actuaciones de la UCO y la citación del exdelegado en Ceuta.",
+      "lectura": "El Gobierno traslada su malestar por la actividad judicial en campaña; no hay ninguna norma legal que lo obligue. Nivel A (20minutos, Europa Press).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/bolanos-pide-que-las-causas-que-afectan-politica-se-pausen-campana-es-una-norma-prudente-se-ha-cumplido-siempre_7060816_0.html",
+        "https://www.europapress.es/nacional/noticia-bolanos-muestra-partidario-norma-no-escrita-lleva-justicia-no-tomar-decisiones-periodo-electoral-20261113145813.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-13",
+      "titulo": "Moncloa niega la reunión de Sánchez con su exchófer Corvillo que este describió en mensajes recogidos por la UCO",
+      "que": "Según un informe de la UCO, Corvillo contó a Aldama en 2023 que se había reunido 35 minutos a solas con Sánchez; la portavoz Elma Saiz dijo que «la reunión no se produjo nunca».",
+      "lectura": "La reunión consta solo en el relato de Corvillo, investigado sin sentencia; rige la presunción de inocencia. Nivel B (20minutos, El Mundo).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/moncloa-niega-que-sanchez-se-reuniese-2023-con-corvillo-su-exchofer-imputado-por-caso-koldo-no-le-conoce-nada_7060815_0.html",
+        "https://www.elmundo.es/espana/2026/11/12/6af61ead21efa0bb048b458b.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-13",
+      "titulo": "La Policía carga contra manifestantes que increpaban a Abascal en un acto de Vox en Toledo",
+      "que": "Un grupo con banderas palestinas insultó a Abascal en la plaza de Zocodover antes de su comparecencia; la Policía Nacional cargó contra ellos y el delegado del Gobierno pidió moderación.",
+      "lectura": "Primer incidente de orden público en un acto de campaña. Nivel A (20minutos, ABC).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/policia-carga-contra-varios-manifestantes-que-increpaban-abascal-un-acto-campana-toledo_7060805_0.html",
+        "https://www.abc.es/espana/castilla-la-mancha/toledo/sabrido-pide-moderacion-tras-incidentes-policias-manifestantes-20261113145145-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-13",
       "titulo": "La Junta Electoral confirma que tachar el nombre de Puente en la papeleta del PSOE por Valladolid hará el voto nulo",
       "que": "La Junta Electoral Provincial desestimó el recurso del PSOE para retirar de la papeleta a Óscar Puente, que renunció tras el accidente de Urda, y estimó el del PP: la candidatura no se modifica y tachar su nombre anula el voto.",
-      "lectura": "Rectifica el acuerdo del 5-11, que admitía como válidas esas papeletas. Nivel A (Newtral, El País).",
+      "lectura": "Rectifica el acuerdo del 5-11, que admitía como válidas esas papeletas. Nivel A (Newtral, El Español).",
       "actores": [
         {
           "id": "PSOE",
@@ -19,7 +67,7 @@
       ],
       "src": [
         "https://www.newtral.es/papeletas-puente-valladolid/20261113/",
-        "https://elpais.com/espana/elecciones-generales/2026-11-13/feijoo-pone-en-duda-que-pueda-bajar-los-impuestos-por-el-estado-de-las-cuentas-publicas-no-me-creo-los-datos.html"
+        "https://www.elespanol.com/espana/politica/20261112/tachar-nombre-oscar-puente-papeleta-psoe-voto-nulo-junta-electoral-rectifica-valladolid/1003744456436_0.html"
       ]
     },
     {

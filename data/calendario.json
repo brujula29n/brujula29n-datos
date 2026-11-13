@@ -219,9 +219,10 @@
       "titulo": "Consejo de Ministros extraordinario",
       "detalle": "Convocado para aprobar medidas sociales pendientes, según ABC (fuentes gubernamentales); sin contenido adelantado.",
       "tipo": "politico",
-      "estado": "previsto",
+      "estado": "hecho",
       "src": [
-        "https://www.abc.es/espana/sanchez-pisa-acelerador-multiplica-consejos-ministros-sociales-20261110160032-nt.html"
+        "https://www.abc.es/espana/sanchez-pisa-acelerador-multiplica-consejos-ministros-sociales-20261110160032-nt.html",
+        "https://www.20minutos.es/nacional/bolanos-pide-que-las-causas-que-afectan-politica-se-pausen-campana-es-una-norma-prudente-se-ha-cumplido-siempre_7060816_0.html"
       ]
     },
     {
