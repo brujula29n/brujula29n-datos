@@ -2,18 +2,18 @@
  "fecha": "2026-11-13",
  "media": {
   "pct": {
-   "PP": 30.5,
-   "PSOE": 28.16,
-   "VOX": 18.47,
-   "SUMAR": 6.75,
-   "PODEMOS": 1.71,
-   "SALF": 1.96,
-   "ERC": 2.57,
+   "PP": 30.37,
+   "PSOE": 28.27,
+   "VOX": 18.44,
+   "SUMAR": 6.74,
+   "PODEMOS": 1.69,
+   "SALF": 1.98,
+   "ERC": 2.59,
    "JUNTS": 1.33,
    "BILDU": 1.38,
    "PNV": 0.83,
-   "BNG": 0.96,
-   "CC": 0.4,
+   "BNG": 0.98,
+   "CC": 0.39,
    "UPN": 0.08
   },
   "ref": "2026-11-12",
@@ -35,11 +35,11 @@
    "Target Point",
    "Winston"
   ],
-  "n_encuestas": 56
+  "n_encuestas": 58
  },
  "escanos": {
-  "PP": 130,
-  "PSOE": 115,
+  "PP": 129,
+  "PSOE": 116,
   "VOX": 66,
   "SUMAR": 9,
   "PODEMOS": 0,
@@ -55,10 +55,10 @@
  "rango": {
   "PP": [
    107,
-   149
+   148
   ],
   "PSOE": [
-   96,
+   97,
    138
   ],
   "VOX": [
@@ -107,16 +107,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 89.8,
+  "pp_vox": 88.7,
   "pp_solo": 0.0,
-  "psoe_bloque": 7.6,
-  "bloqueo": 2.6
+  "psoe_bloque": 8.2,
+  "bloqueo": 3.1
  },
  "probs_extra": {
-  "ppvox": 89.8,
-  "bloque": 7.6,
-  "bloque_sin_junts": 4.3,
-  "pp_first": 70.0
+  "ppvox": 88.7,
+  "bloque": 8.2,
+  "bloque_sin_junts": 4.7,
+  "pp_first": 68.4
  },
  "semaforo_esp": {
   "S1": 1,
@@ -169,8 +169,8 @@
   "PNV": "Idoia Sagastizabal (Bizkaia) y Maribel Vaquero (Gipuzkoa)"
  },
  "diario": {
-  "n": 333,
-  "ultimo": "Feijóo promete a los jóvenes no pagar IRPF el primer año de sueldo y guarderías gratis de 0 a 3 años"
+  "n": 334,
+  "ultimo": "Primer debate de campaña, económico a cuatro en La Sexta: Cuerpo anuncia un «Libro Blanco» del ferrocarril"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -211,11 +211,13 @@
   "SW Demoscopia 2026-11-08",
   "SW Demoscopia 2026-11-09",
   "SW Demoscopia 2026-11-10",
+  "SW Demoscopia 2026-11-12",
   "Sigma Dos 2026-10-01",
   "Sigma Dos 2026-10-22",
   "Sigma Dos 2026-10-30",
   "Sigma Dos 2026-11-06",
   "Sigma Dos 2026-11-11",
+  "Sigma Dos 2026-11-12",
   "SocioMétrica 2026-09-26",
   "SocioMétrica 2026-10-03",
   "SocioMétrica 2026-10-11",
@@ -237,15 +239,29 @@
   },
   {
    "tipo": "encuesta",
+   "texto": "Nueva encuesta: SW Demoscopia 2026-11-12."
+  },
+  {
+   "tipo": "encuesta",
    "texto": "Nueva encuesta: Sigma Dos 2026-11-11."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: Sigma Dos 2026-11-12."
   },
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: Winston 2026-11-08."
   },
   {
+   "tipo": "escanos",
+   "texto": "PP: proyección de 131 a 129 escaños.",
+   "delta": -2,
+   "partido": "PP"
+  },
+  {
    "tipo": "diario",
-   "texto": "12 movimientos nuevos en el diario. Último: Feijóo promete a los jóvenes no pagar IRPF el primer año de sueldo y guarderías gratis de 0 a 3 años."
+   "texto": "13 movimientos nuevos en el diario. Último: Primer debate de campaña, económico a cuatro en La Sexta: Cuerpo anuncia un «Libro Blanco» del ferrocarril."
   }
  ]
 }

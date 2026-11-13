@@ -4,6 +4,34 @@
   "entradas": [
     {
       "fecha": "2026-11-13",
+      "titulo": "Primer debate de campaña, económico a cuatro en La Sexta: Cuerpo anuncia un «Libro Blanco» del ferrocarril",
+      "que": "Cuerpo (PSOE), Bustinduy (Frente Amplio), Bravo (PP) y Figaredo (Vox) debatieron sobre economía. PSOE y FA prometieron más inversión en el tren y PP y Vox pidieron auditar la red; Cuerpo anunció un comité de expertos hacia un pacto de Estado de infraestructuras.",
+      "lectura": "Los accidentes de Adamuz y Urda marcan el primer cara a cara de portavoces. Nivel B (20minutos).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/primer-debate-electoral-campana-psoe-frente-amplio-prometen-inversion-tren-pp-vox-piden-auditar-red_7061028_0.html",
+        "https://www.20minutos.es/nacional/gobierno-creara-comite-expertos-analizar-libro-blanco-situacion-ferrocarril-espana_7061026_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-13",
       "titulo": "Feijóo promete a los jóvenes no pagar IRPF el primer año de sueldo y guarderías gratis de 0 a 3 años",
       "que": "En un acto en Madrid con Ayuso, propuso exención de IRPF el primer año de empleo y deducciones del 75 %, 50 % y 25 % en los tres siguientes, incentivos a autónomos, ayudas por hijo y guarderías gratuitas cofinanciadas con las comunidades.",
       "lectura": "Promesa de campaña sin coste estimado, el mismo día en que condicionó las rebajas fiscales a una auditoría de las cuentas. Nivel A (ABC, El Español).",

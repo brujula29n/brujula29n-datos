@@ -11,8 +11,18 @@
     },
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: SW Demoscopia 2026-11-12.",
+     "texto_en": "New poll: SW Demoscopia 2026-11-12."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: Sigma Dos 2026-11-11.",
      "texto_en": "New poll: Sigma Dos 2026-11-11."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Sigma Dos 2026-11-12.",
+     "texto_en": "New poll: Sigma Dos 2026-11-12."
     },
     {
      "tipo": "encuesta",
@@ -20,9 +30,16 @@
      "texto_en": "New poll: Winston 2026-11-08."
     },
     {
+     "tipo": "escanos",
+     "texto": "PP: proyección de 131 a 129 escaños.",
+     "delta": -2,
+     "partido": "PP",
+     "texto_en": "PP: projection from 131 to 129 seats."
+    },
+    {
      "tipo": "diario",
-     "texto": "12 movimientos nuevos en el diario. Último: Feijóo promete a los jóvenes no pagar IRPF el primer año de sueldo y guarderías gratis de 0 a 3 años.",
-     "texto_en": "12 new entries in the campaign log (in Spanish)."
+     "texto": "13 movimientos nuevos en el diario. Último: Primer debate de campaña, económico a cuatro en La Sexta: Cuerpo anuncia un «Libro Blanco» del ferrocarril.",
+     "texto_en": "13 new entries in the campaign log (in Spanish)."
     }
    ]
   },
@@ -1702,28 +1719,28 @@
   {
    "fecha": "2026-11-13",
    "media": {
-    "PP": 30.5,
-    "PSOE": 28.16,
-    "VOX": 18.47,
-    "SUMAR": 6.75,
-    "PODEMOS": 1.71,
-    "SALF": 1.96
+    "PP": 30.37,
+    "PSOE": 28.27,
+    "VOX": 18.44,
+    "SUMAR": 6.74,
+    "PODEMOS": 1.69,
+    "SALF": 1.98
    },
    "escanos": {
-    "PP": 130,
-    "PSOE": 115,
+    "PP": 129,
+    "PSOE": 116,
     "VOX": 66,
     "SUMAR": 9,
     "PODEMOS": 0
    },
-   "ppvox": 196,
+   "ppvox": 195,
    "probs": {
-    "pp_vox": 89.8,
+    "pp_vox": 88.7,
     "pp_solo": 0.0,
-    "psoe_bloque": 7.6,
-    "bloqueo": 2.6
+    "psoe_bloque": 8.2,
+    "bloqueo": 3.1
    },
-   "n_encuestas": 56
+   "n_encuestas": 58
   }
  ]
 }
