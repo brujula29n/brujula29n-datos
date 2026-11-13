@@ -4,6 +4,41 @@
   "entradas": [
     {
       "fecha": "2026-11-13",
+      "titulo": "Feijóo condiciona la bajada de impuestos y el gasto en Defensa a una auditoría previa de las cuentas públicas",
+      "que": "En el pódcast de Jordi Wild, Feijóo dijo que «no se cree los datos» de las cuentas, supeditó las rebajas fiscales a conocer su estado y aceptó quedarse en un 2,3 % en Defensa si no llega al 2,4 %.",
+      "lectura": "Matiza dos promesas de su programa en el primer día de campaña. Nivel A (El País, Europa Press).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://elpais.com/espana/elecciones-generales/2026-11-13/feijoo-pone-en-duda-que-pueda-bajar-los-impuestos-por-el-estado-de-las-cuentas-publicas-no-me-creo-los-datos.html",
+        "https://www.europapress.es/nacional/noticia-feijoo-supedita-gasto-defensa-auditoria-gasto-previa-si-no-puedo-llegar-24-me-quedare-23-20261113112859.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-13",
+      "titulo": "La Junta Electoral de Vigo requiere a Abel Caballero por vulnerar la neutralidad al presentar los presupuestos municipales",
+      "que": "Tras una denuncia del PP, la Junta Electoral de Zona notifica un requerimiento, sin expediente sancionador, por las críticas a la Xunta y la Diputación en un acto institucional.",
+      "lectura": "Primera decisión de una junta electoral contra un cargo del PSOE en campaña; sin sanción. Nivel B (ABC).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/galicia/junta-electoral-requiere-abel-caballero-exaltar-gestion-20261113123654-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-13",
       "titulo": "El juez del caso de financiación del PSOE da diez días al Tribunal de Cuentas para aclarar un desfase en las donaciones",
       "que": "Según fuentes de la investigación, la UCO detectó diferencias entre los datos de donaciones del Tribunal de Cuentas y los bancarios; el juez Ismael Moreno pide un informe aclaratorio.",
       "lectura": "Causa secreta en instrucción, sin acusación formal ni sentencia; rige la presunción de inocencia. Nivel B (El Mundo, ABC, fuentes de la investigación).",
