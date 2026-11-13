@@ -4,6 +4,27 @@
   "entradas": [
     {
       "fecha": "2026-11-13",
+      "titulo": "El cara a cara Sánchez-Feijóo será el jueves 19 de noviembre, organizado por la Academia de Televisión",
+      "que": "Lo moderará María Casado en Tres Cantos, con cinco bloques: vivienda; economía y fiscalidad; política social; corrupción y regeneración; migración y política exterior. Abrirá Feijóo, por sorteo.",
+      "lectura": "Primero de los dos debates pactados por PSOE y PP; el segundo sigue sin fecha anunciada. Nivel A (20minutos, El Español, ABC).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/cara-cara-entre-pedro-sanchez-alberto-nunez-feijoo-sera-este-jueves-19-noviembre-estara-moderado-por-maria-casado_7060853_0.html",
+        "https://www.elespanol.com/espana/politica/20261113/cara-sanchez-feijoo-celebrara-noviembre-organizado-academia-television/1003744457727_0.html",
+        "https://www.abc.es/espana/cara-cara-sanchez-feijoo-proximo-jueves-moderara-20261113164835-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-13",
       "titulo": "Bolaños pide a jueces y fiscales frenar las decisiones en causas con incidencia política durante la campaña",
       "que": "Tras el Consejo de Ministros extraordinario, el ministro de Justicia defendió una «norma no escrita» de no adoptar decisiones judiciales en periodo electoral, después de las últimas actuaciones de la UCO y la citación del exdelegado en Ceuta.",
       "lectura": "El Gobierno traslada su malestar por la actividad judicial en campaña; no hay ninguna norma legal que lo obligue. Nivel A (20minutos, Europa Press).",
