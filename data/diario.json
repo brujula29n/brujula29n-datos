@@ -4,6 +4,46 @@
   "entradas": [
     {
       "fecha": "2026-11-13",
+      "titulo": "La Junta Electoral confirma que tachar el nombre de Puente en la papeleta del PSOE por Valladolid hará el voto nulo",
+      "que": "La Junta Electoral Provincial desestimó el recurso del PSOE para retirar de la papeleta a Óscar Puente, que renunció tras el accidente de Urda, y estimó el del PP: la candidatura no se modifica y tachar su nombre anula el voto.",
+      "lectura": "Rectifica el acuerdo del 5-11, que admitía como válidas esas papeletas. Nivel A (Newtral, El País).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.newtral.es/papeletas-puente-valladolid/20261113/",
+        "https://elpais.com/espana/elecciones-generales/2026-11-13/feijoo-pone-en-duda-que-pueda-bajar-los-impuestos-por-el-estado-de-las-cuentas-publicas-no-me-creo-los-datos.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-13",
+      "titulo": "Cruce de denuncias PSOE-PP por el pago de la defensa de Koldo García y una foto difundida sin verificar",
+      "que": "El PSOE denunció ante la Fiscalía al PP, a su abogado Durán, a Eduardo Inda y a Okdiario por los 242.000 € pagados a la defensa de García; Tellado anunció una denuncia contra el PSdeG por difundir una foto suya con García que el partido admite no haber verificado.",
+      "lectura": "Denuncias cruzadas sin resolución judicial; rige la presunción de inocencia. Nivel B (elDiario.es, El País).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/psoe-querella-pp-eduardo-inda-okdiario-pagos-defensa-koldo-garcia_1_13661746.html",
+        "https://elpais.com/espana/elecciones-generales/2026-11-13/tellado-anuncia-una-denuncia-contra-el-psoe-gallego-por-difundir-sin-verificar-una-imagen-suya-con-koldo-garcia.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-13",
       "titulo": "Feijóo condiciona la bajada de impuestos y el gasto en Defensa a una auditoría previa de las cuentas públicas",
       "que": "En el pódcast de Jordi Wild, Feijóo dijo que «no se cree los datos» de las cuentas, supeditó las rebajas fiscales a conocer su estado y aceptó quedarse en un 2,3 % en Defensa si no llega al 2,4 %.",
       "lectura": "Matiza dos promesas de su programa en el primer día de campaña. Nivel A (El País, Europa Press).",
