@@ -4,6 +4,42 @@
   "entradas": [
     {
       "fecha": "2026-11-14",
+      "titulo": "Abascal pide votar al PP a quienes no compartan la «prioridad nacional» de Vox para desalojar a Sánchez",
+      "que": "En un mitin en Almería, el líder de Vox reservó su voto a quienes asuman la prioridad nacional y la remigración y ofreció el PP como alternativa al resto; dijo que el resultado marcará «la velocidad del cambio».",
+      "lectura": "Mensaje inédito de Vox a favor de la suma con el PP frente a la competencia por el voto de la derecha. Nivel A (El Español, ABC).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elespanol.com/espana/politica/20261114/abascal-pide-votar-pp-no-compartan-prioridad-nacional-vox-mafia/1003744458508_0.html",
+        "https://www.abc.es/espana/andalucia/almeria/abascal-pide-voto-vox-ofrece-pp-discrepen-20261114143347-nts.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-14",
+      "titulo": "Feijóo rectifica y llevará la vivienda a una vicepresidencia, tras anunciar que suprimiría el ministerio",
+      "que": "En Santiago dijo que la vivienda «es el mayor problema de España», que se integrará en una vicepresidencia sin precisar su rango y que quiere construir un millón de viviendas en la legislatura.",
+      "lectura": "Matiza su anuncio de la víspera, en la entrevista con Jordi Wild, de eliminar Vivienda e Igualdad. Nivel A (20minutos, elDiario.es).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/feijoo-dice-que-si-gana-gestion-vivienda-se-llevara-desde-una-vicepresidencia-es-mayor-problema-espana_7061118_0.html",
+        "https://www.eldiario.es/politica/feijoo-dice-ahora-integrara-vivienda-vicepresidencia-especificar-rango_1_13664079.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-14",
       "titulo": "El PP cancela su ruta de campaña por Guipúzcoa tras un ataque a su candidato Jon Echevarría en Hernani",
       "que": "Según el PP, un grupo lanzó piedras, cohetes, huevos y botellas contra su cabeza de lista por Guipúzcoa y su equipo en la primera parada de la gira; el partido suspende los actos en la provincia y pide garantías a la Ertzaintza.",
       "lectura": "Segundo incidente de orden público de la campaña; sin autores identificados ni actuación judicial conocida. Nivel B (ABC, comunicado del PP).",
