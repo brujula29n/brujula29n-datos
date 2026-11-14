@@ -56,19 +56,19 @@
     "metodo": "Media de las encuestas privadas con campo en los últimos 21 días, ponderada por tamaño muestral (raíz cuadrada) y antigüedad (semivida 10 días). El CIS se muestra aparte por su desviación sistemática documentada; los paneles online autoseleccionados ponderan a la mitad.",
     "fecha": "2026-11-13",
     "pct": {
-      "PP": 30.39,
-      "PSOE": 28.36,
-      "VOX": 18.41,
-      "SUMAR": 6.67,
-      "PODEMOS": 1.65,
-      "SALF": 1.96,
-      "ERC": 2.59,
+      "PP": 30.22,
+      "PSOE": 28.62,
+      "VOX": 18.32,
+      "SUMAR": 6.74,
+      "PODEMOS": 1.66,
+      "SALF": 1.97,
+      "ERC": 2.61,
       "JUNTS": 1.33,
       "BILDU": 1.39,
-      "PNV": 0.83,
+      "PNV": 0.82,
       "BNG": 0.98,
       "CC": 0.39,
-      "UPN": 0.07
+      "UPN": 0.05
     },
     "casas": [
       "40dB",
@@ -86,7 +86,8 @@
       "SocioMétrica",
       "Sondaxe",
       "Target Point",
-      "Winston"
+      "Winston",
+      "YouGov"
     ]
   },
   "otras_medias": [
@@ -2334,6 +2335,88 @@
       "esc_rango": "PP 121-132 · PSOE 116-123 · Vox 61-67 · Frente Amplio 4-7 · Compromís 3 · ERC 10 · Bildu 7 · Junts 3 · PNV 3 · Adelante Andalucía 3 · BNG 2 · CC 1",
       "nota": "2.º tracking diario; su campo (10-13 nov) se solapa con el de la ficha del 13-11. Online; margen de error ±2,5 %. Frente Amplio 5,2 % suma Sumar 3,7 %, Compromís-FV 1,2 % y UPC 0,3 %; Podemos 1,3 % aparte. Escaños en horquillas; la tabla parece contar UPN dos veces. Datos tomados de la ficha de Electográfica.",
       "url": "https://www.electografica.com/2026/11/encuesta-40db-261114.html"
+    },
+    {
+      "casa": "YouGov",
+      "medio": "Ara",
+      "tipo": "panel",
+      "campo_ini": "2026-10-26",
+      "campo_fin": "2026-11-02",
+      "n": 1221,
+      "pct": {
+        "PP": 29.6,
+        "PSOE": 25.9,
+        "VOX": 20.3,
+        "SUMAR": 9.2,
+        "PODEMOS": 1.8,
+        "SALF": null,
+        "ERC": 2.9,
+        "JUNTS": 1.3,
+        "BILDU": 1.1,
+        "PNV": 0.7,
+        "BNG": null,
+        "CC": null,
+        "UPN": 0.0
+      },
+      "esc": {
+        "PP": 120,
+        "PSOE": 104,
+        "VOX": 72,
+        "SUMAR": 19,
+        "PODEMOS": 1,
+        "SALF": null,
+        "ERC": 13,
+        "JUNTS": 4,
+        "BILDU": 7,
+        "PNV": 3,
+        "BNG": 2,
+        "CC": 1,
+        "UPN": null
+      },
+      "esc_rango": null,
+      "nota": "Online; margen de error ±2,8 %. PP incluye UPN-PP; Frente Amplio incluye Compromís-FV y UPC. Adelante Andalucía 1,8 % y 4 escaños. BNG, CC y SALF figuran con 0 % pese a tener escaños BNG y CC: se dejan sin voto. Publicada el 14-11 con campo cerrado el 2-11. Datos tomados de la ficha de Electográfica.",
+      "url": "https://www.electografica.com/2026/11/encuesta-yougov-261114.html"
+    },
+    {
+      "casa": "SW Demoscopia",
+      "medio": "La Séptima",
+      "tipo": "privada",
+      "campo_ini": "2026-10-26",
+      "campo_fin": "2026-11-13",
+      "n": 8000,
+      "pct": {
+        "PP": 28.5,
+        "PSOE": 31.7,
+        "VOX": 17.1,
+        "SUMAR": 7.3,
+        "PODEMOS": 1.7,
+        "SALF": 2.1,
+        "ERC": 2.7,
+        "JUNTS": 1.3,
+        "BILDU": 1.4,
+        "PNV": 0.8,
+        "BNG": 1.0,
+        "CC": 0.4,
+        "UPN": 0.0
+      },
+      "esc": {
+        "PP": 115,
+        "PSOE": 133,
+        "VOX": 60,
+        "SUMAR": 10,
+        "PODEMOS": null,
+        "SALF": null,
+        "ERC": 12,
+        "JUNTS": 4,
+        "BILDU": 7,
+        "PNV": 3,
+        "BNG": 2,
+        "CC": 1,
+        "UPN": null
+      },
+      "esc_rango": null,
+      "nota": "10.º tracking; campo acumulado del 26-10 al 13-11, solapado con los anteriores. Telefónico; margen de error ±1,1 %. PP incluye UPN-PP (28,3 % + 0,2 %; 113 + 2 escaños). Frente Amplio con Compromís-FV y UPC. Adelante Andalucía 1,4 % y 3 escaños. Datos tomados de la ficha de Electográfica.",
+      "url": "https://www.electografica.com/2026/11/encuesta-sw-demoscopia-261114.html"
     }
   ]
 }

@@ -2,19 +2,19 @@
  "fecha": "2026-11-14",
  "media": {
   "pct": {
-   "PP": 30.39,
-   "PSOE": 28.36,
-   "VOX": 18.41,
-   "SUMAR": 6.67,
-   "PODEMOS": 1.65,
-   "SALF": 1.96,
-   "ERC": 2.59,
+   "PP": 30.22,
+   "PSOE": 28.62,
+   "VOX": 18.32,
+   "SUMAR": 6.74,
+   "PODEMOS": 1.66,
+   "SALF": 1.97,
+   "ERC": 2.61,
    "JUNTS": 1.33,
    "BILDU": 1.39,
-   "PNV": 0.83,
+   "PNV": 0.82,
    "BNG": 0.98,
    "CC": 0.39,
-   "UPN": 0.07
+   "UPN": 0.05
   },
   "ref": "2026-11-13",
   "casas": [
@@ -33,41 +33,42 @@
    "SocioMétrica",
    "Sondaxe",
    "Target Point",
-   "Winston"
+   "Winston",
+   "YouGov"
   ],
-  "n_encuestas": 59
+  "n_encuestas": 61
  },
  "escanos": {
-  "PP": 129,
-  "PSOE": 116,
-  "VOX": 66,
+  "PP": 130,
+  "PSOE": 117,
+  "VOX": 65,
   "SUMAR": 9,
   "PODEMOS": 0,
   "SALF": 0,
   "ERC": 11,
   "JUNTS": 5,
   "BILDU": 7,
-  "PNV": 4,
+  "PNV": 3,
   "BNG": 2,
   "CC": 1,
   "UPN": 0
  },
  "rango": {
   "PP": [
-   107,
-   148
+   106,
+   147
   ],
   "PSOE": [
-   97,
-   139
+   98,
+   140
   ],
   "VOX": [
-   48,
-   83
+   47,
+   82
   ],
   "SUMAR": [
    5,
-   19
+   20
   ],
   "PODEMOS": [
    0,
@@ -86,7 +87,7 @@
    8
   ],
   "BILDU": [
-   6,
+   5,
    10
   ],
   "PNV": [
@@ -107,16 +108,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 88.5,
+  "pp_vox": 86.3,
   "pp_solo": 0.0,
-  "psoe_bloque": 8.3,
-  "bloqueo": 3.1
+  "psoe_bloque": 10.7,
+  "bloqueo": 3.0
  },
  "probs_extra": {
-  "ppvox": 88.5,
-  "bloque": 8.3,
-  "bloque_sin_junts": 4.5,
-  "pp_first": 68.1
+  "ppvox": 86.3,
+  "bloque": 10.7,
+  "bloque_sin_junts": 5.5,
+  "pp_first": 64.1
  },
  "semaforo_esp": {
   "S1": 1,
@@ -213,6 +214,7 @@
   "SW Demoscopia 2026-11-09",
   "SW Demoscopia 2026-11-10",
   "SW Demoscopia 2026-11-12",
+  "SW Demoscopia 2026-11-13",
   "Sigma Dos 2026-10-01",
   "Sigma Dos 2026-10-22",
   "Sigma Dos 2026-10-30",
@@ -231,12 +233,27 @@
   "Target Point 2026-10-09",
   "Target Point 2026-10-30",
   "Winston 2026-10-01",
-  "Winston 2026-11-08"
+  "Winston 2026-11-08",
+  "YouGov 2026-11-02"
  ],
  "cambios": [
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: 40dB 2026-11-13."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: SW Demoscopia 2026-11-13."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: YouGov 2026-11-02."
+  },
+  {
+   "tipo": "media",
+   "texto": "PSOE sube en la media: 28,3 % → 28,6 %.",
+   "delta": 0.4,
+   "partido": "PSOE"
   },
   {
    "tipo": "diario",
