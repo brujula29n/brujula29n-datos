@@ -41,8 +41,8 @@
     {
       "fecha": "2026-11-14",
       "titulo": "El PP cancela su ruta de campaña por Guipúzcoa tras un ataque a su candidato Jon Echevarría en Hernani",
-      "que": "Según el PP, un grupo lanzó piedras, cohetes, huevos y botellas contra su cabeza de lista por Guipúzcoa y su equipo en la primera parada de la gira; el partido suspende los actos en la provincia y pide garantías a la Ertzaintza.",
-      "lectura": "Segundo incidente de orden público de la campaña; sin autores identificados ni actuación judicial conocida. Nivel B (ABC, comunicado del PP).",
+      "que": "Un grupo lanzó piedras, petardos, huevos y botellas contra el cabeza de lista del PP por Guipúzcoa y su coche en Hernani, primera parada de su gira. El PP canceló la ruta prevista y pide garantías a la Ertzaintza; Echevarría dice que seguirá el domingo en Zumárraga.",
+      "lectura": "Segundo incidente de orden público de la campaña; sin autores identificados ni actuación judicial conocida. Nivel A (ABC, El Español).",
       "actores": [
         {
           "id": "PP",
@@ -50,7 +50,8 @@
         }
       ],
       "src": [
-        "https://www.abc.es/espana/pais-vasco/pp-cancela-ruta-campana-guipuzcoa-despues-jon-20261114140347-nt.html"
+        "https://www.abc.es/espana/pais-vasco/pp-cancela-ruta-campana-guipuzcoa-despues-jon-20261114140347-nt.html",
+        "https://www.elespanol.com/espana/politica/20261114/lanzan-piedras-huevos-petardos-coche-viajaba-jon-echeverria-candidato-pp-guipuzcoa/1003744458557_0.html"
       ]
     },
     {
