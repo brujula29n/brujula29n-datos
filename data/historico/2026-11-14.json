@@ -2,21 +2,21 @@
  "fecha": "2026-11-14",
  "media": {
   "pct": {
-   "PP": 30.37,
-   "PSOE": 28.27,
-   "VOX": 18.44,
-   "SUMAR": 6.74,
-   "PODEMOS": 1.69,
-   "SALF": 1.98,
+   "PP": 30.39,
+   "PSOE": 28.36,
+   "VOX": 18.41,
+   "SUMAR": 6.67,
+   "PODEMOS": 1.65,
+   "SALF": 1.96,
    "ERC": 2.59,
    "JUNTS": 1.33,
-   "BILDU": 1.38,
+   "BILDU": 1.39,
    "PNV": 0.83,
    "BNG": 0.98,
    "CC": 0.39,
-   "UPN": 0.08
+   "UPN": 0.07
   },
-  "ref": "2026-11-12",
+  "ref": "2026-11-13",
   "casas": [
    "40dB",
    "Ateneo del Dato",
@@ -35,7 +35,7 @@
    "Target Point",
    "Winston"
   ],
-  "n_encuestas": 58
+  "n_encuestas": 59
  },
  "escanos": {
   "PP": 129,
@@ -59,7 +59,7 @@
   ],
   "PSOE": [
    97,
-   138
+   139
   ],
   "VOX": [
    48,
@@ -67,7 +67,7 @@
   ],
   "SUMAR": [
    5,
-   20
+   19
   ],
   "PODEMOS": [
    0,
@@ -79,14 +79,14 @@
   ],
   "ERC": [
    8,
-   13
+   14
   ],
   "JUNTS": [
    3,
    8
   ],
   "BILDU": [
-   5,
+   6,
    10
   ],
   "PNV": [
@@ -107,16 +107,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 88.7,
+  "pp_vox": 88.5,
   "pp_solo": 0.0,
-  "psoe_bloque": 8.2,
+  "psoe_bloque": 8.3,
   "bloqueo": 3.1
  },
  "probs_extra": {
-  "ppvox": 88.7,
-  "bloque": 8.2,
-  "bloque_sin_junts": 4.7,
-  "pp_first": 68.4
+  "ppvox": 88.5,
+  "bloque": 8.3,
+  "bloque_sin_junts": 4.5,
+  "pp_first": 68.1
  },
  "semaforo_esp": {
   "S1": 1,
@@ -178,6 +178,7 @@
   "40dB 2026-10-08",
   "40dB 2026-11-04",
   "40dB 2026-11-12",
+  "40dB 2026-11-13",
   "Ateneo del Dato 2026-10-01",
   "Ateneo del Dato 2026-10-22",
   "Ateneo del Dato 2026-11-05",
@@ -233,6 +234,10 @@
   "Winston 2026-11-08"
  ],
  "cambios": [
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: 40dB 2026-11-13."
+  },
   {
    "tipo": "diario",
    "texto": "1 movimiento nuevo en el diario. Último: El BOE publica el cese de Álvaro Fernández Heredia como presidente de Renfe."

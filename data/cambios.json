@@ -5,6 +5,11 @@
    "fecha": "2026-11-14",
    "items": [
     {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: 40dB 2026-11-13.",
+     "texto_en": "New poll: 40dB 2026-11-13."
+    },
+    {
      "tipo": "diario",
      "texto": "1 movimiento nuevo en el diario. Último: El BOE publica el cese de Álvaro Fernández Heredia como presidente de Renfe.",
      "texto_en": "1 new entry in the campaign log (in Spanish)."
@@ -1745,12 +1750,12 @@
   {
    "fecha": "2026-11-14",
    "media": {
-    "PP": 30.37,
-    "PSOE": 28.27,
-    "VOX": 18.44,
-    "SUMAR": 6.74,
-    "PODEMOS": 1.69,
-    "SALF": 1.98
+    "PP": 30.39,
+    "PSOE": 28.36,
+    "VOX": 18.41,
+    "SUMAR": 6.67,
+    "PODEMOS": 1.65,
+    "SALF": 1.96
    },
    "escanos": {
     "PP": 129,
@@ -1761,12 +1766,12 @@
    },
    "ppvox": 195,
    "probs": {
-    "pp_vox": 88.7,
+    "pp_vox": 88.5,
     "pp_solo": 0.0,
-    "psoe_bloque": 8.2,
+    "psoe_bloque": 8.3,
     "bloqueo": 3.1
    },
-   "n_encuestas": 58
+   "n_encuestas": 59
   }
  ]
 }
