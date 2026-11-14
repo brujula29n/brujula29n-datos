@@ -4,6 +4,21 @@
   "entradas": [
     {
       "fecha": "2026-11-14",
+      "titulo": "El PP cancela su ruta de campaña por Guipúzcoa tras un ataque a su candidato Jon Echevarría en Hernani",
+      "que": "Según el PP, un grupo lanzó piedras, cohetes, huevos y botellas contra su cabeza de lista por Guipúzcoa y su equipo en la primera parada de la gira; el partido suspende los actos en la provincia y pide garantías a la Ertzaintza.",
+      "lectura": "Segundo incidente de orden público de la campaña; sin autores identificados ni actuación judicial conocida. Nivel B (ABC, comunicado del PP).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/pais-vasco/pp-cancela-ruta-campana-guipuzcoa-despues-jon-20261114140347-nt.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-14",
       "titulo": "El BOE publica el cese de Álvaro Fernández Heredia como presidente de Renfe",
       "que": "El Real Decreto 997/2026, del 13 de noviembre, cesa al presidente de la operadora tras los accidentes de Adamuz y Urda. Según ABC, el Gobierno lo retrasó para no interferir en el arranque de campaña, con huelgas de maquinistas convocadas para el 17 y el 23.",
       "lectura": "Primer cambio en la cúpula ferroviaria tras la dimisión de Puente. Nivel A (BOE); el motivo del retraso, Nivel B (ABC, fuentes gubernamentales).",
