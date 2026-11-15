@@ -15,6 +15,11 @@
      "texto_en": "New poll: Sigma Dos 2026-11-13."
     },
     {
+     "tipo": "programa",
+     "texto": "PSOE publica su programa electoral.",
+     "texto_en": "PSOE publishes its manifesto."
+    },
+    {
      "tipo": "diario",
      "texto": "1 movimiento nuevo en el diario. Último: Sánchez promete más impuestos a grandes propietarios con pisos vacíos o turísticos y una prestación por cuidado de hijos.",
      "texto_en": "1 new entry in the campaign log (in Spanish)."

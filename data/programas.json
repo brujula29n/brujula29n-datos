@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-10",
-  "nota": "Desde el 10 de noviembre el PP tiene programa publicado (se enlaza el PDF); el resto de partidos no; las entradas son posiciones anunciadas (B/C) recogidas de actos, declaraciones y votaciones. Cuando se publique el programa, 'estado' pasa a 'programa' y se enlaza el PDF en 'programas_publicados'. 'coste' y 'viable' se rellenan cuando haya memoria económica o evaluación independiente (AIReF, Banco de España, Fedea u otros) y quedan en null hasta entonces.",
+  "actualizado": "2026-11-15",
+  "nota": "Desde el 10 de noviembre el PP y desde el 15 el PSOE tienen programa publicado (se enlaza el PDF); el resto de partidos no; las entradas son posiciones anunciadas (B/C) recogidas de actos, declaraciones y votaciones. Cuando se publique el programa, 'estado' pasa a 'programa' y se enlaza el PDF en 'programas_publicados'. 'coste' y 'viable' se rellenan cuando haya memoria económica o evaluación independiente (AIReF, Banco de España, Fedea u otros) y quedan en null hasta entonces.",
   "estados": {
     "programa": "Figura en el programa electoral publicado (se enlaza)",
     "anunciado": "Anunciado públicamente por el líder o la dirección, sin programa",
@@ -34,8 +34,8 @@
       "fecha": "2026-11-10"
     },
     "PSOE": {
-      "url": null,
-      "fecha": null
+      "url": "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+      "fecha": "2026-11-15"
     },
     "VOX": {
       "url": null,
@@ -87,12 +87,12 @@
           "viable": null
         },
         "PSOE": {
-          "resumen": "Escudo antidesahucios a 2030, prórroga 2 años de alquileres, congelación de rentas, veto a fondos, aval 100 %, IVA 10 % a pisos turísticos, parque público >6 %.",
-          "estado": "votado",
+          "resumen": "1 % del PIB anual a vivienda, 100.000 pisos públicos estatales, impuesto a grandes tenedores, alquileres más largos y congelación de rentas abusivas.",
+          "estado": "programa",
           "ev": "A",
           "src": [
-            "https://www.eldiario.es/economia/nuevo-decreto-vivienda-aprobado-gobierno_1_13546389.html",
-            "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"
+            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
           ],
           "coste": null,
           "viable": null
@@ -194,12 +194,12 @@
           "viable": null
         },
         "PSOE": {
-          "resumen": "Más progresividad (grandes empresas y rentas altas), lucha contra el fraude, IVA 10 % a pisos turísticos, más IBI/IRPF a vivienda vacía; sin cifras.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Tipo del 35 % a rentas del capital desde 300.000 €, tasa Tobin al 0,4 % y más impuestos a tecnológicas y viajes de lujo.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/",
-            "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/051026-sanchez-convocatoria-elecciones.aspx"
+            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
           ],
           "coste": null,
           "viable": null
@@ -301,11 +301,12 @@
           "viable": null
         },
         "PSOE": {
-          "resumen": "Jornada de 36 horas antes de 2030, SMI en el 60 % del salario medio, cotización de autónomos por ingresos reales.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Jornada de 37,5 horas y hacia 35 por convenio, SMI por ley sobre el 60 % del salario medio y reforma del despido improcedente.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"
+            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
           ],
           "coste": null,
           "viable": null
@@ -407,12 +408,12 @@
           "viable": null
         },
         "PSOE": {
-          "resumen": "Revalorización con el IPC (ley 20/2021), mínimas por encima del IPC; subida prevista del 3,2 % en 2027.",
-          "estado": "votado",
+          "resumen": "Blindar en la Constitución las pensiones y su subida con el IPC, reducir la brecha de género y elevar la de orfandad al 30 %.",
+          "estado": "programa",
           "ev": "A",
           "src": [
-            "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/subida-pensiones-2026.aspx",
-            "https://aqui.madrid/elecciones-29n-vivienda-sanidad-educacion-y-pensiones-los-cuatro-frentes-de-la-campana"
+            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
           ],
           "coste": null,
           "viable": null
@@ -510,11 +511,12 @@
           "viable": null
         },
         "PSOE": {
-          "resumen": "Criterios únicos de listas de espera, blindar la sanidad pública, recuperar la financiación extra de dependencia.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Sanidad pública en torno al 7 % del PIB, fin de listas de espera, dentista público, psicólogo en 30 días y gestión directa preferente.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://aqui.madrid/elecciones-29n-vivienda-sanidad-educacion-y-pensiones-los-cuatro-frentes-de-la-campana"
+            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
           ],
           "coste": null,
           "viable": null
@@ -609,11 +611,12 @@
           "viable": null
         },
         "PSOE": {
-          "resumen": "Ratios de 22/25 alumnos y 23/18 horas lectivas (ley decaída), 0-3 universal, permiso de nacimiento de 20 semanas, bono alquiler joven.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Educación universal de 0 a 3 años, más becas, límite de alumnos por aula, abandono escolar bajo el 10 % en 2030.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://aqui.madrid/elecciones-29n-vivienda-sanidad-educacion-y-pensiones-los-cuatro-frentes-de-la-campana"
+            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
           ],
           "coste": null,
           "viable": null
@@ -712,11 +715,12 @@
           "viable": null
         },
         "PSOE": {
-          "resumen": "Regularización consolidada (1,17 M solicitudes), migración legal ligada al empleo, cooperación con Marruecos y África.",
-          "estado": "votado",
+          "resumen": "Plan de Integración y Ciudadanía 2026-2030 con 500 millones iniciales, más vías legales de asilo y acogida reforzada.",
+          "estado": "programa",
           "ev": "A",
           "src": [
-            "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/020726-balance-regularizacion-extraordinaria.aspx"
+            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
           ],
           "coste": null,
           "viable": null
@@ -818,12 +822,12 @@
           "viable": null
         },
         "PSOE": {
-          "resumen": "Criminalidad 'históricamente baja' como aval; aplicar la sentencia del Supremo sobre devoluciones en caliente; cooperación con Marruecos.",
-          "estado": "votado",
+          "resumen": "Más Policía y Guardia Civil, plan nacional contra el narcotráfico, nueva ley en lugar de la de Seguridad Ciudadana y juicios rápidos contra la ocupación.",
+          "estado": "programa",
           "ev": "A",
           "src": [
-            "https://www.cordobabn.com/nacional/criminalidad-espana-sube-05-junio-2026-aumento-delitos-sexuales-rinas-trafico-drogas/20260917155447267986.html",
-            "https://www.elindependiente.com/espana/2026/07/30/claves-ceuta-sentencia-supremo-devoluciones-caliente/"
+            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
           ],
           "coste": null,
           "viable": null
@@ -918,12 +922,12 @@
           "viable": null
         },
         "PSOE": {
-          "resumen": "Renovables por encima del 50 %, reindustrialización, escudos anticrisis; Almaraz prorrogada hasta 2030.",
-          "estado": "votado",
+          "resumen": "81 % de electricidad renovable en 2030, mantener el cierre nuclear hasta 2035, más almacenamiento y autoconsumo y despliegue del Plan Social para el Clima.",
+          "estado": "programa",
           "ev": "A",
           "src": [
-            "https://www.infobae.com/espana/2026/08/14/almaraz-seguira-operativa-hasta-junio-de-2030-el-gobierno-retrasa-el-cierre-de-la-central-nuclear/",
-            "https://www.deia.eus/economia/2026/09/29/gobierno-espanol-activa-nuevo-escudo-gas-crisis-11595535.html"
+            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
           ],
           "coste": null,
           "viable": null
@@ -1018,12 +1022,12 @@
           "viable": null
         },
         "PSOE": {
-          "resumen": "Financiación singular 'generalizable', condonación de 83.000 M€, aplicación íntegra de la amnistía, cierre del Estatuto vasco.",
-          "estado": "votado",
+          "resumen": "Nuevo sistema de financiación autonómica, asunción parcial de 83.000 millones de deuda autonómica, Senado territorial y lenguas cooficiales en las Cortes.",
+          "estado": "programa",
           "ev": "A",
           "src": [
-            "https://www.cope.es/emisoras/catalunya/noticias/gobierno-generalitat-pactan-financiacion-singular-generalizable-20250714_3184917.html",
-            "https://www.que.es/2026/09/18/condonacion-deuda-autonomica-congreso-2/"
+            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
           ],
           "coste": null,
           "viable": null
@@ -1124,11 +1128,12 @@
           "viable": null
         },
         "PSOE": {
-          "resumen": "Plan de Acción por la Democracia: ley de lobbies, información clasificada, estatuto del fiscal con mandato de 5 años; ninguna aprobada.",
-          "estado": "anunciado",
+          "resumen": "Fiscal General con mandato de cinco años desligado de la legislatura, más jueces y fiscales, Ley de Integridad Pública y Estrategia Nacional Anticorrupción.",
+          "estado": "programa",
           "ev": "A",
           "src": [
-            "https://commission.europa.eu/document/download/82ce1391-cde5-49e9-9d1b-3f14f4975eb7_es?filename=13_2_coun_chap_spain_es.pdf"
+            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
           ],
           "coste": null,
           "viable": null
@@ -1227,13 +1232,12 @@
           "viable": null
         },
         "PSOE": {
-          "resumen": "2 % del PIB en defensa y 'no' al 5 %, embargo de armas a Israel, no a la guerra de Irán (sin uso ofensivo de Rota y Morón), 1.000 M€ para Ucrania en 2026.",
-          "estado": "votado",
+          "resumen": "Defensa ligada a la diplomacia y a la autonomía estratégica europea; modernizar las Fuerzas Armadas y reforzar inteligencia, vigilancia marítima y UME.",
+          "estado": "programa",
           "ev": "A",
           "src": [
-            "https://theobjective.com/espana/politica/2026-03-26/otan-espana-gasto-defensa/",
-            "https://www.infobae.com/espana/2025/10/08/el-congreso-convalida-el-decreto-del-embargo-de-armas-a-israel-con-el-apoyo-de-ultima-hora-de-podemos/",
-            "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2026/180326-sanchez-reunion-zelenski.aspx"
+            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
           ],
           "coste": null,
           "viable": null

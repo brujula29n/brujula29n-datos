@@ -147,7 +147,7 @@
  },
  "programas": {
   "PP": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
-  "PSOE": null,
+  "PSOE": "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
   "VOX": null,
   "SUMAR": null,
   "PODEMOS": null,
@@ -246,6 +246,10 @@
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: Sigma Dos 2026-11-13."
+  },
+  {
+   "tipo": "programa",
+   "texto": "PSOE publica su programa electoral."
   },
   {
    "tipo": "diario",
