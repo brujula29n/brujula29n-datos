@@ -15,6 +15,11 @@
      "texto_en": "New poll: Sigma Dos 2026-11-13."
     },
     {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Sondaxe 2026-11-13.",
+     "texto_en": "New poll: Sondaxe 2026-11-13."
+    },
+    {
      "tipo": "programa",
      "texto": "PSOE publica su programa electoral.",
      "texto_en": "PSOE publishes its manifesto."
@@ -1808,12 +1813,12 @@
   {
    "fecha": "2026-11-15",
    "media": {
-    "PP": 30.31,
-    "PSOE": 28.49,
+    "PP": 30.32,
+    "PSOE": 28.44,
     "VOX": 18.4,
-    "SUMAR": 6.61,
-    "PODEMOS": 1.63,
-    "SALF": 1.96
+    "SUMAR": 6.6,
+    "PODEMOS": 1.64,
+    "SALF": 1.95
    },
    "escanos": {
     "PP": 130,
@@ -1824,12 +1829,12 @@
    },
    "ppvox": 196,
    "probs": {
-    "pp_vox": 87.7,
+    "pp_vox": 87.9,
     "pp_solo": 0.0,
-    "psoe_bloque": 8.9,
-    "bloqueo": 3.4
+    "psoe_bloque": 8.7,
+    "bloqueo": 3.3
    },
-   "n_encuestas": 63
+   "n_encuestas": 64
   }
  ]
 }
