@@ -2,19 +2,19 @@
  "fecha": "2026-11-15",
  "media": {
   "pct": {
-   "PP": 30.42,
-   "PSOE": 28.41,
-   "VOX": 18.44,
-   "SUMAR": 6.55,
+   "PP": 30.29,
+   "PSOE": 28.64,
+   "VOX": 18.33,
+   "SUMAR": 6.6,
    "PODEMOS": 1.61,
-   "SALF": 1.97,
-   "ERC": 2.62,
+   "SALF": 1.98,
+   "ERC": 2.63,
    "JUNTS": 1.32,
    "BILDU": 1.4,
-   "PNV": 0.82,
-   "BNG": 0.99,
+   "PNV": 0.81,
+   "BNG": 1.0,
    "CC": 0.4,
-   "UPN": 0.06
+   "UPN": 0.05
   },
   "ref": "2026-11-15",
   "casas": [
@@ -36,12 +36,12 @@
    "Winston",
    "YouGov"
   ],
-  "n_encuestas": 65
+  "n_encuestas": 66
  },
  "escanos": {
   "PP": 130,
-  "PSOE": 116,
-  "VOX": 66,
+  "PSOE": 117,
+  "VOX": 65,
   "SUMAR": 9,
   "PODEMOS": 0,
   "SALF": 0,
@@ -55,20 +55,20 @@
  },
  "rango": {
   "PP": [
-   107,
-   148
+   106,
+   147
   ],
   "PSOE": [
-   97,
-   139
+   98,
+   140
   ],
   "VOX": [
-   48,
-   83
+   47,
+   82
   ],
   "SUMAR": [
    5,
-   18
+   19
   ],
   "PODEMOS": [
    0,
@@ -88,7 +88,7 @@
   ],
   "BILDU": [
    6,
-   11
+   10
   ],
   "PNV": [
    1,
@@ -108,16 +108,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 88.7,
+  "pp_vox": 86.8,
   "pp_solo": 0.0,
-  "psoe_bloque": 8.4,
-  "bloqueo": 2.9
+  "psoe_bloque": 9.9,
+  "bloqueo": 3.3
  },
  "probs_extra": {
-  "ppvox": 88.7,
-  "bloque": 8.4,
-  "bloque_sin_junts": 4.5,
-  "pp_first": 68.0
+  "ppvox": 86.8,
+  "bloque": 9.9,
+  "bloque_sin_junts": 5.1,
+  "pp_first": 64.9
  },
  "semaforo_esp": {
   "S1": 1,
@@ -216,6 +216,7 @@
   "SW Demoscopia 2026-11-10",
   "SW Demoscopia 2026-11-12",
   "SW Demoscopia 2026-11-13",
+  "SW Demoscopia 2026-11-14",
   "Sigma Dos 2026-10-01",
   "Sigma Dos 2026-10-22",
   "Sigma Dos 2026-10-30",
@@ -244,6 +245,10 @@
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: 40dB 2026-11-14."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: SW Demoscopia 2026-11-14."
   },
   {
    "tipo": "encuesta",
