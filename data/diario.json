@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-11-14",
+  "actualizado": "2026-11-15",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-15",
+      "titulo": "Sánchez promete más impuestos a grandes propietarios con pisos vacíos o turísticos y una prestación por cuidado de hijos",
+      "que": "En un mitin en Alcorcón adelantó medidas del programa del PSOE: más impuestos a fondos y grandes propietarios con viviendas vacías, turísticas o a precios inasequibles, una prestación por cuidado retribuido de hijos menores de 8 años y una «unión de amistad».",
+      "lectura": "Primeras medidas del programa socialista, aún sin documento publicado ni coste estimado. Nivel A (elDiario.es, ABC).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/sanchez-promete-subir-impuestos-grandes-propietarios-tengan-viviendas-vacias-pisos-turisticos_1_13665461.html",
+        "https://www.abc.es/espana/madrid/sanchez-anuncia-impuestos-fondos-propietarios-viviendas-permisos-20261115140550-nt.html"
+      ]
+    },
     {
       "fecha": "2026-11-14",
       "titulo": "El PSOE cancela el acto de campaña de Sánchez con Lula del lunes por una afonía del presidente brasileño",

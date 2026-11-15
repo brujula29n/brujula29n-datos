@@ -2,21 +2,21 @@
  "fecha": "2026-11-15",
  "media": {
   "pct": {
-   "PP": 30.22,
-   "PSOE": 28.62,
-   "VOX": 18.32,
-   "SUMAR": 6.74,
-   "PODEMOS": 1.66,
-   "SALF": 1.97,
-   "ERC": 2.61,
+   "PP": 30.31,
+   "PSOE": 28.49,
+   "VOX": 18.4,
+   "SUMAR": 6.61,
+   "PODEMOS": 1.63,
+   "SALF": 1.96,
+   "ERC": 2.62,
    "JUNTS": 1.33,
    "BILDU": 1.39,
    "PNV": 0.82,
-   "BNG": 0.98,
+   "BNG": 0.99,
    "CC": 0.39,
-   "UPN": 0.05
+   "UPN": 0.07
   },
-  "ref": "2026-11-13",
+  "ref": "2026-11-14",
   "casas": [
    "40dB",
    "Ateneo del Dato",
@@ -36,12 +36,12 @@
    "Winston",
    "YouGov"
   ],
-  "n_encuestas": 61
+  "n_encuestas": 63
  },
  "escanos": {
   "PP": 130,
-  "PSOE": 117,
-  "VOX": 65,
+  "PSOE": 116,
+  "VOX": 66,
   "SUMAR": 9,
   "PODEMOS": 0,
   "SALF": 0,
@@ -56,19 +56,19 @@
  "rango": {
   "PP": [
    106,
-   147
+   148
   ],
   "PSOE": [
    98,
-   140
+   139
   ],
   "VOX": [
-   47,
+   48,
    82
   ],
   "SUMAR": [
    5,
-   20
+   19
   ],
   "PODEMOS": [
    0,
@@ -87,7 +87,7 @@
    8
   ],
   "BILDU": [
-   5,
+   6,
    10
   ],
   "PNV": [
@@ -108,16 +108,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 86.3,
+  "pp_vox": 87.7,
   "pp_solo": 0.0,
-  "psoe_bloque": 10.7,
-  "bloqueo": 3.0
+  "psoe_bloque": 8.9,
+  "bloqueo": 3.4
  },
  "probs_extra": {
-  "ppvox": 86.3,
-  "bloque": 10.7,
-  "bloque_sin_junts": 5.5,
-  "pp_first": 64.1
+  "ppvox": 87.7,
+  "bloque": 8.9,
+  "bloque_sin_junts": 4.7,
+  "pp_first": 66.4
  },
  "semaforo_esp": {
   "S1": 1,
@@ -170,8 +170,8 @@
   "PNV": "Idoia Sagastizabal (Bizkaia) y Maribel Vaquero (Gipuzkoa)"
  },
  "diario": {
-  "n": 339,
-  "ultimo": "El PSOE cancela el acto de campaña de Sánchez con Lula del lunes por una afonía del presidente brasileño"
+  "n": 340,
+  "ultimo": "Sánchez promete más impuestos a grandes propietarios con pisos vacíos o turísticos y una prestación por cuidado de hijos"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -180,6 +180,7 @@
   "40dB 2026-11-04",
   "40dB 2026-11-12",
   "40dB 2026-11-13",
+  "40dB 2026-11-14",
   "Ateneo del Dato 2026-10-01",
   "Ateneo del Dato 2026-10-22",
   "Ateneo del Dato 2026-11-05",
@@ -221,6 +222,7 @@
   "Sigma Dos 2026-11-06",
   "Sigma Dos 2026-11-11",
   "Sigma Dos 2026-11-12",
+  "Sigma Dos 2026-11-13",
   "SocioMétrica 2026-09-26",
   "SocioMétrica 2026-10-03",
   "SocioMétrica 2026-10-11",
@@ -238,8 +240,16 @@
  ],
  "cambios": [
   {
-   "tipo": "nada",
-   "texto": "Sin cambios relevantes respecto al día anterior."
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: 40dB 2026-11-14."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: Sigma Dos 2026-11-13."
+  },
+  {
+   "tipo": "diario",
+   "texto": "1 movimiento nuevo en el diario. Último: Sánchez promete más impuestos a grandes propietarios con pisos vacíos o turísticos y una prestación por cuidado de hijos."
   }
  ]
 }

@@ -5,9 +5,19 @@
    "fecha": "2026-11-15",
    "items": [
     {
-     "tipo": "nada",
-     "texto": "Sin cambios relevantes respecto al día anterior.",
-     "texto_en": "No relevant changes since the previous day."
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: 40dB 2026-11-14.",
+     "texto_en": "New poll: 40dB 2026-11-14."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Sigma Dos 2026-11-13.",
+     "texto_en": "New poll: Sigma Dos 2026-11-13."
+    },
+    {
+     "tipo": "diario",
+     "texto": "1 movimiento nuevo en el diario. Último: Sánchez promete más impuestos a grandes propietarios con pisos vacíos o turísticos y una prestación por cuidado de hijos.",
+     "texto_en": "1 new entry in the campaign log (in Spanish)."
     }
    ]
   },
@@ -1793,28 +1803,28 @@
   {
    "fecha": "2026-11-15",
    "media": {
-    "PP": 30.22,
-    "PSOE": 28.62,
-    "VOX": 18.32,
-    "SUMAR": 6.74,
-    "PODEMOS": 1.66,
-    "SALF": 1.97
+    "PP": 30.31,
+    "PSOE": 28.49,
+    "VOX": 18.4,
+    "SUMAR": 6.61,
+    "PODEMOS": 1.63,
+    "SALF": 1.96
    },
    "escanos": {
     "PP": 130,
-    "PSOE": 117,
-    "VOX": 65,
+    "PSOE": 116,
+    "VOX": 66,
     "SUMAR": 9,
     "PODEMOS": 0
    },
-   "ppvox": 195,
+   "ppvox": 196,
    "probs": {
-    "pp_vox": 86.3,
+    "pp_vox": 87.7,
     "pp_solo": 0.0,
-    "psoe_bloque": 10.7,
-    "bloqueo": 3.0
+    "psoe_bloque": 8.9,
+    "bloqueo": 3.4
    },
-   "n_encuestas": 61
+   "n_encuestas": 63
   }
  ]
 }
