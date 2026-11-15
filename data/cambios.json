@@ -1,6 +1,16 @@
 {
- "actualizado": "2026-11-14",
+ "actualizado": "2026-11-15",
  "dias": [
+  {
+   "fecha": "2026-11-15",
+   "items": [
+    {
+     "tipo": "nada",
+     "texto": "Sin cambios relevantes respecto al día anterior.",
+     "texto_en": "No relevant changes since the previous day."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-14",
    "items": [
@@ -709,16 +719,6 @@
      "tipo": "diario",
      "texto": "7 movimientos nuevos en el diario. Último: La JEC facilita la lista de nueve coaliciones registradas para el 29-N.",
      "texto_en": "7 new entries in the campaign log (in Spanish)."
-    }
-   ]
-  },
-  {
-   "fecha": "2026-10-16",
-   "items": [
-    {
-     "tipo": "diario",
-     "texto": "10 movimientos nuevos en el diario. Último: Dimite Montse Mínguez como portavoz del PSOE y no repetirá como diputada.",
-     "texto_en": "10 new entries in the campaign log (in Spanish)."
     }
    ]
   }
@@ -1766,6 +1766,32 @@
   },
   {
    "fecha": "2026-11-14",
+   "media": {
+    "PP": 30.22,
+    "PSOE": 28.62,
+    "VOX": 18.32,
+    "SUMAR": 6.74,
+    "PODEMOS": 1.66,
+    "SALF": 1.97
+   },
+   "escanos": {
+    "PP": 130,
+    "PSOE": 117,
+    "VOX": 65,
+    "SUMAR": 9,
+    "PODEMOS": 0
+   },
+   "ppvox": 195,
+   "probs": {
+    "pp_vox": 86.3,
+    "pp_solo": 0.0,
+    "psoe_bloque": 10.7,
+    "bloqueo": 3.0
+   },
+   "n_encuestas": 61
+  },
+  {
+   "fecha": "2026-11-15",
    "media": {
     "PP": 30.22,
     "PSOE": 28.62,
