@@ -16,6 +16,11 @@
     },
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: SocioMétrica 2026-11-15.",
+     "texto_en": "New poll: SocioMétrica 2026-11-15."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: Sondaxe 2026-11-13.",
      "texto_en": "New poll: Sondaxe 2026-11-13."
     },
@@ -26,8 +31,8 @@
     },
     {
      "tipo": "diario",
-     "texto": "1 movimiento nuevo en el diario. Último: Sánchez promete más impuestos a grandes propietarios con pisos vacíos o turísticos y una prestación por cuidado de hijos.",
-     "texto_en": "1 new entry in the campaign log (in Spanish)."
+     "texto": "2 movimientos nuevos en el diario. Último: Sánchez promete blindar en la Constitución el aborto, las pensiones y la vivienda.",
+     "texto_en": "2 new entries in the campaign log (in Spanish)."
     }
    ]
   },
@@ -1813,12 +1818,12 @@
   {
    "fecha": "2026-11-15",
    "media": {
-    "PP": 30.32,
-    "PSOE": 28.44,
-    "VOX": 18.4,
-    "SUMAR": 6.6,
-    "PODEMOS": 1.64,
-    "SALF": 1.95
+    "PP": 30.42,
+    "PSOE": 28.41,
+    "VOX": 18.44,
+    "SUMAR": 6.55,
+    "PODEMOS": 1.61,
+    "SALF": 1.97
    },
    "escanos": {
     "PP": 130,
@@ -1829,12 +1834,12 @@
    },
    "ppvox": 196,
    "probs": {
-    "pp_vox": 87.9,
+    "pp_vox": 88.7,
     "pp_solo": 0.0,
-    "psoe_bloque": 8.7,
-    "bloqueo": 3.3
+    "psoe_bloque": 8.4,
+    "bloqueo": 2.9
    },
-   "n_encuestas": 64
+   "n_encuestas": 65
   }
  ]
 }

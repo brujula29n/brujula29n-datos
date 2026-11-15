@@ -4,6 +4,23 @@
   "entradas": [
     {
       "fecha": "2026-11-15",
+      "titulo": "Sánchez promete blindar en la Constitución el aborto, las pensiones y la vivienda",
+      "que": "El programa del PSOE propone reformas constitucionales para proteger como derechos la vivienda, el aborto, el agua potable y las pensiones revalorizadas con el IPC.",
+      "lectura": "Toda reforma constitucional exige mayorías reforzadas (tres quintos o dos tercios, según el artículo) que el PSOE no reúne con sus socios actuales. Nivel A (20minutos, ABC, programa del PSOE).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/sanchez-promete-blindar-aborto-las-pensiones-vivienda-constitucion-sin-tener-los-apoyos-suficientes_7061350_0.html",
+        "https://www.abc.es/espana/sanchez-promete-blindaje-constitucional-aborto-pensiones-vivienda-20261115155628-nt.html",
+        "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf"
+      ]
+    },
+    {
+      "fecha": "2026-11-15",
       "titulo": "Sánchez promete más impuestos a grandes propietarios con pisos vacíos o turísticos y una prestación por cuidado de hijos",
       "que": "En un mitin en Alcorcón adelantó medidas del programa del PSOE: destinar cada año el 1 % del PIB a vivienda, más impuestos a fondos y grandes propietarios con viviendas vacías, turísticas o a precios inasequibles, una prestación por crianza para menores de 8 años y una «unión de amistad».",
       "lectura": "El PSOE publicó ese mismo día su programa completo, ya incorporado a la comparativa; sin coste estimado. Nivel A (El País, elDiario.es, ABC).",
