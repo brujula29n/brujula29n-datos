@@ -4,6 +4,40 @@
   "entradas": [
     {
       "fecha": "2026-11-16",
+      "titulo": "Sánchez recibe a Lula en la Moncloa en plena campaña",
+      "que": "Reunión institucional en la que ambos defendieron las instituciones democráticas frente a la «amenaza ultraderechista»; tras ella mantuvieron una conversación organizada por el PSOE, que sustituye al acto suspendido por la afonía de Lula.",
+      "lectura": "Visita oficial con uso electoral explícito: Sánchez presenta la remontada de Lula en Brasil como ejemplo. Nivel A (La Moncloa, 20minutos, El País).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/161126-sanchez-encuentro-lula.aspx",
+        "https://www.20minutos.es/nacional/sanchez-lula-defienden-las-instituciones-democraticas-ante-amenaza-ultraderechista_7061668_0.html",
+        "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-16",
+      "titulo": "Feijóo promete en Lleida inmigración «ordenada» con contratación en origen y cupos para el campo",
+      "que": "Presentó las líneas de su Libro Blanco del Futuro Rural: menos burocracia y presión fiscal, «cupos máximos» y contratación en origen vinculada al mercado laboral, y advirtió contra «los riesgos del fundamentalismo islámico».",
+      "lectura": "Acto en una provincia donde Aliança Catalana, que no concurre al 29N, tiene peso; sin coste ni cifras de cupos. Nivel A (El País, ABC, El Español).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://elpais.com/espana/elecciones-generales/2026-11-16/feijoo-quiere-mano-de-obra-de-inmigrantes-para-el-medio-rural-pero-con-compromiso-de-integracion.html",
+        "https://www.abc.es/espana/cataluna/feijoo-promete-mano-obra-ordenada-contrataciones-origen-20261116142717-nt.html",
+        "https://www.elespanol.com/espana/politica/20261116/feijoo-advierte-lerida-fundamentalismo-islamico-promete-expulsar-abuse-plan-migracion-ordenada/1003744459955_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-16",
       "titulo": "Feijóo propone una «ley de nietos» vasca para que voten los exiliados por el terrorismo de ETA",
       "que": "El PP plantea una reforma legal para facilitar que quienes abandonaron Euskadi por la violencia de ETA puedan votar en las elecciones autonómicas vascas y navarras; es la medida 132 de su programa.",
       "lectura": "Propuesta que afecta a una competencia electoral autonómica y que el PP presenta tras el ataque en Hernani. Nivel A (El País, Europa Press, programa del PP).",
