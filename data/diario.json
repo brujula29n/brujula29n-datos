@@ -20,9 +20,9 @@
     },
     {
       "fecha": "2026-11-16",
-      "titulo": "Sánchez recibe a Lula en la Moncloa en plena campaña",
-      "que": "Reunión institucional en la que ambos defendieron las instituciones democráticas frente a la «amenaza ultraderechista»; tras ella mantuvieron una conversación organizada por el PSOE, que sustituye al acto suspendido por la afonía de Lula.",
-      "lectura": "Visita oficial con uso electoral explícito: Sánchez presenta la remontada de Lula en Brasil como ejemplo. Nivel A (La Moncloa, 20minutos, El País).",
+      "titulo": "Lula respalda a Sánchez en Madrid: «Es muy importante que tú ganes las elecciones»",
+      "que": "Tras una reunión institucional en la Moncloa, ambos mantuvieron una conversación organizada por el PSOE, sin prensa; en un vídeo difundido por el partido, Lula le pide ganar para defender la democracia en Europa.",
+      "lectura": "Visita oficial con uso electoral explícito: Sánchez presenta la remontada de Lula en Brasil como ejemplo. Nivel A (La Moncloa, El País, elDiario.es).",
       "actores": [
         {
           "id": "PSOE",
@@ -31,8 +31,8 @@
       ],
       "src": [
         "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/161126-sanchez-encuentro-lula.aspx",
-        "https://www.20minutos.es/nacional/sanchez-lula-defienden-las-instituciones-democraticas-ante-amenaza-ultraderechista_7061668_0.html",
-        "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html"
+        "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html",
+        "https://www.eldiario.es/politica/lula-respalda-sanchez-madrid-importante-ganes-elecciones-frenar-extrema-derecha_1_13669134.html"
       ]
     },
     {
