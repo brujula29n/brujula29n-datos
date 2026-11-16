@@ -4,6 +4,22 @@
   "entradas": [
     {
       "fecha": "2026-11-16",
+      "titulo": "El Frente Amplio publica su programa: jornada de 32 horas, jubilación a los 65 y 200 euros al mes por hijo",
+      "que": "El documento, de 151 páginas, propone 1,5 millones de viviendas públicas en alquiler, un impuesto a los ultrarricos, sanidad con un suelo del 8 % del PIB y avanzar hacia una república federal.",
+      "lectura": "Tercer gran programa publicado, ya incorporado a la comparativa. Nivel A (programa del Frente Amplio, 20minutos).",
+      "actores": [
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+        "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-16",
       "titulo": "Sánchez recibe a Lula en la Moncloa en plena campaña",
       "que": "Reunión institucional en la que ambos defendieron las instituciones democráticas frente a la «amenaza ultraderechista»; tras ella mantuvieron una conversación organizada por el PSOE, que sustituye al acto suspendido por la afonía de Lula.",
       "lectura": "Visita oficial con uso electoral explícito: Sánchez presenta la remontada de Lula en Brasil como ejemplo. Nivel A (La Moncloa, 20minutos, El País).",

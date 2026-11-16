@@ -150,7 +150,7 @@
   "PP": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
   "PSOE": "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
   "VOX": null,
-  "SUMAR": null,
+  "SUMAR": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
   "PODEMOS": null,
   "SALF": null,
   "JUNTS": null,
@@ -171,8 +171,8 @@
   "PNV": "Idoia Sagastizabal (Bizkaia) y Maribel Vaquero (Gipuzkoa)"
  },
  "diario": {
-  "n": 344,
-  "ultimo": "Sánchez recibe a Lula en la Moncloa en plena campaña"
+  "n": 345,
+  "ultimo": "El Frente Amplio publica su programa: jornada de 32 horas, jubilación a los 65 y 200 euros al mes por hijo"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -279,8 +279,12 @@
    "texto": "Nueva encuesta: Target Point 2026-11-12."
   },
   {
+   "tipo": "programa",
+   "texto": "Sumar/FA publica su programa electoral."
+  },
+  {
    "tipo": "diario",
-   "texto": "3 movimientos nuevos en el diario. Último: Sánchez recibe a Lula en la Moncloa en plena campaña."
+   "texto": "4 movimientos nuevos en el diario. Último: El Frente Amplio publica su programa: jornada de 32 horas, jubilación a los 65 y 200 euros al mes por hijo."
   }
  ]
 }

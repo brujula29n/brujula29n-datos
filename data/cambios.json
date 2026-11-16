@@ -40,9 +40,14 @@
      "texto_en": "New poll: Target Point 2026-11-12."
     },
     {
+     "tipo": "programa",
+     "texto": "Sumar/FA publica su programa electoral.",
+     "texto_en": "Sumar/FA publishes its manifesto."
+    },
+    {
      "tipo": "diario",
-     "texto": "3 movimientos nuevos en el diario. Último: Sánchez recibe a Lula en la Moncloa en plena campaña.",
-     "texto_en": "3 new entries in the campaign log (in Spanish)."
+     "texto": "4 movimientos nuevos en el diario. Último: El Frente Amplio publica su programa: jornada de 32 horas, jubilación a los 65 y 200 euros al mes por hijo.",
+     "texto_en": "4 new entries in the campaign log (in Spanish)."
     }
    ]
   },

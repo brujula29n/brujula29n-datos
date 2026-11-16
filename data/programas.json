@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-15",
-  "nota": "Desde el 10 de noviembre el PP y desde el 15 el PSOE tienen programa publicado (se enlaza el PDF); el resto de partidos no; las entradas son posiciones anunciadas (B/C) recogidas de actos, declaraciones y votaciones. Cuando se publique el programa, 'estado' pasa a 'programa' y se enlaza el PDF en 'programas_publicados'. 'coste' y 'viable' se rellenan cuando haya memoria económica o evaluación independiente (AIReF, Banco de España, Fedea u otros) y quedan en null hasta entonces.",
+  "actualizado": "2026-11-16",
+  "nota": "Desde el 10 de noviembre el PP, desde el 15 el PSOE y desde el 16 el Frente Amplio (casilla SUMAR) tienen programa publicado (se enlaza el PDF); el resto de partidos no; las entradas son posiciones anunciadas (B/C) recogidas de actos, declaraciones y votaciones. Cuando se publique el programa, 'estado' pasa a 'programa' y se enlaza el PDF en 'programas_publicados'. 'coste' y 'viable' se rellenan cuando haya memoria económica o evaluación independiente (AIReF, Banco de España, Fedea u otros) y quedan en null hasta entonces.",
   "estados": {
     "programa": "Figura en el programa electoral publicado (se enlaza)",
     "anunciado": "Anunciado públicamente por el líder o la dirección, sin programa",
@@ -42,8 +42,8 @@
       "fecha": null
     },
     "SUMAR": {
-      "url": null,
-      "fecha": null
+      "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "fecha": "2026-11-16"
     },
     "PODEMOS": {
       "url": null,
@@ -109,11 +109,12 @@
           "viable": null
         },
         "SUMAR": {
-          "resumen": "Rebaja de alquileres, prohibir compra a fondos, más parque público, ampliar prórrogas de contrato.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "1 % del PIB para 1,5 millones de viviendas públicas en alquiler, rentas topadas al 25 % de ingresos, freno a pisos turísticos y desahucios.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html"
+            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
           ],
           "coste": null,
           "viable": null
@@ -216,11 +217,12 @@
           "viable": null
         },
         "SUMAR": {
-          "resumen": "Impuesto permanente a grandes fortunas y banca; más progresividad.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Tipo mínimo real del 20 % en Sociedades, impuesto a ultrarricos, herencias topadas en 10 millones, menos IRPF a salarios bajos e IVA reducido.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html"
+            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
           ],
           "coste": null,
           "viable": null
@@ -323,11 +325,12 @@
           "viable": null
         },
         "SUMAR": {
-          "resumen": "Jornada de 37,5 horas, más SMI, plazos de pago para pymes.",
-          "estado": "votado",
+          "resumen": "Jornada de 37,5 horas ya y hacia 32 sin rebaja salarial, SMI por ley al 60 % del salario medio neto, plantillas en los consejos.",
+          "estado": "programa",
           "ev": "A",
           "src": [
-            "https://www.eleconomista.es/economia/noticias/13538757/09/25/diaz-insistira-para-conseguir-la-reduccion-de-jornada-pero-no-concreta-plazos-para-aprobarla.html"
+            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
           ],
           "coste": null,
           "viable": null
@@ -430,11 +433,12 @@
           "viable": null
         },
         "SUMAR": {
-          "resumen": "Pensiones con el IPC y subida de mínimas; financiación con impuestos a fortunas.",
-          "estado": "votado",
-          "ev": "B",
+          "resumen": "Jubilación a los 65, revalorización con el IPC en la Constitución, pensión mínima igual al SMI y anticipada sin penalización tras 40 años cotizados.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.iberley.es/noticias/publicado-salario-minimo-interprofesional-2026-36093"
+            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
           ],
           "coste": null,
           "viable": null
@@ -532,11 +536,12 @@
           "viable": null
         },
         "SUMAR": {
-          "resumen": "Más atención primaria y salud mental, fin de conciertos con la privada; Estatuto Marco del personal.",
-          "estado": "anunciado",
-          "ev": "C",
+          "resumen": "Sanidad 100 % pública y de gestión directa con un suelo del 8 % del PIB; incorpora salud bucodental, visual, auditiva y mental.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://aqui.madrid/elecciones-29n-vivienda-sanidad-educacion-y-pensiones-los-cuatro-frentes-de-la-campana"
+            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
           ],
           "coste": null,
           "viable": null
@@ -632,11 +637,12 @@
           "viable": null
         },
         "SUMAR": {
-          "resumen": "Prestación universal por crianza, 0-3 gratuito, bajada de ratios.",
-          "estado": "anunciado",
-          "ev": "C",
+          "resumen": "Educación pública con el 7 % del PIB, gratuita de 0 años a la universidad, ratios menores y 200 euros mensuales por menor.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html"
+            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
           ],
           "coste": null,
           "viable": null
@@ -737,11 +743,12 @@
           "viable": null
         },
         "SUMAR": {
-          "resumen": "Vías legales y seguras, regularización permanente.",
-          "estado": "votado",
-          "ev": "B",
+          "resumen": "Procedimiento estable y permanente de regularización, culminar la regularización extraordinaria de 2026, vías legales y seguras y Ley Integral Antirracismo.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/020726-balance-regularizacion-extraordinaria.aspx"
+            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
           ],
           "coste": null,
           "viable": null
@@ -843,11 +850,12 @@
           "viable": null
         },
         "SUMAR": {
-          "resumen": "Derogar la 'ley mordaza'; seguridad como política social.",
-          "estado": "anunciado",
-          "ev": "C",
+          "resumen": "Seguridad humana frente al discurso belicista; derogar por completo la Ley Mordaza y desmilitarizar la Guardia Civil.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html"
+            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
           ],
           "coste": null,
           "viable": null
@@ -943,11 +951,12 @@
           "viable": null
         },
         "SUMAR": {
-          "resumen": "Transición renovable acelerada, impuesto a beneficios de energéticas, cierre nuclear según calendario.",
-          "estado": "anunciado",
-          "ev": "C",
+          "resumen": "3,5 % del PIB anual a la transición, comercializadora pública, recuperar las redes de distribución, tres horas de luz gratuita y cierre nuclear en calendario.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"
+            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
           ],
           "coste": null,
           "viable": null
@@ -1043,11 +1052,12 @@
           "viable": null
         },
         "SUMAR": {
-          "resumen": "Estado plurinacional, financiación federal, referéndum pactado como horizonte.",
-          "estado": "anunciado",
-          "ev": "C",
+          "resumen": "República federal y plurinacional que regule el referéndum; financiación autonómica de federalismo social, condonación de deuda y prohibición del dumping fiscal.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html"
+            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
           ],
           "coste": null,
           "viable": null
@@ -1149,11 +1159,12 @@
           "viable": null
         },
         "SUMAR": {
-          "resumen": "Ley de lobbies, derogar la 'ley mordaza', despolitizar RTVE.",
-          "estado": "anunciado",
-          "ev": "C",
+          "resumen": "Derogar la Ley Mordaza, agenda pública de reuniones con lobbies, democratizar el acceso a la judicatura y horizonte de república con Jefatura del Estado electa.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.elespanol.com/espana/politica/20261004/frente-amplio-nueva-marca-sumar-presentara-octubre-hoja-ruta/1003744408063_0.html"
+            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
           ],
           "coste": null,
           "viable": null
@@ -1254,11 +1265,12 @@
           "viable": null
         },
         "SUMAR": {
-          "resumen": "Embargo total a Israel, contra el aumento del gasto militar, contra la guerra de Irán.",
-          "estado": "votado",
-          "ev": "B",
+          "resumen": "No al 5 % del PIB militar de la OTAN y recortar ese gasto; embargo permanente de armas a Israel; cooperación al 0,7 %.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://en.wikipedia.org/wiki/Spain_in_the_2026_Iran_war"
+            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
           ],
           "coste": null,
           "viable": null
