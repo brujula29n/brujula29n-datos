@@ -2,16 +2,16 @@
  "fecha": "2026-11-16",
  "media": {
   "pct": {
-   "PP": 30.45,
-   "PSOE": 28.52,
-   "VOX": 18.4,
-   "SUMAR": 6.59,
-   "PODEMOS": 1.59,
-   "SALF": 1.94,
+   "PP": 30.47,
+   "PSOE": 28.47,
+   "VOX": 18.39,
+   "SUMAR": 6.58,
+   "PODEMOS": 1.6,
+   "SALF": 1.89,
    "ERC": 2.63,
    "JUNTS": 1.32,
-   "BILDU": 1.4,
-   "PNV": 0.81,
+   "BILDU": 1.42,
+   "PNV": 0.82,
    "BNG": 1.01,
    "CC": 0.39,
    "UPN": 0.04
@@ -26,6 +26,7 @@
    "GAD3",
    "Hamalgama Métrica",
    "IMOP Insights",
+   "InvyMark",
    "More in Common",
    "NC Report",
    "SW Demoscopia",
@@ -36,18 +37,18 @@
    "Winston",
    "YouGov"
   ],
-  "n_encuestas": 71
+  "n_encuestas": 73
  },
  "escanos": {
   "PP": 130,
   "PSOE": 116,
-  "VOX": 66,
+  "VOX": 65,
   "SUMAR": 9,
   "PODEMOS": 0,
   "SALF": 0,
   "ERC": 11,
   "JUNTS": 5,
-  "BILDU": 7,
+  "BILDU": 8,
   "PNV": 3,
   "BNG": 2,
   "CC": 1,
@@ -68,7 +69,7 @@
   ],
   "SUMAR": [
    5,
-   19
+   18
   ],
   "PODEMOS": [
    0,
@@ -76,7 +77,7 @@
   ],
   "SALF": [
    0,
-   2
+   1
   ],
   "ERC": [
    8,
@@ -108,16 +109,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 88.2,
+  "pp_vox": 88.3,
   "pp_solo": 0.0,
-  "psoe_bloque": 8.8,
-  "bloqueo": 3.0
+  "psoe_bloque": 8.6,
+  "bloqueo": 3.1
  },
  "probs_extra": {
-  "ppvox": 88.2,
-  "bloque": 8.8,
+  "ppvox": 88.3,
+  "bloque": 8.6,
   "bloque_sin_junts": 4.5,
-  "pp_first": 67.3
+  "pp_first": 68.1
  },
  "semaforo_esp": {
   "S1": 1,
@@ -205,6 +206,7 @@
   "IMOP Insights 2026-10-16",
   "IMOP Insights 2026-11-06",
   "IMOP Insights 2026-11-13",
+  "InvyMark 2026-11-09",
   "More in Common 2026-10-25",
   "NC Report 2026-09-03",
   "NC Report 2026-10-06",
@@ -238,6 +240,7 @@
   "Sondaxe 2026-10-28",
   "Sondaxe 2026-11-04",
   "Sondaxe 2026-11-13",
+  "Sondaxe 2026-11-14",
   "Target Point 2026-09-10",
   "Target Point 2026-10-09",
   "Target Point 2026-10-30",
@@ -261,7 +264,15 @@
   },
   {
    "tipo": "encuesta",
+   "texto": "Nueva encuesta: InvyMark 2026-11-09."
+  },
+  {
+   "tipo": "encuesta",
    "texto": "Nueva encuesta: NC Report 2026-11-12."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: Sondaxe 2026-11-14."
   },
   {
    "tipo": "encuesta",
