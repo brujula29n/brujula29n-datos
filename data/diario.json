@@ -1,7 +1,24 @@
 {
-  "actualizado": "2026-11-15",
+  "actualizado": "2026-11-16",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-16",
+      "titulo": "Feijóo propone una «ley de nietos» vasca para que voten los exiliados por el terrorismo de ETA",
+      "que": "El PP plantea una reforma legal para facilitar que quienes abandonaron Euskadi por la violencia de ETA puedan votar en las elecciones autonómicas vascas y navarras; es la medida 132 de su programa.",
+      "lectura": "Propuesta que afecta a una competencia electoral autonómica y que el PP presenta tras el ataque en Hernani. Nivel A (El País, Europa Press, programa del PP).",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pp-propone-una-ley-de-nietos-para-que-los-exiliados-vascos-por-terrorismo-de-eta-puedan-votar-en-las-elecciones-autonomicas.html",
+        "https://www.europapress.es/nacional/noticia-feijoo-propone-ley-nietos-vasca-expulsados-terrorismo-eta-puedan-votar-euskadi-20261116110857.html",
+        "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
+      ]
+    },
     {
       "fecha": "2026-11-15",
       "titulo": "Sánchez promete blindar en la Constitución el aborto, las pensiones y la vivienda",

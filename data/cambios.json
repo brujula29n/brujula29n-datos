@@ -13,6 +13,11 @@
      "tipo": "encuesta",
      "texto": "Nueva encuesta: NC Report 2026-11-12.",
      "texto_en": "New poll: NC Report 2026-11-12."
+    },
+    {
+     "tipo": "diario",
+     "texto": "1 movimiento nuevo en el diario. Último: Feijóo propone una «ley de nietos» vasca para que voten los exiliados por el terrorismo de ETA.",
+     "texto_en": "1 new entry in the campaign log (in Spanish)."
     }
    ]
   },

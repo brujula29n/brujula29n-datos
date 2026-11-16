@@ -170,8 +170,8 @@
   "PNV": "Idoia Sagastizabal (Bizkaia) y Maribel Vaquero (Gipuzkoa)"
  },
  "diario": {
-  "n": 341,
-  "ultimo": "Sánchez promete blindar en la Constitución el aborto, las pensiones y la vivienda"
+  "n": 342,
+  "ultimo": "Feijóo propone una «ley de nietos» vasca para que voten los exiliados por el terrorismo de ETA"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -251,6 +251,10 @@
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: NC Report 2026-11-12."
+  },
+  {
+   "tipo": "diario",
+   "texto": "1 movimiento nuevo en el diario. Último: Feijóo propone una «ley de nietos» vasca para que voten los exiliados por el terrorismo de ETA."
   }
  ]
 }
