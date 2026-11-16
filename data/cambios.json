@@ -11,8 +11,23 @@
     },
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: Data10 2026-11-12.",
+     "texto_en": "New poll: Data10 2026-11-12."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: IMOP Insights 2026-11-13.",
+     "texto_en": "New poll: IMOP Insights 2026-11-13."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: NC Report 2026-11-12.",
      "texto_en": "New poll: NC Report 2026-11-12."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Target Point 2026-11-12.",
+     "texto_en": "New poll: Target Point 2026-11-12."
     },
     {
      "tipo": "diario",
@@ -1859,28 +1874,28 @@
   {
    "fecha": "2026-11-16",
    "media": {
-    "PP": 30.38,
-    "PSOE": 28.65,
-    "VOX": 18.33,
-    "SUMAR": 6.57,
+    "PP": 30.45,
+    "PSOE": 28.52,
+    "VOX": 18.4,
+    "SUMAR": 6.59,
     "PODEMOS": 1.59,
-    "SALF": 1.96
+    "SALF": 1.94
    },
    "escanos": {
     "PP": 130,
-    "PSOE": 117,
-    "VOX": 65,
+    "PSOE": 116,
+    "VOX": 66,
     "SUMAR": 9,
     "PODEMOS": 0
    },
-   "ppvox": 195,
+   "ppvox": 196,
    "probs": {
-    "pp_vox": 87.1,
+    "pp_vox": 88.2,
     "pp_solo": 0.0,
-    "psoe_bloque": 9.7,
-    "bloqueo": 3.3
+    "psoe_bloque": 8.8,
+    "bloqueo": 3.0
    },
-   "n_encuestas": 68
+   "n_encuestas": 71
   }
  ]
 }
