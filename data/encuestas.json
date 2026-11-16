@@ -56,14 +56,14 @@
     "metodo": "Media de las encuestas privadas con campo en los últimos 21 días, ponderada por tamaño muestral (raíz cuadrada) y antigüedad (semivida 10 días). El CIS se muestra aparte por su desviación sistemática documentada; los paneles online autoseleccionados ponderan a la mitad.",
     "fecha": "2026-11-15",
     "pct": {
-      "PP": 30.34,
-      "PSOE": 28.7,
-      "VOX": 18.32,
-      "SUMAR": 6.54,
+      "PP": 30.38,
+      "PSOE": 28.65,
+      "VOX": 18.33,
+      "SUMAR": 6.57,
       "PODEMOS": 1.59,
       "SALF": 1.96,
-      "ERC": 2.63,
-      "JUNTS": 1.32,
+      "ERC": 2.62,
+      "JUNTS": 1.33,
       "BILDU": 1.4,
       "PNV": 0.81,
       "BNG": 1.0,
@@ -2635,6 +2635,47 @@
       "esc_rango": "PP 123-134 · PSOE 118-124 · Vox 57-64 · Frente Amplio 5-6 · Compromís 3 · UPC 1",
       "nota": "4.º tracking diario; campo (10-15 nov) solapado con los tres anteriores. Online; margen de error ±2,0 %. Frente Amplio 5,2 % suma Sumar 3,7 %, Compromís 1,2 % y UPC 0,3 % (sin Ara Més, 0,2 %); Podemos 1,1 % aparte. Escaños sin dato puntual: el texto (PP 128, PSOE 119, Vox 62) no cuadra con el gráfico. Datos tomados de la ficha de Electográfica.",
       "url": "https://www.electografica.com/2026/11/encuesta-40db-261116.html"
+    },
+    {
+      "casa": "NC Report",
+      "medio": "La Razón",
+      "tipo": "privada",
+      "campo_ini": "2026-11-06",
+      "campo_fin": "2026-11-12",
+      "n": 1000,
+      "pct": {
+        "PP": 32.5,
+        "PSOE": 26.1,
+        "VOX": 19.0,
+        "SUMAR": 7.6,
+        "PODEMOS": 1.5,
+        "SALF": null,
+        "ERC": 1.9,
+        "JUNTS": 1.6,
+        "BILDU": 1.4,
+        "PNV": 0.8,
+        "BNG": 1.0,
+        "CC": 0.4,
+        "UPN": 0.0
+      },
+      "esc": {
+        "PP": null,
+        "PSOE": null,
+        "VOX": null,
+        "SUMAR": null,
+        "PODEMOS": null,
+        "SALF": null,
+        "ERC": null,
+        "JUNTS": null,
+        "BILDU": null,
+        "PNV": 4,
+        "BNG": 2,
+        "CC": 1,
+        "UPN": null
+      },
+      "esc_rango": "PP+UPN 137-139 · PSOE 102-104 · Vox 66-68 · Frente Amplio 11-12 · ERC 7-9 · Junts 7-9 · Bildu 7-8 · Adelante Andalucía 3 · Podemos 0-1",
+      "nota": "Telefónico + online; margen de error ±3,1 %. PP incluye UPN-PP (32,1 % + 0,4 %). Frente Amplio 7,6 % incluye Compromís-FV y UPC. Adelante Andalucía 1,8 %. Participación estimada 64,2 %. Datos de la ficha de Electográfica; los escaños de los grandes partidos solo se publican en rangos.",
+      "url": "https://www.electografica.com/2026/11/encuesta-nc-report-261116.html"
     }
   ]
 }

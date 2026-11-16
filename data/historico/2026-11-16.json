@@ -2,14 +2,14 @@
  "fecha": "2026-11-16",
  "media": {
   "pct": {
-   "PP": 30.34,
-   "PSOE": 28.7,
-   "VOX": 18.32,
-   "SUMAR": 6.54,
+   "PP": 30.38,
+   "PSOE": 28.65,
+   "VOX": 18.33,
+   "SUMAR": 6.57,
    "PODEMOS": 1.59,
    "SALF": 1.96,
-   "ERC": 2.63,
-   "JUNTS": 1.32,
+   "ERC": 2.62,
+   "JUNTS": 1.33,
    "BILDU": 1.4,
    "PNV": 0.81,
    "BNG": 1.0,
@@ -36,7 +36,7 @@
    "Winston",
    "YouGov"
   ],
-  "n_encuestas": 67
+  "n_encuestas": 68
  },
  "escanos": {
   "PP": 130,
@@ -68,7 +68,7 @@
   ],
   "SUMAR": [
    5,
-   18
+   19
   ],
   "PODEMOS": [
    0,
@@ -108,16 +108,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 86.7,
+  "pp_vox": 87.1,
   "pp_solo": 0.0,
-  "psoe_bloque": 10.2,
-  "bloqueo": 3.1
+  "psoe_bloque": 9.7,
+  "bloqueo": 3.3
  },
  "probs_extra": {
-  "ppvox": 86.7,
-  "bloque": 10.2,
-  "bloque_sin_junts": 5.3,
-  "pp_first": 64.5
+  "ppvox": 87.1,
+  "bloque": 9.7,
+  "bloque_sin_junts": 4.8,
+  "pp_first": 65.3
  },
  "semaforo_esp": {
   "S1": 1,
@@ -209,6 +209,7 @@
   "NC Report 2026-10-24",
   "NC Report 2026-10-29",
   "NC Report 2026-11-05",
+  "NC Report 2026-11-12",
   "SW Demoscopia 2026-11-04",
   "SW Demoscopia 2026-11-05",
   "SW Demoscopia 2026-11-06",
@@ -246,6 +247,10 @@
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: 40dB 2026-11-15."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: NC Report 2026-11-12."
   }
  ]
 }
