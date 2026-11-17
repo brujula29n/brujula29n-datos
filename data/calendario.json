@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-12",
+  "actualizado": "2026-11-17",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -236,12 +236,13 @@
     {
       "fecha": "2026-11-19",
       "titulo": "Cara a cara Sánchez-Feijóo",
-      "detalle": "Organizado por la Academia de Televisión y moderado por María Casado (Tres Cantos). Segundo debate pactado, sin fecha.",
+      "detalle": "A las 22:00, organizado por la Academia de Televisión y moderado por María Casado (Plató A de Madrid Content City, Tres Cantos). Cinco bloques: vivienda, economía y fiscalidad, política social, corrupción y regeneración, migración y política exterior. Abre Feijóo y cierra Sánchez, por sorteo.",
       "tipo": "campana",
       "estado": "previsto",
       "src": [
         "https://www.20minutos.es/nacional/cara-cara-entre-pedro-sanchez-alberto-nunez-feijoo-sera-este-jueves-19-noviembre-estara-moderado-por-maria-casado_7060853_0.html",
-        "https://www.elespanol.com/espana/politica/20261113/cara-sanchez-feijoo-celebrara-noviembre-organizado-academia-television/1003744457727_0.html"
+        "https://www.elespanol.com/espana/politica/20261113/cara-sanchez-feijoo-celebrara-noviembre-organizado-academia-television/1003744457727_0.html",
+        "https://www.20minutos.es/nacional/cara-cara-pedro-sanchez-feijoo-debate-electoral-mas-esperado-elecciones-generales-29n_7062051_0.html"
       ]
     },
     {
@@ -269,6 +270,16 @@
       "tipo": "voto",
       "estado": "previsto",
       "src": "https://rtvc.es/calendario-elecciones-generales-2026-fechas-clave-hasta-29-de-noviembre/"
+    },
+    {
+      "fecha": "2026-11-26",
+      "titulo": "Debate a cuatro Sánchez-Feijóo-Abascal-Colau",
+      "detalle": "Organizado por la Academia de Televisión, con los mismos bloques que el cara a cara. Fecha según fuentes de los equipos negociadores citadas por EFE; la JEC debe decidir si participa Podemos.",
+      "tipo": "campana",
+      "estado": "previsto",
+      "src": [
+        "https://www.elespanol.com/espana/politica/20261117/debate-sanchez-feijoo-abascal-colau-noviembre-academia-television/1003744461102_0.html"
+      ]
     },
     {
       "fecha": "2026-11-27",
