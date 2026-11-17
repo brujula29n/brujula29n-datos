@@ -11,6 +11,11 @@
     },
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: Sigma Dos 2026-11-16.",
+     "texto_en": "New poll: Sigma Dos 2026-11-16."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: Sondaxe 2026-11-15.",
      "texto_en": "New poll: Sondaxe 2026-11-15."
     },
@@ -21,8 +26,8 @@
     },
     {
      "tipo": "diario",
-     "texto": "4 movimientos nuevos en el diario. Último: El Consejo de Ministros sube el SMI de 2027 a 1.286 euros y el sueldo de los funcionarios un 4,5 % en plena campaña.",
-     "texto_en": "4 new entries in the campaign log (in Spanish)."
+     "texto": "5 movimientos nuevos en el diario. Último: Moncloa descarta aprobar antes del 29N el registro horario y la prestación por crianza que pide Sumar.",
+     "texto_en": "5 new entries in the campaign log (in Spanish)."
     }
    ]
   },
@@ -1940,28 +1945,28 @@
   {
    "fecha": "2026-11-17",
    "media": {
-    "PP": 30.41,
-    "PSOE": 28.63,
-    "VOX": 18.3,
+    "PP": 30.42,
+    "PSOE": 28.55,
+    "VOX": 18.35,
     "SUMAR": 6.59,
-    "PODEMOS": 1.59,
-    "SALF": 1.82
+    "PODEMOS": 1.57,
+    "SALF": 1.73
    },
    "escanos": {
-    "PP": 129,
-    "PSOE": 117,
+    "PP": 130,
+    "PSOE": 116,
     "VOX": 65,
     "SUMAR": 9,
     "PODEMOS": 0
    },
-   "ppvox": 194,
+   "ppvox": 195,
    "probs": {
-    "pp_vox": 87.1,
+    "pp_vox": 87.6,
     "pp_solo": 0.0,
-    "psoe_bloque": 9.7,
-    "bloqueo": 3.2
+    "psoe_bloque": 9.3,
+    "bloqueo": 3.1
    },
-   "n_encuestas": 77
+   "n_encuestas": 78
   }
  ]
 }

@@ -56,19 +56,19 @@
     "metodo": "Media de las encuestas privadas con campo en los últimos 21 días, ponderada por tamaño muestral (raíz cuadrada) y antigüedad (semivida 10 días). El CIS se muestra aparte por su desviación sistemática documentada; los paneles online autoseleccionados ponderan a la mitad.",
     "fecha": "2026-11-16",
     "pct": {
-      "PP": 30.41,
-      "PSOE": 28.63,
-      "VOX": 18.3,
+      "PP": 30.42,
+      "PSOE": 28.55,
+      "VOX": 18.35,
       "SUMAR": 6.59,
-      "PODEMOS": 1.59,
-      "SALF": 1.82,
-      "ERC": 2.63,
+      "PODEMOS": 1.57,
+      "SALF": 1.73,
+      "ERC": 2.62,
       "JUNTS": 1.3,
       "BILDU": 1.43,
-      "PNV": 0.82,
+      "PNV": 0.83,
       "BNG": 1.0,
       "CC": 0.39,
-      "UPN": 0.04
+      "UPN": 0.05
     },
     "casas": [
       "40dB",
@@ -3014,6 +3014,47 @@
       "esc_rango": null,
       "nota": "3.er tracking de campaña; campo (11-15 nov) solapado con el anterior. Telefónico + online; margen de error ±3,1 %. PP incluye UPN-PP. Frente Amplio 6,0 % y 9 escaños; 12 con Compromís (1,2 %, 3) y UPC (0,5 %, sin escaño) (se anotan los 12, como en los trackings anteriores; en voto se mantiene FA solo). Adelante Andalucía 1,6 % y 3 escaños. Datos tomados de la ficha de Electográfica.",
       "url": "https://www.electografica.com/2026/11/encuesta-sondaxe-261117.html"
+    },
+    {
+      "casa": "Sigma Dos",
+      "medio": "El Mundo",
+      "tipo": "privada",
+      "campo_ini": "2026-11-11",
+      "campo_fin": "2026-11-16",
+      "n": 3759,
+      "pct": {
+        "PP": 30.7,
+        "PSOE": 26.4,
+        "VOX": 19.8,
+        "SUMAR": 6.7,
+        "PODEMOS": 1.2,
+        "SALF": 0.0,
+        "ERC": 2.4,
+        "JUNTS": 1.3,
+        "BILDU": 1.5,
+        "PNV": 0.9,
+        "BNG": 1.0,
+        "CC": 0.3,
+        "UPN": 0.2
+      },
+      "esc": {
+        "PP": null,
+        "PSOE": null,
+        "VOX": null,
+        "SUMAR": null,
+        "PODEMOS": null,
+        "SALF": null,
+        "ERC": null,
+        "JUNTS": null,
+        "BILDU": null,
+        "PNV": null,
+        "BNG": null,
+        "CC": null,
+        "UPN": null
+      },
+      "esc_rango": "PP 123-129 · PSOE 108-114 · Vox 62-67 · Frente Amplio 7-8 (10-14 con Compromís y UPC) · ERC 8-9 · Bildu 6-8 · Junts 4-5 · PNV 3-4 · BNG 2-3 · Adelante Andalucía 3-5 · CC 0-1",
+      "nota": "5.º tracking; campo (11-16 nov) solapado con el anterior. Telefónico + online; margen de error ±1,6 %. Frente Amplio 4,9 % solo; se anota 6,7 % con Compromís-FV (1,4 %) y UPC (0,4 %), como en el 4.º tracking. PP 30,7 y UPN 0,2 como en la serie. Adelante Andalucía 1,8 %. Datos tomados de la ficha de Electográfica.",
+      "url": "https://www.electografica.com/2026/11/encuesta-sigmados-261117.html"
     }
   ]
 }

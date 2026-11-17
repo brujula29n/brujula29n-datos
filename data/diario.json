@@ -4,9 +4,29 @@
   "entradas": [
     {
       "fecha": "2026-11-17",
+      "titulo": "Moncloa descarta aprobar antes del 29N el registro horario y la prestación por crianza que pide Sumar",
+      "que": "Yolanda Díaz reclamó en la rueda de prensa del Consejo de Ministros aprobar ambas medidas, que el PSOE incluye en su programa, en las dos reuniones previas a las elecciones. Fuentes gubernamentales citadas por ABC y El Español dicen que no están en la agenda pactada.",
+      "lectura": "Choque entre los socios de Gobierno por la autoría de medidas que ambos llevan en sus programas. Nivel B (Díaz en rueda de prensa; negativa según fuentes del Gobierno recogidas por ABC y El Español).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/moncloa-descarta-aprobar-29n-medidas-sociales-disputa-20261117171531-nt.html",
+        "https://www.elespanol.com/espana/politica/20261117/moncloa-rechaza-aprobar-registro-horario-prestacion-universal-crianza-reclama-yolanda-diaz/1003744461392_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-17",
       "titulo": "El Consejo de Ministros sube el SMI de 2027 a 1.286 euros y el sueldo de los funcionarios un 4,5 % en plena campaña",
       "que": "Según ABC, el Gobierno aprobó este martes el salario mínimo para 2027 en 1.286 euros al mes en 14 pagas y una subida del 4,5 % para los empleados públicos en 2027. La Junta de Andalucía (PP) lo califica de «deplorable» por aprobarse en campaña y fuera del diálogo social; el PSOE-A lo presenta como diferencia con el PP.",
-      "lectura": "Medidas con impacto directo en millones de trabajadores aprobadas a 12 días de las elecciones; el texto oficial se comprobará en el BOE. Nivel B (ABC, con declaraciones de la Junta y del PSOE-A).",
+      "lectura": "Medidas con impacto directo en millones de trabajadores aprobadas a 12 días de las elecciones; el texto oficial se comprobará en el BOE. Nivel A (ABC; la aprobación la recoge también El Español).",
       "actores": [
         {
           "id": "PSOE",
@@ -19,7 +39,8 @@
       ],
       "src": [
         "https://www.abc.es/espana/andalucia/junta-andalucia-deplorable-aprobar-subida-salario-minimo-20261117165433-nts.html",
-        "https://www.abc.es/espana/andalucia/montero-tras-subida-salario-minimo-diferencia-psoe-20261117165012-nts.html"
+        "https://www.abc.es/espana/andalucia/montero-tras-subida-salario-minimo-diferencia-psoe-20261117165012-nts.html",
+        "https://www.elespanol.com/espana/politica/20261117/moncloa-rechaza-aprobar-registro-horario-prestacion-universal-crianza-reclama-yolanda-diaz/1003744461392_0.html"
       ]
     },
     {
