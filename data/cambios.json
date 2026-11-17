@@ -1,6 +1,21 @@
 {
- "actualizado": "2026-11-16",
+ "actualizado": "2026-11-17",
  "dias": [
+  {
+   "fecha": "2026-11-17",
+   "items": [
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: 40dB 2026-11-16.",
+     "texto_en": "New poll: 40dB 2026-11-16."
+    },
+    {
+     "tipo": "diario",
+     "texto": "1 movimiento nuevo en el diario. Último: Nueva huelga de 24 horas en Renfe con incumplimiento de los servicios mínimos en Cercanías.",
+     "texto_en": "1 new entry in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-16",
    "items": [
@@ -789,16 +804,6 @@
      "tipo": "diario",
      "texto": "9 movimientos nuevos en el diario. Último: Sánchez pide concentrar el voto de izquierda en el PSOE: «Todo al rojo».",
      "texto_en": "9 new entries in the campaign log (in Spanish)."
-    }
-   ]
-  },
-  {
-   "fecha": "2026-10-18",
-   "items": [
-    {
-     "tipo": "diario",
-     "texto": "3 movimientos nuevos en el diario. Último: El Defensor del Pueblo recurre en amparo la suspensión del voto CERA de los nacionalizados y Vox pide al TC que lo inadmita.",
-     "texto_en": "3 new entries in the campaign log (in Spanish)."
     }
    ]
   }
@@ -1921,6 +1926,32 @@
     "bloqueo": 3.1
    },
    "n_encuestas": 75
+  },
+  {
+   "fecha": "2026-11-17",
+   "media": {
+    "PP": 30.42,
+    "PSOE": 28.67,
+    "VOX": 18.3,
+    "SUMAR": 6.6,
+    "PODEMOS": 1.58,
+    "SALF": 1.79
+   },
+   "escanos": {
+    "PP": 129,
+    "PSOE": 117,
+    "VOX": 65,
+    "SUMAR": 9,
+    "PODEMOS": 0
+   },
+   "ppvox": 194,
+   "probs": {
+    "pp_vox": 87.0,
+    "pp_solo": 0.0,
+    "psoe_bloque": 9.8,
+    "bloqueo": 3.2
+   },
+   "n_encuestas": 76
   }
  ]
 }

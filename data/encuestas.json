@@ -54,19 +54,19 @@
   "media": {
     "nombre": "Media ponderada Brújula 29N",
     "metodo": "Media de las encuestas privadas con campo en los últimos 21 días, ponderada por tamaño muestral (raíz cuadrada) y antigüedad (semivida 10 días). El CIS se muestra aparte por su desviación sistemática documentada; los paneles online autoseleccionados ponderan a la mitad.",
-    "fecha": "2026-11-15",
+    "fecha": "2026-11-16",
     "pct": {
-      "PP": 30.38,
-      "PSOE": 28.59,
-      "VOX": 18.35,
-      "SUMAR": 6.64,
-      "PODEMOS": 1.6,
-      "SALF": 1.81,
+      "PP": 30.42,
+      "PSOE": 28.67,
+      "VOX": 18.3,
+      "SUMAR": 6.6,
+      "PODEMOS": 1.58,
+      "SALF": 1.79,
       "ERC": 2.64,
       "JUNTS": 1.31,
       "BILDU": 1.41,
       "PNV": 0.82,
-      "BNG": 1.0,
+      "BNG": 1.01,
       "CC": 0.39,
       "UPN": 0.04
     },
@@ -80,7 +80,6 @@
       "Hamalgama Métrica",
       "IMOP Insights",
       "InvyMark",
-      "More in Common",
       "NC Report",
       "SW Demoscopia",
       "Sigma Dos",
@@ -2947,6 +2946,33 @@
       "esc_rango": null,
       "nota": "12.º tracking; campo acumulado del 26-10 al 15-11, solapado con los anteriores. Telefónico; margen de error ±1,0 %. PP incluye UPN-PP (28,6 % + 0,2 %; 115 + 2 escaños). Frente Amplio con Compromís-FV y UPC (11 escaños: 8 + 2 + 1). Adelante Andalucía 1,5 % y 3 escaños. Datos tomados de la ficha de Electográfica.",
       "url": "https://www.electografica.com/2026/11/encuesta-sw-demoscopia-261116.html"
+    },
+    {
+      "casa": "40dB",
+      "medio": "El País / Cadena SER",
+      "tipo": "privada",
+      "campo_ini": "2026-11-12",
+      "campo_fin": "2026-11-16",
+      "n": 2000,
+      "pct": {
+        "PP": 31.8,
+        "PSOE": 30.6,
+        "VOX": 17.5,
+        "SUMAR": 5.2,
+        "PODEMOS": 1.1,
+        "SALF": 1.6,
+        "ERC": null,
+        "JUNTS": null,
+        "BILDU": null,
+        "PNV": null,
+        "BNG": null,
+        "CC": null,
+        "UPN": 0.0
+      },
+      "esc": null,
+      "esc_rango": "PP 124-135 · PSOE 118-126 · Vox 55-62 · Frente Amplio 5-6 · Compromís 3 · UPC 0-1 · ERC 10 · Bildu 7 · Junts 3 · PNV 3 · Adelante Andalucía 3 · BNG 2 · CC 1",
+      "nota": "5.º tracking diario; campo (12-16 nov) solapado con los anteriores. Online; margen de error ±2,2 %. Frente Amplio 5,2 % suma Sumar 3,7 %, Compromís 1,2 % y UPC 0,3 % (sin Ara Més, 0,2 %); Podemos 1,1 % aparte. Escaños sin dato puntual: el texto (PP 131, PSOE 120, Vox 58) y los rangos del gráfico no cuadran entre sí (PP 124-135 en la barra y 126-137 al pie). Datos tomados de la ficha de Electográfica.",
+      "url": "https://www.electografica.com/2026/11/encuesta-40db-261117.html"
     }
   ]
 }
