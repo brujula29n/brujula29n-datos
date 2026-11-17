@@ -2,17 +2,17 @@
  "fecha": "2026-11-17",
  "media": {
   "pct": {
-   "PP": 30.42,
-   "PSOE": 28.67,
+   "PP": 30.41,
+   "PSOE": 28.63,
    "VOX": 18.3,
-   "SUMAR": 6.6,
-   "PODEMOS": 1.58,
-   "SALF": 1.79,
-   "ERC": 2.64,
-   "JUNTS": 1.31,
-   "BILDU": 1.41,
+   "SUMAR": 6.59,
+   "PODEMOS": 1.59,
+   "SALF": 1.82,
+   "ERC": 2.63,
+   "JUNTS": 1.3,
+   "BILDU": 1.43,
    "PNV": 0.82,
-   "BNG": 1.01,
+   "BNG": 1.0,
    "CC": 0.39,
    "UPN": 0.04
   },
@@ -36,7 +36,7 @@
    "Winston",
    "YouGov"
   ],
-  "n_encuestas": 76
+  "n_encuestas": 77
  },
  "escanos": {
   "PP": 129,
@@ -55,8 +55,8 @@
  },
  "rango": {
   "PP": [
-   106,
-   147
+   107,
+   148
   ],
   "PSOE": [
    98,
@@ -108,16 +108,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 87.0,
+  "pp_vox": 87.1,
   "pp_solo": 0.0,
-  "psoe_bloque": 9.8,
+  "psoe_bloque": 9.7,
   "bloqueo": 3.2
  },
  "probs_extra": {
-  "ppvox": 87.0,
-  "bloque": 9.8,
-  "bloque_sin_junts": 5.1,
-  "pp_first": 65.1
+  "ppvox": 87.1,
+  "bloque": 9.7,
+  "bloque_sin_junts": 5.0,
+  "pp_first": 65.6
  },
  "semaforo_esp": {
   "S1": 1,
@@ -243,6 +243,7 @@
   "Sondaxe 2026-11-04",
   "Sondaxe 2026-11-13",
   "Sondaxe 2026-11-14",
+  "Sondaxe 2026-11-15",
   "Target Point 2026-09-10",
   "Target Point 2026-10-09",
   "Target Point 2026-10-30",
@@ -255,6 +256,10 @@
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: 40dB 2026-11-16."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: Sondaxe 2026-11-15."
   },
   {
    "tipo": "diario",

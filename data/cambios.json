@@ -10,6 +10,11 @@
      "texto_en": "New poll: 40dB 2026-11-16."
     },
     {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Sondaxe 2026-11-15.",
+     "texto_en": "New poll: Sondaxe 2026-11-15."
+    },
+    {
      "tipo": "diario",
      "texto": "1 movimiento nuevo en el diario. Último: Nueva huelga de 24 horas en Renfe con incumplimiento de los servicios mínimos en Cercanías.",
      "texto_en": "1 new entry in the campaign log (in Spanish)."
@@ -1930,12 +1935,12 @@
   {
    "fecha": "2026-11-17",
    "media": {
-    "PP": 30.42,
-    "PSOE": 28.67,
+    "PP": 30.41,
+    "PSOE": 28.63,
     "VOX": 18.3,
-    "SUMAR": 6.6,
-    "PODEMOS": 1.58,
-    "SALF": 1.79
+    "SUMAR": 6.59,
+    "PODEMOS": 1.59,
+    "SALF": 1.82
    },
    "escanos": {
     "PP": 129,
@@ -1946,12 +1951,12 @@
    },
    "ppvox": 194,
    "probs": {
-    "pp_vox": 87.0,
+    "pp_vox": 87.1,
     "pp_solo": 0.0,
-    "psoe_bloque": 9.8,
+    "psoe_bloque": 9.7,
     "bloqueo": 3.2
    },
-   "n_encuestas": 76
+   "n_encuestas": 77
   }
  ]
 }
