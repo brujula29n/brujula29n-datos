@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-16",
-  "nota": "Desde el 10 de noviembre el PP, desde el 15 el PSOE y desde el 16 el Frente Amplio (casilla SUMAR) tienen programa publicado (se enlaza el PDF); el resto de partidos no; las entradas son posiciones anunciadas (B/C) recogidas de actos, declaraciones y votaciones. Cuando se publique el programa, 'estado' pasa a 'programa' y se enlaza el PDF en 'programas_publicados'. 'coste' y 'viable' se rellenan cuando haya memoria económica o evaluación independiente (AIReF, Banco de España, Fedea u otros) y quedan en null hasta entonces.",
+  "actualizado": "2026-11-17",
+  "nota": "Desde el 10 de noviembre el PP, desde el 15 el PSOE y desde el 16 el Frente Amplio (casilla SUMAR) y desde el 17 Podemos tienen programa publicado (se enlaza el PDF); el resto de partidos no; las entradas son posiciones anunciadas (B/C) recogidas de actos, declaraciones y votaciones. Cuando se publique el programa, 'estado' pasa a 'programa' y se enlaza el PDF en 'programas_publicados'. 'coste' y 'viable' se rellenan cuando haya memoria económica o evaluación independiente (AIReF, Banco de España, Fedea u otros) y quedan en null hasta entonces.",
   "estados": {
     "programa": "Figura en el programa electoral publicado (se enlaza)",
     "anunciado": "Anunciado públicamente por el líder o la dirección, sin programa",
@@ -46,8 +46,8 @@
       "fecha": "2026-11-16"
     },
     "PODEMOS": {
-      "url": null,
-      "fecha": null
+      "url": "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+      "fecha": "2026-11-17"
     },
     "SALF": {
       "url": null,
@@ -120,11 +120,12 @@
           "viable": null
         },
         "PODEMOS": {
-          "resumen": "Regular precios del alquiler el primer año, rebaja del 50 %, movilizar vivienda vacía de grandes tenedores.",
-          "estado": "anunciado",
-          "ev": "C",
+          "resumen": "Bajar los alquileres un 40 %, contratos indefinidos, expropiación de uso a grandes tenedores y prohibir desahucios sin alternativa y la venta de vivienda pública.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"
+            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
           ],
           "coste": null,
           "viable": null
@@ -228,11 +229,12 @@
           "viable": null
         },
         "PODEMOS": {
-          "resumen": "Impuestos a grandes fortunas y grandes empresas.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Impuesto estatal permanente a grandes fortunas, impuesto sobre beneficios de eléctricas, impuesto a viviendas vacías y al flipping, IVA del 21 % a pisos turísticos.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"
+            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
           ],
           "coste": null,
           "viable": null
@@ -336,11 +338,12 @@
           "viable": null
         },
         "PODEMOS": {
-          "resumen": "Jornada de 35 horas y SMI de 1.800 € al mes.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "SMI de 1.800 euros, jornada de 35 horas hacia 30 sin rebaja salarial, cárcel por horas extra impagadas y salarios ligados al IPC.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"
+            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
           ],
           "coste": null,
           "viable": null
@@ -444,11 +447,12 @@
           "viable": null
         },
         "PODEMOS": {
-          "resumen": "Blindar las pensiones en la Constitución y revalorización con el IPC.",
-          "estado": "anunciado",
-          "ev": "C",
+          "resumen": "Jubilación ordinaria a los 63 años, pensión mínima igual al SMI y no contributiva al 80 %, sin penalización en jubilaciones anticipadas.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"
+            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
           ],
           "coste": null,
           "viable": null
@@ -547,11 +551,12 @@
           "viable": null
         },
         "PODEMOS": {
-          "resumen": "Blindar por ley el gasto sanitario y de dependencia; derogar la ley 15/97.",
-          "estado": "anunciado",
-          "ev": "C",
+          "resumen": "Derogar la Ley 15/1997 y prohibir la gestión privada; financiación hasta 2.900 euros por habitante (en torno al 8 % del PIB).",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.publico.es/sociedad/sanidad/13-503-personas-han-muerto-listas-espera-dependencia-primeros-cinco-meses-2026-insoportable.html"
+            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
           ],
           "coste": null,
           "viable": null
@@ -648,11 +653,12 @@
           "viable": null
         },
         "PODEMOS": {
-          "resumen": "Prestación por hijo, educación pública sin conciertos.",
-          "estado": "anunciado",
-          "ev": "C",
+          "resumen": "Plazas públicas gratuitas de 0 a 3 años en cuatro años, universidad pública gratuita y fin de la privatización educativa.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"
+            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
           ],
           "coste": null,
           "viable": null
@@ -754,11 +760,12 @@
           "viable": null
         },
         "PODEMOS": {
-          "resumen": "Regularización permanente; rechazo a delegar inmigración a Cataluña.",
-          "estado": "votado",
+          "resumen": "Derogar la Ley de Extranjería, cerrar los CIE y regularización permanente por arraigo sin exigir contrato de trabajo.",
+          "estado": "programa",
           "ev": "A",
           "src": [
-            "https://www.eldiario.es/politica/congreso-rechaza-ley-junts-psoe-traspaso-competencias-inmigracion-catalunya_1_12625754.html"
+            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
           ],
           "coste": null,
           "viable": null
@@ -861,11 +868,12 @@
           "viable": null
         },
         "PODEMOS": {
-          "resumen": "Derogar la 'ley mordaza'.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Derogar la Ley Mordaza, prohibir la infiltración policial en movimientos sociales y acabar con las «cloacas del Estado».",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://vozpopuli.com/espana/adelanto-electoral-de-sanchez-en-directo-el-presidente-comparece-para-desvelar-si-adelanta-las-elecciones-tras-la-crisis-de-la-vivienda.html"
+            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
           ],
           "coste": null,
           "viable": null
@@ -962,11 +970,12 @@
           "viable": null
         },
         "PODEMOS": {
-          "resumen": "Empresa pública de energía; renovables.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Sistema eléctrico 100 % renovable, empresa pública con saltos hidroeléctricos recuperados, reforma del mercado eléctrico y cierre nuclear según calendario.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"
+            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
           ],
           "coste": null,
           "viable": null
@@ -1063,11 +1072,12 @@
           "viable": null
         },
         "PODEMOS": {
-          "resumen": "Referéndum pactado; apoyo a la amnistía.",
-          "estado": "votado",
-          "ev": "B",
+          "resumen": "Proceso constituyente hacia una república plurinacional, con referéndum sobre monarquía o república.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.eldiario.es/politica/congreso-rechaza-ley-junts-psoe-traspaso-competencias-inmigracion-catalunya_1_12625754.html"
+            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
           ],
           "coste": null,
           "viable": null
@@ -1170,11 +1180,12 @@
           "viable": null
         },
         "PODEMOS": {
-          "resumen": "Derogar la 'ley mordaza', limitar aforamientos.",
-          "estado": "anunciado",
-          "ev": "C",
+          "resumen": "Democratizar el acceso a la carrera judicial, dos debates electorales obligatorios en medios públicos y vetar contratos públicos a empresas corruptas.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://vozpopuli.com/espana/adelanto-electoral-de-sanchez-en-directo-el-presidente-comparece-para-desvelar-si-adelanta-las-elecciones-tras-la-crisis-de-la-vivienda.html"
+            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
           ],
           "coste": null,
           "viable": null
@@ -1276,11 +1287,12 @@
           "viable": null
         },
         "PODEMOS": {
-          "resumen": "Ruptura total con Israel y salida de la OTAN.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Salir de la OTAN, cerrar las bases de EE. UU., rechazar el 5 % de gasto militar, neutralidad constitucional y embargo de armas a Israel.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://vozpopuli.com/espana/adelanto-electoral-de-sanchez-en-directo-el-presidente-comparece-para-desvelar-si-adelanta-las-elecciones-tras-la-crisis-de-la-vivienda.html"
+            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
           ],
           "coste": null,
           "viable": null

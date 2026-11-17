@@ -150,7 +150,7 @@
   "PSOE": "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
   "VOX": null,
   "SUMAR": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
-  "PODEMOS": null,
+  "PODEMOS": "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
   "SALF": null,
   "JUNTS": null,
   "ERC": null,
@@ -260,6 +260,10 @@
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: Sondaxe 2026-11-15."
+  },
+  {
+   "tipo": "programa",
+   "texto": "Podemos publica su programa electoral."
   },
   {
    "tipo": "diario",
