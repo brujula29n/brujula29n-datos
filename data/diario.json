@@ -4,6 +4,26 @@
   "entradas": [
     {
       "fecha": "2026-11-17",
+      "titulo": "El Consejo de Ministros sube el SMI de 2027 a 1.286 euros y el sueldo de los funcionarios un 4,5 % en plena campaña",
+      "que": "Según ABC, el Gobierno aprobó este martes el salario mínimo para 2027 en 1.286 euros al mes en 14 pagas y una subida del 4,5 % para los empleados públicos en 2027. La Junta de Andalucía (PP) lo califica de «deplorable» por aprobarse en campaña y fuera del diálogo social; el PSOE-A lo presenta como diferencia con el PP.",
+      "lectura": "Medidas con impacto directo en millones de trabajadores aprobadas a 12 días de las elecciones; el texto oficial se comprobará en el BOE. Nivel B (ABC, con declaraciones de la Junta y del PSOE-A).",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/andalucia/junta-andalucia-deplorable-aprobar-subida-salario-minimo-20261117165433-nts.html",
+        "https://www.abc.es/espana/andalucia/montero-tras-subida-salario-minimo-diferencia-psoe-20261117165012-nts.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-17",
       "titulo": "Podemos presenta su programa: cárcel por horas extra impagadas, jubilación a los 63 y SMI de 1.800 euros",
       "que": "Irene Montero presentó el programa en la sede del partido: delito penal para quien obligue a hacer horas extra sin pagarlas, jubilación a los 63 años, salario mínimo de 1.800 euros brutos en 14 pagas, jornada máxima de 30 horas y salarios ligados al IPC.",
       "lectura": "Cuarto partido estatal con programa; compite con el Frente Amplio por el mismo electorado. El documento no se ha podido consultar (la web del partido rechaza el acceso automático), por lo que no entra aún en la comparativa. Nivel B (declaraciones recogidas por elDiario.es).",
