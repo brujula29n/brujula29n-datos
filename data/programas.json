@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-17",
-  "nota": "Desde el 10 de noviembre el PP, desde el 15 el PSOE y desde el 16 el Frente Amplio (casilla SUMAR) y desde el 17 Podemos tienen programa publicado (se enlaza el PDF); el resto de partidos no; las entradas son posiciones anunciadas (B/C) recogidas de actos, declaraciones y votaciones. Cuando se publique el programa, 'estado' pasa a 'programa' y se enlaza el PDF en 'programas_publicados'. 'coste' y 'viable' se rellenan cuando haya memoria económica o evaluación independiente (AIReF, Banco de España, Fedea u otros) y quedan en null hasta entonces.",
+  "actualizado": "2026-11-18",
+  "nota": "Desde el 10 de noviembre el PP, desde el 12 Vox, desde el 15 el PSOE y desde el 16 el Frente Amplio (casilla SUMAR) y desde el 17 Podemos tienen programa publicado (se enlaza el PDF); el resto de partidos no; las entradas son posiciones anunciadas (B/C) recogidas de actos, declaraciones y votaciones. Cuando se publique el programa, 'estado' pasa a 'programa' y se enlaza el PDF en 'programas_publicados'. 'coste' y 'viable' se rellenan cuando haya memoria económica o evaluación independiente (AIReF, Banco de España, Fedea u otros) y quedan en null hasta entonces.",
   "estados": {
     "programa": "Figura en el programa electoral publicado (se enlaza)",
     "anunciado": "Anunciado públicamente por el líder o la dirección, sin programa",
@@ -38,8 +38,8 @@
       "fecha": "2026-11-15"
     },
     "VOX": {
-      "url": null,
-      "fecha": null
+      "url": "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf",
+      "fecha": "2026-11-12"
     },
     "SUMAR": {
       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
@@ -98,12 +98,11 @@
           "viable": null
         },
         "VOX": {
-          "resumen": "Liberalizar suelo, bajar impuestos a la compra, desalojo inmediato por impago u ocupación, 'prioridad nacional' en vivienda pública.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Derogar la Ley de Vivienda, IVA 0 % y sin ITP en primera vivienda, «prioridad nacional» en vivienda protegida y desalojo okupa en 24 h.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/",
-            "https://www.elconstitucional.es/es/nacional/politica/santiago-abascal-ya-pone-condiciones-feijoo-gobernar-en-coalicion-elecciones-29n-remigracion-prioridad-nacional_8538_102.html"
+            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
           ],
           "coste": null,
           "viable": null
@@ -207,12 +206,11 @@
           "viable": null
         },
         "VOX": {
-          "resumen": "Bajada general de impuestos, suprimir 'chiringuitos' y subvenciones a sindicatos y patronal; tipos concretos solo en el programa de 2019.",
-          "estado": "anunciado",
-          "ev": "C",
+          "resumen": "Bajar IRPF (según hijos), IVA y Sociedades sin fijar tipos; cuota cero de autónomos bajo el SMI; gravamen a las remesas.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.democrata.es/encuestas/elecciones-generales/abascal-elecciones-29-n-ultima-oportunidad-vox-remigracion/",
-            "https://www.bolsamania.com/noticias/elecciones-generales/vox-plantea-ayudas-familias-nuevo-modelo-pensiones-rebaja-fiscal--3839254.html"
+            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
           ],
           "coste": null,
           "viable": null
@@ -316,12 +314,11 @@
           "viable": null
         },
         "VOX": {
-          "resumen": "Rechazo a la reducción de jornada obligatoria, bajar costes laborales, fin de subvenciones a sindicatos.",
-          "estado": "votado",
+          "resumen": "Derogar la reforma laboral del Gobierno, plan de reindustrialización y apoyo al turismo; no fija cifras de empleo ni de salarios.",
+          "estado": "programa",
           "ev": "A",
           "src": [
-            "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/",
-            "https://www.eleconomista.es/economia/noticias/13538757/09/25/diaz-insistira-para-conseguir-la-reduccion-de-jornada-pero-no-concreta-plazos-para-aprobarla.html"
+            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
           ],
           "coste": null,
           "viable": null
@@ -425,12 +422,11 @@
           "viable": null
         },
         "VOX": {
-          "resumen": "Modelo mixto: reparto más cuentas de capitalización individual obligatorias; 'el sistema es un zombi'.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Sostenibilidad vía crecimiento, empleo y natalidad; el Estado cotiza por quien cuida de sus hijos. Sin cifras de revalorización.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.eldebate.com/economia/20261004/jose-maria-figaredo-vox-sistema-pensiones-zombi-han-quebrado_465570.html",
-            "https://infobae.com/espana/2026/10/05/vox-dice-que-el-sistema-de-pensiones-es-un-zombi-que-ha-quebrado-y-propone-un-modelo-que-combine-reparto-y-capitalizacion-individual"
+            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
           ],
           "coste": null,
           "viable": null
@@ -530,11 +526,11 @@
           "viable": null
         },
         "VOX": {
-          "resumen": "'Prioridad nacional' en el acceso a servicios; sin plan sanitario detallado.",
-          "estado": "anunciado",
-          "ev": "C",
+          "resumen": "Tarjeta sanitaria única, plan de listas de espera con colaboración público-privada; a extranjeros irregulares, solo urgencias graves.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.elconstitucional.es/es/nacional/politica/santiago-abascal-ya-pone-condiciones-feijoo-gobernar-en-coalicion-elecciones-29n-remigracion-prioridad-nacional_8538_102.html"
+            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
           ],
           "coste": null,
           "viable": null
@@ -632,11 +628,11 @@
           "viable": null
         },
         "VOX": {
-          "resumen": "PIN parental, cheque escolar, derogar la LOMLOE, prestación por hijo con 'prioridad nacional'.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Derogar la LOMLOE, currículo y EVAU únicos, educación en español, cupo por aula de alumnos de otras culturas y prohibir el burka.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.moncloa.com/2026/09/07/pacto-pp-vox-castilla-y-leon-4-3427123"
+            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
           ],
           "coste": null,
           "viable": null
@@ -738,12 +734,11 @@
           "viable": null
         },
         "VOX": {
-          "resumen": "'Remigración' (expulsar irregulares, delincuentes y 'quien viva de subsidios'), derogar la regularización, cierre de fronteras, delitos por nacionalidad.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "«Ni uno más»: prohibir regularizaciones, suprimir el arraigo, repatriar a irregulares, plan de «remigración» y devolver a los menores no acompañados.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.infobae.com/espana/agencias/2026/09/14/abascal-plantea-procesos-de-repatriaciones-de-inmigrantes-que-delincan-y-de-remigracion-para-los-que-no-trabajan/",
-            "https://www.elconstitucional.es/es/nacional/politica/santiago-abascal-ya-pone-condiciones-feijoo-gobernar-en-coalicion-elecciones-29n-remigracion-prioridad-nacional_8538_102.html"
+            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
           ],
           "coste": null,
           "viable": null
@@ -847,11 +842,11 @@
           "viable": null
         },
         "VOX": {
-          "resumen": "Repatriación de quien delinca, publicar delitos por nacionalidad, 'Ceuta invadida', desalojo exprés de ocupas.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Rebajar la edad penal, ampliar la prisión permanente revisable, más medios policiales, policía y Guardia Civil como profesión de riesgo.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://theobjective.com/espana/politica/2026-07-27/vox-discurso-seguridad-inmigracion-elecciones-generales/"
+            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
           ],
           "coste": null,
           "viable": null
@@ -949,11 +944,11 @@
           "viable": null
         },
         "VOX": {
-          "resumen": "Rechazo del Pacto Verde y de la Agenda 2030, nuclear, bajada de impuestos a la energía.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Derogar el cierre nuclear y estudiar nuevas centrales, bajar impuestos eléctricos, revertir el Pacto Verde, el veto a la combustión y las ZBE.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.democrata.es/encuestas/elecciones-generales/abascal-elecciones-29-n-ultima-oportunidad-vox-remigracion/"
+            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
           ],
           "coste": null,
           "viable": null
@@ -1051,11 +1046,11 @@
           "viable": null
         },
         "VOX": {
-          "resumen": "Recentralizar competencias o suprimir autonomías, ilegalizar partidos independentistas, derogar la amnistía.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Recuperar la sedición, prohibir indultos por delitos contra la integridad territorial, ilegalizar partidos contra la unidad y ley de unidad de mercado.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.democrata.es/encuestas/elecciones-generales/abascal-elecciones-29-n-ultima-oportunidad-vox-remigracion/"
+            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
           ],
           "coste": null,
           "viable": null
@@ -1159,11 +1154,11 @@
           "viable": null
         },
         "VOX": {
-          "resumen": "Suprimir subvenciones a partidos, sindicatos y patronal y 'chiringuitos'; cuestiona la limpieza electoral sin pruebas.",
-          "estado": "anunciado",
-          "ev": "C",
+          "resumen": "Jueces eligen a los doce vocales judiciales del CGPJ, reforma del Constitucional, agravar la malversación y que condenados por corrupción paguen con sus bienes.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://www.diariodeleon.es/nacional/261005/2099326/elecciones-generales-2026-directo-todas-reacciones-adelanto-pedro-sanchez.html"
+            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
           ],
           "coste": null,
           "viable": null
@@ -1265,12 +1260,11 @@
           "viable": null
         },
         "VOX": {
-          "resumen": "Alianza con Trump, Meloni y Orbán; apoyo a Israel y a EE. UU. en Irán; votó contra el embargo de armas.",
-          "estado": "votado",
+          "resumen": "Más inversión en Defensa y sueldos militares, Fuerzas Armadas en la protección de fronteras, presión sobre Gibraltar y sanciones a Marruecos.",
+          "estado": "programa",
           "ev": "A",
           "src": [
-            "https://en.wikipedia.org/wiki/Spain_in_the_2026_Iran_war",
-            "https://www.infobae.com/espana/2025/10/08/el-congreso-convalida-el-decreto-del-embargo-de-armas-a-israel-con-el-apoyo-de-ultima-hora-de-podemos/"
+            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
           ],
           "coste": null,
           "viable": null

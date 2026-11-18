@@ -4,6 +4,35 @@
   "entradas": [
     {
       "fecha": "2026-11-18",
+      "titulo": "La Diputación Permanente convalida siete decretos ley, entre ellos el título de familias monoparentales y las ayudas por el accidente de Urda",
+      "que": "El título de familias monoparentales salió con 62 votos a favor, 6 en contra de Vox y una abstención; según el Gobierno costará 824 millones al año y alcanzará a más de 760.000 hogares. El decreto de ayudas por Urda se aprobó por unanimidad y hace permanente el límite a la subida de billetes de transporte en emergencias. También se convalidaron los decretos de Ceuta y de la dana Adam.",
+      "lectura": "Normas aprobadas por decreto a once días de las elecciones que quedan en vigor. La oposición acusa al Gobierno de «compra de votos» y este defiende que salda «una deuda histórica» con las familias monoparentales. Nivel B (El Mundo, 20minutos)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/espana/2026/11/18/6afd9de8e4d4d8893b8b457d.html",
+        "https://www.20minutos.es/nacional/congreso-convalida-titulo-familias-monoparentales-mas-apoyos-760-000-hogares_7062731_0.html",
+        "https://www.20minutos.es/nacional/congreso-recupera-prohibicion-disparar-precio-los-viajes-tras-una-emergencia-aprueba-las-ayudas-por-urda_7062536_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-18",
       "titulo": "El Supremo confirma que los hijos de los nacionalizados por la ley de nietos podrán votar el 29N",
       "que": "La Sala de lo Contencioso desestima por mayoría, con un voto discrepante y otro concurrente, el recurso de Vox. Sus padres siguen con el voto suspendido cautelarmente salvo que acrediten ser descendientes de exiliados: según la Oficina del Censo Electoral, 113.326 de los 163.355 nacionalizados no podrán votar.",
       "lectura": "Decisión que fija quién vota desde el exterior; 20minutos cifra en unas 190.000 las personas afectadas por el recurso desestimado. Nivel A (20minutos, Europa Press, con el escrito de la Abogacía del Estado).",
