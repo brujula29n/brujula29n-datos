@@ -4,6 +4,22 @@
   "entradas": [
     {
       "fecha": "2026-11-18",
+      "titulo": "El Supremo confirma que los hijos de los nacionalizados por la ley de nietos podrán votar el 29N",
+      "que": "La Sala de lo Contencioso desestima por mayoría, con un voto discrepante y otro concurrente, el recurso de Vox. Sus padres siguen con el voto suspendido cautelarmente salvo que acrediten ser descendientes de exiliados: según la Oficina del Censo Electoral, 113.326 de los 163.355 nacionalizados no podrán votar.",
+      "lectura": "Decisión que fija quién vota desde el exterior; 20minutos cifra en unas 190.000 las personas afectadas por el recurso desestimado. Nivel A (20minutos, Europa Press, con el escrito de la Abogacía del Estado).",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/supremo-ratifica-que-los-hijos-los-nacionalizados-por-ley-nietos-podran-votar-29n_7062664_0.html",
+        "https://www.europapress.es/nacional/noticia-supremo-rechaza-recurso-vox-contra-decision-permitir-voto-hijos-ley-nietos-20261118145900.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-18",
       "titulo": "El PSOE entrega al juez Pedraz la lista de abogados que contrató entre 2021 y 2025 y pide que quede en reserva",
       "que": "El partido aportó facturas y una tabla con los despachos, cuantías y federaciones contratantes, pero invoca el secreto profesional para no detallar el objeto de cada encargo. El juez acepta que la documentación vaya a una pieza separada solo accesible a la Fiscalía mientras se analiza.",
       "lectura": "El juez investiga en el «caso Cloacas» si el partido recurrió a abogados para financiar las gestiones de Leire Díez; dos abogados contratados por el PSOE están investigados, no condenados. Nivel A (elDiario.es, El Mundo, Europa Press).",
