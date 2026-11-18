@@ -13,6 +13,11 @@
      "tipo": "encuesta",
      "texto": "Nueva encuesta: Sondaxe 2026-11-16.",
      "texto_en": "New poll: Sondaxe 2026-11-16."
+    },
+    {
+     "tipo": "diario",
+     "texto": "1 movimiento nuevo en el diario. Último: El Tribunal de Cuentas pasa a investigación el caso de los sueldos de David Sánchez en la Diputación de Badajoz.",
+     "texto_en": "1 new entry in the campaign log (in Spanish)."
     }
    ]
   },

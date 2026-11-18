@@ -170,8 +170,8 @@
   "PNV": "Idoia Sagastizabal (Bizkaia) y Maribel Vaquero (Gipuzkoa)"
  },
  "diario": {
-  "n": 350,
-  "ultimo": "Moncloa descarta aprobar antes del 29N el registro horario y la prestación por crianza que pide Sumar"
+  "n": 351,
+  "ultimo": "El Tribunal de Cuentas pasa a investigación el caso de los sueldos de David Sánchez en la Diputación de Badajoz"
  },
  "casas": [
   "40dB 2026-09-02",
@@ -263,6 +263,10 @@
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: Sondaxe 2026-11-16."
+  },
+  {
+   "tipo": "diario",
+   "texto": "1 movimiento nuevo en el diario. Último: El Tribunal de Cuentas pasa a investigación el caso de los sueldos de David Sánchez en la Diputación de Badajoz."
   }
  ]
 }
