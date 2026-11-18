@@ -24,9 +24,9 @@
     },
     {
       "fecha": "2026-11-17",
-      "titulo": "El Consejo de Ministros sube el SMI de 2027 a 1.286 euros y el sueldo de los funcionarios un 4,5 % en plena campaña",
-      "que": "Según ABC, el Gobierno aprobó este martes el salario mínimo para 2027 en 1.286 euros al mes en 14 pagas y una subida del 4,5 % para los empleados públicos en 2027. La Junta de Andalucía (PP) lo califica de «deplorable» por aprobarse en campaña y fuera del diálogo social; el PSOE-A lo presenta como diferencia con el PP.",
-      "lectura": "Medidas con impacto directo en millones de trabajadores aprobadas a 12 días de las elecciones; el texto oficial se comprobará en el BOE. Nivel A (ABC; la aprobación la recoge también El Español).",
+      "titulo": "El Gobierno aprueba por decreto ley el SMI de 2027 (18.004 euros al año) y una subida del 4,5 % para los empleados públicos",
+      "que": "El BOE del 18 publica los reales decretos-leyes 37/2026 (subida máxima del 4,5 % en 2027 para el sector público, por la prórroga presupuestaria) y 38/2026 (SMI de 2027 en 18.004 euros anuales, 1.286 en 14 pagas, exento de IRPF, y actualización de entregas a cuenta a comunidades y ayuntamientos). La Junta de Andalucía (PP) critica que se apruebe en campaña.",
+      "lectura": "Medidas con impacto directo en millones de trabajadores aprobadas a 12 días de las elecciones; deben convalidarse en la Diputación Permanente. Nivel A (BOE; ABC).",
       "actores": [
         {
           "id": "PSOE",
@@ -38,9 +38,9 @@
         }
       ],
       "src": [
-        "https://www.abc.es/espana/andalucia/junta-andalucia-deplorable-aprobar-subida-salario-minimo-20261117165433-nts.html",
-        "https://www.abc.es/espana/andalucia/montero-tras-subida-salario-minimo-diferencia-psoe-20261117165012-nts.html",
-        "https://www.elespanol.com/espana/politica/20261117/moncloa-rechaza-aprobar-registro-horario-prestacion-universal-crianza-reclama-yolanda-diaz/1003744461392_0.html"
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24119",
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24120",
+        "https://www.abc.es/espana/andalucia/junta-andalucia-deplorable-aprobar-subida-salario-minimo-20261117165433-nts.html"
       ]
     },
     {
