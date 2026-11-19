@@ -4,6 +4,26 @@
   "entradas": [
     {
       "fecha": "2026-11-19",
+      "titulo": "Cara a cara Sánchez-Feijóo: perdón a las víctimas de Adamuz y Urda y choque sobre el gasto en Defensa",
+      "que": "En el único debate a dos, Feijóo reprocha a Sánchez los fallos del sistema de seguridad de la alta velocidad y su ausencia en el funeral de Estado. Sánchez responde: «Si tengo que pedir perdón a las víctimas [...] lo pido». En el bloque social, Sánchez pregunta cómo financiará el PP el aumento del gasto en Defensa y Feijóo afirma que no recortará los servicios públicos para ello. La corrupción ocupó buena parte del debate.",
+      "lectura": "El perdón de Sánchez y la promesa de Feijóo sobre los servicios públicos son compromisos verificables a partir de ahora. Nivel A (debate televisado, recogido por ABC y Europa Press)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/sanchez-pedir-perdon-victimas-pido-20261119225627-nt.html",
+        "https://www.europapress.es/nacional/noticia-sanchez-pregunta-si-pp-hara-recortes-cumplir-defensa-feijoo-garantiza-servicios-publicos-20261119232427.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-19",
       "titulo": "La Junta Electoral abre expediente a Tellado por pedir el voto antes de la campaña y rechaza la denuncia del PSOE contra el vídeo con IA del PP",
       "que": "La JEC estima en parte las denuncias de PSOE y Frente Amplio y abre un expediente sancionador a Miguel Tellado por pedir el voto en TVE el 3 de noviembre, antes del inicio legal de la campaña. En cambio, desestima la denuncia del PSOE contra el vídeo del PP hecho con IA: al constar la autoría y el aviso de contenido generado con IA, no ve vulnerado el principio de transparencia.",
       "lectura": "Dos decisiones en sentido contrario para el PP. Es un expediente, no una sanción firme. La JEC fija además un criterio sobre la IA: no está prohibida en campaña, pero podría vulnerar la transparencia «sin las garantías adecuadas». Nivel A (acuerdos de la JEC, recogidos por elDiario.es y 20minutos)",
