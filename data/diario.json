@@ -5,8 +5,8 @@
     {
       "fecha": "2026-11-19",
       "titulo": "Sánchez promete un bono joven de deporte de 200 euros al año para jóvenes de 18 a 25 años",
-      "que": "Lo anuncia en un vídeo en Instagram el día del cara a cara. Según ABC, la medida no figura en el programa electoral que el PSOE presentó el 15 de noviembre; no se ha detallado su coste.",
-      "lectura": "Promesa dirigida al voto joven, sin coste publicado ni sitio en el programa escrito. Nivel B (ABC; Europa Press, no legible por CAPTCHA)",
+      "que": "Lo anuncia en un vídeo en sus redes sociales el día del cara a cara. Según ABC y El Español, la medida no figura en el programa electoral que el PSOE presentó el 15 de noviembre; no se ha detallado su coste.",
+      "lectura": "Promesa dirigida al voto joven, sin coste publicado ni sitio en el programa escrito. Nivel A (vídeo del propio candidato recogido por ABC y El Español)",
       "actores": [
         {
           "id": "PSOE",
@@ -15,6 +15,7 @@
       ],
       "src": [
         "https://www.abc.es/espana/triple-pedro-sanchez-cara-cara-bono-deporte-20261119105450-nt.html",
+        "https://www.elespanol.com/espana/politica/20261119/sanchez-anuncia-paga-euros-jovenes-hacer-deporte-reclamo-mundo-votando/1003744464626_0.html",
         "https://www.europapress.es/nacional/noticia-sanchez-pide-voto-anuncio-bono-joven-deporte-200-euros-ano-jovenes-18-25-anos-20261119101212.html"
       ]
     },
