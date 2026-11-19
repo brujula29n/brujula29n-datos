@@ -1,7 +1,27 @@
 {
-  "actualizado": "2026-11-18",
+  "actualizado": "2026-11-19",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-19",
+      "titulo": "Puigdemont dice que Junts se aprovechó de «la ambición» de Sánchez «para derrotar a España»",
+      "que": "En una entrevista en El Mundo, el líder de Junts afirma que fue el PSOE quien buscó su apoyo a la investidura de 2023, que rechazaron un acuerdo de legislatura y que lograron la amnistía y una mediación internacional en Suiza. Dice que no volverá a Cataluña durante la campaña y que estudia hacerlo en diciembre.",
+      "lectura": "Declaración de un socio de investidura del PSOE a diez días de las elecciones y el día del cara a cara; es la versión de Puigdemont sobre negociaciones no públicas. Nivel B (entrevista en El Mundo, recogida por 20minutos)",
+      "actores": [
+        {
+          "id": "JUNTS",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.elmundo.es/espana/2026/11/18/6afde4a4fc6c8315138b45b0.html",
+        "https://www.20minutos.es/nacional/puigdemont-nos-hemos-aprovechado-ambicion-sanchez-para-derrotar-espana_7062922_0.html"
+      ]
+    },
     {
       "fecha": "2026-11-18",
       "titulo": "La Diputación Permanente convalida siete decretos ley, entre ellos el título de familias monoparentales y las ayudas por el accidente de Urda",

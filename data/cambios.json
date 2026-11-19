@@ -1,6 +1,26 @@
 {
- "actualizado": "2026-11-18",
+ "actualizado": "2026-11-19",
  "dias": [
+  {
+   "fecha": "2026-11-19",
+   "items": [
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: 40dB 2026-11-18.",
+     "texto_en": "New poll: 40dB 2026-11-18."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Sondaxe 2026-11-17.",
+     "texto_en": "New poll: Sondaxe 2026-11-17."
+    },
+    {
+     "tipo": "diario",
+     "texto": "1 movimiento nuevo en el diario. Último: Puigdemont dice que Junts se aprovechó de «la ambición» de Sánchez «para derrotar a España».",
+     "texto_en": "1 new entry in the campaign log (in Spanish)."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-18",
    "items": [
@@ -865,16 +885,6 @@
     {
      "tipo": "diario",
      "texto": "8 movimientos nuevos en el diario. Último: Exteriores condena los insultos de Milei a Sánchez y los califica de «indignos».",
-     "texto_en": "8 new entries in the campaign log (in Spanish)."
-    }
-   ]
-  },
-  {
-   "fecha": "2026-10-20",
-   "items": [
-    {
-     "tipo": "diario",
-     "texto": "8 movimientos nuevos en el diario. Último: El Gobierno aprueba un real decreto-ley que amplía la incapacidad temporal para víctimas de violencia de género y mujeres con patologías de la menopausia.",
      "texto_en": "8 new entries in the campaign log (in Spanish)."
     }
    ]
@@ -2050,6 +2060,32 @@
     "bloqueo": 2.7
    },
    "n_encuestas": 83
+  },
+  {
+   "fecha": "2026-11-19",
+   "media": {
+    "PP": 30.34,
+    "PSOE": 28.88,
+    "VOX": 18.19,
+    "SUMAR": 6.56,
+    "PODEMOS": 1.52,
+    "SALF": 1.73
+   },
+   "escanos": {
+    "PP": 128,
+    "PSOE": 118,
+    "VOX": 65,
+    "SUMAR": 9,
+    "PODEMOS": 0
+   },
+   "ppvox": 193,
+   "probs": {
+    "pp_vox": 85.9,
+    "pp_solo": 0.0,
+    "psoe_bloque": 11.3,
+    "bloqueo": 2.8
+   },
+   "n_encuestas": 85
   }
  ]
 }
