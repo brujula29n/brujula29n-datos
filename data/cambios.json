@@ -11,8 +11,23 @@
     },
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: 40dB 2026-11-19.",
+     "texto_en": "New poll: 40dB 2026-11-19."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Data10 2026-11-19.",
+     "texto_en": "New poll: Data10 2026-11-19."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: Public First 2026-11-17.",
      "texto_en": "New poll: Public First 2026-11-17."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Sigma Dos 2026-11-18.",
+     "texto_en": "New poll: Sigma Dos 2026-11-18."
     },
     {
      "tipo": "encuesta",
@@ -2069,12 +2084,12 @@
   {
    "fecha": "2026-11-19",
    "media": {
-    "PP": 30.33,
-    "PSOE": 28.85,
-    "VOX": 18.21,
-    "SUMAR": 6.55,
-    "PODEMOS": 1.53,
-    "SALF": 1.74
+    "PP": 30.43,
+    "PSOE": 28.78,
+    "VOX": 18.26,
+    "SUMAR": 6.53,
+    "PODEMOS": 1.51,
+    "SALF": 1.66
    },
    "escanos": {
     "PP": 128,
@@ -2085,12 +2100,12 @@
    },
    "ppvox": 193,
    "probs": {
-    "pp_vox": 86.0,
+    "pp_vox": 86.5,
     "pp_solo": 0.0,
-    "psoe_bloque": 11.3,
-    "bloqueo": 2.7
+    "psoe_bloque": 10.3,
+    "bloqueo": 3.3
    },
-   "n_encuestas": 86
+   "n_encuestas": 89
   }
  ]
 }
