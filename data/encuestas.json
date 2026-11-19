@@ -56,19 +56,19 @@
     "metodo": "Media de las encuestas privadas con campo en los últimos 21 días, ponderada por tamaño muestral (raíz cuadrada) y antigüedad (semivida 10 días). El CIS se muestra aparte por su desviación sistemática documentada; los paneles online autoseleccionados ponderan a la mitad.",
     "fecha": "2026-11-18",
     "pct": {
-      "PP": 30.34,
-      "PSOE": 28.88,
-      "VOX": 18.19,
-      "SUMAR": 6.56,
-      "PODEMOS": 1.52,
-      "SALF": 1.73,
-      "ERC": 2.62,
+      "PP": 30.33,
+      "PSOE": 28.85,
+      "VOX": 18.21,
+      "SUMAR": 6.55,
+      "PODEMOS": 1.53,
+      "SALF": 1.74,
+      "ERC": 2.63,
       "JUNTS": 1.29,
-      "BILDU": 1.45,
-      "PNV": 0.81,
-      "BNG": 1.01,
+      "BILDU": 1.44,
+      "PNV": 0.82,
+      "BNG": 1.0,
       "CC": 0.38,
-      "UPN": 0.05
+      "UPN": 0.04
     },
     "casas": [
       "40dB",
@@ -81,6 +81,7 @@
       "IMOP Insights",
       "InvyMark",
       "NC Report",
+      "Public First",
       "SW Demoscopia",
       "Sigma Dos",
       "SocioMétrica",
@@ -3314,6 +3315,33 @@
       "esc_rango": null,
       "nota": "5.º tracking de campaña; campo (13-17 nov) solapado con los anteriores. Telefónico + online; margen de error ±3,1 %. PP incluye UPN-PP. Frente Amplio 5,1 % y 8 escaños; 14 con Compromís (1,8 %, 6) y UPC (0,5 %, sin escaño) (se anotan los 14, como en los trackings anteriores; en voto se mantiene FA solo). Adelante Andalucía 1,3 % y 3 escaños. Datos tomados de la ficha de Electográfica.",
       "url": "https://www.electografica.com/2026/11/encuesta-sondaxe-261119.html"
+    },
+    {
+      "casa": "Public First",
+      "medio": "Politico",
+      "tipo": "privada",
+      "campo_ini": "2026-11-15",
+      "campo_fin": "2026-11-17",
+      "n": 1375,
+      "pct": {
+        "PP": 29.5,
+        "PSOE": 27.2,
+        "VOX": 19.6,
+        "SUMAR": 5.9,
+        "PODEMOS": 2.2,
+        "SALF": 2.0,
+        "ERC": 2.9,
+        "JUNTS": 1.0,
+        "BILDU": 1.3,
+        "PNV": 0.9,
+        "BNG": 0.9,
+        "CC": 0.0,
+        "UPN": 0.0
+      },
+      "esc": null,
+      "esc_rango": null,
+      "nota": "Online; margen de error ±2,6 %. PP 29,5 % incluye UPN-PP según la ficha (que lista además UPN 0,2 %; se anota UPN 0,0 para no contarlo dos veces). Frente Amplio con Compromís-FV y UPC. Adelante Andalucía 1,8 %. Sin estimación de escaños. Datos tomados de la ficha de Electográfica.",
+      "url": "https://www.electografica.com/2026/11/encuesta-public-first-261119.html"
     }
   ]
 }

@@ -4,6 +4,22 @@
   "entradas": [
     {
       "fecha": "2026-11-19",
+      "titulo": "Sánchez promete un bono joven de deporte de 200 euros al año para jóvenes de 18 a 25 años",
+      "que": "Lo anuncia en un vídeo en Instagram el día del cara a cara. Según ABC, la medida no figura en el programa electoral que el PSOE presentó el 15 de noviembre; no se ha detallado su coste.",
+      "lectura": "Promesa dirigida al voto joven, sin coste publicado ni sitio en el programa escrito. Nivel B (ABC; Europa Press, no legible por CAPTCHA)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/triple-pedro-sanchez-cara-cara-bono-deporte-20261119105450-nt.html",
+        "https://www.europapress.es/nacional/noticia-sanchez-pide-voto-anuncio-bono-joven-deporte-200-euros-ano-jovenes-18-25-anos-20261119101212.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-19",
       "titulo": "Puigdemont dice que Junts se aprovechó de «la ambición» de Sánchez «para derrotar a España»",
       "que": "En una entrevista en El Mundo, el líder de Junts afirma que fue el PSOE quien buscó su apoyo a la investidura de 2023, que rechazaron un acuerdo de legislatura y que lograron la amnistía y una mediación internacional en Suiza. Dice que no volverá a Cataluña durante la campaña y que estudia hacerlo en diciembre.",
       "lectura": "Declaración de un socio de investidura del PSOE a diez días de las elecciones y el día del cara a cara; es la versión de Puigdemont sobre negociaciones no públicas. Nivel B (entrevista en El Mundo, recogida por 20minutos)",
