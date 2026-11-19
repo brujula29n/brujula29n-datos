@@ -4,6 +4,31 @@
   "entradas": [
     {
       "fecha": "2026-11-19",
+      "titulo": "La Junta Electoral abre expediente a Tellado por pedir el voto antes de la campaña y rechaza la denuncia del PSOE contra el vídeo con IA del PP",
+      "que": "La JEC estima en parte las denuncias de PSOE y Frente Amplio y abre un expediente sancionador a Miguel Tellado por pedir el voto en TVE el 3 de noviembre, antes del inicio legal de la campaña. En cambio, desestima la denuncia del PSOE contra el vídeo del PP hecho con IA: al constar la autoría y el aviso de contenido generado con IA, no ve vulnerado el principio de transparencia.",
+      "lectura": "Dos decisiones en sentido contrario para el PP. Es un expediente, no una sanción firme. La JEC fija además un criterio sobre la IA: no está prohibida en campaña, pero podría vulnerar la transparencia «sin las garantías adecuadas». Nivel A (acuerdos de la JEC, recogidos por elDiario.es y 20minutos)",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "SUMAR",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/junta-electoral-rechaza-recurso-psoe-video-ia-pp-abre-expediente-tellado-pedir-voto-fuera-plazo_1_13678263.html",
+        "https://www.20minutos.es/nacional/junta-electoral-expedienta-tellado-por-pedir-voto-una-entrevista-tve-antes-campana_7063342_0.html",
+        "https://www.elespanol.com/espana/politica/20261119/junta-electoral-desestima-denuncia-psoe-pp-video-recreo-ia-abalos-leire-begona-gomez/1003744465195_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-19",
       "titulo": "Sánchez promete un bono joven de deporte de 200 euros al año para jóvenes de 18 a 25 años",
       "que": "Lo anuncia en un vídeo en sus redes sociales el día del cara a cara. Según ABC y El Español, la medida no figura en el programa electoral que el PSOE presentó el 15 de noviembre; no se ha detallado su coste.",
       "lectura": "Promesa dirigida al voto joven, sin coste publicado ni sitio en el programa escrito. Nivel A (vídeo del propio candidato recogido por ABC y El Español)",
