@@ -21,6 +21,11 @@
     },
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: Sigma Dos 2026-11-19.",
+     "texto_en": "New poll: Sigma Dos 2026-11-19."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: Sondaxe 2026-11-18.",
      "texto_en": "New poll: Sondaxe 2026-11-18."
     },
@@ -2130,28 +2135,28 @@
   {
    "fecha": "2026-11-20",
    "media": {
-    "PP": 30.43,
-    "PSOE": 28.79,
-    "VOX": 18.3,
-    "SUMAR": 6.49,
-    "PODEMOS": 1.5,
-    "SALF": 1.67
+    "PP": 30.45,
+    "PSOE": 28.75,
+    "VOX": 18.32,
+    "SUMAR": 6.51,
+    "PODEMOS": 1.47,
+    "SALF": 1.6
    },
    "escanos": {
-    "PP": 128,
-    "PSOE": 118,
+    "PP": 129,
+    "PSOE": 117,
     "VOX": 65,
     "SUMAR": 9,
     "PODEMOS": 0
    },
-   "ppvox": 193,
+   "ppvox": 194,
    "probs": {
-    "pp_vox": 86.6,
+    "pp_vox": 87.1,
     "pp_solo": 0.0,
-    "psoe_bloque": 10.1,
-    "bloqueo": 3.3
+    "psoe_bloque": 9.7,
+    "bloqueo": 3.2
    },
-   "n_encuestas": 93
+   "n_encuestas": 94
   }
  ]
 }

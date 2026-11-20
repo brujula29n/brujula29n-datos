@@ -2,19 +2,19 @@
  "fecha": "2026-11-20",
  "media": {
   "pct": {
-   "PP": 30.43,
-   "PSOE": 28.79,
-   "VOX": 18.3,
-   "SUMAR": 6.49,
-   "PODEMOS": 1.5,
-   "SALF": 1.67,
-   "ERC": 2.61,
+   "PP": 30.45,
+   "PSOE": 28.75,
+   "VOX": 18.32,
+   "SUMAR": 6.51,
+   "PODEMOS": 1.47,
+   "SALF": 1.6,
+   "ERC": 2.6,
    "JUNTS": 1.3,
-   "BILDU": 1.45,
-   "PNV": 0.81,
+   "BILDU": 1.46,
+   "PNV": 0.82,
    "BNG": 1.01,
    "CC": 0.38,
-   "UPN": 0.04
+   "UPN": 0.05
   },
   "ref": "2026-11-20",
   "casas": [
@@ -37,11 +37,11 @@
    "Winston",
    "YouGov"
   ],
-  "n_encuestas": 93
+  "n_encuestas": 94
  },
  "escanos": {
-  "PP": 128,
-  "PSOE": 118,
+  "PP": 129,
+  "PSOE": 117,
   "VOX": 65,
   "SUMAR": 9,
   "PODEMOS": 0,
@@ -56,11 +56,11 @@
  },
  "rango": {
   "PP": [
-   106,
+   107,
    147
   ],
   "PSOE": [
-   99,
+   98,
    140
   ],
   "VOX": [
@@ -109,16 +109,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 86.6,
+  "pp_vox": 87.1,
   "pp_solo": 0.0,
-  "psoe_bloque": 10.1,
-  "bloqueo": 3.3
+  "psoe_bloque": 9.7,
+  "bloqueo": 3.2
  },
  "probs_extra": {
-  "ppvox": 86.6,
-  "bloque": 10.1,
-  "bloque_sin_junts": 5.2,
-  "pp_first": 64.5
+  "ppvox": 87.1,
+  "bloque": 9.7,
+  "bloque_sin_junts": 5.1,
+  "pp_first": 65.2
  },
  "semaforo_esp": {
   "S1": 1,
@@ -246,6 +246,7 @@
   "Sigma Dos 2026-11-16",
   "Sigma Dos 2026-11-17",
   "Sigma Dos 2026-11-18",
+  "Sigma Dos 2026-11-19",
   "SocioMétrica 2026-09-26",
   "SocioMétrica 2026-10-03",
   "SocioMétrica 2026-10-11",
@@ -281,6 +282,10 @@
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: More in Common 2026-11-19."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: Sigma Dos 2026-11-19."
   },
   {
    "tipo": "encuesta",
