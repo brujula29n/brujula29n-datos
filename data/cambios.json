@@ -8,6 +8,11 @@
      "tipo": "encuesta",
      "texto": "Nueva encuesta: Sondaxe 2026-11-18.",
      "texto_en": "New poll: Sondaxe 2026-11-18."
+    },
+    {
+     "tipo": "diario",
+     "texto": "1 movimiento nuevo en el diario. Último: Las verificaciones del cara a cara encuentran datos erróneos o engañosos en los dos candidatos.",
+     "texto_en": "1 new entry in the campaign log (in Spanish)."
     }
    ]
   },
