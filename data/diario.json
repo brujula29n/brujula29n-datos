@@ -4,6 +4,42 @@
   "entradas": [
     {
       "fecha": "2026-11-20",
+      "titulo": "El Supremo ordena que ninguno de los 163.355 nacionalizados por la ley de nietos figure en el censo del 29N, salvo 901 con certificado consular",
+      "que": "En una providencia que atiende la petición de Vox, la Sala de lo Contencioso aclara que la suspensión cautelar no se limita al voto desde el extranjero: también alcanza a los que viven y están empadronados en España. Solo podrán votar las 901 personas que han acreditado con certificado consular que descienden de exiliados, y quienes lo aporten antes del día de la votación. Los magistrados califican de «difícil comprensión» los informes de la Abogacía del Estado y de la Oficina del Censo Electoral.",
+      "lectura": "Amplía el alcance de la suspensión cautelar anotada el 18-11 y deja fuera del censo a casi todo el colectivo. Es una medida cautelar, no una sentencia sobre el fondo. Nivel A (providencia del Supremo, recogida por elDiario.es y Europa Press)",
+      "actores": [
+        {
+          "id": "VOX",
+          "impacto": 0
+        },
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.eldiario.es/politica/supremo-veta-voto-elecciones-nacionalizados-ley-nietos-viven-espana_1_13680980.html",
+        "https://www.europapress.es/nacional/noticia-supremo-exige-jec-garantizar-163355-nacionalizados-ley-nietos-no-voten-elecciones-20261120145732.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-20",
+      "titulo": "Feijóo promete en El Hierro un mando único de inmigración y reformar la Ley del Menor para devolver a los menores migrantes",
+      "que": "En La Restinga, tras dos semanas de emergencia migratoria en la isla, Feijóo anuncia que, si gobierna, concentrará en un mando único las competencias de inmigración, que hoy reparten siete ministerios. También promete endurecer en el Código Penal la persecución de las mafias, reformar la Ley del Menor y la de Extranjería para devolver a los menores a sus familias y condicionar los fondos de cooperación al control de la salida de migrantes.",
+      "lectura": "Propuesta de campaña que concreta el bloque de inmigración del programa del PP. No se ha detallado su coste ni su calendario. Nivel A (declaraciones públicas, recogidas por ABC y Europa Press)",
+      "actores": [
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.abc.es/espana/canarias/feijoo-apuesta-mando-unico-gestionar-inmigracion-visita-20261120150604-nt.html",
+        "https://www.europapress.es/nacional/noticia-feijoo-promete-hierro-mando-unico-inmigracion-reformas-legales-devolver-menores-migrantes-20261120152243.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-20",
       "titulo": "Correos admite 1.099.687 solicitudes de voto por correo: un 11,5 % más que en noviembre de 2019 y un 58 % menos que en julio de 2023",
       "que": "Según el comunicado de Correos, 735.583 solicitudes se tramitaron en oficinas y 364.104 por internet. La Oficina del Censo Electoral tiene hasta el 22-11 para entregar a Correos la documentación electoral, y el depósito del voto puede hacerse hasta las 14:00 del 26-11.",
       "lectura": "Dato de participación anticipada: la comparación útil es la de 2019, en la misma época del año. El dato de 2023 fue excepcional porque las elecciones se celebraron en verano. Nivel A (comunicado de Correos, recogido por El Mundo y 20minutos)",
