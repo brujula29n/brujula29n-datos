@@ -5,8 +5,8 @@
     {
       "fecha": "2026-11-19",
       "titulo": "Cara a cara Sánchez-Feijóo: perdón a las víctimas de Adamuz y Urda y choque sobre el gasto en Defensa",
-      "que": "En el único debate a dos, Feijóo reprocha a Sánchez los fallos del sistema de seguridad de la alta velocidad y su ausencia en el funeral de Estado. Sánchez responde: «Si tengo que pedir perdón a las víctimas [...] lo pido». En el bloque social, Sánchez pregunta cómo financiará el PP el aumento del gasto en Defensa y Feijóo afirma que no recortará los servicios públicos para ello. La corrupción ocupó buena parte del debate.",
-      "lectura": "El perdón de Sánchez y la promesa de Feijóo sobre los servicios públicos son compromisos verificables a partir de ahora. Nivel A (debate televisado, recogido por ABC y Europa Press)",
+      "que": "En el único debate a dos, Feijóo reprocha a Sánchez los fallos del sistema de seguridad de la alta velocidad y su ausencia en el funeral de Estado. Sánchez responde: «Si tengo que pedir perdón a las víctimas [...] lo pido». En el bloque social, Sánchez pregunta cómo financiará el PP el aumento del gasto en Defensa y Feijóo afirma que no recortará los servicios públicos para ello. La corrupción ocupó buena parte del debate. En el bloque de corrupción, Feijóo preguntó varias veces quién pagó las primarias de 2017 y Sánchez no respondió a esa pregunta. Tras el debate, Rufián (ERC) dijo que Sánchez estaba «mal asesorado» y que Feijóo actuó como «tertuliano».",
+      "lectura": "El perdón de Sánchez y la promesa de Feijóo sobre los servicios públicos son compromisos verificables a partir de ahora. Nivel A (debate televisado, recogido por ABC, Europa Press, El Español y 20minutos)",
       "actores": [
         {
           "id": "PSOE",
@@ -15,11 +15,18 @@
         {
           "id": "PP",
           "impacto": 0
+        },
+        {
+          "id": "ERC",
+          "impacto": 0
         }
       ],
       "src": [
         "https://www.abc.es/espana/sanchez-pedir-perdon-victimas-pido-20261119225627-nt.html",
-        "https://www.europapress.es/nacional/noticia-sanchez-pregunta-si-pp-hara-recortes-cumplir-defensa-feijoo-garantiza-servicios-publicos-20261119232427.html"
+        "https://www.europapress.es/nacional/noticia-sanchez-pregunta-si-pp-hara-recortes-cumplir-defensa-feijoo-garantiza-servicios-publicos-20261119232427.html",
+        "https://www.20minutos.es/nacional/asi-fue-incomodo-silencio-sanchez-cuando-feijoo-le-pregunto-quien-financio-sus-primarias-no-me-contesta-bien_7063422_0.html",
+        "https://www.elespanol.com/espana/20261120/sanchez-enmudece-pregunta-feijoo-pago-primarias-dice-gobierno-limpio/1003744465494_0.html",
+        "https://www.20minutos.es/nacional/rufian-arremete-contra-sanchez-si-feijoo-te-come-asi-un-debate-es-que-no-te-has-preparado-estas-mal-asesorado_7063409_0.html"
       ]
     },
     {
@@ -88,7 +95,7 @@
       "fecha": "2026-11-18",
       "titulo": "La Diputación Permanente convalida siete decretos ley, entre ellos el título de familias monoparentales y las ayudas por el accidente de Urda",
       "que": "El título de familias monoparentales salió con 62 votos a favor, 6 en contra de Vox y una abstención; según el Gobierno costará 824 millones al año y alcanzará a más de 760.000 hogares. El decreto de ayudas por Urda se aprobó por unanimidad y hace permanente el límite a la subida de billetes de transporte en emergencias. También se convalidaron los decretos de Ceuta y de la dana Adam.",
-      "lectura": "Normas aprobadas por decreto a once días de las elecciones que quedan en vigor. La oposición acusa al Gobierno de «compra de votos» y este defiende que salda «una deuda histórica» con las familias monoparentales. Nivel B (El Mundo, 20minutos)",
+      "lectura": "Normas aprobadas por decreto a once días de las elecciones que quedan en vigor. La oposición acusa al Gobierno de «compra de votos» y este defiende que salda «una deuda histórica» con las familias monoparentales. Nivel A (BOE de 20-11, BOE-A-2026-24291 a 24297; El Mundo, 20minutos)",
       "actores": [
         {
           "id": "PSOE",
@@ -108,6 +115,7 @@
         }
       ],
       "src": [
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24296",
         "https://www.elmundo.es/espana/2026/11/18/6afd9de8e4d4d8893b8b457d.html",
         "https://www.20minutos.es/nacional/congreso-convalida-titulo-familias-monoparentales-mas-apoyos-760-000-hogares_7062731_0.html",
         "https://www.20minutos.es/nacional/congreso-recupera-prohibicion-disparar-precio-los-viajes-tras-una-emergencia-aprueba-las-ayudas-por-urda_7062536_0.html"

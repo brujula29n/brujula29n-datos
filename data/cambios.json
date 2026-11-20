@@ -1,6 +1,16 @@
 {
- "actualizado": "2026-11-19",
+ "actualizado": "2026-11-20",
  "dias": [
+  {
+   "fecha": "2026-11-20",
+   "items": [
+    {
+     "tipo": "nada",
+     "texto": "Sin cambios relevantes respecto al día anterior.",
+     "texto_en": "No relevant changes since the previous day."
+    }
+   ]
+  },
   {
    "fecha": "2026-11-19",
    "items": [
@@ -896,16 +906,6 @@
      "tipo": "diario",
      "texto": "10 movimientos nuevos en el diario. Último: Sánchez acepta el cara a cara con Feijóo el 16-N en una privada; PSOE y PP chocan por el debate a cuatro del 26-N.",
      "texto_en": "10 new entries in the campaign log (in Spanish)."
-    }
-   ]
-  },
-  {
-   "fecha": "2026-10-21",
-   "items": [
-    {
-     "tipo": "diario",
-     "texto": "8 movimientos nuevos en el diario. Último: Exteriores condena los insultos de Milei a Sánchez y los califica de «indignos».",
-     "texto_en": "8 new entries in the campaign log (in Spanish)."
     }
    ]
   }
@@ -2083,6 +2083,32 @@
   },
   {
    "fecha": "2026-11-19",
+   "media": {
+    "PP": 30.43,
+    "PSOE": 28.78,
+    "VOX": 18.26,
+    "SUMAR": 6.53,
+    "PODEMOS": 1.51,
+    "SALF": 1.66
+   },
+   "escanos": {
+    "PP": 128,
+    "PSOE": 118,
+    "VOX": 65,
+    "SUMAR": 9,
+    "PODEMOS": 0
+   },
+   "ppvox": 193,
+   "probs": {
+    "pp_vox": 86.5,
+    "pp_solo": 0.0,
+    "psoe_bloque": 10.3,
+    "bloqueo": 3.3
+   },
+   "n_encuestas": 89
+  },
+  {
+   "fecha": "2026-11-20",
    "media": {
     "PP": 30.43,
     "PSOE": 28.78,
