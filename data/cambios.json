@@ -11,6 +11,16 @@
     },
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: Data10 2026-11-20.",
+     "texto_en": "New poll: Data10 2026-11-20."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: More in Common 2026-11-19.",
+     "texto_en": "New poll: More in Common 2026-11-19."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: Sondaxe 2026-11-18.",
      "texto_en": "New poll: Sondaxe 2026-11-18."
     },
@@ -2121,11 +2131,11 @@
    "fecha": "2026-11-20",
    "media": {
     "PP": 30.43,
-    "PSOE": 28.84,
-    "VOX": 18.25,
-    "SUMAR": 6.47,
-    "PODEMOS": 1.48,
-    "SALF": 1.65
+    "PSOE": 28.79,
+    "VOX": 18.3,
+    "SUMAR": 6.49,
+    "PODEMOS": 1.5,
+    "SALF": 1.67
    },
    "escanos": {
     "PP": 128,
@@ -2136,12 +2146,12 @@
    },
    "ppvox": 193,
    "probs": {
-    "pp_vox": 86.4,
+    "pp_vox": 86.6,
     "pp_solo": 0.0,
-    "psoe_bloque": 10.5,
-    "bloqueo": 3.1
+    "psoe_bloque": 10.1,
+    "bloqueo": 3.3
    },
-   "n_encuestas": 91
+   "n_encuestas": 93
   }
  ]
 }

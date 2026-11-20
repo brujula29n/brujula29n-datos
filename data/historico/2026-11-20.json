@@ -3,18 +3,18 @@
  "media": {
   "pct": {
    "PP": 30.43,
-   "PSOE": 28.84,
-   "VOX": 18.25,
-   "SUMAR": 6.47,
-   "PODEMOS": 1.48,
-   "SALF": 1.65,
+   "PSOE": 28.79,
+   "VOX": 18.3,
+   "SUMAR": 6.49,
+   "PODEMOS": 1.5,
+   "SALF": 1.67,
    "ERC": 2.61,
-   "JUNTS": 1.29,
+   "JUNTS": 1.3,
    "BILDU": 1.45,
    "PNV": 0.81,
    "BNG": 1.01,
    "CC": 0.38,
-   "UPN": 0.05
+   "UPN": 0.04
   },
   "ref": "2026-11-20",
   "casas": [
@@ -26,6 +26,7 @@
    "GAD3",
    "IMOP Insights",
    "InvyMark",
+   "More in Common",
    "NC Report",
    "Public First",
    "SW Demoscopia",
@@ -36,7 +37,7 @@
    "Winston",
    "YouGov"
   ],
-  "n_encuestas": 91
+  "n_encuestas": 93
  },
  "escanos": {
   "PP": 128,
@@ -55,7 +56,7 @@
  },
  "rango": {
   "PP": [
-   107,
+   106,
    147
   ],
   "PSOE": [
@@ -108,16 +109,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 86.4,
+  "pp_vox": 86.6,
   "pp_solo": 0.0,
-  "psoe_bloque": 10.5,
-  "bloqueo": 3.1
+  "psoe_bloque": 10.1,
+  "bloqueo": 3.3
  },
  "probs_extra": {
-  "ppvox": 86.4,
-  "bloque": 10.5,
+  "ppvox": 86.6,
+  "bloque": 10.1,
   "bloque_sin_junts": 5.2,
-  "pp_first": 63.6
+  "pp_first": 64.5
  },
  "semaforo_esp": {
   "S1": 1,
@@ -198,6 +199,7 @@
   "Data10 2026-11-03",
   "Data10 2026-11-12",
   "Data10 2026-11-19",
+  "Data10 2026-11-20",
   "Electomanía (ElectoPanel) 2026-10-03",
   "GAD3 2026-09-03",
   "GAD3 2026-10-08",
@@ -213,6 +215,7 @@
   "IMOP Insights 2026-11-13",
   "InvyMark 2026-11-09",
   "More in Common 2026-10-25",
+  "More in Common 2026-11-19",
   "NC Report 2026-09-03",
   "NC Report 2026-10-06",
   "NC Report 2026-10-24",
@@ -270,6 +273,14 @@
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: 40dB 2026-11-20."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: Data10 2026-11-20."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: More in Common 2026-11-19."
   },
   {
    "tipo": "encuesta",
