@@ -4,6 +4,22 @@
   "entradas": [
     {
       "fecha": "2026-11-21",
+      "titulo": "Exministros del primer Gobierno de Felipe González piden el voto para Sánchez y Bono reprocha a González su anunciado voto en blanco",
+      "que": "Javier Solana, José María Maravall, Joaquín Almunia, Carlos Solchaga, Narcís Serra y Claudio Aranzadi, entre otros, firman en El País un escrito de apoyo al PSOE; Alfonso Guerra no lo suscribe. En un mitin en Alcázar de San Juan, José Bono pidió a González reconsiderar el voto en blanco que anunció: «El PSOE te debe mucho, pero tú más al PSOE».",
+      "lectura": "Movilización de figuras históricas del PSOE frente a la posición pública de González; no aporta propuestas nuevas. Nivel B (El País y 20minutos)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://elpais.com/espana/elecciones-generales/2026-11-21/bono-conmina-a-gonzalez-a-reconsiderar-su-voto-en-blanco-el-psoe-te-debe-mucho-pero-tu-mas-al-psoe.html",
+        "https://www.20minutos.es/nacional/nucleo-duro-primer-gobierno-felipe-gonzalez-excepto-guerra-pide-voto-para-pedro-sanchez_7064100_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-21",
       "titulo": "El PP exige una rectificación a Diana Morant por decir en un mitin que le habría gustado que Sánchez diera «cuatro bofetadas» a Feijóo en el debate",
       "que": "En un acto del PSOE en Ontinyent (Valencia) el viernes, la secretaria general del PSOE valenciano dijo, sobre el cara a cara, que «a todos nos hubiese gustado que el presidente también le hubiese dado cuatro bofetadas bien dadas» y llamó a Feijóo «energúmeno». El PP calificó las palabras de «inaceptables» por «banalizar la violencia» y pidió una rectificación pública.",
       "lectura": "Incidente verbal de campaña; a la hora de esta entrada no consta rectificación de Morant. Nivel B (20minutos y El Español)",
