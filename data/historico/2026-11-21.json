@@ -2,16 +2,16 @@
  "fecha": "2026-11-21",
  "media": {
   "pct": {
-   "PP": 30.44,
-   "PSOE": 28.73,
-   "VOX": 18.34,
-   "SUMAR": 6.48,
-   "PODEMOS": 1.47,
+   "PP": 30.49,
+   "PSOE": 28.67,
+   "VOX": 18.38,
+   "SUMAR": 6.49,
+   "PODEMOS": 1.49,
    "SALF": 1.6,
    "ERC": 2.6,
    "JUNTS": 1.3,
-   "BILDU": 1.46,
-   "PNV": 0.81,
+   "BILDU": 1.45,
+   "PNV": 0.8,
    "BNG": 1.01,
    "CC": 0.38,
    "UPN": 0.05
@@ -37,7 +37,7 @@
    "Winston",
    "YouGov"
   ],
-  "n_encuestas": 95
+  "n_encuestas": 96
  },
  "escanos": {
   "PP": 129,
@@ -57,7 +57,7 @@
  "rango": {
   "PP": [
    107,
-   147
+   148
   ],
   "PSOE": [
    98,
@@ -109,16 +109,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 87.3,
+  "pp_vox": 87.5,
   "pp_solo": 0.0,
-  "psoe_bloque": 9.5,
-  "bloqueo": 3.2
+  "psoe_bloque": 9.1,
+  "bloqueo": 3.3
  },
  "probs_extra": {
-  "ppvox": 87.3,
-  "bloque": 9.5,
-  "bloque_sin_junts": 4.9,
-  "pp_first": 65.1
+  "ppvox": 87.5,
+  "bloque": 9.1,
+  "bloque_sin_junts": 4.8,
+  "pp_first": 66.0
  },
  "semaforo_esp": {
   "S1": 1,

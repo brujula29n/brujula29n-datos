@@ -2166,11 +2166,11 @@
   {
    "fecha": "2026-11-21",
    "media": {
-    "PP": 30.44,
-    "PSOE": 28.73,
-    "VOX": 18.34,
-    "SUMAR": 6.48,
-    "PODEMOS": 1.47,
+    "PP": 30.49,
+    "PSOE": 28.67,
+    "VOX": 18.38,
+    "SUMAR": 6.49,
+    "PODEMOS": 1.49,
     "SALF": 1.6
    },
    "escanos": {
@@ -2182,12 +2182,12 @@
    },
    "ppvox": 194,
    "probs": {
-    "pp_vox": 87.3,
+    "pp_vox": 87.5,
     "pp_solo": 0.0,
-    "psoe_bloque": 9.5,
-    "bloqueo": 3.2
+    "psoe_bloque": 9.1,
+    "bloqueo": 3.3
    },
-   "n_encuestas": 95
+   "n_encuestas": 96
   }
  ]
 }
