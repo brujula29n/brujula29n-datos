@@ -257,6 +257,17 @@
       ]
     },
     {
+      "fecha": "2026-11-21",
+      "titulo": "Empieza el voto en urna de los residentes en el extranjero (CERA)",
+      "detalle": "En embajadas y consulados, del octavo al tercer día antes de la votación, del 21 al 26-11 (art. 75.4 LOREG). El envío por correo a la oficina consular acaba el 24-11. El censo exterior suma 2.776.645 electores (INE).",
+      "tipo": "voto",
+      "estado": "hecho",
+      "src": [
+        "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672",
+        "https://www.20minutos.es/nacional/elecciones-generales-los-espanoles-extranjero-pueden-votar-urna-desde-este-sabado-hasta-26-noviembre_7064006_0.html"
+      ]
+    },
+    {
       "fecha": "2026-11-23",
       "titulo": "Declaración de testigos en el caso Air Europa",
       "detalle": "El juez cita, según ABC, a la vicepresidenta Sara Aagesen como testigo el 23 de noviembre, junto con otros cargos y excargos; no están investigados.",
