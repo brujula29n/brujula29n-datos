@@ -2,19 +2,19 @@
  "fecha": "2026-11-21",
  "media": {
   "pct": {
-   "PP": 30.52,
-   "PSOE": 28.78,
-   "VOX": 18.34,
-   "SUMAR": 6.45,
-   "PODEMOS": 1.47,
-   "SALF": 1.59,
+   "PP": 30.59,
+   "PSOE": 28.77,
+   "VOX": 18.36,
+   "SUMAR": 6.42,
+   "PODEMOS": 1.45,
+   "SALF": 1.62,
    "ERC": 2.59,
    "JUNTS": 1.3,
    "BILDU": 1.45,
    "PNV": 0.8,
    "BNG": 1.01,
    "CC": 0.38,
-   "UPN": 0.05
+   "UPN": 0.04
   },
   "ref": "2026-11-21",
   "casas": [
@@ -37,7 +37,7 @@
    "Winston",
    "YouGov"
   ],
-  "n_encuestas": 97
+  "n_encuestas": 98
  },
  "escanos": {
   "PP": 130,
@@ -109,16 +109,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 87.5,
+  "pp_vox": 87.7,
   "pp_solo": 0.0,
-  "psoe_bloque": 9.1,
+  "psoe_bloque": 8.9,
   "bloqueo": 3.4
  },
  "probs_extra": {
-  "ppvox": 87.5,
-  "bloque": 9.1,
-  "bloque_sin_junts": 4.7,
-  "pp_first": 65.1
+  "ppvox": 87.7,
+  "bloque": 8.9,
+  "bloque_sin_junts": 4.6,
+  "pp_first": 65.6
  },
  "semaforo_esp": {
   "S1": 1,
@@ -255,6 +255,7 @@
   "SocioMétrica 2026-10-31",
   "SocioMétrica 2026-11-08",
   "SocioMétrica 2026-11-15",
+  "SocioMétrica 2026-11-21",
   "Sondaxe 2026-10-28",
   "Sondaxe 2026-11-04",
   "Sondaxe 2026-11-13",
@@ -276,6 +277,10 @@
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: 40dB 2026-11-21."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: SocioMétrica 2026-11-21."
   },
   {
    "tipo": "encuesta",

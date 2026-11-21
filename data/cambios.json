@@ -11,6 +11,11 @@
     },
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: SocioMétrica 2026-11-21.",
+     "texto_en": "New poll: SocioMétrica 2026-11-21."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: Sondaxe 2026-11-19.",
      "texto_en": "New poll: Sondaxe 2026-11-19."
     },
@@ -2171,12 +2176,12 @@
   {
    "fecha": "2026-11-21",
    "media": {
-    "PP": 30.52,
-    "PSOE": 28.78,
-    "VOX": 18.34,
-    "SUMAR": 6.45,
-    "PODEMOS": 1.47,
-    "SALF": 1.59
+    "PP": 30.59,
+    "PSOE": 28.77,
+    "VOX": 18.36,
+    "SUMAR": 6.42,
+    "PODEMOS": 1.45,
+    "SALF": 1.62
    },
    "escanos": {
     "PP": 130,
@@ -2187,12 +2192,12 @@
    },
    "ppvox": 195,
    "probs": {
-    "pp_vox": 87.5,
+    "pp_vox": 87.7,
     "pp_solo": 0.0,
-    "psoe_bloque": 9.1,
+    "psoe_bloque": 8.9,
     "bloqueo": 3.4
    },
-   "n_encuestas": 97
+   "n_encuestas": 98
   }
  ]
 }
