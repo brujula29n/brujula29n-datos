@@ -2,19 +2,19 @@
  "fecha": "2026-11-21",
  "media": {
   "pct": {
-   "PP": 30.59,
-   "PSOE": 28.77,
-   "VOX": 18.36,
-   "SUMAR": 6.42,
-   "PODEMOS": 1.45,
-   "SALF": 1.62,
-   "ERC": 2.59,
-   "JUNTS": 1.3,
+   "PP": 30.58,
+   "PSOE": 28.92,
+   "VOX": 18.24,
+   "SUMAR": 6.46,
+   "PODEMOS": 1.44,
+   "SALF": 1.59,
+   "ERC": 2.61,
+   "JUNTS": 1.31,
    "BILDU": 1.45,
-   "PNV": 0.8,
-   "BNG": 1.01,
+   "PNV": 0.81,
+   "BNG": 1.0,
    "CC": 0.38,
-   "UPN": 0.04
+   "UPN": 0.05
   },
   "ref": "2026-11-21",
   "casas": [
@@ -37,11 +37,11 @@
    "Winston",
    "YouGov"
   ],
-  "n_encuestas": 98
+  "n_encuestas": 100
  },
  "escanos": {
-  "PP": 130,
-  "PSOE": 117,
+  "PP": 129,
+  "PSOE": 118,
   "VOX": 65,
   "SUMAR": 8,
   "PODEMOS": 0,
@@ -60,11 +60,11 @@
    148
   ],
   "PSOE": [
-   98,
-   140
+   99,
+   141
   ],
   "VOX": [
-   47,
+   46,
    81
   ],
   "SUMAR": [
@@ -109,16 +109,16 @@
   ]
  },
  "probs": {
-  "pp_vox": 87.7,
+  "pp_vox": 86.8,
   "pp_solo": 0.0,
-  "psoe_bloque": 8.9,
-  "bloqueo": 3.4
+  "psoe_bloque": 10.0,
+  "bloqueo": 3.2
  },
  "probs_extra": {
-  "ppvox": 87.7,
-  "bloque": 8.9,
-  "bloque_sin_junts": 4.6,
-  "pp_first": 65.6
+  "ppvox": 86.8,
+  "bloque": 10.0,
+  "bloque_sin_junts": 5.1,
+  "pp_first": 64.4
  },
  "semaforo_esp": {
   "S1": 1,
@@ -236,6 +236,7 @@
   "SW Demoscopia 2026-11-15",
   "SW Demoscopia 2026-11-16",
   "SW Demoscopia 2026-11-17",
+  "SW Demoscopia 2026-11-20",
   "Sigma Dos 2026-10-01",
   "Sigma Dos 2026-10-22",
   "Sigma Dos 2026-10-30",
@@ -248,6 +249,7 @@
   "Sigma Dos 2026-11-17",
   "Sigma Dos 2026-11-18",
   "Sigma Dos 2026-11-19",
+  "Sigma Dos 2026-11-20",
   "SocioMétrica 2026-09-26",
   "SocioMétrica 2026-10-03",
   "SocioMétrica 2026-10-11",
@@ -277,6 +279,14 @@
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: 40dB 2026-11-21."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: SW Demoscopia 2026-11-20."
+  },
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: Sigma Dos 2026-11-20."
   },
   {
    "tipo": "encuesta",

@@ -11,6 +11,16 @@
     },
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: SW Demoscopia 2026-11-20.",
+     "texto_en": "New poll: SW Demoscopia 2026-11-20."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Sigma Dos 2026-11-20.",
+     "texto_en": "New poll: Sigma Dos 2026-11-20."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: SocioMétrica 2026-11-21.",
      "texto_en": "New poll: SocioMétrica 2026-11-21."
     },
@@ -2176,28 +2186,28 @@
   {
    "fecha": "2026-11-21",
    "media": {
-    "PP": 30.59,
-    "PSOE": 28.77,
-    "VOX": 18.36,
-    "SUMAR": 6.42,
-    "PODEMOS": 1.45,
-    "SALF": 1.62
+    "PP": 30.58,
+    "PSOE": 28.92,
+    "VOX": 18.24,
+    "SUMAR": 6.46,
+    "PODEMOS": 1.44,
+    "SALF": 1.59
    },
    "escanos": {
-    "PP": 130,
-    "PSOE": 117,
+    "PP": 129,
+    "PSOE": 118,
     "VOX": 65,
     "SUMAR": 8,
     "PODEMOS": 0
    },
-   "ppvox": 195,
+   "ppvox": 194,
    "probs": {
-    "pp_vox": 87.7,
+    "pp_vox": 86.8,
     "pp_solo": 0.0,
-    "psoe_bloque": 8.9,
-    "bloqueo": 3.4
+    "psoe_bloque": 10.0,
+    "bloqueo": 3.2
    },
-   "n_encuestas": 98
+   "n_encuestas": 100
   }
  ]
 }
