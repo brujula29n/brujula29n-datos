@@ -4,6 +4,26 @@
   "entradas": [
     {
       "fecha": "2026-11-21",
+      "titulo": "El PP exige una rectificación a Diana Morant por decir en un mitin que le habría gustado que Sánchez diera «cuatro bofetadas» a Feijóo en el debate",
+      "que": "En un acto del PSOE en Ontinyent (Valencia) el viernes, la secretaria general del PSOE valenciano dijo, sobre el cara a cara, que «a todos nos hubiese gustado que el presidente también le hubiese dado cuatro bofetadas bien dadas» y llamó a Feijóo «energúmeno». El PP calificó las palabras de «inaceptables» por «banalizar la violencia» y pidió una rectificación pública.",
+      "lectura": "Incidente verbal de campaña; a la hora de esta entrada no consta rectificación de Morant. Nivel B (20minutos y El Español)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        },
+        {
+          "id": "PP",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/morant-dice-nos-habria-gustado-sanchez-hubiera-pegado-cuatro-bofetadas-feijoo-pp-pide-rectificacion-inmediata_7064089_0.html",
+        "https://www.elespanol.com/espana/politica/20261121/diana-morant-dice-quedo-ganas-sanchez-diera-bofetadas-energumeno-feijoo/1003744467567_0.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-21",
       "titulo": "Sánchez anuncia que el Consejo de Ministros del martes prorrogará el impuesto a la banca hasta 2027 para destinar 1.400 millones a vivienda",
       "que": "En Onda Cero, Sánchez dice que el gravamen, que decae a final de año, se prorrogará al menos un año y que lo recaudado irá «íntegramente» a vivienda protegida, rehabilitación y bonificaciones a inquilinos. Según fuentes del Gobierno, alcanzaría para más de 6.000 viviendas asequibles, 52.000 rehabilitaciones y bonificaciones a casi 120.000 inquilinos. Si revalida el Gobierno, lo mantendría toda la legislatura.",
       "lectura": "Anuncio de campaña que se aprobará por decreto cinco días antes de las elecciones. Las cifras de viviendas son estimaciones del propio Gobierno. Nivel B (entrevista en Onda Cero, recogida por 20minutos y El Español)",
