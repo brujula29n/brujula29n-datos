@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19",
+  "actualizado": "2026-11-21",
   "eleccion": "2026-11-29",
   "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
   "hitos": [
@@ -248,10 +248,11 @@
     {
       "fecha": "2026-11-20",
       "titulo": "Consejo de Ministros extraordinario",
-      "detalle": "Convocado para aprobar medidas sociales pendientes, según ABC (fuentes gubernamentales); sin contenido adelantado.",
+      "detalle": "Aprobó los RDL 40/2026 (ciencia e I+D) y 41/2026 (comercio de emisiones) y el RD 1032/2026 (centros de datos), publicados en el BOE del 21-11.",
       "tipo": "politico",
-      "estado": "previsto",
+      "estado": "hecho",
       "src": [
+        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24437",
         "https://www.abc.es/espana/sanchez-pisa-acelerador-multiplica-consejos-ministros-sociales-20261110160032-nt.html"
       ]
     },
