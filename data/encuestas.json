@@ -54,15 +54,15 @@
   "media": {
     "nombre": "Media ponderada Brújula 29N",
     "metodo": "Media de las encuestas privadas con campo en los últimos 21 días, ponderada por tamaño muestral (raíz cuadrada) y antigüedad (semivida 10 días). El CIS se muestra aparte por su desviación sistemática documentada; los paneles online autoseleccionados ponderan a la mitad.",
-    "fecha": "2026-11-20",
+    "fecha": "2026-11-21",
     "pct": {
-      "PP": 30.49,
-      "PSOE": 28.67,
-      "VOX": 18.38,
-      "SUMAR": 6.49,
-      "PODEMOS": 1.49,
-      "SALF": 1.6,
-      "ERC": 2.6,
+      "PP": 30.52,
+      "PSOE": 28.78,
+      "VOX": 18.34,
+      "SUMAR": 6.45,
+      "PODEMOS": 1.47,
+      "SALF": 1.59,
+      "ERC": 2.59,
       "JUNTS": 1.3,
       "BILDU": 1.45,
       "PNV": 0.8,
@@ -3668,6 +3668,33 @@
       "esc_rango": "PP 135 (con UPN-PP) · PSOE 108 · Vox 63 · Frente Amplio 11 · Podemos 1 (el resto de escaños de la tabla repite los de 2023 y no se anota)",
       "nota": "Tracking publicado el 21-11; la cabecera de la ficha dice «4.º», igual que el del 20-11, pero el campo (17-20 nov) y la muestra (3.000) son distintos. Solapado con el anterior. Telefónico + online; margen de error ±1,8 %. PP 32,3 % incluye UPN-PP según la ficha (que lista además UPN-PP 0,3 %; se anota UPN 0,0). El texto da PSOE 26,6 % y Vox 19 %; se anotan los de la tabla. Frente Amplio con Compromís-FV y UPC. Adelante Andalucía 1,7 %. Datos tomados de la ficha de Electográfica.",
       "url": "https://www.electografica.com/2026/11/encuesta-data10-261121.html"
+    },
+    {
+      "casa": "40dB",
+      "medio": "El País / Cadena SER",
+      "tipo": "privada",
+      "campo_ini": "2026-11-17",
+      "campo_fin": "2026-11-21",
+      "n": 2000,
+      "pct": {
+        "PP": 31.9,
+        "PSOE": 31.6,
+        "VOX": 16.9,
+        "SUMAR": 5.1,
+        "PODEMOS": 1.0,
+        "SALF": 1.4,
+        "ERC": null,
+        "JUNTS": null,
+        "BILDU": null,
+        "PNV": null,
+        "BNG": null,
+        "CC": null,
+        "UPN": 0.0
+      },
+      "esc": null,
+      "esc_rango": "PP 125-136 (+2 UPN-PP) · PSOE 119-130 · Vox 49-59 · Frente Amplio 5-6 · Compromís 3 · UPC 0-1 · Ara Més 0-1 · Podemos 0-1 · ERC 11 · Bildu 7 · Junts 3 · PNV 3 · BNG 2 · CC 1",
+      "nota": "10.º tracking diario; campo (17-21 nov) solapado con los anteriores. Online; margen de error ±2,2 %. Frente Amplio 5,1 % suma Sumar 3,6 %, Compromís 1,2 % y UPC 0,3 % (sin Ara Més, 0,2 %); el resumen del gráfico da 5,3 % para FA + FV + UPC (pendiente de revisar). Podemos 1,0 % aparte. Escaños sin dato puntual: el texto (PP 131, PSOE 125, Vox 54) y el gráfico (PP 127-138) no coinciden con la tabla. La ficha no da el voto de ERC, Junts, Bildu, PNV, BNG ni CC. Datos tomados de la ficha de Electográfica.",
+      "url": "https://www.electografica.com/2026/11/encuesta-40db-261121.html"
     }
   ]
 }

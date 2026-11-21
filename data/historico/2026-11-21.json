@@ -2,13 +2,13 @@
  "fecha": "2026-11-21",
  "media": {
   "pct": {
-   "PP": 30.49,
-   "PSOE": 28.67,
-   "VOX": 18.38,
-   "SUMAR": 6.49,
-   "PODEMOS": 1.49,
-   "SALF": 1.6,
-   "ERC": 2.6,
+   "PP": 30.52,
+   "PSOE": 28.78,
+   "VOX": 18.34,
+   "SUMAR": 6.45,
+   "PODEMOS": 1.47,
+   "SALF": 1.59,
+   "ERC": 2.59,
    "JUNTS": 1.3,
    "BILDU": 1.45,
    "PNV": 0.8,
@@ -16,7 +16,7 @@
    "CC": 0.38,
    "UPN": 0.05
   },
-  "ref": "2026-11-20",
+  "ref": "2026-11-21",
   "casas": [
    "40dB",
    "Ateneo del Dato",
@@ -37,13 +37,13 @@
    "Winston",
    "YouGov"
   ],
-  "n_encuestas": 96
+  "n_encuestas": 97
  },
  "escanos": {
-  "PP": 129,
+  "PP": 130,
   "PSOE": 117,
   "VOX": 65,
-  "SUMAR": 9,
+  "SUMAR": 8,
   "PODEMOS": 0,
   "SALF": 0,
   "ERC": 11,
@@ -65,11 +65,11 @@
   ],
   "VOX": [
    47,
-   82
+   81
   ],
   "SUMAR": [
    5,
-   18
+   17
   ],
   "PODEMOS": [
    0,
@@ -112,13 +112,13 @@
   "pp_vox": 87.5,
   "pp_solo": 0.0,
   "psoe_bloque": 9.1,
-  "bloqueo": 3.3
+  "bloqueo": 3.4
  },
  "probs_extra": {
   "ppvox": 87.5,
   "bloque": 9.1,
-  "bloque_sin_junts": 4.8,
-  "pp_first": 66.0
+  "bloque_sin_junts": 4.7,
+  "pp_first": 65.1
  },
  "semaforo_esp": {
   "S1": 1,
@@ -188,6 +188,7 @@
   "40dB 2026-11-18",
   "40dB 2026-11-19",
   "40dB 2026-11-20",
+  "40dB 2026-11-21",
   "Ateneo del Dato 2026-10-01",
   "Ateneo del Dato 2026-10-22",
   "Ateneo del Dato 2026-11-05",
@@ -272,6 +273,10 @@
   "YouGov 2026-11-02"
  ],
  "cambios": [
+  {
+   "tipo": "encuesta",
+   "texto": "Nueva encuesta: 40dB 2026-11-21."
+  },
   {
    "tipo": "encuesta",
    "texto": "Nueva encuesta: Sondaxe 2026-11-19."

@@ -6,6 +6,11 @@
    "items": [
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: 40dB 2026-11-21.",
+     "texto_en": "New poll: 40dB 2026-11-21."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: Sondaxe 2026-11-19.",
      "texto_en": "New poll: Sondaxe 2026-11-19."
     },
@@ -2166,28 +2171,28 @@
   {
    "fecha": "2026-11-21",
    "media": {
-    "PP": 30.49,
-    "PSOE": 28.67,
-    "VOX": 18.38,
-    "SUMAR": 6.49,
-    "PODEMOS": 1.49,
-    "SALF": 1.6
+    "PP": 30.52,
+    "PSOE": 28.78,
+    "VOX": 18.34,
+    "SUMAR": 6.45,
+    "PODEMOS": 1.47,
+    "SALF": 1.59
    },
    "escanos": {
-    "PP": 129,
+    "PP": 130,
     "PSOE": 117,
     "VOX": 65,
-    "SUMAR": 9,
+    "SUMAR": 8,
     "PODEMOS": 0
    },
-   "ppvox": 194,
+   "ppvox": 195,
    "probs": {
     "pp_vox": 87.5,
     "pp_solo": 0.0,
     "psoe_bloque": 9.1,
-    "bloqueo": 3.3
+    "bloqueo": 3.4
    },
-   "n_encuestas": 96
+   "n_encuestas": 97
   }
  ]
 }
