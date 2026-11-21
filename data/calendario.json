@@ -265,6 +265,16 @@
       "src": "https://www.abc.es/espana/juez-investiga-rescate-air-europa-cita-vicepresidenta-20261007130026-nt.html"
     },
     {
+      "fecha": "2026-11-24",
+      "titulo": "Último Consejo de Ministros antes de las elecciones",
+      "detalle": "Según Sánchez, aprobará la prórroga del impuesto a la banca hasta 2027.",
+      "tipo": "politico",
+      "estado": "previsto",
+      "src": [
+        "https://www.20minutos.es/nacional/sanchez-anuncia-que-consejo-ministros-prorrogara-impuesto-banca-hasta-2027-1-400-millones-que-se-destinen-vivienda_7063963_0.html"
+      ]
+    },
+    {
       "fecha": "2026-11-26",
       "titulo": "Último día para DEPOSITAR el voto por correo",
       "detalle": "La JEC amplía el plazo un día: hasta las 14:00 del 26-11 en las oficinas de Correos (electores en España), con el visto bueno de Correos. El plazo general del art. 73 LOREG acababa el 25-11.",
