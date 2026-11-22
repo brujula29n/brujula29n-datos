@@ -5,6 +5,16 @@
    "fecha": "2026-11-22",
    "items": [
     {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: GAD3 2026-11-19.",
+     "texto_en": "New poll: GAD3 2026-11-19."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Ipsos 2026-11-20.",
+     "texto_en": "New poll: Ipsos 2026-11-20."
+    },
+    {
      "tipo": "programa",
      "texto": "Bildu publica su programa electoral.",
      "texto_en": "Bildu publishes its manifesto."
@@ -2191,28 +2201,28 @@
   {
    "fecha": "2026-11-22",
    "media": {
-    "PP": 30.58,
-    "PSOE": 28.92,
-    "VOX": 18.24,
-    "SUMAR": 6.46,
-    "PODEMOS": 1.44,
+    "PP": 30.59,
+    "PSOE": 28.93,
+    "VOX": 18.23,
+    "SUMAR": 6.47,
+    "PODEMOS": 1.43,
     "SALF": 1.59
    },
    "escanos": {
-    "PP": 129,
+    "PP": 128,
     "PSOE": 118,
     "VOX": 65,
-    "SUMAR": 8,
+    "SUMAR": 9,
     "PODEMOS": 0
    },
-   "ppvox": 194,
+   "ppvox": 193,
    "probs": {
-    "pp_vox": 86.8,
+    "pp_vox": 86.7,
     "pp_solo": 0.0,
-    "psoe_bloque": 10.0,
-    "bloqueo": 3.2
+    "psoe_bloque": 10.2,
+    "bloqueo": 3.1
    },
-   "n_encuestas": 100
+   "n_encuestas": 102
   }
  ]
 }
