@@ -4,6 +4,23 @@
   "entradas": [
     {
       "fecha": "2026-11-22",
+      "titulo": "Sánchez, en «Salvados»: descarta un referéndum de autodeterminación en Cataluña y dice que Zapatero le aconseja en la campaña",
+      "que": "En la entrevista de laSexta, Sánchez afirma que no concedería un referéndum aunque necesite a los independentistas porque «no entra dentro del marco constitucional». Dice que Zapatero, investigado en la Audiencia Nacional por el caso Plus Ultra, le ayuda «de manera personal» sin participar en mítines, y sobre las causas de su esposa y su hermano: «No me queda más remedio que confiar en la justicia».",
+      "lectura": "Compromiso explícito sobre Cataluña que podrá contrastarse tras el 29N; en 2023 negó la amnistía y después la aprobó. Zapatero no tiene condena; la causa sigue abierta. Nivel B (entrevista en laSexta recogida por 20minutos y elDiario.es)",
+      "actores": [
+        {
+          "id": "PSOE",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://www.20minutos.es/nacional/pedro-sanchez-sobre-causas-judiciales-contra-mujer-hermano_7064343_0.html",
+        "https://www.20minutos.es/nacional/sanchez-vaticina-salvados-victoria-suelo-autoenganarme-mis-datos-tienen-muy-buena-pinta_7064352_0.html",
+        "https://www.eldiario.es/politica/pedro-sanchez-revela-salvados-zapatero-le-ayudando-aconsejando-campana-electoral_1_13683140.html"
+      ]
+    },
+    {
+      "fecha": "2026-11-22",
       "titulo": "EH Bildu publica su programa: jornada de 32 horas, pensión mínima de 1.220 €, rechazo a la OTAN y legislación penitenciaria ordinaria para todos los presos",
       "que": "El programa, en la web de la campaña de EH Bildu, propone además topar al 2 % la subida anual del alquiler, un impuesto permanente a las energéticas, reconocer Euskal Herria como nación con derecho a decidir y derogar la Ley de Secretos Oficiales y la Ley Mordaza.",
       "lectura": "Varias propuestas (reformas del Código Penal, del artículo 135 de la Constitución y del encaje territorial) requieren mayorías amplias en las Cortes. Nivel A (programa de EH Bildu; recogido por El Español)",
