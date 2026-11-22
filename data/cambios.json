@@ -6,13 +6,33 @@
    "items": [
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: DYM 2026-11-19.",
+     "texto_en": "New poll: DYM 2026-11-19."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Data10 2026-11-21.",
+     "texto_en": "New poll: Data10 2026-11-21."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: GAD3 2026-11-19.",
      "texto_en": "New poll: GAD3 2026-11-19."
     },
     {
      "tipo": "encuesta",
+     "texto": "Nueva encuesta: Hamalgama Métrica 2026-11-20.",
+     "texto_en": "New poll: Hamalgama Métrica 2026-11-20."
+    },
+    {
+     "tipo": "encuesta",
      "texto": "Nueva encuesta: Ipsos 2026-11-20.",
      "texto_en": "New poll: Ipsos 2026-11-20."
+    },
+    {
+     "tipo": "encuesta",
+     "texto": "Nueva encuesta: Sondaxe 2026-11-20.",
+     "texto_en": "New poll: Sondaxe 2026-11-20."
     },
     {
      "tipo": "programa",
@@ -2201,12 +2221,12 @@
   {
    "fecha": "2026-11-22",
    "media": {
-    "PP": 30.59,
-    "PSOE": 28.93,
-    "VOX": 18.23,
+    "PP": 30.66,
+    "PSOE": 28.81,
+    "VOX": 18.28,
     "SUMAR": 6.47,
-    "PODEMOS": 1.43,
-    "SALF": 1.59
+    "PODEMOS": 1.44,
+    "SALF": 1.57
    },
    "escanos": {
     "PP": 128,
@@ -2217,12 +2237,12 @@
    },
    "ppvox": 193,
    "probs": {
-    "pp_vox": 86.7,
+    "pp_vox": 87.5,
     "pp_solo": 0.0,
-    "psoe_bloque": 10.2,
+    "psoe_bloque": 9.4,
     "bloqueo": 3.1
    },
-   "n_encuestas": 102
+   "n_encuestas": 106
   }
  ]
 }
