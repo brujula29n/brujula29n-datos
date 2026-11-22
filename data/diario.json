@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-11-21",
+  "actualizado": "2026-11-22",
   "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
   "entradas": [
+    {
+      "fecha": "2026-11-22",
+      "titulo": "EH Bildu publica su programa: jornada de 32 horas, pensión mínima de 1.220 €, rechazo a la OTAN y legislación penitenciaria ordinaria para todos los presos",
+      "que": "El programa, en la web de la campaña de EH Bildu, propone además topar al 2 % la subida anual del alquiler, un impuesto permanente a las energéticas, reconocer Euskal Herria como nación con derecho a decidir y derogar la Ley de Secretos Oficiales y la Ley Mordaza.",
+      "lectura": "Varias propuestas (reformas del Código Penal, del artículo 135 de la Constitución y del encaje territorial) requieren mayorías amplias en las Cortes. Nivel A (programa de EH Bildu; recogido por El Español)",
+      "actores": [
+        {
+          "id": "BILDU",
+          "impacto": 0
+        }
+      ],
+      "src": [
+        "https://posibleegin.ehbildu.eus/es/programa/",
+        "https://www.elespanol.com/espana/20261122/bildu-pide-suprimir-delito-enaltecimiento-terrorismo-convertir-etarras-presos-comunes-excarcelarlos/1003744465006_0.html"
+      ]
+    },
     {
       "fecha": "2026-11-21",
       "titulo": "Exministros del primer Gobierno de Felipe González piden el voto para Sánchez y Bono reprocha a González su anunciado voto en blanco",

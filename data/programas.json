@@ -1,6 +1,6 @@
 {
   "actualizado": "2026-11-18",
-  "nota": "Desde el 10 de noviembre el PP, desde el 12 Vox, desde el 15 el PSOE y desde el 16 el Frente Amplio (casilla SUMAR) y desde el 17 Podemos tienen programa publicado (se enlaza el PDF); el resto de partidos no; las entradas son posiciones anunciadas (B/C) recogidas de actos, declaraciones y votaciones. Cuando se publique el programa, 'estado' pasa a 'programa' y se enlaza el PDF en 'programas_publicados'. 'coste' y 'viable' se rellenan cuando haya memoria económica o evaluación independiente (AIReF, Banco de España, Fedea u otros) y quedan en null hasta entonces.",
+  "nota": "Desde el 10 de noviembre el PP, desde el 12 Vox, desde el 15 el PSOE y desde el 16 el Frente Amplio (casilla SUMAR) desde el 17 Podemos y desde el 22 EH Bildu tienen programa publicado (se enlaza el PDF); el resto de partidos no; las entradas son posiciones anunciadas (B/C) recogidas de actos, declaraciones y votaciones. Cuando se publique el programa, 'estado' pasa a 'programa' y se enlaza el PDF en 'programas_publicados'. 'coste' y 'viable' se rellenan cuando haya memoria económica o evaluación independiente (AIReF, Banco de España, Fedea u otros) y quedan en null hasta entonces.",
   "estados": {
     "programa": "Figura en el programa electoral publicado (se enlaza)",
     "anunciado": "Anunciado públicamente por el líder o la dirección, sin programa",
@@ -62,8 +62,8 @@
       "fecha": null
     },
     "BILDU": {
-      "url": null,
-      "fecha": null
+      "url": "https://posibleegin.ehbildu.eus/es/programa/",
+      "fecha": "2026-11-22"
     },
     "PNV": {
       "url": null,
@@ -158,11 +158,11 @@
           "viable": null
         },
         "BILDU": {
-          "resumen": "Vivienda como derecho, límite a pisos turísticos, parque público; votó a favor de los decretos.",
-          "estado": "votado",
-          "ev": "B",
+          "resumen": "Prohibición permanente de desahucios de vulnerables sin alternativa, tope del 2 % a la actualización anual del alquiler y prórroga automática de contratos.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"
+            "https://posibleegin.ehbildu.eus/es/programa/"
           ],
           "coste": null,
           "viable": null
@@ -266,11 +266,11 @@
           "viable": null
         },
         "BILDU": {
-          "resumen": "Más impuestos a rentas altas; votó impuestos a banca y energéticas.",
-          "estado": "anunciado",
-          "ev": "C",
+          "resumen": "Impuesto permanente a energéticas, más carga a banca y grandes fortunas, nuevo impuesto a grandes distribuidoras alimentarias y derogar la reforma del artículo 135.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"
+            "https://posibleegin.ehbildu.eus/es/programa/"
           ],
           "coste": null,
           "viable": null
@@ -374,11 +374,11 @@
           "viable": null
         },
         "BILDU": {
-          "resumen": "Reducción de jornada y subidas del SMI; marco vasco de relaciones laborales.",
-          "estado": "votado",
-          "ev": "B",
+          "resumen": "Jornada de 32 horas o cuatro días sin rebaja salarial, SMI propio y despido improcedente de al menos 45 días.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"
+            "https://posibleegin.ehbildu.eus/es/programa/"
           ],
           "coste": null,
           "viable": null
@@ -478,11 +478,11 @@
           "viable": null
         },
         "BILDU": {
-          "resumen": "Pensión mínima de 1.080 € y revalorización con el IPC; votó la reforma de pensiones.",
-          "estado": "votado",
-          "ev": "B",
+          "resumen": "Pensión mínima de al menos 1.220 € ligada al SMI, viudedad y no contributivas +15 % y jubilación sin penalización con 40 años cotizados.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"
+            "https://posibleegin.ehbildu.eus/es/programa/"
           ],
           "coste": null,
           "viable": null
@@ -582,10 +582,12 @@
           "viable": null
         },
         "BILDU": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
+          "resumen": "Ampliar la cartera común (bucodental, óptica), derogar la Ley 15/1997 que permite la gestión privada y universalizar los cuidados limitando el ánimo de lucro.",
+          "estado": "programa",
+          "ev": "A",
+          "src": [
+            "https://posibleegin.ehbildu.eus/es/programa/"
+          ],
           "coste": null,
           "viable": null
         },
@@ -688,10 +690,12 @@
           "viable": null
         },
         "BILDU": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
+          "resumen": "Bajada de ratios y financiación educativa hasta acercarse progresivamente al 6 % fijado por la UNESCO.",
+          "estado": "programa",
+          "ev": "A",
+          "src": [
+            "https://posibleegin.ehbildu.eus/es/programa/"
+          ],
           "coste": null,
           "viable": null
         },
@@ -794,11 +798,11 @@
           "viable": null
         },
         "BILDU": {
-          "resumen": "Apoyo a la regularización; acogida desde Euskadi y Navarra.",
-          "estado": "votado",
-          "ev": "C",
+          "resumen": "Regularización efectiva, nueva Ley de Extranjería, rechazo a devoluciones sumarias y a los CIE, y competencias plenas de migración para Euskadi y Navarra.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"
+            "https://posibleegin.ehbildu.eus/es/programa/"
           ],
           "coste": null,
           "viable": null
@@ -900,10 +904,12 @@
           "viable": null
         },
         "BILDU": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
+          "resumen": "Acabar con la Ley Mordaza, sustituir las pelotas de goma y repliegue de las Fuerzas y Cuerpos de Seguridad del Estado de Euskadi y Navarra.",
+          "estado": "programa",
+          "ev": "A",
+          "src": [
+            "https://posibleegin.ehbildu.eus/es/programa/"
+          ],
           "coste": null,
           "viable": null
         },
@@ -1000,10 +1006,12 @@
           "viable": null
         },
         "BILDU": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
+          "resumen": "Adelantar la descarbonización al menos a 2045, reducir urgentemente los combustibles fósiles y mantener el calendario de cierre nuclear del PNIEC.",
+          "estado": "programa",
+          "ev": "A",
+          "src": [
+            "https://posibleegin.ehbildu.eus/es/programa/"
+          ],
           "coste": null,
           "viable": null
         },
@@ -1106,11 +1114,11 @@
           "viable": null
         },
         "BILDU": {
-          "resumen": "Nuevo estatus para Euskadi y Navarra por vía acordada.",
-          "estado": "anunciado",
-          "ev": "B",
+          "resumen": "Reconocer Euskal Herria como nación y su derecho a decidir, transferir las competencias pendientes y asumir Seguridad Social, puertos, aeropuertos y energía.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"
+            "https://posibleegin.ehbildu.eus/es/programa/"
           ],
           "coste": null,
           "viable": null
@@ -1214,10 +1222,12 @@
           "viable": null
         },
         "BILDU": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
+          "resumen": "Derogar la Ley de Secretos Oficiales, aplicar la legislación penitenciaria ordinaria a todos los presos y despenalizar las críticas a la Corona e instituciones.",
+          "estado": "programa",
+          "ev": "A",
+          "src": [
+            "https://posibleegin.ehbildu.eus/es/programa/"
+          ],
           "coste": null,
           "viable": null
         },
@@ -1320,11 +1330,11 @@
           "viable": null
         },
         "BILDU": {
-          "resumen": "Votó el embargo a Israel; contra el gasto militar.",
-          "estado": "votado",
-          "ev": "B",
+          "resumen": "Rechazo a la OTAN, cierre del campo de tiro de las Bardenas e impedir el uso de Rota y Morón por Estados Unidos.",
+          "estado": "programa",
+          "ev": "A",
           "src": [
-            "https://ultimahora.es/noticias/comunidades/2026/10/03/2721687/otegi-aboga-por-impulsar-politicas-publicas-antifascistas-desde-gobiernos-amplio-espectro.html"
+            "https://posibleegin.ehbildu.eus/es/programa/"
           ],
           "coste": null,
           "viable": null
