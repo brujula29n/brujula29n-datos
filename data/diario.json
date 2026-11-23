@@ -4,6 +4,26 @@
  "entradas": [
   {
    "fecha": "2026-11-23",
+   "titulo": "Feijóo fija sus «líneas rojas» para un pacto con Vox: las leyes de igualdad y los derechos LGTBI son «intocables»",
+   "que": "En Informativos Telecinco, el candidato del PP dice que negociaría con Vox en el marco de los acuerdos que rigen en cuatro comunidades y que no firmaría «nada fuera de la Constitución o los tratados de la UE». Sobre la «prioridad nacional», la define como un baremo para ayudas basado en criterios como el censo histórico y la renta.",
+   "lectura": "Primera delimitación explícita de Feijóo sobre un eventual pacto con Vox; los compromisos podrán contrastarse con cualquier acuerdo posterior. Nivel B (entrevista recogida por El Español y Europa Press)",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    },
+    {
+     "id": "VOX",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.elespanol.com/espana/politica/20261123/feijoo-franganillo-lineas-rojas-vox-leyes-igualdad-derechos-colectivo-lgtbi-intocables/1003744469467_0.html",
+    "https://www.europapress.es/nacional/noticia-feijoo-defiende-poder-pactar-vox-29n-avisa-son-intocables-leyes-igualdad-derechos-lgtbi-20261123221849.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-23",
    "titulo": "Felipe González responde a Bono que ya ha votado y que su voto es secreto: «Soy una persona seria, no como otros»",
    "que": "En Badajoz, el expresidente agradece con ironía el llamamiento de Bono («sé que él lo hace “pro bono”»), confirma que ya ha votado sin decir a quién y añade que, si explicara públicamente por qué no puede votar a este Gobierno, el PSOE perdería «millones de votos más».",
    "lectura": "Prolonga la disputa interna en el PSOE sobre su posición del voto en blanco, a seis días de las elecciones. Nivel B (declaraciones recogidas por 20minutos y El País)",
