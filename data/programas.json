@@ -1,1353 +1,1353 @@
 {
-  "actualizado": "2026-11-18",
-  "nota": "Desde el 10 de noviembre el PP, desde el 12 Vox, desde el 15 el PSOE y desde el 16 el Frente Amplio (casilla SUMAR) desde el 17 Podemos y desde el 22 EH Bildu tienen programa publicado (se enlaza el PDF); el resto de partidos no; las entradas son posiciones anunciadas (B/C) recogidas de actos, declaraciones y votaciones. Cuando se publique el programa, 'estado' pasa a 'programa' y se enlaza el PDF en 'programas_publicados'. 'coste' y 'viable' se rellenan cuando haya memoria económica o evaluación independiente (AIReF, Banco de España, Fedea u otros) y quedan en null hasta entonces.",
-  "estados": {
-    "programa": "Figura en el programa electoral publicado (se enlaza)",
-    "anunciado": "Anunciado públicamente por el líder o la dirección, sin programa",
-    "votado": "Posición acreditada por votación en el Congreso o por gestión de gobierno",
-    "sin_posicion": "No consta posición pública verificable"
+ "actualizado": "2026-11-18",
+ "nota": "Desde el 10 de noviembre el PP, desde el 12 Vox, desde el 15 el PSOE y desde el 16 el Frente Amplio (casilla SUMAR) desde el 17 Podemos y desde el 22 EH Bildu tienen programa publicado (se enlaza el PDF); el resto de partidos no; las entradas son posiciones anunciadas (B/C) recogidas de actos, declaraciones y votaciones. Cuando se publique el programa, 'estado' pasa a 'programa' y se enlaza el PDF en 'programas_publicados'. 'coste' y 'viable' se rellenan cuando haya memoria económica o evaluación independiente (AIReF, Banco de España, Fedea u otros) y quedan en null hasta entonces.",
+ "estados": {
+  "programa": "Figura en el programa electoral publicado (se enlaza)",
+  "anunciado": "Anunciado públicamente por el líder o la dirección, sin programa",
+  "votado": "Posición acreditada por votación en el Congreso o por gestión de gobierno",
+  "sin_posicion": "No consta posición pública verificable"
+ },
+ "huecos": [
+  "Programas formales: solo el del PP («La reconstrucción nacional», 249 medidas, presentado el 10-11; ocho medidas del documento se desvelarán en campaña). Frente Amplio presenta líder y hoja de ruta el 17 de octubre; Podemos celebra primarias el 14-15; PNV y Bildu no tienen candidato designado a 5 de octubre.",
+  "PP: el programa publicado no trae memoria económica ni cifra el coste de bajar el IRPF, del IVA 0 % en alimentos ni del millón de viviendas; la «Renta de Activación» que citan los medios no aparece en el texto leído.",
+  "Vox: no hay documento de 2026 con tipos de IRPF; las cifras conocidas (20 % hasta 60.000 €) son del programa de 2019 y pueden haber cambiado.",
+  "PSOE: no hay cifras fiscales nuevas; la jornada de 36 horas y el SMI al 60 % del salario medio proceden de un resumen de prensa (Forbes) sin documento del partido.",
+  "SALF: sin ninguna posición programática verificable para el 29N; se mantiene en 'sin_posicion' en todos los temas.",
+  "Junts, ERC, Bildu y PNV: posiciones en sanidad, educación, energía y defensa no localizadas más allá de declaraciones genéricas.",
+  "Sentido de voto nominal de los partidos pequeños en embargo a Israel, jornada laboral y decretos de vivienda: tomado de crónicas de prensa, pendiente de cotejar con el Diario de Sesiones."
+ ],
+ "partidos": [
+  "PP",
+  "PSOE",
+  "VOX",
+  "SUMAR",
+  "PODEMOS",
+  "SALF",
+  "JUNTS",
+  "ERC",
+  "BILDU",
+  "PNV"
+ ],
+ "programas_publicados": {
+  "PP": {
+   "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+   "fecha": "2026-11-10"
   },
-  "huecos": [
-    "Programas formales: solo el del PP («La reconstrucción nacional», 249 medidas, presentado el 10-11; ocho medidas del documento se desvelarán en campaña). Frente Amplio presenta líder y hoja de ruta el 17 de octubre; Podemos celebra primarias el 14-15; PNV y Bildu no tienen candidato designado a 5 de octubre.",
-    "PP: el programa publicado no trae memoria económica ni cifra el coste de bajar el IRPF, del IVA 0 % en alimentos ni del millón de viviendas; la «Renta de Activación» que citan los medios no aparece en el texto leído.",
-    "Vox: no hay documento de 2026 con tipos de IRPF; las cifras conocidas (20 % hasta 60.000 €) son del programa de 2019 y pueden haber cambiado.",
-    "PSOE: no hay cifras fiscales nuevas; la jornada de 36 horas y el SMI al 60 % del salario medio proceden de un resumen de prensa (Forbes) sin documento del partido.",
-    "SALF: sin ninguna posición programática verificable para el 29N; se mantiene en 'sin_posicion' en todos los temas.",
-    "Junts, ERC, Bildu y PNV: posiciones en sanidad, educación, energía y defensa no localizadas más allá de declaraciones genéricas.",
-    "Sentido de voto nominal de los partidos pequeños en embargo a Israel, jornada laboral y decretos de vivienda: tomado de crónicas de prensa, pendiente de cotejar con el Diario de Sesiones."
-  ],
-  "partidos": [
-    "PP",
-    "PSOE",
-    "VOX",
-    "SUMAR",
-    "PODEMOS",
-    "SALF",
-    "JUNTS",
-    "ERC",
-    "BILDU",
-    "PNV"
-  ],
-  "programas_publicados": {
+  "PSOE": {
+   "url": "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+   "fecha": "2026-11-15"
+  },
+  "VOX": {
+   "url": "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf",
+   "fecha": "2026-11-12"
+  },
+  "SUMAR": {
+   "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+   "fecha": "2026-11-16"
+  },
+  "PODEMOS": {
+   "url": "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+   "fecha": "2026-11-17"
+  },
+  "SALF": {
+   "url": null,
+   "fecha": null
+  },
+  "JUNTS": {
+   "url": null,
+   "fecha": null
+  },
+  "ERC": {
+   "url": null,
+   "fecha": null
+  },
+  "BILDU": {
+   "url": "https://posibleegin.ehbildu.eus/es/programa/",
+   "fecha": "2026-11-22"
+  },
+  "PNV": {
+   "url": null,
+   "fecha": null
+  }
+ },
+ "temas": [
+  {
+   "id": "vivienda",
+   "nombre": "Vivienda",
+   "pregunta": "¿Qué promete para que alquilar o comprar sea posible?",
+   "posiciones": {
     "PP": {
-      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
-      "fecha": "2026-11-10"
+     "resumen": "Un millón de viviendas, nueva Ley del Suelo, derogar la Ley de Vivienda, IVA del 4 % a jóvenes y desalojo de ocupas en 48 horas.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
+     ],
+     "coste": null,
+     "viable": null
     },
     "PSOE": {
-      "url": "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
-      "fecha": "2026-11-15"
+     "resumen": "1 % del PIB anual a vivienda, 100.000 pisos públicos estatales, impuesto a grandes tenedores, alquileres más largos y congelación de rentas abusivas.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+      "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
+     ],
+     "coste": null,
+     "viable": null
     },
     "VOX": {
-      "url": "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf",
-      "fecha": "2026-11-12"
+     "resumen": "Derogar la Ley de Vivienda, IVA 0 % y sin ITP en primera vivienda, «prioridad nacional» en vivienda protegida y desalojo okupa en 24 h.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
+     ],
+     "coste": null,
+     "viable": null
     },
     "SUMAR": {
-      "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
-      "fecha": "2026-11-16"
+     "resumen": "1 % del PIB para 1,5 millones de viviendas públicas en alquiler, rentas topadas al 25 % de ingresos, freno a pisos turísticos y desahucios.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
+     ],
+     "coste": null,
+     "viable": null
     },
     "PODEMOS": {
-      "url": "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
-      "fecha": "2026-11-17"
+     "resumen": "Bajar los alquileres un 40 %, contratos indefinidos, expropiación de uso a grandes tenedores y prohibir desahucios sin alternativa y la venta de vivienda pública.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+      "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
+     ],
+     "coste": null,
+     "viable": null
     },
     "SALF": {
-      "url": null,
-      "fecha": null
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
     },
     "JUNTS": {
-      "url": null,
-      "fecha": null
+     "resumen": "Competencias plenas para Cataluña; votó contra los decretos estatales de 2026.",
+     "estado": "votado",
+     "ev": "A",
+     "src": [
+      "https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/"
+     ],
+     "coste": null,
+     "viable": null
     },
     "ERC": {
-      "url": null,
-      "fecha": null
+     "resumen": "Mantener zonas tensionadas y regulación de alquileres; votó a favor de los decretos de 2026.",
+     "estado": "votado",
+     "ev": "A",
+     "src": [
+      "https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/"
+     ],
+     "coste": null,
+     "viable": null
     },
     "BILDU": {
-      "url": "https://posibleegin.ehbildu.eus/es/programa/",
-      "fecha": "2026-11-22"
+     "resumen": "Prohibición permanente de desahucios de vulnerables sin alternativa, tope del 2 % a la actualización anual del alquiler y prórroga automática de contratos.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://posibleegin.ehbildu.eus/es/programa/"
+     ],
+     "coste": null,
+     "viable": null
     },
     "PNV": {
-      "url": null,
-      "fecha": null
+     "resumen": "Votó sí a los decretos de 2026; gestión desde Euskadi.",
+     "estado": "votado",
+     "ev": "A",
+     "src": [
+      "https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/"
+     ],
+     "coste": null,
+     "viable": null
     }
+   }
   },
-  "temas": [
-    {
-      "id": "vivienda",
-      "nombre": "Vivienda",
-      "pregunta": "¿Qué promete para que alquilar o comprar sea posible?",
-      "posiciones": {
-        "PP": {
-          "resumen": "Un millón de viviendas, nueva Ley del Suelo, derogar la Ley de Vivienda, IVA del 4 % a jóvenes y desalojo de ocupas en 48 horas.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PSOE": {
-          "resumen": "1 % del PIB anual a vivienda, 100.000 pisos públicos estatales, impuesto a grandes tenedores, alquileres más largos y congelación de rentas abusivas.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
-            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "VOX": {
-          "resumen": "Derogar la Ley de Vivienda, IVA 0 % y sin ITP en primera vivienda, «prioridad nacional» en vivienda protegida y desalojo okupa en 24 h.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SUMAR": {
-          "resumen": "1 % del PIB para 1,5 millones de viviendas públicas en alquiler, rentas topadas al 25 % de ingresos, freno a pisos turísticos y desahucios.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
-            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PODEMOS": {
-          "resumen": "Bajar los alquileres un 40 %, contratos indefinidos, expropiación de uso a grandes tenedores y prohibir desahucios sin alternativa y la venta de vivienda pública.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
-            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SALF": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "JUNTS": {
-          "resumen": "Competencias plenas para Cataluña; votó contra los decretos estatales de 2026.",
-          "estado": "votado",
-          "ev": "A",
-          "src": [
-            "https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "ERC": {
-          "resumen": "Mantener zonas tensionadas y regulación de alquileres; votó a favor de los decretos de 2026.",
-          "estado": "votado",
-          "ev": "A",
-          "src": [
-            "https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "BILDU": {
-          "resumen": "Prohibición permanente de desahucios de vulnerables sin alternativa, tope del 2 % a la actualización anual del alquiler y prórroga automática de contratos.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://posibleegin.ehbildu.eus/es/programa/"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PNV": {
-          "resumen": "Votó sí a los decretos de 2026; gestión desde Euskadi.",
-          "estado": "votado",
-          "ev": "A",
-          "src": [
-            "https://www.infobae.com/espana/2026/10/02/del-si-del-pnv-al-no-de-junts-asi-han-votado-los-partidos-el-decreto-de-vivienda/"
-          ],
-          "coste": null,
-          "viable": null
-        }
-      }
+  {
+   "id": "impuestos",
+   "nombre": "Impuestos",
+   "pregunta": "¿Qué promete sobre lo que pagamos y quién lo paga?",
+   "posiciones": {
+    "PP": {
+     "resumen": "Bajar el IRPF a rentas medias y bajas, deflactar la tarifa, IRPF de jóvenes del 100 % al 25 % en cuatro años, IVA 0 % en alimentos básicos.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
+     ],
+     "coste": null,
+     "viable": null
     },
-    {
-      "id": "impuestos",
-      "nombre": "Impuestos",
-      "pregunta": "¿Qué promete sobre lo que pagamos y quién lo paga?",
-      "posiciones": {
-        "PP": {
-          "resumen": "Bajar el IRPF a rentas medias y bajas, deflactar la tarifa, IRPF de jóvenes del 100 % al 25 % en cuatro años, IVA 0 % en alimentos básicos.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PSOE": {
-          "resumen": "Tipo del 35 % a rentas del capital desde 300.000 €, tasa Tobin al 0,4 % y más impuestos a tecnológicas y viajes de lujo.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
-            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "VOX": {
-          "resumen": "Bajar IRPF (según hijos), IVA y Sociedades sin fijar tipos; cuota cero de autónomos bajo el SMI; gravamen a las remesas.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SUMAR": {
-          "resumen": "Tipo mínimo real del 20 % en Sociedades, impuesto a ultrarricos, herencias topadas en 10 millones, menos IRPF a salarios bajos e IVA reducido.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
-            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PODEMOS": {
-          "resumen": "Impuesto estatal permanente a grandes fortunas, impuesto sobre beneficios de eléctricas, impuesto a viviendas vacías y al flipping, IVA del 21 % a pisos turísticos.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
-            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SALF": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "JUNTS": {
-          "resumen": "Concierto económico o recaudación íntegra por Cataluña.",
-          "estado": "anunciado",
-          "ev": "B",
-          "src": [
-            "https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "ERC": {
-          "resumen": "Recaudación del IRPF por la Agencia Tributaria catalana; ordinalidad.",
-          "estado": "anunciado",
-          "ev": "B",
-          "src": [
-            "https://www.cope.es/emisoras/catalunya/noticias/gobierno-generalitat-pactan-financiacion-singular-generalizable-20250714_3184917.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "BILDU": {
-          "resumen": "Impuesto permanente a energéticas, más carga a banca y grandes fortunas, nuevo impuesto a grandes distribuidoras alimentarias y derogar la reforma del artículo 135.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://posibleegin.ehbildu.eus/es/programa/"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PNV": {
-          "resumen": "Defensa del concierto y el cupo; fiscalidad propia.",
-          "estado": "anunciado",
-          "ev": "B",
-          "src": [
-            "https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"
-          ],
-          "coste": null,
-          "viable": null
-        }
-      }
+    "PSOE": {
+     "resumen": "Tipo del 35 % a rentas del capital desde 300.000 €, tasa Tobin al 0,4 % y más impuestos a tecnológicas y viajes de lujo.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+      "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
+     ],
+     "coste": null,
+     "viable": null
     },
-    {
-      "id": "empleo_salarios",
-      "nombre": "Empleo y salarios",
-      "pregunta": "¿Qué promete sobre jornada, salario mínimo y empleo?",
-      "posiciones": {
-        "PP": {
-          "resumen": "Autónomos sin cuota el primer año y sin IVA si facturan menos de 85.000 €, cheque de formación, SMI exento de IRPF.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PSOE": {
-          "resumen": "Jornada de 37,5 horas y hacia 35 por convenio, SMI por ley sobre el 60 % del salario medio y reforma del despido improcedente.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
-            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "VOX": {
-          "resumen": "Derogar la reforma laboral del Gobierno, plan de reindustrialización y apoyo al turismo; no fija cifras de empleo ni de salarios.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SUMAR": {
-          "resumen": "Jornada de 37,5 horas ya y hacia 32 sin rebaja salarial, SMI por ley al 60 % del salario medio neto, plantillas en los consejos.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
-            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PODEMOS": {
-          "resumen": "SMI de 1.800 euros, jornada de 35 horas hacia 30 sin rebaja salarial, cárcel por horas extra impagadas y salarios ligados al IPC.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
-            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SALF": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "JUNTS": {
-          "resumen": "Votó contra la jornada de 37,5 h (sept. 2025).",
-          "estado": "votado",
-          "ev": "A",
-          "src": [
-            "https://www.eleconomista.es/economia/noticias/13538757/09/25/diaz-insistira-para-conseguir-la-reduccion-de-jornada-pero-no-concreta-plazos-para-aprobarla.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "ERC": {
-          "resumen": "Votó a favor de la jornada de 37,5 h.",
-          "estado": "votado",
-          "ev": "B",
-          "src": [
-            "https://www.mundiario.com/articulo/politica/junqueras-marca-perfil-frente-rufian-apuesta-sostener-sanchez-culminar-agenda-catalana/20260617005912390765.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "BILDU": {
-          "resumen": "Jornada de 32 horas o cuatro días sin rebaja salarial, SMI propio y despido improcedente de al menos 45 días.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://posibleegin.ehbildu.eus/es/programa/"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PNV": {
-          "resumen": "Traspaso de la gestión de prestaciones de desempleo (logrado en 2026); industria y FP.",
-          "estado": "votado",
-          "ev": "B",
-          "src": [
-            "https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"
-          ],
-          "coste": null,
-          "viable": null
-        }
-      }
+    "VOX": {
+     "resumen": "Bajar IRPF (según hijos), IVA y Sociedades sin fijar tipos; cuota cero de autónomos bajo el SMI; gravamen a las remesas.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
+     ],
+     "coste": null,
+     "viable": null
     },
-    {
-      "id": "pensiones",
-      "nombre": "Pensiones",
-      "pregunta": "¿Qué promete sobre la revalorización y el futuro del sistema?",
-      "posiciones": {
-        "PP": {
-          "resumen": "Reconstruir el Pacto de Toledo, mantener el poder adquisitivo con el IPC cada año y deducciones en el IRPF por jubilación activa.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PSOE": {
-          "resumen": "Blindar en la Constitución las pensiones y su subida con el IPC, reducir la brecha de género y elevar la de orfandad al 30 %.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
-            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "VOX": {
-          "resumen": "Sostenibilidad vía crecimiento, empleo y natalidad; el Estado cotiza por quien cuida de sus hijos. Sin cifras de revalorización.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SUMAR": {
-          "resumen": "Jubilación a los 65, revalorización con el IPC en la Constitución, pensión mínima igual al SMI y anticipada sin penalización tras 40 años cotizados.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
-            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PODEMOS": {
-          "resumen": "Jubilación ordinaria a los 63 años, pensión mínima igual al SMI y no contributiva al 80 %, sin penalización en jubilaciones anticipadas.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
-            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SALF": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "JUNTS": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "ERC": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "BILDU": {
-          "resumen": "Pensión mínima de al menos 1.220 € ligada al SMI, viudedad y no contributivas +15 % y jubilación sin penalización con 40 años cotizados.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://posibleegin.ehbildu.eus/es/programa/"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PNV": {
-          "resumen": "Traspaso del régimen económico de la Seguridad Social a Euskadi.",
-          "estado": "anunciado",
-          "ev": "B",
-          "src": [
-            "https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"
-          ],
-          "coste": null,
-          "viable": null
-        }
-      }
+    "SUMAR": {
+     "resumen": "Tipo mínimo real del 20 % en Sociedades, impuesto a ultrarricos, herencias topadas en 10 millones, menos IRPF a salarios bajos e IVA reducido.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
+     ],
+     "coste": null,
+     "viable": null
     },
-    {
-      "id": "sanidad",
-      "nombre": "Sanidad y dependencia",
-      "pregunta": "¿Qué promete sobre listas de espera, médicos y dependencia?",
-      "posiciones": {
-        "PP": {
-          "resumen": "Pacto de Estado por la Sanidad Pública, plan urgente contra las listas de espera y al menos 4.500 médicos más en Atención Primaria.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PSOE": {
-          "resumen": "Sanidad pública en torno al 7 % del PIB, fin de listas de espera, dentista público, psicólogo en 30 días y gestión directa preferente.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
-            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "VOX": {
-          "resumen": "Tarjeta sanitaria única, plan de listas de espera con colaboración público-privada; a extranjeros irregulares, solo urgencias graves.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SUMAR": {
-          "resumen": "Sanidad 100 % pública y de gestión directa con un suelo del 8 % del PIB; incorpora salud bucodental, visual, auditiva y mental.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
-            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PODEMOS": {
-          "resumen": "Derogar la Ley 15/1997 y prohibir la gestión privada; financiación hasta 2.900 euros por habitante (en torno al 8 % del PIB).",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
-            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SALF": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "JUNTS": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "ERC": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "BILDU": {
-          "resumen": "Ampliar la cartera común (bucodental, óptica), derogar la Ley 15/1997 que permite la gestión privada y universalizar los cuidados limitando el ánimo de lucro.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://posibleegin.ehbildu.eus/es/programa/"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PNV": {
-          "resumen": "Sanidad financiada con el concierto; defensa de Osakidetza.",
-          "estado": "anunciado",
-          "ev": "C",
-          "src": [
-            "https://www.publico.es/sociedad/sanidad/13-503-personas-han-muerto-listas-espera-dependencia-primeros-cinco-meses-2026-insoportable.html"
-          ],
-          "coste": null,
-          "viable": null
-        }
-      }
+    "PODEMOS": {
+     "resumen": "Impuesto estatal permanente a grandes fortunas, impuesto sobre beneficios de eléctricas, impuesto a viviendas vacías y al flipping, IVA del 21 % a pisos turísticos.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+      "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
+     ],
+     "coste": null,
+     "viable": null
     },
-    {
-      "id": "educacion",
-      "nombre": "Educación y juventud",
-      "pregunta": "¿Qué promete sobre aulas, FP, emancipación y natalidad?",
-      "posiciones": {
-        "PP": {
-          "resumen": "Sustituir la LOMLOE por un nuevo marco, libre elección de centro, conciertos de al menos seis años, más plazas de FP y refuerzo en lectura y cálculo.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PSOE": {
-          "resumen": "Educación universal de 0 a 3 años, más becas, límite de alumnos por aula, abandono escolar bajo el 10 % en 2030.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
-            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "VOX": {
-          "resumen": "Derogar la LOMLOE, currículo y EVAU únicos, educación en español, cupo por aula de alumnos de otras culturas y prohibir el burka.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SUMAR": {
-          "resumen": "Educación pública con el 7 % del PIB, gratuita de 0 años a la universidad, ratios menores y 200 euros mensuales por menor.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
-            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PODEMOS": {
-          "resumen": "Plazas públicas gratuitas de 0 a 3 años en cuatro años, universidad pública gratuita y fin de la privatización educativa.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
-            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SALF": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "JUNTS": {
-          "resumen": "Inmersión lingüística; competencia exclusiva catalana.",
-          "estado": "anunciado",
-          "ev": "C",
-          "src": [
-            "https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "ERC": {
-          "resumen": "Inmersión lingüística y universidad pública.",
-          "estado": "anunciado",
-          "ev": "C",
-          "src": [
-            "https://www.mundiario.com/articulo/politica/junqueras-marca-perfil-frente-rufian-apuesta-sostener-sanchez-culminar-agenda-catalana/20260617005912390765.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "BILDU": {
-          "resumen": "Bajada de ratios y financiación educativa hasta acercarse progresivamente al 6 % fijado por la UNESCO.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://posibleegin.ehbildu.eus/es/programa/"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PNV": {
-          "resumen": "Modelo educativo vasco (euskera); competencia propia.",
-          "estado": "anunciado",
-          "ev": "C",
-          "src": [
-            "https://www.magisnet.com/2026/01/el-abandono-escolar-baja-hasta-el-125-en-2025-un-nuevo-minimo-historico/"
-          ],
-          "coste": null,
-          "viable": null
-        }
-      }
+    "SALF": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
     },
-    {
-      "id": "inmigracion",
-      "nombre": "Inmigración",
-      "pregunta": "¿Qué promete sobre llegadas, regularización e integración?",
-      "posiciones": {
-        "PP": {
-          "resumen": "Autoridad migratoria única, visados por puntos, cupos anuales, prohibir por ley las regularizaciones masivas e identificar en siete días a quien entre irregularmente.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PSOE": {
-          "resumen": "Plan de Integración y Ciudadanía 2026-2030 con 500 millones iniciales, más vías legales de asilo y acogida reforzada.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
-            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "VOX": {
-          "resumen": "«Ni uno más»: prohibir regularizaciones, suprimir el arraigo, repatriar a irregulares, plan de «remigración» y devolver a los menores no acompañados.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SUMAR": {
-          "resumen": "Procedimiento estable y permanente de regularización, culminar la regularización extraordinaria de 2026, vías legales y seguras y Ley Integral Antirracismo.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
-            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PODEMOS": {
-          "resumen": "Derogar la Ley de Extranjería, cerrar los CIE y regularización permanente por arraigo sin exigir contrato de trabajo.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
-            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SALF": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "JUNTS": {
-          "resumen": "Competencias plenas de inmigración para Cataluña; catalán como requisito de arraigo.",
-          "estado": "votado",
-          "ev": "A",
-          "src": [
-            "https://www.moncloa.com/2026/08/27/gobierno-rechaza-competencias-inmigracion-cataluna-3422002"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "ERC": {
-          "resumen": "Gestión catalana de la acogida; apoyo a la regularización.",
-          "estado": "anunciado",
-          "ev": "C",
-          "src": [
-            "https://www.eldiario.es/politica/congreso-rechaza-ley-junts-psoe-traspaso-competencias-inmigracion-catalunya_1_12625754.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "BILDU": {
-          "resumen": "Regularización efectiva, nueva Ley de Extranjería, rechazo a devoluciones sumarias y a los CIE, y competencias plenas de migración para Euskadi y Navarra.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://posibleegin.ehbildu.eus/es/programa/"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PNV": {
-          "resumen": "Inmigración como necesidad demográfica; gestión autonómica de la acogida.",
-          "estado": "anunciado",
-          "ev": "C",
-          "src": [
-            "https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"
-          ],
-          "coste": null,
-          "viable": null
-        }
-      }
+    "JUNTS": {
+     "resumen": "Concierto económico o recaudación íntegra por Cataluña.",
+     "estado": "anunciado",
+     "ev": "B",
+     "src": [
+      "https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"
+     ],
+     "coste": null,
+     "viable": null
     },
-    {
-      "id": "seguridad",
-      "nombre": "Seguridad",
-      "pregunta": "¿Qué promete sobre delincuencia, fronteras y policía?",
-      "posiciones": {
-        "PP": {
-          "resumen": "Juicios rápidos contra la multirreincidencia, penas más duras por disturbios violentos, ampliar la prisión permanente revisable y expulsar a extranjeros condenados por delitos graves.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PSOE": {
-          "resumen": "Más Policía y Guardia Civil, plan nacional contra el narcotráfico, nueva ley en lugar de la de Seguridad Ciudadana y juicios rápidos contra la ocupación.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
-            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "VOX": {
-          "resumen": "Rebajar la edad penal, ampliar la prisión permanente revisable, más medios policiales, policía y Guardia Civil como profesión de riesgo.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SUMAR": {
-          "resumen": "Seguridad humana frente al discurso belicista; derogar por completo la Ley Mordaza y desmilitarizar la Guardia Civil.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
-            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PODEMOS": {
-          "resumen": "Derogar la Ley Mordaza, prohibir la infiltración policial en movimientos sociales y acabar con las «cloacas del Estado».",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
-            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SALF": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "JUNTS": {
-          "resumen": "Mossos con competencias plenas; expulsión de multirreincidentes.",
-          "estado": "anunciado",
-          "ev": "C",
-          "src": [
-            "https://www.moncloa.com/2026/08/27/gobierno-rechaza-competencias-inmigracion-cataluna-3422002"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "ERC": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "BILDU": {
-          "resumen": "Acabar con la Ley Mordaza, sustituir las pelotas de goma y repliegue de las Fuerzas y Cuerpos de Seguridad del Estado de Euskadi y Navarra.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://posibleegin.ehbildu.eus/es/programa/"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PNV": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        }
-      }
+    "ERC": {
+     "resumen": "Recaudación del IRPF por la Agencia Tributaria catalana; ordinalidad.",
+     "estado": "anunciado",
+     "ev": "B",
+     "src": [
+      "https://www.cope.es/emisoras/catalunya/noticias/gobierno-generalitat-pactan-financiacion-singular-generalizable-20250714_3184917.html"
+     ],
+     "coste": null,
+     "viable": null
     },
-    {
-      "id": "energia_clima",
-      "nombre": "Energía y clima",
-      "pregunta": "¿Qué promete sobre la factura, las nucleares y las renovables?",
-      "posiciones": {
-        "PP": {
-          "resumen": "Eliminar el calendario de cierre de Almaraz, suprimir el impuesto del 7 % a la generación eléctrica y crear una Tarifa Social Única.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PSOE": {
-          "resumen": "81 % de electricidad renovable en 2030, mantener el cierre nuclear hasta 2035, más almacenamiento y autoconsumo y despliegue del Plan Social para el Clima.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
-            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "VOX": {
-          "resumen": "Derogar el cierre nuclear y estudiar nuevas centrales, bajar impuestos eléctricos, revertir el Pacto Verde, el veto a la combustión y las ZBE.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SUMAR": {
-          "resumen": "3,5 % del PIB anual a la transición, comercializadora pública, recuperar las redes de distribución, tres horas de luz gratuita y cierre nuclear en calendario.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
-            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PODEMOS": {
-          "resumen": "Sistema eléctrico 100 % renovable, empresa pública con saltos hidroeléctricos recuperados, reforma del mercado eléctrico y cierre nuclear según calendario.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
-            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SALF": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "JUNTS": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "ERC": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "BILDU": {
-          "resumen": "Adelantar la descarbonización al menos a 2045, reducir urgentemente los combustibles fósiles y mantener el calendario de cierre nuclear del PNIEC.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://posibleegin.ehbildu.eus/es/programa/"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PNV": {
-          "resumen": "Industria y energía como prioridades; posición sobre nuclear no concretada.",
-          "estado": "anunciado",
-          "ev": "C",
-          "src": [
-            "https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"
-          ],
-          "coste": null,
-          "viable": null
-        }
-      }
+    "BILDU": {
+     "resumen": "Impuesto permanente a energéticas, más carga a banca y grandes fortunas, nuevo impuesto a grandes distribuidoras alimentarias y derogar la reforma del artículo 135.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://posibleegin.ehbildu.eus/es/programa/"
+     ],
+     "coste": null,
+     "viable": null
     },
-    {
-      "id": "territorial_cataluna",
-      "nombre": "Cataluña y modelo territorial",
-      "pregunta": "¿Qué promete sobre amnistía, financiación autonómica y traspasos?",
-      "posiciones": {
-        "PP": {
-          "resumen": "Derogar la Ley de Amnistía, financiación autonómica multilateral con fondo de nivelación transitorio y sin privilegios a cambio de apoyo político.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PSOE": {
-          "resumen": "Nuevo sistema de financiación autonómica, asunción parcial de 83.000 millones de deuda autonómica, Senado territorial y lenguas cooficiales en las Cortes.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
-            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "VOX": {
-          "resumen": "Recuperar la sedición, prohibir indultos por delitos contra la integridad territorial, ilegalizar partidos contra la unidad y ley de unidad de mercado.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SUMAR": {
-          "resumen": "República federal y plurinacional que regule el referéndum; financiación autonómica de federalismo social, condonación de deuda y prohibición del dumping fiscal.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
-            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PODEMOS": {
-          "resumen": "Proceso constituyente hacia una república plurinacional, con referéndum sobre monarquía o república.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
-            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SALF": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "JUNTS": {
-          "resumen": "Concierto económico, competencias de inmigración, catalán en la UE, referéndum, regreso de Puigdemont.",
-          "estado": "anunciado",
-          "ev": "B",
-          "src": [
-            "https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "ERC": {
-          "resumen": "Financiación singular con ordinalidad, IRPF recaudado por la ATC, condonación ampliada, referéndum acordado.",
-          "estado": "anunciado",
-          "ev": "B",
-          "src": [
-            "https://www.mundiario.com/articulo/politica/junqueras-marca-perfil-frente-rufian-apuesta-sostener-sanchez-culminar-agenda-catalana/20260617005912390765.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "BILDU": {
-          "resumen": "Reconocer Euskal Herria como nación y su derecho a decidir, transferir las competencias pendientes y asumir Seguridad Social, puertos, aeropuertos y energía.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://posibleegin.ehbildu.eus/es/programa/"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PNV": {
-          "resumen": "Cierre del Estatuto de Gernika (16 transferencias), Seguridad Social, nuevo estatus pactado.",
-          "estado": "anunciado",
-          "ev": "A",
-          "src": [
-            "https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"
-          ],
-          "coste": null,
-          "viable": null
-        }
-      }
-    },
-    {
-      "id": "instituciones_justicia",
-      "nombre": "Instituciones y justicia",
-      "pregunta": "¿Qué promete sobre CGPJ, fiscal general, RTVE, lobbies y corrupción?",
-      "posiciones": {
-        "PP": {
-          "resumen": "Fiscal general con mandato único de cinco años y cese si es procesado, nueva Ley del Indulto y prohibición de usarlo como contraprestación política.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PSOE": {
-          "resumen": "Fiscal General con mandato de cinco años desligado de la legislatura, más jueces y fiscales, Ley de Integridad Pública y Estrategia Nacional Anticorrupción.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
-            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "VOX": {
-          "resumen": "Jueces eligen a los doce vocales judiciales del CGPJ, reforma del Constitucional, agravar la malversación y que condenados por corrupción paguen con sus bienes.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SUMAR": {
-          "resumen": "Derogar la Ley Mordaza, agenda pública de reuniones con lobbies, democratizar el acceso a la judicatura y horizonte de república con Jefatura del Estado electa.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
-            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PODEMOS": {
-          "resumen": "Democratizar el acceso a la carrera judicial, dos debates electorales obligatorios en medios públicos y vetar contratos públicos a empresas corruptas.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
-            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SALF": {
-          "resumen": "Anticorrupción y libertad de expresión como líneas históricas; sin programa.",
-          "estado": "anunciado",
-          "ev": "C",
-          "src": [
-            "https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "JUNTS": {
-          "resumen": "Aplicación íntegra de la amnistía; 'el Estado está podrido institucionalmente'.",
-          "estado": "anunciado",
-          "ev": "B",
-          "src": [
-            "https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "ERC": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "BILDU": {
-          "resumen": "Derogar la Ley de Secretos Oficiales, aplicar la legislación penitenciaria ordinaria a todos los presos y despenalizar las críticas a la Corona e instituciones.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://posibleegin.ehbildu.eus/es/programa/"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PNV": {
-          "resumen": "Estabilidad y pactos de Estado.",
-          "estado": "anunciado",
-          "ev": "C",
-          "src": [
-            "https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"
-          ],
-          "coste": null,
-          "viable": null
-        }
-      }
-    },
-    {
-      "id": "defensa_exterior",
-      "nombre": "Defensa y política exterior",
-      "pregunta": "¿Qué promete sobre la OTAN, EE. UU., Gaza, Irán y Ucrania?",
-      "posiciones": {
-        "PP": {
-          "resumen": "Reforzar contingentes en la OTAN y el despliegue en Ceuta, Melilla y Canarias, e impulsar la industria de defensa (drones, antiaéreos, ciberdefensa).",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PSOE": {
-          "resumen": "Defensa ligada a la diplomacia y a la autonomía estratégica europea; modernizar las Fuerzas Armadas y reforzar inteligencia, vigilancia marítima y UME.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
-            "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "VOX": {
-          "resumen": "Más inversión en Defensa y sueldos militares, Fuerzas Armadas en la protección de fronteras, presión sobre Gibraltar y sanciones a Marruecos.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SUMAR": {
-          "resumen": "No al 5 % del PIB militar de la OTAN y recortar ese gasto; embargo permanente de armas a Israel; cooperación al 0,7 %.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
-            "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PODEMOS": {
-          "resumen": "Salir de la OTAN, cerrar las bases de EE. UU., rechazar el 5 % de gasto militar, neutralidad constitucional y embargo de armas a Israel.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
-            "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "SALF": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        },
-        "JUNTS": {
-          "resumen": "Catalán oficial en la UE como prioridad exterior.",
-          "estado": "anunciado",
-          "ev": "B",
-          "src": [
-            "https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "ERC": {
-          "resumen": "Votó el embargo a Israel; catalán en la UE.",
-          "estado": "votado",
-          "ev": "B",
-          "src": [
-            "https://www.infobae.com/espana/2025/10/08/el-congreso-convalida-el-decreto-del-embargo-de-armas-a-israel-con-el-apoyo-de-ultima-hora-de-podemos/"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "BILDU": {
-          "resumen": "Rechazo a la OTAN, cierre del campo de tiro de las Bardenas e impedir el uso de Rota y Morón por Estados Unidos.",
-          "estado": "programa",
-          "ev": "A",
-          "src": [
-            "https://posibleegin.ehbildu.eus/es/programa/"
-          ],
-          "coste": null,
-          "viable": null
-        },
-        "PNV": {
-          "resumen": null,
-          "estado": "sin_posicion",
-          "ev": null,
-          "src": [],
-          "coste": null,
-          "viable": null
-        }
-      }
+    "PNV": {
+     "resumen": "Defensa del concierto y el cupo; fiscalidad propia.",
+     "estado": "anunciado",
+     "ev": "B",
+     "src": [
+      "https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"
+     ],
+     "coste": null,
+     "viable": null
     }
-  ]
+   }
+  },
+  {
+   "id": "empleo_salarios",
+   "nombre": "Empleo y salarios",
+   "pregunta": "¿Qué promete sobre jornada, salario mínimo y empleo?",
+   "posiciones": {
+    "PP": {
+     "resumen": "Autónomos sin cuota el primer año y sin IVA si facturan menos de 85.000 €, cheque de formación, SMI exento de IRPF.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PSOE": {
+     "resumen": "Jornada de 37,5 horas y hacia 35 por convenio, SMI por ley sobre el 60 % del salario medio y reforma del despido improcedente.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+      "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "VOX": {
+     "resumen": "Derogar la reforma laboral del Gobierno, plan de reindustrialización y apoyo al turismo; no fija cifras de empleo ni de salarios.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SUMAR": {
+     "resumen": "Jornada de 37,5 horas ya y hacia 32 sin rebaja salarial, SMI por ley al 60 % del salario medio neto, plantillas en los consejos.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PODEMOS": {
+     "resumen": "SMI de 1.800 euros, jornada de 35 horas hacia 30 sin rebaja salarial, cárcel por horas extra impagadas y salarios ligados al IPC.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+      "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SALF": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "JUNTS": {
+     "resumen": "Votó contra la jornada de 37,5 h (sept. 2025).",
+     "estado": "votado",
+     "ev": "A",
+     "src": [
+      "https://www.eleconomista.es/economia/noticias/13538757/09/25/diaz-insistira-para-conseguir-la-reduccion-de-jornada-pero-no-concreta-plazos-para-aprobarla.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "ERC": {
+     "resumen": "Votó a favor de la jornada de 37,5 h.",
+     "estado": "votado",
+     "ev": "B",
+     "src": [
+      "https://www.mundiario.com/articulo/politica/junqueras-marca-perfil-frente-rufian-apuesta-sostener-sanchez-culminar-agenda-catalana/20260617005912390765.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "BILDU": {
+     "resumen": "Jornada de 32 horas o cuatro días sin rebaja salarial, SMI propio y despido improcedente de al menos 45 días.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://posibleegin.ehbildu.eus/es/programa/"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PNV": {
+     "resumen": "Traspaso de la gestión de prestaciones de desempleo (logrado en 2026); industria y FP.",
+     "estado": "votado",
+     "ev": "B",
+     "src": [
+      "https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"
+     ],
+     "coste": null,
+     "viable": null
+    }
+   }
+  },
+  {
+   "id": "pensiones",
+   "nombre": "Pensiones",
+   "pregunta": "¿Qué promete sobre la revalorización y el futuro del sistema?",
+   "posiciones": {
+    "PP": {
+     "resumen": "Reconstruir el Pacto de Toledo, mantener el poder adquisitivo con el IPC cada año y deducciones en el IRPF por jubilación activa.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PSOE": {
+     "resumen": "Blindar en la Constitución las pensiones y su subida con el IPC, reducir la brecha de género y elevar la de orfandad al 30 %.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+      "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "VOX": {
+     "resumen": "Sostenibilidad vía crecimiento, empleo y natalidad; el Estado cotiza por quien cuida de sus hijos. Sin cifras de revalorización.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SUMAR": {
+     "resumen": "Jubilación a los 65, revalorización con el IPC en la Constitución, pensión mínima igual al SMI y anticipada sin penalización tras 40 años cotizados.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PODEMOS": {
+     "resumen": "Jubilación ordinaria a los 63 años, pensión mínima igual al SMI y no contributiva al 80 %, sin penalización en jubilaciones anticipadas.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+      "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SALF": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "JUNTS": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "ERC": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "BILDU": {
+     "resumen": "Pensión mínima de al menos 1.220 € ligada al SMI, viudedad y no contributivas +15 % y jubilación sin penalización con 40 años cotizados.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://posibleegin.ehbildu.eus/es/programa/"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PNV": {
+     "resumen": "Traspaso del régimen económico de la Seguridad Social a Euskadi.",
+     "estado": "anunciado",
+     "ev": "B",
+     "src": [
+      "https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"
+     ],
+     "coste": null,
+     "viable": null
+    }
+   }
+  },
+  {
+   "id": "sanidad",
+   "nombre": "Sanidad y dependencia",
+   "pregunta": "¿Qué promete sobre listas de espera, médicos y dependencia?",
+   "posiciones": {
+    "PP": {
+     "resumen": "Pacto de Estado por la Sanidad Pública, plan urgente contra las listas de espera y al menos 4.500 médicos más en Atención Primaria.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PSOE": {
+     "resumen": "Sanidad pública en torno al 7 % del PIB, fin de listas de espera, dentista público, psicólogo en 30 días y gestión directa preferente.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+      "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "VOX": {
+     "resumen": "Tarjeta sanitaria única, plan de listas de espera con colaboración público-privada; a extranjeros irregulares, solo urgencias graves.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SUMAR": {
+     "resumen": "Sanidad 100 % pública y de gestión directa con un suelo del 8 % del PIB; incorpora salud bucodental, visual, auditiva y mental.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PODEMOS": {
+     "resumen": "Derogar la Ley 15/1997 y prohibir la gestión privada; financiación hasta 2.900 euros por habitante (en torno al 8 % del PIB).",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+      "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SALF": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "JUNTS": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "ERC": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "BILDU": {
+     "resumen": "Ampliar la cartera común (bucodental, óptica), derogar la Ley 15/1997 que permite la gestión privada y universalizar los cuidados limitando el ánimo de lucro.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://posibleegin.ehbildu.eus/es/programa/"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PNV": {
+     "resumen": "Sanidad financiada con el concierto; defensa de Osakidetza.",
+     "estado": "anunciado",
+     "ev": "C",
+     "src": [
+      "https://www.publico.es/sociedad/sanidad/13-503-personas-han-muerto-listas-espera-dependencia-primeros-cinco-meses-2026-insoportable.html"
+     ],
+     "coste": null,
+     "viable": null
+    }
+   }
+  },
+  {
+   "id": "educacion",
+   "nombre": "Educación y juventud",
+   "pregunta": "¿Qué promete sobre aulas, FP, emancipación y natalidad?",
+   "posiciones": {
+    "PP": {
+     "resumen": "Sustituir la LOMLOE por un nuevo marco, libre elección de centro, conciertos de al menos seis años, más plazas de FP y refuerzo en lectura y cálculo.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PSOE": {
+     "resumen": "Educación universal de 0 a 3 años, más becas, límite de alumnos por aula, abandono escolar bajo el 10 % en 2030.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+      "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "VOX": {
+     "resumen": "Derogar la LOMLOE, currículo y EVAU únicos, educación en español, cupo por aula de alumnos de otras culturas y prohibir el burka.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SUMAR": {
+     "resumen": "Educación pública con el 7 % del PIB, gratuita de 0 años a la universidad, ratios menores y 200 euros mensuales por menor.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PODEMOS": {
+     "resumen": "Plazas públicas gratuitas de 0 a 3 años en cuatro años, universidad pública gratuita y fin de la privatización educativa.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+      "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SALF": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "JUNTS": {
+     "resumen": "Inmersión lingüística; competencia exclusiva catalana.",
+     "estado": "anunciado",
+     "ev": "C",
+     "src": [
+      "https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "ERC": {
+     "resumen": "Inmersión lingüística y universidad pública.",
+     "estado": "anunciado",
+     "ev": "C",
+     "src": [
+      "https://www.mundiario.com/articulo/politica/junqueras-marca-perfil-frente-rufian-apuesta-sostener-sanchez-culminar-agenda-catalana/20260617005912390765.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "BILDU": {
+     "resumen": "Bajada de ratios y financiación educativa hasta acercarse progresivamente al 6 % fijado por la UNESCO.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://posibleegin.ehbildu.eus/es/programa/"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PNV": {
+     "resumen": "Modelo educativo vasco (euskera); competencia propia.",
+     "estado": "anunciado",
+     "ev": "C",
+     "src": [
+      "https://www.magisnet.com/2026/01/el-abandono-escolar-baja-hasta-el-125-en-2025-un-nuevo-minimo-historico/"
+     ],
+     "coste": null,
+     "viable": null
+    }
+   }
+  },
+  {
+   "id": "inmigracion",
+   "nombre": "Inmigración",
+   "pregunta": "¿Qué promete sobre llegadas, regularización e integración?",
+   "posiciones": {
+    "PP": {
+     "resumen": "Autoridad migratoria única, visados por puntos, cupos anuales, prohibir por ley las regularizaciones masivas e identificar en siete días a quien entre irregularmente.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PSOE": {
+     "resumen": "Plan de Integración y Ciudadanía 2026-2030 con 500 millones iniciales, más vías legales de asilo y acogida reforzada.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+      "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "VOX": {
+     "resumen": "«Ni uno más»: prohibir regularizaciones, suprimir el arraigo, repatriar a irregulares, plan de «remigración» y devolver a los menores no acompañados.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SUMAR": {
+     "resumen": "Procedimiento estable y permanente de regularización, culminar la regularización extraordinaria de 2026, vías legales y seguras y Ley Integral Antirracismo.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PODEMOS": {
+     "resumen": "Derogar la Ley de Extranjería, cerrar los CIE y regularización permanente por arraigo sin exigir contrato de trabajo.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+      "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SALF": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "JUNTS": {
+     "resumen": "Competencias plenas de inmigración para Cataluña; catalán como requisito de arraigo.",
+     "estado": "votado",
+     "ev": "A",
+     "src": [
+      "https://www.moncloa.com/2026/08/27/gobierno-rechaza-competencias-inmigracion-cataluna-3422002"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "ERC": {
+     "resumen": "Gestión catalana de la acogida; apoyo a la regularización.",
+     "estado": "anunciado",
+     "ev": "C",
+     "src": [
+      "https://www.eldiario.es/politica/congreso-rechaza-ley-junts-psoe-traspaso-competencias-inmigracion-catalunya_1_12625754.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "BILDU": {
+     "resumen": "Regularización efectiva, nueva Ley de Extranjería, rechazo a devoluciones sumarias y a los CIE, y competencias plenas de migración para Euskadi y Navarra.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://posibleegin.ehbildu.eus/es/programa/"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PNV": {
+     "resumen": "Inmigración como necesidad demográfica; gestión autonómica de la acogida.",
+     "estado": "anunciado",
+     "ev": "C",
+     "src": [
+      "https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"
+     ],
+     "coste": null,
+     "viable": null
+    }
+   }
+  },
+  {
+   "id": "seguridad",
+   "nombre": "Seguridad",
+   "pregunta": "¿Qué promete sobre delincuencia, fronteras y policía?",
+   "posiciones": {
+    "PP": {
+     "resumen": "Juicios rápidos contra la multirreincidencia, penas más duras por disturbios violentos, ampliar la prisión permanente revisable y expulsar a extranjeros condenados por delitos graves.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PSOE": {
+     "resumen": "Más Policía y Guardia Civil, plan nacional contra el narcotráfico, nueva ley en lugar de la de Seguridad Ciudadana y juicios rápidos contra la ocupación.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+      "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "VOX": {
+     "resumen": "Rebajar la edad penal, ampliar la prisión permanente revisable, más medios policiales, policía y Guardia Civil como profesión de riesgo.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SUMAR": {
+     "resumen": "Seguridad humana frente al discurso belicista; derogar por completo la Ley Mordaza y desmilitarizar la Guardia Civil.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PODEMOS": {
+     "resumen": "Derogar la Ley Mordaza, prohibir la infiltración policial en movimientos sociales y acabar con las «cloacas del Estado».",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+      "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SALF": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "JUNTS": {
+     "resumen": "Mossos con competencias plenas; expulsión de multirreincidentes.",
+     "estado": "anunciado",
+     "ev": "C",
+     "src": [
+      "https://www.moncloa.com/2026/08/27/gobierno-rechaza-competencias-inmigracion-cataluna-3422002"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "ERC": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "BILDU": {
+     "resumen": "Acabar con la Ley Mordaza, sustituir las pelotas de goma y repliegue de las Fuerzas y Cuerpos de Seguridad del Estado de Euskadi y Navarra.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://posibleegin.ehbildu.eus/es/programa/"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PNV": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    }
+   }
+  },
+  {
+   "id": "energia_clima",
+   "nombre": "Energía y clima",
+   "pregunta": "¿Qué promete sobre la factura, las nucleares y las renovables?",
+   "posiciones": {
+    "PP": {
+     "resumen": "Eliminar el calendario de cierre de Almaraz, suprimir el impuesto del 7 % a la generación eléctrica y crear una Tarifa Social Única.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PSOE": {
+     "resumen": "81 % de electricidad renovable en 2030, mantener el cierre nuclear hasta 2035, más almacenamiento y autoconsumo y despliegue del Plan Social para el Clima.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+      "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "VOX": {
+     "resumen": "Derogar el cierre nuclear y estudiar nuevas centrales, bajar impuestos eléctricos, revertir el Pacto Verde, el veto a la combustión y las ZBE.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SUMAR": {
+     "resumen": "3,5 % del PIB anual a la transición, comercializadora pública, recuperar las redes de distribución, tres horas de luz gratuita y cierre nuclear en calendario.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PODEMOS": {
+     "resumen": "Sistema eléctrico 100 % renovable, empresa pública con saltos hidroeléctricos recuperados, reforma del mercado eléctrico y cierre nuclear según calendario.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+      "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SALF": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "JUNTS": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "ERC": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "BILDU": {
+     "resumen": "Adelantar la descarbonización al menos a 2045, reducir urgentemente los combustibles fósiles y mantener el calendario de cierre nuclear del PNIEC.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://posibleegin.ehbildu.eus/es/programa/"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PNV": {
+     "resumen": "Industria y energía como prioridades; posición sobre nuclear no concretada.",
+     "estado": "anunciado",
+     "ev": "C",
+     "src": [
+      "https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"
+     ],
+     "coste": null,
+     "viable": null
+    }
+   }
+  },
+  {
+   "id": "territorial_cataluna",
+   "nombre": "Cataluña y modelo territorial",
+   "pregunta": "¿Qué promete sobre amnistía, financiación autonómica y traspasos?",
+   "posiciones": {
+    "PP": {
+     "resumen": "Derogar la Ley de Amnistía, financiación autonómica multilateral con fondo de nivelación transitorio y sin privilegios a cambio de apoyo político.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PSOE": {
+     "resumen": "Nuevo sistema de financiación autonómica, asunción parcial de 83.000 millones de deuda autonómica, Senado territorial y lenguas cooficiales en las Cortes.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+      "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "VOX": {
+     "resumen": "Recuperar la sedición, prohibir indultos por delitos contra la integridad territorial, ilegalizar partidos contra la unidad y ley de unidad de mercado.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SUMAR": {
+     "resumen": "República federal y plurinacional que regule el referéndum; financiación autonómica de federalismo social, condonación de deuda y prohibición del dumping fiscal.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PODEMOS": {
+     "resumen": "Proceso constituyente hacia una república plurinacional, con referéndum sobre monarquía o república.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+      "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SALF": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "JUNTS": {
+     "resumen": "Concierto económico, competencias de inmigración, catalán en la UE, referéndum, regreso de Puigdemont.",
+     "estado": "anunciado",
+     "ev": "B",
+     "src": [
+      "https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "ERC": {
+     "resumen": "Financiación singular con ordinalidad, IRPF recaudado por la ATC, condonación ampliada, referéndum acordado.",
+     "estado": "anunciado",
+     "ev": "B",
+     "src": [
+      "https://www.mundiario.com/articulo/politica/junqueras-marca-perfil-frente-rufian-apuesta-sostener-sanchez-culminar-agenda-catalana/20260617005912390765.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "BILDU": {
+     "resumen": "Reconocer Euskal Herria como nación y su derecho a decidir, transferir las competencias pendientes y asumir Seguridad Social, puertos, aeropuertos y energía.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://posibleegin.ehbildu.eus/es/programa/"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PNV": {
+     "resumen": "Cierre del Estatuto de Gernika (16 transferencias), Seguridad Social, nuevo estatus pactado.",
+     "estado": "anunciado",
+     "ev": "A",
+     "src": [
+      "https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"
+     ],
+     "coste": null,
+     "viable": null
+    }
+   }
+  },
+  {
+   "id": "instituciones_justicia",
+   "nombre": "Instituciones y justicia",
+   "pregunta": "¿Qué promete sobre CGPJ, fiscal general, RTVE, lobbies y corrupción?",
+   "posiciones": {
+    "PP": {
+     "resumen": "Fiscal general con mandato único de cinco años y cese si es procesado, nueva Ley del Indulto y prohibición de usarlo como contraprestación política.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PSOE": {
+     "resumen": "Fiscal General con mandato de cinco años desligado de la legislatura, más jueces y fiscales, Ley de Integridad Pública y Estrategia Nacional Anticorrupción.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+      "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "VOX": {
+     "resumen": "Jueces eligen a los doce vocales judiciales del CGPJ, reforma del Constitucional, agravar la malversación y que condenados por corrupción paguen con sus bienes.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SUMAR": {
+     "resumen": "Derogar la Ley Mordaza, agenda pública de reuniones con lobbies, democratizar el acceso a la judicatura y horizonte de república con Jefatura del Estado electa.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PODEMOS": {
+     "resumen": "Democratizar el acceso a la carrera judicial, dos debates electorales obligatorios en medios públicos y vetar contratos públicos a empresas corruptas.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+      "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SALF": {
+     "resumen": "Anticorrupción y libertad de expresión como líneas históricas; sin programa.",
+     "estado": "anunciado",
+     "ev": "C",
+     "src": [
+      "https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "JUNTS": {
+     "resumen": "Aplicación íntegra de la amnistía; 'el Estado está podrido institucionalmente'.",
+     "estado": "anunciado",
+     "ev": "B",
+     "src": [
+      "https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "ERC": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "BILDU": {
+     "resumen": "Derogar la Ley de Secretos Oficiales, aplicar la legislación penitenciaria ordinaria a todos los presos y despenalizar las críticas a la Corona e instituciones.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://posibleegin.ehbildu.eus/es/programa/"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PNV": {
+     "resumen": "Estabilidad y pactos de Estado.",
+     "estado": "anunciado",
+     "ev": "C",
+     "src": [
+      "https://www.mundiario.com/articulo/economia/sanchez-abre-puerta-seguridad-social-pnv-sube-apuesta-blindar-legislatura/20260116083316370854.html"
+     ],
+     "coste": null,
+     "viable": null
+    }
+   }
+  },
+  {
+   "id": "defensa_exterior",
+   "nombre": "Defensa y política exterior",
+   "pregunta": "¿Qué promete sobre la OTAN, EE. UU., Gaza, Irán y Ucrania?",
+   "posiciones": {
+    "PP": {
+     "resumen": "Reforzar contingentes en la OTAN y el despliegue en Ceuta, Melilla y Canarias, e impulsar la industria de defensa (drones, antiaéreos, ciberdefensa).",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PSOE": {
+     "resumen": "Defensa ligada a la diplomacia y a la autonomía estratégica europea; modernizar las Fuerzas Armadas y reforzar inteligencia, vigilancia marítima y UME.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://static.eldiario.es/eldiario/public/content/file/original/2026/1115/15/programapsoe29n26.pdf",
+      "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/15/PROGRAMAPSOE29N26.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "VOX": {
+     "resumen": "Más inversión en Defensa y sueldos militares, Fuerzas Armadas en la protección de fronteras, presión sobre Gibraltar y sanciones a Marruecos.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.elindependiente.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SUMAR": {
+     "resumen": "No al 5 % del PIB militar de la OTAN y recortar ese gasto; embargo permanente de armas a Israel; cooperación al 0,7 %.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PODEMOS": {
+     "resumen": "Salir de la OTAN, cerrar las bases de EE. UU., rechazar el 5 % de gasto militar, neutralidad constitucional y embargo de armas a Israel.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://www.20minutos.es/uploads/files/2026/11/17/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+      "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "SALF": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    },
+    "JUNTS": {
+     "resumen": "Catalán oficial en la UE como prioridad exterior.",
+     "estado": "anunciado",
+     "ev": "B",
+     "src": [
+      "https://www.elplural.com/politica/espana/junts-rompe-definitivamente-gobierno-anuncia-bloqueo-total-legislatura-sanchez_364442102"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "ERC": {
+     "resumen": "Votó el embargo a Israel; catalán en la UE.",
+     "estado": "votado",
+     "ev": "B",
+     "src": [
+      "https://www.infobae.com/espana/2025/10/08/el-congreso-convalida-el-decreto-del-embargo-de-armas-a-israel-con-el-apoyo-de-ultima-hora-de-podemos/"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "BILDU": {
+     "resumen": "Rechazo a la OTAN, cierre del campo de tiro de las Bardenas e impedir el uso de Rota y Morón por Estados Unidos.",
+     "estado": "programa",
+     "ev": "A",
+     "src": [
+      "https://posibleegin.ehbildu.eus/es/programa/"
+     ],
+     "coste": null,
+     "viable": null
+    },
+    "PNV": {
+     "resumen": null,
+     "estado": "sin_posicion",
+     "ev": null,
+     "src": [],
+     "coste": null,
+     "viable": null
+    }
+   }
+  }
+ ]
 }

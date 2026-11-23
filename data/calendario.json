@@ -1,359 +1,359 @@
 {
-  "actualizado": "2026-11-21",
-  "eleccion": "2026-11-29",
-  "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
-  "hitos": [
-    {
-      "fecha": "2026-10-05",
-      "titulo": "Anuncio y Consejo de Ministros extraordinario",
-      "detalle": "Sánchez anuncia la disolución de las Cortes y fija las elecciones para el 29 de noviembre.",
-      "tipo": "politico",
-      "estado": "hecho",
-      "src": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/051026-sanchez-convocatoria-elecciones.aspx"
-    },
-    {
-      "fecha": "2026-10-06",
-      "titulo": "Publicación del Real Decreto en el BOE",
-      "detalle": "Disolución efectiva de Congreso y Senado; 350 diputados en 52 circunscripciones. Madrid pasa a 38 diputados y Cádiz a 8; el resto, igual que en 2023 (anexo del decreto). Arranca el plazo para solicitar el voto por correo.",
-      "tipo": "legal",
-      "estado": "hecho",
-      "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742"
-    },
-    {
-      "fecha": "2026-10-08",
-      "titulo": "El Supremo mantiene la suspensión del voto de los nacionalizados por la ley de nietos",
-      "detalle": "Auto del 12-10 (Sección Cuarta de lo Contencioso, con un voto particular): rechaza el recurso de la Abogacía del Estado y mantiene la cautelar para el 29-N. Excepción: quienes acrediten por certificación consular exilio de sus ascendientes. El Gobierno estudia si cabe recurso ante el Constitucional. Parte dispositiva publicada en el BOE del 15-10 (BOE-A-2026-21447 y 21448).",
-      "tipo": "legal",
-      "estado": "hecho",
-      "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21447"
-    },
-    {
-      "fecha": "2026-10-09",
-      "titulo": "El CGPJ designa los vocales judiciales de las Juntas Electorales Provinciales",
-      "detalle": "Acuerdo de la Comisión Permanente del CGPJ de 8 de octubre, publicado en el BOE del 9, que designa los vocales de procedencia judicial de las juntas provinciales para las elecciones a Cortes Generales.",
-      "tipo": "legal",
-      "estado": "hecho",
-      "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20981"
-    },
-    {
-      "fecha": "2026-10-14",
-      "titulo": "Primarias abiertas de Podemos (14-15 oct; resultados el 16 a las 12.00)",
-      "detalle": "En curso: votación del 14-10 (08.00) al 15-10 (24.00) con Irene Montero como aspirante; el ganador encabezaría Madrid. Resultados el 16-10 a las 12.00. Sumar/Frente Amplio no las aceptó como método.",
-      "tipo": "politico",
-      "estado": "hecho",
-      "src": "https://www.europapress.es/nacional/noticia-arranca-votaciones-primarias-impulsadas-podemos-irene-montero-aspirante-candidata-20261014102702.html"
-    },
-    {
-      "fecha": "2026-10-16",
-      "titulo": "Cierre del registro de coaliciones",
-      "detalle": "Cerrado el 16-10 a las 23.59 (art. 44.3 LOREG). Según la lista de la JEC recogida por 20minutos, se registraron nueve coaliciones: Frente Amplio (estatal, sin Podemos), Senado de Progreso (PSOE, IU, Sumar, Más Madrid, Compromís, Chunta, Batzarre), Democracia21 (con Ciudadanos y UCIN, Madrid y Barcelona), Unidad del Pueblo Canario, Compromís-Front Valencià, Coalición Existe, Coalición Canaria-Municipalistas Primero, Comuns-Front Ampli (Senado) y ERC-EH Bildu (Senado). Lista oficial de la JEC no leída directamente.",
-      "tipo": "legal",
-      "estado": "hecho",
-      "src": "https://www.20minutos.es/nacional/nueve-coaliciones-se-registran-ante-junta-electoral-para-las-elecciones-29n_7050027_0.html"
-    },
-    {
-      "fecha": "2026-10-16",
-      "titulo": "Primera reunión de la Diputación Permanente",
-      "detalle": "Según El Mundo, el orden del día no incluye la convalidación de los decretos de vivienda; el plazo para convalidarlos termina el 14 de noviembre.",
-      "tipo": "politico",
-      "estado": "hecho",
-      "src": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/07/6ac633b421efa0b7728b4593.html"
-    },
-    {
-      "fecha": "2026-10-17",
-      "titulo": "Frente Amplio elige cabeza de lista; primarias de ERC",
-      "detalle": "Yolanda Díaz no repite. El Frente Amplio (IU, Comuns, Más Madrid, Movimiento Sumar) propone a Ada Colau (12-10), que agradece la propuesta sin aceptar expresamente (13-10) y pide candidatura única; Emilio Delgado encabeza Madrid. ERC: Rufián encabeza la lista y pacta con Podemos (12-10). Pendiente: acuerdo con Podemos/ERC antes del cierre del registro (16-10).",
-      "tipo": "politico",
-      "estado": "hecho",
-      "src": "https://www.infobae.com/espana/2026/10/04/el-nuevo-sumar-elegira-a-su-lider-el-17-de-octubre-ante-el-posible-adelanto-electoral-estos-son-los-candidatos-en-las-quinielas/"
-    },
-    {
-      "fecha": "2026-10-19",
-      "titulo": "Fin de consulta y reclamaciones al censo (12-19 oct)",
-      "detalle": "Art. 39 LOREG. Se vota con el censo cerrado el 1 de agosto.",
-      "tipo": "legal",
-      "estado": "hecho",
-      "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
-    },
-    {
-      "fecha": "2026-10-26",
-      "titulo": "Fin del plazo de presentación de candidaturas (21-26 oct)",
-      "detalle": "Días 15.º a 20.º tras la convocatoria (art. 45). El plazo terminó a las 23:59 del 26-10 (elDiario.es); las listas definitivas las proclama la JEC.",
-      "tipo": "legal",
-      "estado": "hecho",
-      "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
-    },
-    {
-      "fecha": "2026-10-28",
-      "titulo": "Publicación de candidaturas presentadas",
-      "detalle": "El BOE del 28-10 publicó las candidaturas presentadas al Congreso y al Senado (BOE-A-2026-22607). Las candidaturas definitivas se proclaman después.",
-      "tipo": "legal",
-      "estado": "hecho",
-      "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22607"
-    },
-    {
-      "fecha": "2026-10-29",
-      "titulo": "Instrucción 2/2026 de la JEC sobre espacios gratuitos de propaganda electoral",
-      "detalle": "Publicada en el BOE núm. 269: regula la distribución de espacios gratuitos en medios públicos y delega en las Juntas Provinciales las competencias del art. 65.5 LOREG.",
-      "tipo": "legal",
-      "estado": "hecho",
-      "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22695"
-    },
-    {
-      "fecha": "2026-10-31",
-      "titulo": "Sorteos de las mesas electorales (31-oct a 4-nov)",
-      "detalle": "Según el Ministerio del Interior, citado por 20minutos, los sorteos de presidentes y vocales se celebran entre el 31 de octubre y el 4 de noviembre; las notificaciones incluyen el manual aprobado el 27-10 (900.000 ejemplares). Los miembros de las mesas deben presentarse a las 8:00 del 29-N.",
-      "tipo": "legal",
-      "estado": "hecho",
-      "src": "https://www.20minutos.es/nacional/gobierno-aprueba-manual-las-mesas-electorales-29n-los-sorteos-comenzaran-este-sabado_7054188_0.html"
-    },
-    {
-      "fecha": "2026-11-02",
-      "titulo": "Proclamación de candidaturas",
-      "detalle": "Las Juntas Electorales Provinciales proclamaron las candidaturas el 2-11 y se publicaron en el BOE núm. 273 del 3-11 (BOE-A-2026-23103, 225 páginas). Sorteo de mesas electorales entre el 31 de octubre y el 4 de noviembre. El BOE del 7-11 publica una corrección de errores de las candidaturas (BOE-A-2026-23383), que afecta a la candidatura de EH Bildu-ERC y a la de Frente Amplio-Fronte Zabala.",
-      "tipo": "legal",
-      "estado": "hecho",
-      "src": [
-        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103",
-        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23383"
-      ]
-    },
-    {
-      "fecha": "2026-11-03",
-      "titulo": "Comparecencia de Puente en la Diputación Permanente (17:00)",
-      "detalle": "Según Europa Press (fuentes parlamentarias), el ministro comparece por el accidente de Urda.",
-      "tipo": "politico",
-      "estado": "hecho",
-      "src": "https://www.europapress.es/economia/transportes-00343/noticia-congreso-pone-fecha-comparecencia-puente-accidente-urda-noviembre-20261029180346.html"
-    },
-    {
-      "fecha": "2026-11-04",
-      "titulo": "Comisión de Radio y Televisión de la JEC: reparto de espacios gratuitos acordado",
-      "detalle": "La JEC acordó el 4-11 la distribución de espacios gratuitos de propaganda en medios públicos (BOE-A-2026-23258, 5-11). Recursos hasta las 14:00 del 6-11; alegaciones hasta las 10:00 del 10-11.",
-      "tipo": "campana",
-      "estado": "hecho",
-      "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23258"
-    },
-    {
-      "fecha": "2026-11-09",
-      "titulo": "Comienza el envío de documentación del voto por correo",
-      "detalle": "Correos empieza a entregar las papeletas a quien lo haya solicitado.",
-      "tipo": "voto",
-      "estado": "previsto",
-      "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
-    },
-    {
-      "fecha": "2026-11-09",
-      "titulo": "Entrevista a Abascal en «La Revuelta» (TVE, 21:45)",
-      "detalle": "Emisión prevista el lunes 9-11, según 20minutos; el público no será el habitual del programa, según Vertele citado por ese diario.",
-      "tipo": "politico",
-      "estado": "hecho",
-      "src": [
-        "https://www.20minutos.es/nacional/broncano-recibe-abascal-revuelta-todo-sabe-entrevista-gobierno-lleva-dias-calentando_7058750_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-11-10",
-      "titulo": "El PP presenta su programa electoral para las generales",
-      "detalle": "Feijóo y Alma Ezcurra presentaron en Madrid un programa de 249 medidas, según ABC y 20minutos. El documento oficial no está localizado aún.",
-      "tipo": "campana",
-      "estado": "hecho",
-      "src": [
-        "https://www.europapress.es/nacional/noticia-feijoo-elige-cambio-necesario-lema-campana-generales-arrancara-jueves-12-badalona-20261106130929.html",
-        "https://www.abc.es/espana/feijoo-presenta-programa-pp-hare-sanchismo-derechas-20261110140530-nt.html"
-      ]
-    },
-    {
-      "fecha": "2026-11-10",
-      "titulo": "Comisión Interministerial de Inmigración (Moncloa)",
-      "detalle": "Reunida con el presidente de Canarias y el del Cabildo de El Hierro: acordó declarar la emergencia migratoria (unos 15 millones de euros), según 20minutos y El Español.",
-      "tipo": "politico",
-      "estado": "hecho",
-      "src": [
-        "https://www.elespanol.com/espana/politica/20261107/sanchez-reune-comision-inmigracion-abordar-crisis-migratoria-canarias-llegada-migrantes/1003744450211_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-11-10",
-      "titulo": "Funeral por las 69 víctimas de Urda en la catedral de Toledo (19:00)",
-      "detalle": "Presidido por el arzobispo de Toledo, con los Reyes, Page, el Gobierno representado por Carlos Cuerpo y Milagros Tolón y Feijóo; Sánchez no asiste, según 20minutos.",
-      "tipo": "politico",
-      "estado": "hecho",
-      "src": [
-        "https://www.20minutos.es/nacional/los-reyes-asisten-hoy-misa-funeral-toledo-por-las-69-victimas-accidente-urda-sin-presencia-sanchez_7058805_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-11-11",
-      "titulo": "Huelga general por la vivienda",
-      "detalle": "Fecha confirmada por UGT (Pepe Álvarez) y propuesta por la Confederación de Sindicatos de Inquilinas; dos días antes del inicio de la campaña. El BOE del 7-11 publica la Orden TED/1180/2026 de servicios mínimos para el suministro eléctrico ante la huelga general del 11-11 convocada por CGT, Intersindical, CCOO y UGT (de 0:00 a 24:00).",
-      "tipo": "politico",
-      "estado": "hecho",
-      "src": [
-        "https://www.20minutos.es/nacional/los-sindicatos-inquilinas-proponen-11-noviembre-para-celebrar-huelga-general-por-vivienda_7045934_0.html",
-        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23371"
-      ]
-    },
-    {
-      "fecha": "2026-11-12",
-      "titulo": "Diputación Permanente: convalidación de los decretos de vivienda (9:00)",
-      "detalle": "Convalidado el decreto antidesahucios y de prórroga de alquileres; decae el de contratos de alquiler indefinidos por el voto del PNV, según 20minutos. Según el mismo diario, otros dos decretos (protección social y laboral, ayudas por Urda) se votarán en una reunión posterior.",
-      "tipo": "politico",
-      "estado": "hecho",
-      "src": [
-        "https://www.elespanol.com/espana/politica/20261105/armengol-programa-vispera-campana-electoral-votacion-decretos-vivienda-congreso/1003744447047_0.html",
-        "https://www.20minutos.es/nacional/congreso-votara-los-decretos-vivienda-proximo-jueves-un-dia-despues-huelga-general_7058733_0.html",
-        "https://www.20minutos.es/nacional/diputacion-permanente-salva-decreto-antidesahucios-prorroga-alquileres-vuelve-tumbar-los-contratos-indefinidos_7060053_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-11-13",
-      "titulo": "Inicio de la campaña electoral",
-      "detalle": "15 días (art. 51). A las 0:00.",
-      "tipo": "campana",
-      "estado": "hecho",
-      "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
-    },
-    {
-      "fecha": "2026-11-13",
-      "titulo": "Consejo de Ministros extraordinario",
-      "detalle": "Convocado para aprobar medidas sociales pendientes, según ABC (fuentes gubernamentales); sin contenido adelantado.",
-      "tipo": "politico",
-      "estado": "hecho",
-      "src": [
-        "https://www.abc.es/espana/sanchez-pisa-acelerador-multiplica-consejos-ministros-sociales-20261110160032-nt.html",
-        "https://www.20minutos.es/nacional/bolanos-pide-que-las-causas-que-afectan-politica-se-pausen-campana-es-una-norma-prudente-se-ha-cumplido-siempre_7060816_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-11-19",
-      "titulo": "Último día para SOLICITAR el voto por correo",
-      "detalle": "Décimo día anterior a la votación (art. 72). En Correos o por internet con certificado/Cl@ve.",
-      "tipo": "voto",
-      "estado": "previsto",
-      "src": "https://www.vozpopuli.com/actualidad/voto-por-correo-en-las-elecciones-generales-del-29n-fechas-y-plazos-que-es-el-voto-cera-y-como-afecta-la-ley-de-nietos-al-voto-desde-el-exterior.html"
-    },
-    {
-      "fecha": "2026-11-19",
-      "titulo": "Cara a cara Sánchez-Feijóo",
-      "detalle": "A las 22:00, organizado por la Academia de Televisión y moderado por María Casado (Plató A de Madrid Content City, Tres Cantos). Cinco bloques: vivienda, economía y fiscalidad, política social, corrupción y regeneración, migración y política exterior. Abre Feijóo y cierra Sánchez, por sorteo.",
-      "tipo": "campana",
-      "estado": "hecho",
-      "src": [
-        "https://www.20minutos.es/nacional/cara-cara-entre-pedro-sanchez-alberto-nunez-feijoo-sera-este-jueves-19-noviembre-estara-moderado-por-maria-casado_7060853_0.html",
-        "https://www.elespanol.com/espana/politica/20261113/cara-sanchez-feijoo-celebrara-noviembre-organizado-academia-television/1003744457727_0.html",
-        "https://www.20minutos.es/nacional/cara-cara-pedro-sanchez-feijoo-debate-electoral-mas-esperado-elecciones-generales-29n_7062051_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-11-20",
-      "titulo": "Consejo de Ministros extraordinario",
-      "detalle": "Aprobó los RDL 40/2026 (ciencia e I+D) y 41/2026 (comercio de emisiones) y el RD 1032/2026 (centros de datos), publicados en el BOE del 21-11.",
-      "tipo": "politico",
-      "estado": "hecho",
-      "src": [
-        "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24437",
-        "https://www.abc.es/espana/sanchez-pisa-acelerador-multiplica-consejos-ministros-sociales-20261110160032-nt.html"
-      ]
-    },
-    {
-      "fecha": "2026-11-21",
-      "titulo": "Empieza el voto en urna de los residentes en el extranjero (CERA)",
-      "detalle": "En embajadas y consulados, del octavo al tercer día antes de la votación, del 21 al 26-11 (art. 75.4 LOREG). El envío por correo a la oficina consular acaba el 24-11. El censo exterior suma 2.776.645 electores (INE).",
-      "tipo": "voto",
-      "estado": "hecho",
-      "src": [
-        "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672",
-        "https://www.20minutos.es/nacional/elecciones-generales-los-espanoles-extranjero-pueden-votar-urna-desde-este-sabado-hasta-26-noviembre_7064006_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-11-23",
-      "titulo": "Declaración de testigos en el caso Air Europa",
-      "detalle": "El juez cita, según ABC, a la vicepresidenta Sara Aagesen como testigo el 23 de noviembre, junto con otros cargos y excargos; no están investigados.",
-      "tipo": "politico",
-      "estado": "previsto",
-      "src": "https://www.abc.es/espana/juez-investiga-rescate-air-europa-cita-vicepresidenta-20261007130026-nt.html"
-    },
-    {
-      "fecha": "2026-11-24",
-      "titulo": "Último Consejo de Ministros antes de las elecciones",
-      "detalle": "Según Sánchez, aprobará la prórroga del impuesto a la banca hasta 2027.",
-      "tipo": "politico",
-      "estado": "previsto",
-      "src": [
-        "https://www.20minutos.es/nacional/sanchez-anuncia-que-consejo-ministros-prorrogara-impuesto-banca-hasta-2027-1-400-millones-que-se-destinen-vivienda_7063963_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-11-26",
-      "titulo": "Último día para DEPOSITAR el voto por correo",
-      "detalle": "La JEC amplía el plazo un día: hasta las 14:00 del 26-11 en las oficinas de Correos (electores en España), con el visto bueno de Correos. El plazo general del art. 73 LOREG acababa el 25-11.",
-      "tipo": "voto",
-      "estado": "previsto",
-      "src": [
-        "https://www.20minutos.es/nacional/plazo-voto-por-correo-para-las-elecciones-generales-29n-se-amplia-esta-es-nueva-fecha_7063351_0.html",
-        "https://rtvc.es/calendario-elecciones-generales-2026-fechas-clave-hasta-29-de-noviembre/"
-      ]
-    },
-    {
-      "fecha": "2026-11-26",
-      "titulo": "Debate a cuatro Sánchez-Feijóo-Abascal-Colau",
-      "detalle": "Organizado por la Academia de Televisión, con los mismos bloques que el cara a cara. Fecha según fuentes de los equipos negociadores citadas por EFE; la JEC debe decidir si participa Podemos.",
-      "tipo": "campana",
-      "estado": "previsto",
-      "src": [
-        "https://www.elespanol.com/espana/politica/20261117/debate-sanchez-feijoo-abascal-colau-noviembre-academia-television/1003744461102_0.html"
-      ]
-    },
-    {
-      "fecha": "2026-11-27",
-      "titulo": "Fin de campaña (24:00)",
-      "detalle": "",
-      "tipo": "campana",
-      "estado": "previsto",
-      "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
-    },
-    {
-      "fecha": "2026-11-28",
-      "titulo": "Jornada de reflexión",
-      "detalle": "Art. 53. Prohibida la propaganda electoral y la publicación de encuestas (desde el 24).",
-      "tipo": "campana",
-      "estado": "previsto",
-      "src": "https://www.mundiario.com/articulo/politica/elecciones-29-n-calendario-que-abre-decision-sanchez/20261005092744445003.html"
-    },
-    {
-      "fecha": "2026-11-29",
-      "titulo": "DÍA DE LAS ELECCIONES",
-      "detalle": "Colegios abiertos de 9:00 a 20:00.",
-      "tipo": "voto",
-      "estado": "previsto",
-      "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
-    },
-    {
-      "fecha": "2026-12-02",
-      "titulo": "Escrutinio general (voto CERA incluido)",
-      "detalle": "Tercer día tras la votación, en las Juntas Electorales Provinciales (art. 103).",
-      "tipo": "legal",
-      "estado": "previsto",
-      "src": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-8463"
-    },
-    {
-      "fecha": "2026-12-24",
-      "titulo": "Fecha límite para constituir las nuevas Cortes",
-      "detalle": "Dentro de los 25 días siguientes a las elecciones (art. 68.6 CE). La prensa prevé mediados de diciembre.",
-      "tipo": "legal",
-      "estado": "previsto",
-      "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
-    },
-    {
-      "fecha": "2027-01-15",
-      "titulo": "Ronda de consultas del Rey e investidura (estimación)",
-      "detalle": "La Constitución no fija plazo para la primera votación; una vez celebrada, si no hay investidura en dos meses, se disuelven las Cortes (art. 99.5). Fecha orientativa.",
-      "tipo": "legal",
-      "estado": "estimado",
-      "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
-    }
-  ],
-  "voto_exterior": "Tras la LO 12/2022 no hay voto rogado: la Oficina del Censo envía la documentación de oficio a los inscritos en el CERA. El Supremo ha paralizado cautelarmente el voto de los inscritos por la 'ley de nietos'; el 21-10 el Constitucional inadmitió el amparo del Defensor del Pueblo (10 votos contra 2, según 20minutos). Según El País (20-10), la LOREG sitúa el envío entre el 24 y el 30 de octubre y la JEC acordó incluir en él una advertencia; el Supremo revisa ese texto y los afectados pueden alegar hasta el 23-10 (elDiario.es). El 23-10 el Supremo dio al Gobierno hasta el 28-10 para entregar la lista nominal de 163.020 afectados y ordenó que el envío del CERA advierta de que la inclusión provisional no garantiza el voto (Europa Press, elDiario.es). El 28-10 el Gobierno entregó al Supremo la lista de 163.355 nacionalizados; según la Oficina de Información Diplomática, 901 han acreditado descender del exilio y podrán votar (El Mundo). Pendiente: calendario oficial de la JEC."
+ "actualizado": "2026-11-21",
+ "eleccion": "2026-11-29",
+ "nota": "Hitos calculados según la LOREG a partir de la publicación en el BOE del 6 de octubre. Se contrastarán con el calendario oficial de la Junta Electoral Central cuando se publique.",
+ "hitos": [
+  {
+   "fecha": "2026-10-05",
+   "titulo": "Anuncio y Consejo de Ministros extraordinario",
+   "detalle": "Sánchez anuncia la disolución de las Cortes y fija las elecciones para el 29 de noviembre.",
+   "tipo": "politico",
+   "estado": "hecho",
+   "src": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/051026-sanchez-convocatoria-elecciones.aspx"
+  },
+  {
+   "fecha": "2026-10-06",
+   "titulo": "Publicación del Real Decreto en el BOE",
+   "detalle": "Disolución efectiva de Congreso y Senado; 350 diputados en 52 circunscripciones. Madrid pasa a 38 diputados y Cádiz a 8; el resto, igual que en 2023 (anexo del decreto). Arranca el plazo para solicitar el voto por correo.",
+   "tipo": "legal",
+   "estado": "hecho",
+   "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742"
+  },
+  {
+   "fecha": "2026-10-08",
+   "titulo": "El Supremo mantiene la suspensión del voto de los nacionalizados por la ley de nietos",
+   "detalle": "Auto del 12-10 (Sección Cuarta de lo Contencioso, con un voto particular): rechaza el recurso de la Abogacía del Estado y mantiene la cautelar para el 29-N. Excepción: quienes acrediten por certificación consular exilio de sus ascendientes. El Gobierno estudia si cabe recurso ante el Constitucional. Parte dispositiva publicada en el BOE del 15-10 (BOE-A-2026-21447 y 21448).",
+   "tipo": "legal",
+   "estado": "hecho",
+   "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21447"
+  },
+  {
+   "fecha": "2026-10-09",
+   "titulo": "El CGPJ designa los vocales judiciales de las Juntas Electorales Provinciales",
+   "detalle": "Acuerdo de la Comisión Permanente del CGPJ de 8 de octubre, publicado en el BOE del 9, que designa los vocales de procedencia judicial de las juntas provinciales para las elecciones a Cortes Generales.",
+   "tipo": "legal",
+   "estado": "hecho",
+   "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20981"
+  },
+  {
+   "fecha": "2026-10-14",
+   "titulo": "Primarias abiertas de Podemos (14-15 oct; resultados el 16 a las 12.00)",
+   "detalle": "En curso: votación del 14-10 (08.00) al 15-10 (24.00) con Irene Montero como aspirante; el ganador encabezaría Madrid. Resultados el 16-10 a las 12.00. Sumar/Frente Amplio no las aceptó como método.",
+   "tipo": "politico",
+   "estado": "hecho",
+   "src": "https://www.europapress.es/nacional/noticia-arranca-votaciones-primarias-impulsadas-podemos-irene-montero-aspirante-candidata-20261014102702.html"
+  },
+  {
+   "fecha": "2026-10-16",
+   "titulo": "Cierre del registro de coaliciones",
+   "detalle": "Cerrado el 16-10 a las 23.59 (art. 44.3 LOREG). Según la lista de la JEC recogida por 20minutos, se registraron nueve coaliciones: Frente Amplio (estatal, sin Podemos), Senado de Progreso (PSOE, IU, Sumar, Más Madrid, Compromís, Chunta, Batzarre), Democracia21 (con Ciudadanos y UCIN, Madrid y Barcelona), Unidad del Pueblo Canario, Compromís-Front Valencià, Coalición Existe, Coalición Canaria-Municipalistas Primero, Comuns-Front Ampli (Senado) y ERC-EH Bildu (Senado). Lista oficial de la JEC no leída directamente.",
+   "tipo": "legal",
+   "estado": "hecho",
+   "src": "https://www.20minutos.es/nacional/nueve-coaliciones-se-registran-ante-junta-electoral-para-las-elecciones-29n_7050027_0.html"
+  },
+  {
+   "fecha": "2026-10-16",
+   "titulo": "Primera reunión de la Diputación Permanente",
+   "detalle": "Según El Mundo, el orden del día no incluye la convalidación de los decretos de vivienda; el plazo para convalidarlos termina el 14 de noviembre.",
+   "tipo": "politico",
+   "estado": "hecho",
+   "src": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/07/6ac633b421efa0b7728b4593.html"
+  },
+  {
+   "fecha": "2026-10-17",
+   "titulo": "Frente Amplio elige cabeza de lista; primarias de ERC",
+   "detalle": "Yolanda Díaz no repite. El Frente Amplio (IU, Comuns, Más Madrid, Movimiento Sumar) propone a Ada Colau (12-10), que agradece la propuesta sin aceptar expresamente (13-10) y pide candidatura única; Emilio Delgado encabeza Madrid. ERC: Rufián encabeza la lista y pacta con Podemos (12-10). Pendiente: acuerdo con Podemos/ERC antes del cierre del registro (16-10).",
+   "tipo": "politico",
+   "estado": "hecho",
+   "src": "https://www.infobae.com/espana/2026/10/04/el-nuevo-sumar-elegira-a-su-lider-el-17-de-octubre-ante-el-posible-adelanto-electoral-estos-son-los-candidatos-en-las-quinielas/"
+  },
+  {
+   "fecha": "2026-10-19",
+   "titulo": "Fin de consulta y reclamaciones al censo (12-19 oct)",
+   "detalle": "Art. 39 LOREG. Se vota con el censo cerrado el 1 de agosto.",
+   "tipo": "legal",
+   "estado": "hecho",
+   "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+  },
+  {
+   "fecha": "2026-10-26",
+   "titulo": "Fin del plazo de presentación de candidaturas (21-26 oct)",
+   "detalle": "Días 15.º a 20.º tras la convocatoria (art. 45). El plazo terminó a las 23:59 del 26-10 (elDiario.es); las listas definitivas las proclama la JEC.",
+   "tipo": "legal",
+   "estado": "hecho",
+   "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+  },
+  {
+   "fecha": "2026-10-28",
+   "titulo": "Publicación de candidaturas presentadas",
+   "detalle": "El BOE del 28-10 publicó las candidaturas presentadas al Congreso y al Senado (BOE-A-2026-22607). Las candidaturas definitivas se proclaman después.",
+   "tipo": "legal",
+   "estado": "hecho",
+   "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22607"
+  },
+  {
+   "fecha": "2026-10-29",
+   "titulo": "Instrucción 2/2026 de la JEC sobre espacios gratuitos de propaganda electoral",
+   "detalle": "Publicada en el BOE núm. 269: regula la distribución de espacios gratuitos en medios públicos y delega en las Juntas Provinciales las competencias del art. 65.5 LOREG.",
+   "tipo": "legal",
+   "estado": "hecho",
+   "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22695"
+  },
+  {
+   "fecha": "2026-10-31",
+   "titulo": "Sorteos de las mesas electorales (31-oct a 4-nov)",
+   "detalle": "Según el Ministerio del Interior, citado por 20minutos, los sorteos de presidentes y vocales se celebran entre el 31 de octubre y el 4 de noviembre; las notificaciones incluyen el manual aprobado el 27-10 (900.000 ejemplares). Los miembros de las mesas deben presentarse a las 8:00 del 29-N.",
+   "tipo": "legal",
+   "estado": "hecho",
+   "src": "https://www.20minutos.es/nacional/gobierno-aprueba-manual-las-mesas-electorales-29n-los-sorteos-comenzaran-este-sabado_7054188_0.html"
+  },
+  {
+   "fecha": "2026-11-02",
+   "titulo": "Proclamación de candidaturas",
+   "detalle": "Las Juntas Electorales Provinciales proclamaron las candidaturas el 2-11 y se publicaron en el BOE núm. 273 del 3-11 (BOE-A-2026-23103, 225 páginas). Sorteo de mesas electorales entre el 31 de octubre y el 4 de noviembre. El BOE del 7-11 publica una corrección de errores de las candidaturas (BOE-A-2026-23383), que afecta a la candidatura de EH Bildu-ERC y a la de Frente Amplio-Fronte Zabala.",
+   "tipo": "legal",
+   "estado": "hecho",
+   "src": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23383"
+   ]
+  },
+  {
+   "fecha": "2026-11-03",
+   "titulo": "Comparecencia de Puente en la Diputación Permanente (17:00)",
+   "detalle": "Según Europa Press (fuentes parlamentarias), el ministro comparece por el accidente de Urda.",
+   "tipo": "politico",
+   "estado": "hecho",
+   "src": "https://www.europapress.es/economia/transportes-00343/noticia-congreso-pone-fecha-comparecencia-puente-accidente-urda-noviembre-20261029180346.html"
+  },
+  {
+   "fecha": "2026-11-04",
+   "titulo": "Comisión de Radio y Televisión de la JEC: reparto de espacios gratuitos acordado",
+   "detalle": "La JEC acordó el 4-11 la distribución de espacios gratuitos de propaganda en medios públicos (BOE-A-2026-23258, 5-11). Recursos hasta las 14:00 del 6-11; alegaciones hasta las 10:00 del 10-11.",
+   "tipo": "campana",
+   "estado": "hecho",
+   "src": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23258"
+  },
+  {
+   "fecha": "2026-11-09",
+   "titulo": "Comienza el envío de documentación del voto por correo",
+   "detalle": "Correos empieza a entregar las papeletas a quien lo haya solicitado.",
+   "tipo": "voto",
+   "estado": "previsto",
+   "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+  },
+  {
+   "fecha": "2026-11-09",
+   "titulo": "Entrevista a Abascal en «La Revuelta» (TVE, 21:45)",
+   "detalle": "Emisión prevista el lunes 9-11, según 20minutos; el público no será el habitual del programa, según Vertele citado por ese diario.",
+   "tipo": "politico",
+   "estado": "hecho",
+   "src": [
+    "https://www.20minutos.es/nacional/broncano-recibe-abascal-revuelta-todo-sabe-entrevista-gobierno-lleva-dias-calentando_7058750_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-10",
+   "titulo": "El PP presenta su programa electoral para las generales",
+   "detalle": "Feijóo y Alma Ezcurra presentaron en Madrid un programa de 249 medidas, según ABC y 20minutos. El documento oficial no está localizado aún.",
+   "tipo": "campana",
+   "estado": "hecho",
+   "src": [
+    "https://www.europapress.es/nacional/noticia-feijoo-elige-cambio-necesario-lema-campana-generales-arrancara-jueves-12-badalona-20261106130929.html",
+    "https://www.abc.es/espana/feijoo-presenta-programa-pp-hare-sanchismo-derechas-20261110140530-nt.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-10",
+   "titulo": "Comisión Interministerial de Inmigración (Moncloa)",
+   "detalle": "Reunida con el presidente de Canarias y el del Cabildo de El Hierro: acordó declarar la emergencia migratoria (unos 15 millones de euros), según 20minutos y El Español.",
+   "tipo": "politico",
+   "estado": "hecho",
+   "src": [
+    "https://www.elespanol.com/espana/politica/20261107/sanchez-reune-comision-inmigracion-abordar-crisis-migratoria-canarias-llegada-migrantes/1003744450211_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-10",
+   "titulo": "Funeral por las 69 víctimas de Urda en la catedral de Toledo (19:00)",
+   "detalle": "Presidido por el arzobispo de Toledo, con los Reyes, Page, el Gobierno representado por Carlos Cuerpo y Milagros Tolón y Feijóo; Sánchez no asiste, según 20minutos.",
+   "tipo": "politico",
+   "estado": "hecho",
+   "src": [
+    "https://www.20minutos.es/nacional/los-reyes-asisten-hoy-misa-funeral-toledo-por-las-69-victimas-accidente-urda-sin-presencia-sanchez_7058805_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-11",
+   "titulo": "Huelga general por la vivienda",
+   "detalle": "Fecha confirmada por UGT (Pepe Álvarez) y propuesta por la Confederación de Sindicatos de Inquilinas; dos días antes del inicio de la campaña. El BOE del 7-11 publica la Orden TED/1180/2026 de servicios mínimos para el suministro eléctrico ante la huelga general del 11-11 convocada por CGT, Intersindical, CCOO y UGT (de 0:00 a 24:00).",
+   "tipo": "politico",
+   "estado": "hecho",
+   "src": [
+    "https://www.20minutos.es/nacional/los-sindicatos-inquilinas-proponen-11-noviembre-para-celebrar-huelga-general-por-vivienda_7045934_0.html",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23371"
+   ]
+  },
+  {
+   "fecha": "2026-11-12",
+   "titulo": "Diputación Permanente: convalidación de los decretos de vivienda (9:00)",
+   "detalle": "Convalidado el decreto antidesahucios y de prórroga de alquileres; decae el de contratos de alquiler indefinidos por el voto del PNV, según 20minutos. Según el mismo diario, otros dos decretos (protección social y laboral, ayudas por Urda) se votarán en una reunión posterior.",
+   "tipo": "politico",
+   "estado": "hecho",
+   "src": [
+    "https://www.elespanol.com/espana/politica/20261105/armengol-programa-vispera-campana-electoral-votacion-decretos-vivienda-congreso/1003744447047_0.html",
+    "https://www.20minutos.es/nacional/congreso-votara-los-decretos-vivienda-proximo-jueves-un-dia-despues-huelga-general_7058733_0.html",
+    "https://www.20minutos.es/nacional/diputacion-permanente-salva-decreto-antidesahucios-prorroga-alquileres-vuelve-tumbar-los-contratos-indefinidos_7060053_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-13",
+   "titulo": "Inicio de la campaña electoral",
+   "detalle": "15 días (art. 51). A las 0:00.",
+   "tipo": "campana",
+   "estado": "hecho",
+   "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
+  },
+  {
+   "fecha": "2026-11-13",
+   "titulo": "Consejo de Ministros extraordinario",
+   "detalle": "Convocado para aprobar medidas sociales pendientes, según ABC (fuentes gubernamentales); sin contenido adelantado.",
+   "tipo": "politico",
+   "estado": "hecho",
+   "src": [
+    "https://www.abc.es/espana/sanchez-pisa-acelerador-multiplica-consejos-ministros-sociales-20261110160032-nt.html",
+    "https://www.20minutos.es/nacional/bolanos-pide-que-las-causas-que-afectan-politica-se-pausen-campana-es-una-norma-prudente-se-ha-cumplido-siempre_7060816_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-19",
+   "titulo": "Último día para SOLICITAR el voto por correo",
+   "detalle": "Décimo día anterior a la votación (art. 72). En Correos o por internet con certificado/Cl@ve.",
+   "tipo": "voto",
+   "estado": "previsto",
+   "src": "https://www.vozpopuli.com/actualidad/voto-por-correo-en-las-elecciones-generales-del-29n-fechas-y-plazos-que-es-el-voto-cera-y-como-afecta-la-ley-de-nietos-al-voto-desde-el-exterior.html"
+  },
+  {
+   "fecha": "2026-11-19",
+   "titulo": "Cara a cara Sánchez-Feijóo",
+   "detalle": "A las 22:00, organizado por la Academia de Televisión y moderado por María Casado (Plató A de Madrid Content City, Tres Cantos). Cinco bloques: vivienda, economía y fiscalidad, política social, corrupción y regeneración, migración y política exterior. Abre Feijóo y cierra Sánchez, por sorteo.",
+   "tipo": "campana",
+   "estado": "hecho",
+   "src": [
+    "https://www.20minutos.es/nacional/cara-cara-entre-pedro-sanchez-alberto-nunez-feijoo-sera-este-jueves-19-noviembre-estara-moderado-por-maria-casado_7060853_0.html",
+    "https://www.elespanol.com/espana/politica/20261113/cara-sanchez-feijoo-celebrara-noviembre-organizado-academia-television/1003744457727_0.html",
+    "https://www.20minutos.es/nacional/cara-cara-pedro-sanchez-feijoo-debate-electoral-mas-esperado-elecciones-generales-29n_7062051_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-20",
+   "titulo": "Consejo de Ministros extraordinario",
+   "detalle": "Aprobó los RDL 40/2026 (ciencia e I+D) y 41/2026 (comercio de emisiones) y el RD 1032/2026 (centros de datos), publicados en el BOE del 21-11.",
+   "tipo": "politico",
+   "estado": "hecho",
+   "src": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24437",
+    "https://www.abc.es/espana/sanchez-pisa-acelerador-multiplica-consejos-ministros-sociales-20261110160032-nt.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-21",
+   "titulo": "Empieza el voto en urna de los residentes en el extranjero (CERA)",
+   "detalle": "En embajadas y consulados, del octavo al tercer día antes de la votación, del 21 al 26-11 (art. 75.4 LOREG). El envío por correo a la oficina consular acaba el 24-11. El censo exterior suma 2.776.645 electores (INE).",
+   "tipo": "voto",
+   "estado": "hecho",
+   "src": [
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672",
+    "https://www.20minutos.es/nacional/elecciones-generales-los-espanoles-extranjero-pueden-votar-urna-desde-este-sabado-hasta-26-noviembre_7064006_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-23",
+   "titulo": "Declaración de testigos en el caso Air Europa",
+   "detalle": "El juez cita, según ABC, a la vicepresidenta Sara Aagesen como testigo el 23 de noviembre, junto con otros cargos y excargos; no están investigados.",
+   "tipo": "politico",
+   "estado": "previsto",
+   "src": "https://www.abc.es/espana/juez-investiga-rescate-air-europa-cita-vicepresidenta-20261007130026-nt.html"
+  },
+  {
+   "fecha": "2026-11-24",
+   "titulo": "Último Consejo de Ministros antes de las elecciones",
+   "detalle": "Según Sánchez, aprobará la prórroga del impuesto a la banca hasta 2027.",
+   "tipo": "politico",
+   "estado": "previsto",
+   "src": [
+    "https://www.20minutos.es/nacional/sanchez-anuncia-que-consejo-ministros-prorrogara-impuesto-banca-hasta-2027-1-400-millones-que-se-destinen-vivienda_7063963_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-26",
+   "titulo": "Último día para DEPOSITAR el voto por correo",
+   "detalle": "La JEC amplía el plazo un día: hasta las 14:00 del 26-11 en las oficinas de Correos (electores en España), con el visto bueno de Correos. El plazo general del art. 73 LOREG acababa el 25-11.",
+   "tipo": "voto",
+   "estado": "previsto",
+   "src": [
+    "https://www.20minutos.es/nacional/plazo-voto-por-correo-para-las-elecciones-generales-29n-se-amplia-esta-es-nueva-fecha_7063351_0.html",
+    "https://rtvc.es/calendario-elecciones-generales-2026-fechas-clave-hasta-29-de-noviembre/"
+   ]
+  },
+  {
+   "fecha": "2026-11-26",
+   "titulo": "Debate a cuatro Sánchez-Feijóo-Abascal-Colau",
+   "detalle": "Organizado por la Academia de Televisión, con los mismos bloques que el cara a cara. Fecha según fuentes de los equipos negociadores citadas por EFE; la JEC debe decidir si participa Podemos.",
+   "tipo": "campana",
+   "estado": "previsto",
+   "src": [
+    "https://www.elespanol.com/espana/politica/20261117/debate-sanchez-feijoo-abascal-colau-noviembre-academia-television/1003744461102_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-27",
+   "titulo": "Fin de campaña (24:00)",
+   "detalle": "",
+   "tipo": "campana",
+   "estado": "previsto",
+   "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
+  },
+  {
+   "fecha": "2026-11-28",
+   "titulo": "Jornada de reflexión",
+   "detalle": "Art. 53. Prohibida la propaganda electoral y la publicación de encuestas (desde el 24).",
+   "tipo": "campana",
+   "estado": "previsto",
+   "src": "https://www.mundiario.com/articulo/politica/elecciones-29-n-calendario-que-abre-decision-sanchez/20261005092744445003.html"
+  },
+  {
+   "fecha": "2026-11-29",
+   "titulo": "DÍA DE LAS ELECCIONES",
+   "detalle": "Colegios abiertos de 9:00 a 20:00.",
+   "tipo": "voto",
+   "estado": "previsto",
+   "src": "https://www.vozpopuli.com/espana/calendario-de-las-elecciones-generales-2026-cuando-son-el-voto-por-correo-disolucion-de-las-cortes-y-seleccion-de-las-mesas-electorales.html"
+  },
+  {
+   "fecha": "2026-12-02",
+   "titulo": "Escrutinio general (voto CERA incluido)",
+   "detalle": "Tercer día tras la votación, en las Juntas Electorales Provinciales (art. 103).",
+   "tipo": "legal",
+   "estado": "previsto",
+   "src": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-8463"
+  },
+  {
+   "fecha": "2026-12-24",
+   "titulo": "Fecha límite para constituir las nuevas Cortes",
+   "detalle": "Dentro de los 25 días siguientes a las elecciones (art. 68.6 CE). La prensa prevé mediados de diciembre.",
+   "tipo": "legal",
+   "estado": "previsto",
+   "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
+  },
+  {
+   "fecha": "2027-01-15",
+   "titulo": "Ronda de consultas del Rey e investidura (estimación)",
+   "detalle": "La Constitución no fija plazo para la primera votación; una vez celebrada, si no hay investidura en dos meses, se disuelven las Cortes (art. 99.5). Fecha orientativa.",
+   "tipo": "legal",
+   "estado": "estimado",
+   "src": "https://www.infobae.com/espana/agencias/2026/10/05/el-decreto-de-convocatoria-pondra-fecha-a-la-constitucion-de-las-cortes-que-sera-antes-de-navidad/"
+  }
+ ],
+ "voto_exterior": "Tras la LO 12/2022 no hay voto rogado: la Oficina del Censo envía la documentación de oficio a los inscritos en el CERA. El Supremo ha paralizado cautelarmente el voto de los inscritos por la 'ley de nietos'; el 21-10 el Constitucional inadmitió el amparo del Defensor del Pueblo (10 votos contra 2, según 20minutos). Según El País (20-10), la LOREG sitúa el envío entre el 24 y el 30 de octubre y la JEC acordó incluir en él una advertencia; el Supremo revisa ese texto y los afectados pueden alegar hasta el 23-10 (elDiario.es). El 23-10 el Supremo dio al Gobierno hasta el 28-10 para entregar la lista nominal de 163.020 afectados y ordenó que el envío del CERA advierta de que la inclusión provisional no garantiza el voto (Europa Press, elDiario.es). El 28-10 el Gobierno entregó al Supremo la lista de 163.355 nacionalizados; según la Oficina de Información Diplomática, 901 han acreditado descender del exilio y podrán votar (El Mundo). Pendiente: calendario oficial de la JEC."
 }

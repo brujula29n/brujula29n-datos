@@ -330,12 +330,9 @@ Las celdas marcadas (C)/(verificar) son valores de memoria coherentes con series
 
 ## 8. Independencia judicial en España
 
-### 8.1 EU Justice Scoreboard (Comisión Europea) y Eurobarómetro — Nivel A
 
 - Cuadro 2026 (publicado 4-6-2026): https://commission.europa.eu/document/download/d1367f58-9eed-4ebd-8eb3-68646b7c7ddc_en?filename=2026_eu_justice_scoreboard.PDF · Nota Representación en España: https://spain.representation.ec.europa.eu/noticias-eventos/noticias-0/el-cuadro-de-indicadores-de-la-justicia-de-2026-destaca-la-importancia-de-contar-con-sistemas-2026-06-04_es
-- Eurobarómetro Flash sobre independencia percibida: https://europa.eu/eurobarometer/surveys/detail/3193 (ed. 2024; las de 2025/2026 siguen la misma serie)
 
-Percepción ciudadana de la independencia judicial "bastante buena" o "muy buena" (según el Informe sobre el Estado de Derecho 2026, que cita el Eurobarómetro; A):
 
 | Año | Ciudadanos | Empresas | Clasificación Comisión |
 |---|---|---|---|
@@ -343,7 +340,6 @@ Percepción ciudadana de la independencia judicial "bastante buena" o "muy buena
 | 2025 | 39 % | 40 % | baja (ciudadanos) / media (empresas) |
 | 2026 | **40 %** | **46 %** | media / media |
 
-Desglose Eurobarómetro 2024 (B sobre A; Diario Constitucional 4-7-2025): muy buena 6 %, bastante buena 33 %, bastante mala 32 %, muy mala 20 %, NS 9 %; **razón principal: "interferencias o presiones de gobiernos y actores políticos" 42 %**, intereses económicos 40 %, garantías insuficientes del estatuto judicial 30 %. España, 7ª peor de la UE ese año. https://www.diarioconstitucional.cl/2025/07/04/espana-entre-los-paises-de-la-ue-con-menor-confianza-ciudadana-y-empresarial-en-la-independencia-judicial/
 Cuadro 2026 (B sobre A; infoLibre 21-6-2026, Agenda Pública): España **22ª de 27** en percepción ciudadana de independencia (sólo Chipre, Eslovaquia, Hungría, Croacia y Bulgaria peor); 40 % buena / 35 % mala; 19ª en percepción empresarial; 4ª por la cola en tiempos de resolución; 3ª por la cola en pendencia; de las ratios de jueces/100.000 hab. más bajas (sólo Malta, Dinamarca, Irlanda por debajo); 9º gasto en justicia/PIB; líder en digitalización. https://www.infolibre.es/politica/espanoles-colocan-jueces-cola-europa-independencia-influencia-politicos_1_2208997.html · https://agendapublica.es/noticia/21152/justicia-espanola-europa-tecnologia-puntera-sentencias-tardias
 
 ### 8.2 Consejo General del Poder Judicial (CGPJ) — Nivel A/B
@@ -458,7 +454,6 @@ Codificación sugerida para el JSON: 0 = ausente, 1 = incipiente/puntual, 2 = es
 | S7 | Deslegitimación del adversario / de jueces y árbitros | 3 | 3 ("conservadores corruptos"; ataques al INE) | 3 ("golpe de Estado" por una investigación del CNE; no reconoce preconteos 2026) | n/a | **1–2** | Gobierno y oposición se acusan de "lawfare" y de "asalto a las instituciones"; TC alerta de declaraciones contra jueces concretos (CE 2026) |
 | S8 | Gasto/deuda insostenibles, inflación, controles | 3 (control de cambios 2003; hiperinflación 2017–20; PIB –75 %) | 1 (deuda 52,6 %; déficit 4,3 %) | 2 (déficit 6,4 % → 9,5 % previsto; regla fiscal suspendida) | 3 (PIB –15 %; inflación 25 %; 700 CUP/USD) | **0–1** | Deuda 100,7 % (bajando), déficit 2,2 %, paro 9,9 %, inflación 2,7 %, crecimiento 2,8 %; pero gasto 19 % por encima de lo presupuestado en el trienio sin PGE |
 | S9 | Polarización afectiva alta y persistente | 3 | 2 | 3 | n/a | **2** | CEMOP: índice 5,20 (2024) → 4,94 (2025); rechazo a Abascal 67,9 %, Feijóo 55,8 %, Sánchez 54,2 %; 70 % percibe más tensión; confianza en medios 4,1/10 |
-| S10 | Manipulación/colonización de instituciones estadísticas o demoscópicas | 3 (INE/BCV dejaron de publicar) | 1 | 0 | 3 | **1** | CIS: sobreestima al bloque de izquierda en 41 de 42 elecciones desde 2018; multa de la JEC 2024; comisión de investigación en el Senado |
 | S11 | Dependencia de aliados que condicionan la integridad territorial/constitucional | n/a | n/a | n/a | n/a | **2** | Investidura 179 votos con Junts, ERC, PNV, Bildu, BNG, CC; amnistía, financiación singular y condonación de deuda; Junts rompe (27-10-2025) y tumba decretos → elecciones 29-N |
 | S12 | Militarización de la seguridad pública | 3 | 3 (Guardia Nacional → SEDENA 2024) | 1 | 3 | **0** | Sin señal |
 | S13 | Elecciones no competitivas / órgano electoral no autónomo | 3 (2018, 2024) | 1 (INE presionado; reforma rechazada 2026) | 1 (presidente no reconoce preconteos, pero cede el poder) | 3 | **0** | Elecciones competitivas, JEC independiente, alternancias 2011/2018/2023 |
@@ -507,9 +502,6 @@ Por presidente: González 130/0; Aznar 127/0; Zapatero 108/1; Rajoy 107/1; **Sá
 - Ene-2026: informe de los Consejos de Informativos de TVE y RNE denunciando deterioro deontológico y sesgo; Comisión Europea (jul-2026): riesgo "medio-alto" del MPM 2026 en independencia del servicio público (A).
 - Contrapunto: informe CNMC 2024 sobre tiempos de palabra (infoLibre lo usa para negar seguidismo; cifras tras muro de pago; no obtenidas).
 
-### 10.6 CIS — Nivel B
-- Desde 2018 (Tezanos): fin de la "cocina" anunciado y revertido; sobreestimó al bloque de izquierda en **41 de 42 elecciones** desde 2018; error medio en las europeas 2024 de 1,6 pp, "más del doble que el promedio de las encuestas" (predijo 42,4 % para PSOE+Sumar+Podemos; real 38,1 %); multa de la Junta Electoral (2024) por difundir encuesta en jornada de reflexión; comisión de investigación en el Senado (2024); proposición del PP admitida (may-2025) para vetar expolíticos en la dirección. https://maldita.es/malditateexplica/20250613/errores-encuestas-cis-tezanos/
-- Barómetro oct-2025: recuerdo de voto PSOE 38,6 % / PP 18,9 % frente al resultado real de 2023 (31,6 % / 33 %): desviación de 22 puntos; estimación CIS PSOE 34,8 – PP 19,8 frente a Sociométrica PP 34 – PSOE 26,9 (B, El Español). https://www.elespanol.com/espana/politica/20251013/no-va-cis-tezanos-da-puntos-ventaja-sanchez-feijoo-coloca-vox-pp/1003743966815_0.html
 
 ### 10.7 Tribunal Constitucional — Nivel B
 - Mayoría "progresista" 7–5 desde enero 2023 (presidente Conde-Pumpido). Sentencia de la amnistía **26-6-2025, 6 votos a 4**; ponente Montalbán; Campo se abstuvo (como ministro la había llamado "claramente inconstitucional"); el magistrado conservador Macías fue recusado a instancias de la Fiscalía. https://www.infobae.com/espana/2025/06/26/el-constitucional-avala-la-ley-de-amnistia-con-los-seis-votos-a-favor-de-la-mayoria-progresista/
@@ -526,12 +518,9 @@ Por presidente: González 130/0; Aznar 127/0; Zapatero 108/1; Rajoy 107/1; **Sá
 - **27-10-2025: Junts rompe con el PSOE** (incumplimientos: amnistía no aplicada a Puigdemont, catalán en la UE, competencias de inmigración); sin moción de censura. https://www.esdiario.com/nacional/251027/170761/puigdemont-sanchez-junts-rompe-psoe.html
 - 4-10-2026: el Congreso deroga dos decretos-ley de vivienda (voto de Junts); **5-10-2026: Sánchez convoca elecciones para el 29-11-2026** ("doblegar a las élites"; "en el Parlamento se pisan los intereses de la gente"). https://theobjective.com/espana/politica/2026-10-05/sanchez-elecciones-decretos/ · https://www.elespanol.com/espana/politica/20261005/sanchez-convoca-elecciones-doblegar-elites-parlamento-pisan-intereses-gente/1003744408309_0.html
 
-### 10.10 Polarización afectiva — Nivel B (encuesta con metodología publicada) / A (artículos académicos)
-- **CEMOP, V Encuesta Nacional de Polarización Política (mayo–junio 2025, n=1.110):** índice agregado de polarización afectiva **5,20 (2024) → 4,94 (2025)**; rechazo: Abascal 67,9 % (quinto año como líder más polarizante), Feijóo 55,8 % (+6,9), Sánchez 54,2 % (+3,4); 70,1 % percibe más tensión que el año anterior; confianza en medios 4,1/10; 82 % percibe alta manipulación en los medios del bloque contrario. https://www.cemopmurcia.es/estudios/v-encuesta-nacional-de-polarizacion-politica-2025/ · Síntesis de cuatro años: https://www.maspoderlocal.com/index.php/mpl/article/view/270
 - Literatura comparada: Reiljan (2020, EJPR, "Fear and loathing across party lines (also) in Europe") sitúa a España entre los sistemas de partidos con mayor polarización afectiva de Europa occidental, junto a los del sur; Torcal & Comellas (2022, South European Society and Politics, "Affective Polarisation in Times of Political Instability and Conflict. Spain from a Comparative Perspective") documentan un aumento sostenido 2008–2019 y nivel comparable al de EE. UU. https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12351 · https://www.tandfonline.com/doi/full/10.1080/13608746.2022.2044236 · Análisis de series 1993–2023: https://revistas.ucm.es/index.php/POSO/en/article/view/96233 (no se pudieron extraer los valores numéricos de estos artículos: acceso bloqueado; nivel de evidencia de la afirmación "entre los más altos de Europa": B).
 
 ### 10.11 Corrupción percibida y casos (contexto) — Nivel A/B
-- CPI 61 (2021) → 55 (2025), puesto 49. 92 % percibe corrupción generalizada (Eurobarómetro, vía Hay Derecho). 40 % de empresas: la corrupción les impidió ganar licitaciones (CE 2025). Casos Koldo/Ábalos/Cerdán (2024–2026) citados en el informe CE 2025 como "investigaciones de corrupción de alto nivel" (B).
 
 ---
 
