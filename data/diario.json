@@ -4,6 +4,22 @@
  "entradas": [
   {
    "fecha": "2026-11-23",
+   "titulo": "Felipe González responde a Bono que ya ha votado y que su voto es secreto: «Soy una persona seria, no como otros»",
+   "que": "En Badajoz, el expresidente agradece con ironía el llamamiento de Bono («sé que él lo hace “pro bono”»), confirma que ya ha votado sin decir a quién y añade que, si explicara públicamente por qué no puede votar a este Gobierno, el PSOE perdería «millones de votos más».",
+   "lectura": "Prolonga la disputa interna en el PSOE sobre su posición del voto en blanco, a seis días de las elecciones. Nivel B (declaraciones recogidas por 20minutos y El País)",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/felipe-gonzalez-tira-ironia-para-responder-bono-tras-pedirle-que-siga-votando-psoe-se-que-hace-pro-bono_7064613_0.html",
+    "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-23",
    "titulo": "La Junta Electoral abre expediente sancionador a la presentadora de TVE Silvia Intxaurrondo tras una denuncia de Vox",
    "que": "La JEC aprecia indicios de que sus palabras del 10 de noviembre en «La Hora de La 1», en las que planteó si la extrema derecha debía tener cabida en la televisión pública, pudieron vulnerar la neutralidad informativa del art. 66.1 LOREG. Es la apertura del expediente, no una sanción.",
    "lectura": "Decisión de la Junta en plena campaña sobre la neutralidad de los medios públicos; la resolución final puede archivar el caso o imponer sanción. Nivel B (acuerdo de la JEC recogido por 20minutos, El Español y ABC)",
