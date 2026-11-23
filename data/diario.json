@@ -4,6 +4,23 @@
  "entradas": [
   {
    "fecha": "2026-11-23",
+   "titulo": "La Junta Electoral abre expediente sancionador a la presentadora de TVE Silvia Intxaurrondo tras una denuncia de Vox",
+   "que": "La JEC aprecia indicios de que sus palabras del 10 de noviembre en «La Hora de La 1», en las que planteó si la extrema derecha debía tener cabida en la televisión pública, pudieron vulnerar la neutralidad informativa del art. 66.1 LOREG. Es la apertura del expediente, no una sanción.",
+   "lectura": "Decisión de la Junta en plena campaña sobre la neutralidad de los medios públicos; la resolución final puede archivar el caso o imponer sanción. Nivel B (acuerdo de la JEC recogido por 20minutos, El Español y ABC)",
+   "actores": [
+    {
+     "id": "VOX",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/junta-electoral-abre-expediente-sancionador-silvia-intxaurrondo-tras-una-denuncia-vox_7064761_0.html",
+    "https://www.elespanol.com/espana/politica/20261123/jec-expedienta-silvia-intxurrondo-vulnerar-neutralidad-cuestionar-voz-vox-rtve/1003744469142_0.html",
+    "https://www.abc.es/espana/jec-abre-expediente-sancionador-intxaurrondo-tras-cuestionar-20261123182530-nt.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-23",
    "titulo": "Feijóo compara TVE con «una televisión norcoreana» y anuncia una «nueva ley» de eutanasia en lugar de derogarla",
    "que": "En Antena 3, el candidato del PP dice que los informativos de TVE «son una vergüenza», que hay productoras «forrándose con dinero público» y que volverá a «la proporcionalidad y la equidad» informativa ligada a la representación electoral, sin detallar planes. Sobre la eutanasia, mantendría «las partes que estén bien» y añadiría «un plus», sin concretar.",
    "lectura": "Dos anuncios sin desarrollo: no precisa qué cambiaría en RTVE ni en la ley de eutanasia, que antes había abierto a derogar. Nivel B (entrevista recogida por El País y 20minutos)",
