@@ -1,7 +1,24 @@
 {
- "actualizado": "2026-11-22",
+ "actualizado": "2026-11-23",
  "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
  "entradas": [
+  {
+   "fecha": "2026-11-23",
+   "titulo": "Sánchez anuncia un impuesto a las fortunas de más de 100 millones de euros para recaudar 2.000 millones",
+   "que": "En un vídeo en X, el candidato del PSOE promete que esas fortunas paguen «lo que les corresponde» y que lo recaudado vaya a vivienda protegida, pensiones y una prestación por crianza. Según el PSOE, se eliminarían bonificaciones y exenciones y no afectaría a clases medias, ahorradores ni pymes; no se ha detallado el tipo ni el diseño del impuesto.",
+   "lectura": "Promesa de campaña sin diseño fiscal concreto; la cifra de recaudación es una estimación del propio partido. Nivel B (anuncio del PSOE recogido por 20minutos, ABC y El País)",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/sanchez-anuncia-un-nuevo-impuesto-los-ultrarricos-con-mas-100-millones-euros-que-recaudara-2-000-millones_7064429_0.html",
+    "https://www.abc.es/espana/sanchez-lanza-promesa-ultima-hora-imitacion-frente-20261123094153-nt.html",
+    "https://elpais.com/economia/2026-11-23/sanchez-propone-un-impuesto-para-ultrarricos-con-fortunas-superiores-a-100-millones-de-euros.html"
+   ]
+  },
   {
    "fecha": "2026-11-22",
    "titulo": "Sánchez, en «Salvados»: descarta un referéndum de autodeterminación en Cataluña y dice que Zapatero le aconseja en la campaña",
