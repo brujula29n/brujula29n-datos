@@ -4,6 +4,22 @@
  "entradas": [
   {
    "fecha": "2026-11-23",
+   "titulo": "Feijóo compara TVE con «una televisión norcoreana» y anuncia una «nueva ley» de eutanasia en lugar de derogarla",
+   "que": "En Antena 3, el candidato del PP dice que los informativos de TVE «son una vergüenza», que hay productoras «forrándose con dinero público» y que volverá a «la proporcionalidad y la equidad» informativa ligada a la representación electoral, sin detallar planes. Sobre la eutanasia, mantendría «las partes que estén bien» y añadiría «un plus», sin concretar.",
+   "lectura": "Dos anuncios sin desarrollo: no precisa qué cambiaría en RTVE ni en la ley de eutanasia, que antes había abierto a derogar. Nivel B (entrevista recogida por El País y 20minutos)",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://elpais.com/espana/elecciones-generales/2026-11-23/feijoo-carga-contra-tve-parece-una-television-norcoreana-y-los-informativos-son-una-verguenza.html",
+    "https://www.20minutos.es/nacional/feijoo-carga-contra-rtve-promete-recuperar-equidad-sus-informativos-parece-una-television-norcoreana_7064645_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-23",
    "titulo": "Sánchez anuncia un impuesto a las fortunas de más de 100 millones de euros para recaudar 2.000 millones",
    "que": "En un vídeo en X, el candidato del PSOE promete que esas fortunas paguen «lo que les corresponde» y que lo recaudado vaya a vivienda protegida, pensiones y una prestación por crianza. Según el PSOE, se eliminarían bonificaciones y exenciones y no afectaría a clases medias, ahorradores ni pymes; no se ha detallado el tipo ni el diseño del impuesto.",
    "lectura": "Promesa de campaña sin diseño fiscal concreto; la cifra de recaudación es una estimación del propio partido. Nivel B (anuncio del PSOE recogido por 20minutos, ABC y El País)",
