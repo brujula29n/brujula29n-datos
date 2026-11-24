@@ -4,6 +4,34 @@
  "entradas": [
   {
    "fecha": "2026-11-23",
+   "titulo": "Debate a ocho en RTVE: PP y Vox apuntan al Gobierno sin atacarse entre sí; ERC, Bildu y Frente Amplio repetirían apoyo al PSOE y el PNV descarta cualquier fórmula con Vox",
+   "que": "En el debate de portavoces, Ester Muñoz (PP) y Pepa Millán (Vox) se centraron en el Gobierno y sus «cómplices». ERC y Bildu dijeron que volverían a apoyar al PSOE si dan los números y el Frente Amplio lo dio por hecho; el PNV afirmó que «nunca» participará en una ecuación con Vox y Junts trató de marcar perfil propio. Hubo choques entre Muñoz y Rufián y entre Nogueras y Rufián.",
+   "lectura": "El debate dejó explícitas las alianzas posibles de cada bloque, más que propuestas nuevas. Nivel B (El Mundo, El País y Europa Press)",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    },
+    {
+     "id": "VOX",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": 0
+    },
+    {
+     "id": "PNV",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b049716e85ece70598b45ab.html",
+    "https://elpais.com/espana/elecciones-generales/2026-11-23/la-izquierda-combate-unida-a-pp-y-vox-en-un-debate-a-ocho-que-escenifica-la-division-entre-bloques.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-23",
    "titulo": "Feijóo fija sus «líneas rojas» para un pacto con Vox: las leyes de igualdad y los derechos LGTBI son «intocables»",
    "que": "En Informativos Telecinco, el candidato del PP dice que negociaría con Vox en el marco de los acuerdos que rigen en cuatro comunidades y que no firmaría «nada fuera de la Constitución o los tratados de la UE». Sobre la «prioridad nacional», la define como un baremo para ayudas basado en criterios como el censo histórico y la renta.",
    "lectura": "Primera delimitación explícita de Feijóo sobre un eventual pacto con Vox; los compromisos podrán contrastarse con cualquier acuerdo posterior. Nivel B (entrevista recogida por El Español y Europa Press)",
