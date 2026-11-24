@@ -4,6 +4,22 @@
  "entradas": [
   {
    "fecha": "2026-11-24",
+   "titulo": "Increpan y abuchean a Ester Muñoz y a Jon Echeverría (PP) en un mitin en Andoain; es el tercer incidente con el PP en Guipúzcoa en la campaña",
+   "que": "Grupos de personas gritaron «fuera» e insultaron a la portavoz del PP en el Congreso y al cabeza de lista por Guipúzcoa durante un acto con dispositivo de la Ertzaintza. Muñoz responsabilizó a EH Bildu de «mandar a sus cachorros». Antes, Feijóo fue abucheado en Eibar y Echeverría recibió petardos, huevos y piedras en Hernani.",
+   "lectura": "Incidente de campaña; la atribución a EH Bildu es de la portavoz del PP y no consta denuncia ni identificación de autores. Nivel B (El Mundo y Europa Press)",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.elmundo.es/espana/2026/11/24/6b057cd9e9cf4a3f6b8b457e.html",
+    "https://www.europapress.es/euskadi/noticia-munoz-pp-censura-eh-bildu-mande-cachorros-agredirles-verbalmente-ser-increpada-andoain-20261124130009.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-24",
    "titulo": "Sánchez replica a Felipe González que «con el blanco no se frena a la ultraderecha» y duda de que PP y Vox acepten el resultado si no suman",
    "que": "En RNE, Sánchez dice que él aceptará el resultado «sea cual sea» y cita como indicios que Vox diga que lo aceptará «si no hay trampas» y las dudas de la derecha sobre el voto por correo y el exterior. No aclara su futuro en el partido si pierde.",
    "lectura": "Cruce de acusaciones sobre la limpieza del proceso en la última semana; no hay resolución de la Junta Electoral ni judicial que señale irregularidades en el recuento. Nivel B (entrevista en RNE recogida por 20minutos y Europa Press)",

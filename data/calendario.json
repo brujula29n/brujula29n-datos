@@ -289,11 +289,13 @@
   {
    "fecha": "2026-11-24",
    "titulo": "Último Consejo de Ministros antes de las elecciones",
-   "detalle": "Según Sánchez, aprobará la prórroga del impuesto a la banca hasta 2027.",
+   "detalle": "Sánchez había anunciado que aprobaría la prórroga del impuesto a la banca hasta 2027 (pendiente de confirmar en el BOE). Aprobó, entre otras medidas, un real decreto-ley que amplía el permiso por fallecimiento a 10 días laborables (Newtral) y la prórroga de las ayudas al transporte público para 2027 (20minutos). Pendiente de publicación en el BOE.",
    "tipo": "politico",
-   "estado": "previsto",
+   "estado": "hecho",
    "src": [
-    "https://www.20minutos.es/nacional/sanchez-anuncia-que-consejo-ministros-prorrogara-impuesto-banca-hasta-2027-1-400-millones-que-se-destinen-vivienda_7063963_0.html"
+    "https://www.20minutos.es/nacional/sanchez-anuncia-que-consejo-ministros-prorrogara-impuesto-banca-hasta-2027-1-400-millones-que-se-destinen-vivienda_7063963_0.html",
+    "https://www.newtral.es/permiso-fallecimiento-consejo-de-ministros-gobierno/20261124/",
+    "https://www.20minutos.es/nacional/gobierno-se-adelanta-un-mes-prorroga-ya-las-ayudas-transporte-para-2027-antes-quedar-funciones-tras-29-n_7065071_0.html"
    ]
   },
   {
