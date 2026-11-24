@@ -4,6 +4,22 @@
  "entradas": [
   {
    "fecha": "2026-11-24",
+   "titulo": "Sánchez replica a Felipe González que «con el blanco no se frena a la ultraderecha» y duda de que PP y Vox acepten el resultado si no suman",
+   "que": "En RNE, Sánchez dice que él aceptará el resultado «sea cual sea» y cita como indicios que Vox diga que lo aceptará «si no hay trampas» y las dudas de la derecha sobre el voto por correo y el exterior. No aclara su futuro en el partido si pierde.",
+   "lectura": "Cruce de acusaciones sobre la limpieza del proceso en la última semana; no hay resolución de la Junta Electoral ni judicial que señale irregularidades en el recuento. Nivel B (entrevista en RNE recogida por 20minutos y Europa Press)",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/sanchez-replica-felipe-gonzalez-que-votar-blanco-no-frena-ultraderecha-duda-que-pp-vox-acepten-resultado-29n_7064957_0.html",
+    "https://www.europapress.es/nacional/noticia-sanchez-responde-felipe-gonzalez-voto-blanco-no-frena-ultraderecha-20261124101943.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-24",
    "titulo": "Feijóo dice que las urnas de cartón para el voto exterior de la «ley de nietos» le provocan «inquietud», aunque confía en la supervisión consular",
    "que": "En Onda Cero, el candidato del PP critica el proceso del voto en el extranjero, donde los consulados recogen en urnas aparte los votos de los nacionalizados por la «ley de nietos» cuyo derecho tiene suspendido cautelarmente el Supremo, y afirma que «Sánchez y la limpieza electoral son conceptos bastante contradictorios».",
    "lectura": "Las urnas separadas responden a la decisión cautelar del Supremo; esos votos quedan pendientes de sentencia firme. No hay resolución judicial ni de la Junta Electoral que constate irregularidades en el recuento. Nivel B (declaraciones recogidas por El Español y 20minutos)",
