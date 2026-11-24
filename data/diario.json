@@ -4,6 +4,22 @@
  "entradas": [
   {
    "fecha": "2026-11-24",
+   "titulo": "Sánchez promete en Barcelona reformar la ley para que España no participe en «guerras ilegales» como Irak o Irán",
+   "que": "En un mitin en Barcelona, el candidato del PSOE anunció que, si gana el 29-N, modificará en la próxima legislatura la ley para impedir que España participe en guerras «ilegales» como la de Irak en 2003 o la actual en Irán. Citó la Ley de Seguridad Nacional; fuentes de Moncloa precisaron después que se refería a la Ley de Defensa Nacional.",
+   "lectura": "Propuesta de campaña sin texto concreto: no se ha detallado cómo se definiría una guerra «ilegal» en la norma. Nivel B (Demócrata y Press Digital, con información de Europa Press)",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.democrata.es/politica/sanchez-plantea-cambiar-la-ley-de-seguridad-nacional-para-vetar-la-entrada-en-guerras-ilegales-como-irak-e-iran/",
+    "https://www.pressdigital.es/articulo/politica/2026-11-24/6107474-sanchez-promete-cambiar-ley-defensa-nacional-prohibir-entrar-guerras-ilegales-como-irak-e-iran"
+   ]
+  },
+  {
+   "fecha": "2026-11-24",
    "titulo": "El Supremo rechaza suspender el DNI digital (MiDNI) para votar el 29-N y desestima el recurso contra las urnas de cartón en los consulados",
    "que": "La Sala de lo Contencioso-Administrativo del Tribunal Supremo desestima la petición de Iustitia Europa de suspender cautelarmente el uso de MiDNI como identificación ante las mesas; considera la medida desproporcionada y da por acreditados los controles de seguridad certificados por Interior. También rechaza el recurso contra las urnas de cartón en consulados para los nacionalizados por la «ley de nietos».",
    "lectura": "Decisión judicial que confirma el acuerdo de la JEC del 5 de noviembre: se podrá votar identificándose con MiDNI. Nivel A (El Mundo, ABC y 20minutos)",
