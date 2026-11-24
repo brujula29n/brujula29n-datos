@@ -111,7 +111,7 @@
    ],
    "umbral": 176,
    "color": "#E4312B",
-   "condicion": "PSOE + Sumar + Podemos + ERC + Bildu + PNV + BNG + Junts ≥ 176. Hoy requiere que el PSOE recupere 5-6 puntos y que Junts vuelva a apoyarle.",
+   "condicion": "PSOE + Sumar + Podemos + ERC + Bildu + PNV + BNG + Junts ≥ 176.",
    "como": "Sánchez investido con la misma mayoría plurinacional. Junts ya rompió una vez; ERC y Bildu exigirían financiación singular y condonación legisladas.",
    "efectos": {
     "economia": {
