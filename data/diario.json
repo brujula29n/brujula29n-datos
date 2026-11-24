@@ -4,6 +4,18 @@
  "entradas": [
   {
    "fecha": "2026-11-24",
+   "titulo": "El Supremo rechaza suspender el DNI digital (MiDNI) para votar el 29-N y desestima el recurso contra las urnas de cartón en los consulados",
+   "que": "La Sala de lo Contencioso-Administrativo del Tribunal Supremo desestima la petición de Iustitia Europa de suspender cautelarmente el uso de MiDNI como identificación ante las mesas; considera la medida desproporcionada y da por acreditados los controles de seguridad certificados por Interior. También rechaza el recurso contra las urnas de cartón en consulados para los nacionalizados por la «ley de nietos».",
+   "lectura": "Decisión judicial que confirma el acuerdo de la JEC del 5 de noviembre: se podrá votar identificándose con MiDNI. Nivel A (El Mundo, ABC y 20minutos)",
+   "actores": [],
+   "src": [
+    "https://www.elmundo.es/espana/2026/11/24/6b059a91e4d4d88e6b8b4582.html",
+    "https://www.abc.es/espana/supremo-avala-dni-digital-elecciones-rechaza-recurso-20261124160140-nt.html",
+    "https://www.20minutos.es/nacional/supremo-avala-uso-dni-movil-para-votar-las-elecciones-generales-29n_7065212_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-24",
    "titulo": "Pedraz considera incompleta la documentación del PSOE sobre sus abogados y le requiere de nuevo las notas de encargo y quién autorizó los pagos",
    "que": "El juez de la Audiencia Nacional Santiago Pedraz, a instancias de Anticorrupción, ve insuficientes las tres cajas y el pendrive entregados por el PSOE sobre los abogados contratados entre 2021 y 2025. Le pide las notas de encargo no aportadas y el trámite de verificación de la gerencia o la asesoría jurídica que autorizó contratos y pagos, salvo lo amparado por el secreto profesional.",
    "lectura": "Paso de instrucción en el caso Leire Díez: el PSOE no está imputado y la resolución no prejuzga nada; queda pendiente si el partido completa la entrega. Nivel A (El Mundo, elDiario.es y El Español)",
