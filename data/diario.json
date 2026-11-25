@@ -1,7 +1,23 @@
 {
- "actualizado": "2026-11-24",
+ "actualizado": "2026-11-25",
  "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
  "entradas": [
+  {
+   "fecha": "2026-11-25",
+   "titulo": "Una jueza de Madrid cita como investigados a Leire Díez y a Juanma Serrano, exjefe de gabinete de Sánchez, por presuntas irregularidades en Correos",
+   "que": "Tras estimar la Audiencia Provincial de Madrid en octubre un recurso de Vox contra el archivo de su querella, la jueza Carmen Valcarce abre una pieza sobre ambos por fraude en la contratación pública, prevaricación, malversación y tráfico de influencias, por pagos sin contrato en su etapa en Correos. Están citados a declarar el 9 de diciembre. Los dos ya están investigados en la Audiencia Nacional en el caso Leire Díez.",
+   "lectura": "Paso procesal a raíz de una querella de Vox; ser investigado no supone culpabilidad y ambos tienen derecho a la presunción de inocencia. Nivel B (El Debate y El Español; la crónica de El Español aún estaba en ampliación)",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.eldebate.com/espana/20261125/juez-imputa-leire-ex-jefe-gabinete-sanchez-cuatro-delitos-vinculados-pagos-contratos-desde-correos_484823.html",
+    "https://www.elespanol.com/espana/tribunales/20261125/leire-exjefe-gabinete-sanchez-investigados-delitos-supuestas-irregularidades-correos/1003744471232_0.html"
+   ]
+  },
   {
    "fecha": "2026-11-24",
    "titulo": "Sánchez promete en Barcelona reformar la ley para que España no participe en «guerras ilegales» como Irak o Irán",
