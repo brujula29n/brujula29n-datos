@@ -4,6 +4,22 @@
  "entradas": [
   {
    "fecha": "2026-11-25",
+   "titulo": "Sánchez defiende en la entrevista con Plex incentivos fiscales a los pequeños propietarios para el alquiler y precios «más justos» en las grandes cadenas",
+   "que": "En la entrevista con el youtuber Plex, emitida el miércoles y grabada días antes, el candidato del PSOE dijo que la medida más eficaz para aumentar la oferta de alquiler son los incentivos fiscales a pequeños propietarios para que alquilen a precio asequible, frente a las medidas «punitivas» de sus socios de izquierda. También pidió a las grandes cadenas de distribución una fijación de precios «transparente» y «más justa» para proteger a agricultores y ganaderos.",
+   "lectura": "Declaraciones sin medidas concretas: no detalló el diseño de los incentivos ni cómo se exigiría la transparencia de precios. Nivel B (20minutos y El Español, sobre la misma entrevista)",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/sanchez-apuesta-por-incentivos-fiscales-propietarios-frente-punitivismo-sus-socios-izquierda-entrevista-con-plex_7065919_0.html",
+    "https://www.elespanol.com/espana/politica/20261125/sanchez-sigue-deriva-extrema-izquierda-pide-ahora-precios-justos-transparentes-grandes-mercadonas/1003744472672_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-25",
    "titulo": "El PP centra su 25N en los casos de Ábalos: Álvarez de Toledo graba un vídeo ante el piso de su expareja y Ezcurra acude al Parador de Teruel",
    "que": "La número dos del PP por Madrid difundió un vídeo desde el edificio de Plaza de España donde vivió Jésica Rodríguez, expareja del exministro José Luis Ábalos, en el que dijo que «el Gobierno le puso un piso a una puta» y que «ninguna mujer con dignidad puede hoy votar al PSOE». La vicesecretaria Alma Ezcurra se desplazó al Parador de Teruel, otro escenario citado en los casos que afectan a Ábalos.",
    "lectura": "Gesto de campaña del PP en el Día contra la Violencia de Género; las frases de Álvarez de Toledo son opiniones de parte sobre causas judiciales en curso, no hechos probados. Nivel A (El País y elDiario.es)",
