@@ -4,6 +4,26 @@
  "entradas": [
   {
    "fecha": "2026-11-25",
+   "titulo": "El PP centra su 25N en los casos de Ábalos: Álvarez de Toledo graba un vídeo ante el piso de su expareja y Ezcurra acude al Parador de Teruel",
+   "que": "La número dos del PP por Madrid difundió un vídeo desde el edificio de Plaza de España donde vivió Jésica Rodríguez, expareja del exministro José Luis Ábalos, en el que dijo que «el Gobierno le puso un piso a una puta» y que «ninguna mujer con dignidad puede hoy votar al PSOE». La vicesecretaria Alma Ezcurra se desplazó al Parador de Teruel, otro escenario citado en los casos que afectan a Ábalos.",
+   "lectura": "Gesto de campaña del PP en el Día contra la Violencia de Género; las frases de Álvarez de Toledo son opiniones de parte sobre causas judiciales en curso, no hechos probados. Nivel A (El País y elDiario.es)",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    },
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://elpais.com/espana/elecciones-generales/2026-11-25/alvarez-de-toledo-lanza-un-mensaje-este-25n-desde-el-edificio-donde-residio-la-expareja-de-abalos-el-gobierno-le-puso-un-piso-a-una-puta.html",
+    "https://www.eldiario.es/politica/pp-utiliza-dia-violencia-machista-cargar-gobierno-le-pusieron-piso-puta_1_13692754.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-25",
    "titulo": "Una jueza de Madrid cita como investigados a Leire Díez y a Juanma Serrano, exjefe de gabinete de Sánchez, por presuntas irregularidades en Correos",
    "que": "Tras estimar la Audiencia Provincial de Madrid en octubre un recurso de Vox contra el archivo de su querella, la jueza Carmen Valcarce abre una pieza sobre ambos por fraude en la contratación pública, prevaricación, malversación y tráfico de influencias, por pagos sin contrato en su etapa en Correos. Están citados a declarar el 9 de diciembre. Los dos ya están investigados en la Audiencia Nacional en el caso Leire Díez.",
    "lectura": "Paso procesal a raíz de una querella de Vox; ser investigado no supone culpabilidad y ambos tienen derecho a la presunción de inocencia. Nivel B (El Debate y El Español; la crónica de El Español aún estaba en ampliación)",
