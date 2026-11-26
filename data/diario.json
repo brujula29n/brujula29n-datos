@@ -4,6 +4,22 @@
  "entradas": [
   {
    "fecha": "2026-11-26",
+   "titulo": "La Junta Electoral Central ordena abrir un expediente sancionador a Ayuso por su vídeo institucional contra Sánchez tras el desalojo de Sol",
+   "que": "La JEC estima el recurso del PSOE contra el acuerdo del 10 de noviembre de la Junta Electoral Provincial de Madrid, que había rechazado la queja, y le ordena incoar el expediente. Considera que la declaración del 3 de noviembre, difundida por los canales oficiales de la Comunidad, en la que Ayuso culpó a Sánchez de la acampada, pudo vulnerar el principio de neutralidad de los poderes públicos en periodo electoral.",
+   "lectura": "Decisión de la autoridad electoral tras un recurso del PSOE; abrir un expediente no supone sanción ni responsabilidad declarada. Nivel A (elDiario.es y Libertad Digital)",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.eldiario.es/politica/junta-electoral-central-ordena-abrir-expediente-sancionador-ayuso-video-pedro-sanchez-desalojo-sol_1_13697287.html",
+    "https://www.libertaddigital.com/madrid/2026-11-26/la-jec-expedienta-a-ayuso-por-su-video-de-la-acampada-7498029/"
+   ]
+  },
+  {
+   "fecha": "2026-11-26",
    "titulo": "El Supremo rechaza el último recurso de la Abogacía del Estado: los más de 163.000 nacionalizados por la ley de nietos no podrán votar el 29-N, salvo 901",
    "que": "La Sala de lo Contencioso-Administrativo desestima el recurso contra la suspensión cautelar, pedida por Iustitia Europa y Vox, del voto de quienes obtuvieron la nacionalidad por la ley de nietos. Solo podrán votar las 901 personas que presentaron certificación consular de que descienden de un represaliado por la guerra o la dictadura.",
    "lectura": "Confirma la medida cautelar del 20-11; la cuestión de fondo sigue sin resolver. Nivel B (elDiario.es y El Plural, con texto casi idéntico)",
