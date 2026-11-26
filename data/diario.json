@@ -1,7 +1,23 @@
 {
- "actualizado": "2026-11-25",
+ "actualizado": "2026-11-26",
  "nota": "Diario de campaña: cada movimiento con una lectura de a quién favorece y por qué. 'impacto' va de -2 (muy negativo) a +2 (muy positivo) para el actor señalado; es una lectura (C), no un dato.",
  "entradas": [
+  {
+   "fecha": "2026-11-26",
+   "titulo": "Vox se ausenta de la Diputación Permanente que vota los últimos cinco decretos-ley del Gobierno y lo acusa de «comprar votos»",
+   "que": "En un comunicado, Vox dijo que no acudiría a la sesión para no participar en un «fraude electoralista» y alegó que el órgano no refleja proporcionalmente la composición del Congreso, algo que había pedido corregir por escrito a la Mesa en octubre y noviembre. Según 20minutos, sí acudió a la sesión anterior, el 18 de noviembre.",
+   "lectura": "Protesta parlamentaria; el resultado de las convalidaciones queda pendiente de la votación de hoy. Nivel A (ABC y 20minutos)",
+   "actores": [
+    {
+     "id": "VOX",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.abc.es/espana/vox-presenta-diputacion-permanente-participar-fraude-electoralista-20261126100858-nt.html",
+    "https://www.20minutos.es/nacional/vox-decide-ausentarse-diputacion-permanente-acusando-sanchez-tratar-comprar-votos-tres-dias-29n_7066020_0.html"
+   ]
+  },
   {
    "fecha": "2026-11-25",
    "titulo": "Sánchez defiende en la entrevista con Plex incentivos fiscales a los pequeños propietarios para el alquiler y precios «más justos» en las grandes cadenas",
