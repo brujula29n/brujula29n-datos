@@ -4,6 +4,34 @@
  "entradas": [
   {
    "fecha": "2026-11-26",
+   "titulo": "Debate a cuatro: Abascal llama «buitre» a Sánchez, Colau le reprocha los insultos y Feijóo y Sánchez chocan por la vivienda y la corrupción",
+   "que": "En el bloque de vivienda, cuando Colau le preguntó por los fondos buitre, Abascal dijo que «el gran buitre» estaba a su izquierda, en alusión a Sánchez, y que este «ha tenido que traer a esta señora». Colau le respondió que le daba «vergüenza» que se insulte así en política y Sánchez pidió dejar los ataques personales «para los reality». Feijóo recordó a Sánchez las palabras de una ministra sobre darle «bofetadas» tras el cara a cara.",
+   "lectura": "Último debate antes del 29-N, con tono bronco; las acusaciones cruzadas son de los candidatos y no se han verificado aquí. Nivel A (ABC y 20minutos)",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    },
+    {
+     "id": "PP",
+     "impacto": 0
+    },
+    {
+     "id": "VOX",
+     "impacto": 0
+    },
+    {
+     "id": "SUMAR",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.abc.es/espana/buitre-sanchez-banda-guarros-bofetadas-feijoo-momentos-20261126225219-nt.html",
+    "https://www.20minutos.es/nacional/abascal-colau-protagonizan-un-momento-tension-debate-hablar-vivienda-los-fondos-buitre-que-tengo-aqui-lado_7066467_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-26",
    "titulo": "La Junta Electoral Central ordena abrir un expediente sancionador a Ayuso por su vídeo institucional contra Sánchez tras el desalojo de Sol",
    "que": "La JEC estima el recurso del PSOE contra el acuerdo del 10 de noviembre de la Junta Electoral Provincial de Madrid, que había rechazado la queja, y le ordena incoar el expediente. Considera que la declaración del 3 de noviembre, difundida por los canales oficiales de la Comunidad, en la que Ayuso culpó a Sánchez de la acampada, pudo vulnerar el principio de neutralidad de los poderes públicos en periodo electoral.",
    "lectura": "Decisión de la autoridad electoral tras un recurso del PSOE; abrir un expediente no supone sanción ni responsabilidad declarada. Nivel A (elDiario.es y Libertad Digital)",
