@@ -4,6 +4,22 @@
  "entradas": [
   {
    "fecha": "2026-11-27",
+   "titulo": "El PP denuncia ante la Junta Electoral Central retrasos en el voto por correo y sobres de su propaganda tirados; Correos defiende que los votos emitidos son el 92,03 % de las solicitudes",
+   "que": "En un escrito urgente, el PP habla de «graves incidencias» por quejas de electores que no recibieron la documentación o la recibieron tarde, también entre electores temporalmente ausentes y residentes en el extranjero, y por la aparición de «cientos de sobres» de su propaganda en la basura en Madrid. Correos afirma que los votos emitidos representan el 92,03 % de las solicitudes y que hizo repartos extraordinarios en fin de semana.",
+   "lectura": "Denuncia de parte pendiente de resolución; no hay pruebas públicas de irregularidades y Correos da una tasa de conversión similar a la de otros procesos. Nivel A (20minutos y elDiario.es)",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.20minutos.es/nacional/pp-denuncia-ante-junta-electoral-central-irregularidades-voto-por-correo-dos-dias-los-comicios_7066717_0.html",
+    "https://www.eldiario.es/politica/pp-agita-fantasma-fraude-denuncia-junta-electoral-retrasos-voto-correo-sobres-propaganda-tirados-basura_1_13698792.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-27",
    "titulo": "La Junta Electoral Central ordena consignar como «no escrutables» y conservar los votos de los nacionalizados por la ley de nietos con el sufragio suspendido",
    "que": "En una circular acordada el jueves, la JEC ordena a consulados y juntas provinciales que los sobres de esas personas, tanto por correo como depositados en los consulados, no se introduzcan en la urna, consten como votos no escrutables en un anexo al acta por país y consulado, y se conserven con la documentación electoral por si se presentan recursos.",
    "lectura": "Instrucción técnica para aplicar la suspensión cautelar del Supremo; los sobres se guardan por si hay recursos. Nivel B (20minutos y Deia, con información de Europa Press)",
