@@ -4,6 +4,38 @@
  "entradas": [
   {
    "fecha": "2026-11-27",
+   "titulo": "Sánchez cierra la campaña del PSOE en la Caja Mágica de Madrid con más de 13.000 asistentes",
+   "que": "El acto de cierre del PSOE en la Caja Mágica reunió a más de 13.000 personas, según las crónicas de ambos medios, con la participación de Pedro Almodóvar y de varios artistas. Sánchez pidió «movilización» frente a una posible coalición del PP con Vox.",
+   "lectura": "Mensaje de cierre de campaña, sin propuestas nuevas; la cifra de asistentes es la que publican ambos medios, sin recuento independiente. Nivel A (elDiario.es y ABC)",
+   "actores": [
+    {
+     "id": "PSOE",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.eldiario.es/politica/sanchez-abarrota-caja-magica-madrid-campana-psoe-volver_1_13700400.html",
+    "https://www.abc.es/espana/sanchez-festival-cierre-campana-almodovar-batucada-planetas-20261127202951-nt.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-27",
+   "titulo": "Feijóo cierra la campaña en Sevilla pidiendo el voto también a los votantes de izquierdas",
+   "que": "En el Pabellón de la Navegación de Sevilla, la ciudad donde asumió la presidencia del PP en 2022, Feijóo pidió el voto a electores de izquierdas («Prestadnos vuestro apoyo para recuperar la decencia») y prometió ser «el presidente de todos».",
+   "lectura": "Mensaje de cierre de campaña, sin propuestas nuevas. Nivel A (ABC y elDiario.es)",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.abc.es/espana/andalucia/feijoo-cierre-campana-sevilla-domingo-votamos-juntos-20261127202432-nts.html",
+    "https://www.eldiario.es/politica/feijoo-apela-votante-izquierdas-dias-elecciones-no-les-enganar-presidente_1_13700418.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-27",
    "titulo": "Feijóo cierra su campaña en Cataluña con un mitin en L'Hospitalet en el que promete desalojar a los okupas en 48 horas",
    "que": "En un mitin en L'Hospitalet (Barcelona), ante unas 1.500 personas según fuentes del partido, Feijóo acusó a Ada Colau (Frente Amplio) de «dejar a los okupas dentro» cuando era alcaldesa de Barcelona y prometió que, si gobierna el PP, los okupas serán desalojados en 48 horas, tarea que encomendó a Xavier García Albiol.",
    "lectura": "Promesa electoral, no medida aprobada; la asistencia (1.500 personas) la dan fuentes del PP. Nivel B (20minutos e Infobae, mismo texto de agencia)",
