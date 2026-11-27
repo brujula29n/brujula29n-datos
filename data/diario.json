@@ -4,6 +4,22 @@
  "entradas": [
   {
    "fecha": "2026-11-27",
+   "titulo": "El PP pide amparo a la Junta Electoral Central por la «falta de neutralidad» de RTVE, a la que acusa de omitir los incidentes contra sus candidatos en Guipúzcoa",
+   "que": "En un escrito firmado el 25 de noviembre, el PP reprocha que los telediarios de TVE no recogieran los incidentes del 24 de noviembre en Andoain, donde un grupo increpó a Jon Echeverría y Ester Muñoz, y pide a la JEC una resolución urgente antes del fin de campaña.",
+   "lectura": "Reclamación de parte pendiente de resolución por la JEC. Nivel A (El Español y 20minutos)",
+   "actores": [
+    {
+     "id": "PP",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.elespanol.com/espana/20261127/pp-denuncia-rtve-junta-electoral-omitir-informativos-acoso-jon-echeverria-intxaurrondo-rebeldia/1003744474435_0.html",
+    "https://www.20minutos.es/nacional/pp-denuncia-ante-jec-falta-neutralidad-rtve-por-omision-acoso-sus-candidatos_7066732_0.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-27",
    "titulo": "El PP denuncia ante la Junta Electoral Central retrasos en el voto por correo y sobres de su propaganda tirados; Correos defiende que los votos emitidos son el 92,03 % de las solicitudes",
    "que": "En un escrito urgente, el PP habla de «graves incidencias» por quejas de electores que no recibieron la documentación o la recibieron tarde, también entre electores temporalmente ausentes y residentes en el extranjero, y por la aparición de «cientos de sobres» de su propaganda en la basura en Madrid. Correos afirma que los votos emitidos representan el 92,03 % de las solicitudes y que hizo repartos extraordinarios en fin de semana.",
    "lectura": "Denuncia de parte pendiente de resolución; no hay pruebas públicas de irregularidades y Correos da una tasa de conversión similar a la de otros procesos. Nivel A (20minutos y elDiario.es)",
