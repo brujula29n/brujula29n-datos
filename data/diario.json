@@ -4,6 +4,33 @@
  "entradas": [
   {
    "fecha": "2026-11-27",
+   "titulo": "Abascal cierra la campaña de Vox en la Plaza de Toros de Valencia y advierte de posibles «trampas» o «violencia» en las elecciones",
+   "que": "En su acto de cierre en la Plaza de Toros de Valencia (14.000 asistentes según la organización), Abascal volvió a insultar a Sánchez («canalla», «criminal») y pidió a sus votantes estar «alerta» porque «puede haber cualquier tipo de trampa, cualquier tipo de intimidación, de violencia».",
+   "lectura": "Las crónicas no recogen ningún hecho concreto que respalde la advertencia sobre «trampas». Nivel A (elDiario.es y ABC)",
+   "actores": [
+    {
+     "id": "VOX",
+     "impacto": 0
+    }
+   ],
+   "src": [
+    "https://www.eldiario.es/politica/abascal-acaba-campana-insultos-sanchez-asegura-elecciones-haber-trampas-violencia_1_13700156.html",
+    "https://www.abc.es/espana/abascal-abarrota-plaza-toros-valencia-apunta-canalla-20261127213303-nt.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-27",
+   "titulo": "Podemos cierra la campaña en Moratalaz con Irene Montero y Pablo Iglesias",
+   "que": "Podemos celebró su acto de cierre en el madrileño barrio de Moratalaz; lo abrió Pablo Iglesias y la candidata, Irene Montero, pidió el voto a los jóvenes y acusó al PSOE de no hacer «nada útil» en el Congreso.",
+   "lectura": "Mensaje de cierre de campaña, sin propuestas nuevas; las crónicas difieren sobre la asistencia, que no se recoge. Nivel A (20minutos y ABC)",
+   "actores": [],
+   "src": [
+    "https://www.20minutos.es/nacional/irene-montero-arropada-pablo-iglesias-reivindica-podemos-pura-valentia-hacer-frente-psoe-no-hace-nada-util_7066949_0.html",
+    "https://www.abc.es/espana/podemos-resucita-iglesias-cierre-campana-intento-salvar-20261127210709-nt.html"
+   ]
+  },
+  {
+   "fecha": "2026-11-27",
    "titulo": "Sánchez cierra la campaña del PSOE en la Caja Mágica de Madrid con más de 13.000 asistentes",
    "que": "El acto de cierre del PSOE en la Caja Mágica reunió a más de 13.000 personas, según las crónicas de ambos medios, con la participación de Pedro Almodóvar y de varios artistas. Sánchez pidió «movilización» frente a una posible coalición del PP con Vox.",
    "lectura": "Mensaje de cierre de campaña, sin propuestas nuevas; la cifra de asistentes es la que publican ambos medios, sin recuento independiente. Nivel A (elDiario.es y ABC)",
